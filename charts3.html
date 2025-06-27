@@ -7,14 +7,14 @@
 
     <!-- style -->
 
-    <link href="/style/style.css" rel="stylesheet">
-    <link href="/style/bootstrap.min.css" rel="stylesheet">
+    <link href="style/style.css" rel="stylesheet">
+    <link href="style/bootstrap.min.css" rel="stylesheet">
 
     <!-- Incluindo jQuery localmente -->
-	<script src="/JS/jquery-3.4.1.min.js"></script> 
+	<script src="JS/jquery-3.4.1.min.js"></script> 
 
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript" src="/JS/jquery.csv.js"></script>
+    <script type="text/javascript" src="JS/jquery.csv.js"></script>
 
 	<!-- Google Charts -->
 
@@ -32,12 +32,12 @@
 
         corebr_area_prefix= sessionStorage.getItem('corebr_area_prefix');
 		// ga('send', 'event', 'Research Area Click', corebr_area_prefix); 
-		var corebr_journals_file  = "/data/" + corebr_area_prefix + "-out-journals.csv";
-		var corebr_depts_file  = "/data/" + corebr_area_prefix + "-out-scores.csv";
+		var corebr_journals_file  = "data/" + corebr_area_prefix + "-out-journals.csv";
+		var corebr_depts_file  = "data/" + corebr_area_prefix + "-out-scores.csv";
 	//	var corebr_profs_file  = "data/" + corebr_area_prefix + "-out-profs.csv";
-		var corebr_profs_list_file  = "/data/" + corebr_area_prefix + "-out-profs-list.csv";
-		var corebr_papers_file = "/data/" + corebr_area_prefix + "-out-papers.csv";
-		var corebr_stats_journals_file  = "/data/" + corebr_area_prefix + "-out-stats-journals.csv";
+		var corebr_profs_list_file  = "data/" + corebr_area_prefix + "-out-profs-list.csv";
+		var corebr_papers_file = "data/" + corebr_area_prefix + "-out-papers.csv";
+		var corebr_stats_journals_file  = "data/" + corebr_area_prefix + "-out-stats-journals.csv";
 
 
         // o número de artigos publicados por professores brasileiros em jornais monitorados
@@ -206,7 +206,7 @@
                         '{0} <a href="{1}" onclick="trackOutboundLink(this.href); return false;">[doi]</a> {2}');
                 formatter.format(data, [2, 5, 8]);
 
-                var formatter2 = new google.visualization.PatternFormat('<img src="/images/{1}.gif">{0}');
+                var formatter2 = new google.visualization.PatternFormat('<img src="images/{1}.gif">{0}');
                 formatter2.format(data, [2, 6]);
 
                 var view = new google.visualization.DataView(data);
@@ -331,8 +331,8 @@
 	</div>
 
 
-    <script src="/JS/popper.min.js"> </script>
-	<script src="/JS/bootstrap.min.js"> </script>
+    <script src="JS/popper.min.js"> </script>
+	<script src="JS/bootstrap.min.js"> </script>
 
 </body>
 
