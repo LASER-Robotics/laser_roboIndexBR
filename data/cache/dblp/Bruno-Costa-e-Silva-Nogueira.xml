@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Bruno C. S. Nogueira" pid="26/440" n="59">
+<dblpperson name="Bruno C. S. Nogueira" pid="26/440" n="60">
 <person key="homepages/26/440" mdate="2025-06-02">
 <author pid="26/440">Bruno C. S. Nogueira</author>
 <author pid="26/440">Bruno Costa e Silva Nogueira</author>
@@ -14,9 +14,9 @@
 <h f="n/Nogueira:Bruno"><name>Bruno Nogueira</name>
 </h>
 </homonyms>
-<r><article key="journals/access/FerreiraMNTA25" mdate="2025-05-09">
+<r><article key="journals/access/FerreiraMNTA25" mdate="2025-06-26">
 <author orcid="0000-0002-3977-2361" pid="309/5653">Saulo Ferreira</author>
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author orcid="0000-0002-1628-2757" pid="26/440">Bruno C. S. Nogueira</author>
 <author orcid="0009-0009-3003-060X" pid="122/2366">Willy Tiengo</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson Carneiro de Andrade</author>
@@ -30,9 +30,9 @@
 <stream>streams/journals/access</stream>
 </article>
 </r>
-<r><article key="journals/jcloudc/FerreiraMNTA25" mdate="2025-02-27">
+<r><article key="journals/jcloudc/FerreiraMNTA25" mdate="2025-06-26">
 <author pid="309/5653">Saulo Ferreira</author>
-<author pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<author pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="26/440">Bruno C. S. Nogueira</author>
 <author pid="122/2366">Willy Tiengo</author>
 <author pid="78/2745">Ermeson Carneiro de Andrade</author>
@@ -45,6 +45,24 @@
 <number>1</number>
 <ee type="oa">https://doi.org/10.1186/s13677-025-00732-1</ee>
 <url>db/journals/jcloudc/jcloudc14.html#FerreiraMNTA25</url>
+<stream>streams/journals/jcloudc</stream>
+</article>
+</r>
+<r><article key="journals/jcloudc/FerreiraMNTA25a" mdate="2025-06-26">
+<author pid="309/5653">Saulo Ferreira</author>
+<author pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
+<author pid="26/440">Bruno Nogueira 0001</author>
+<author pid="122/2366">Willy Tiengo</author>
+<author pid="78/2745">Ermeson C. Andrade</author>
+<title>Correction: Impacts of data consistency levels in cloud-based NoSQL for data-intensive applications.</title>
+<pages>28</pages>
+<year>2025</year>
+<month>December</month>
+<volume>14</volume>
+<journal>J. Cloud Comput.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13677-025-00754-9</ee>
+<url>db/journals/jcloudc/jcloudc14.html#FerreiraMNTA25a</url>
 <stream>streams/journals/jcloudc</stream>
 </article>
 </r>
@@ -170,9 +188,9 @@
 <stream>streams/journals/jbcs</stream>
 </article>
 </r>
-<r><article key="journals/jcloudc/FerreiraMNTA24" mdate="2025-03-03">
+<r><article key="journals/jcloudc/FerreiraMNTA24" mdate="2025-06-26">
 <author pid="309/5653">Saulo Ferreira</author>
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="26/440">Bruno Nogueira 0001</author>
 <author pid="122/2366">Willy Tiengo</author>
 <author pid="78/2745">Ermeson C. Andrade</author>
@@ -972,7 +990,7 @@
 <co c="0" n="2"><na f="m/Marinho:Marcelo_L=_M=" pid="27/8732">Marcelo L. M. Marinho</na><na>Marcelo Marinho</na></co>
 <co c="0" n="2"><na f="m/Matias:Rivalino" pid="06/6499">Rivalino Matias</na><na>Rivalino Matias Jr.</na></co>
 <co c="0"><na f="m/Melo:Alexsandro" pid="284/2621">Alexsandro Melo</na></co>
-<co c="0" n="2"><na f="m/Mendonca:Julio" pid="174/3553">Julio Mendonca</na><na>J&#250;lio Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Mendonca_0001:Julio" pid="174/3553-1">Julio Mendonca 0001</na><na>J&#250;lio Mendon&#231;a 0001</na></co>
 <co c="0"><na f="m/Min:Dugki" pid="22/5769">Dugki Min</na></co>
 <co c="0"><na f="m/Montenegro:Bruno" pid="77/7641">Bruno Montenegro</na></co>
 <co c="0"><na f="m/Moraes:Thays" pid="254/5119">Thays Moraes</na></co>

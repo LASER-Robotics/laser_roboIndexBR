@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Edna Dias Canedo" pid="118/8796" n="220">
+<dblpperson name="Edna Dias Canedo" pid="118/8796" n="228">
 <person key="homepages/118/8796" mdate="2022-11-27">
 <author pid="118/8796">Edna Dias Canedo</author>
 <url>https://dl.acm.org/profile/81508706852</url>
@@ -476,6 +476,18 @@
 <url>db/conf/sbqs/sbqs2024.html</url>
 </proceedings>
 </r>
+<r><data key="data/11/AmorimC24" mdate="2025-06-26">
+<author orcid="0009-0001-7933-1552" pid="403/7030">Giovanni Cunha de Amorim</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<title>Documentos Complementares para a Disserta&#231;&#227;o: Micro-Frontends: Estrat&#233;gias e Diretrizes para Lidar com os Impactos e Desafios da sua Ado&#231;&#227;o.</title>
+<year>2024</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.13160674</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.10613959" type="versionOf"></rel>
+</data>
+</r>
 <r><data key="data/11/AmorimCP24" mdate="2025-06-23">
 <author orcid="0009-0001-7933-1552" pid="408/0280">Giovanni Amorim</author>
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
@@ -487,6 +499,19 @@
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
 <rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11880988" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/AmorimCR24" mdate="2025-06-27">
+<author orcid="0009-0001-7933-1552" pid="408/0280">Giovanni Amorim</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0000-0002-8069-5249" pid="155/7275">Larissa Rocha 0001</author>
+<title>Guidelines and Insights for Implementing Micro-Frontend Architecture in Software Development.</title>
+<year>2024</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.13357484</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.13251093" type="versionOf"></rel>
 </data>
 </r>
 <r><data key="data/11/CanedoCO24" mdate="2025-06-23">
@@ -502,6 +527,66 @@
 <rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11194380" type="versionOf"></rel>
 </data>
 </r>
+<r><data key="data/11/CanedoF24" mdate="2025-06-26">
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0009-0004-8207-0519" pid="394/3251">Fabiano Damasceno Sousa Falc&#227;o</author>
+<title>Investigando a Percep&#231;&#227;o dos Desenvolvedores Brasileiros de Software sobre Privacidade de Dados no uso de LLMs.</title>
+<year>2024</year>
+<month>June</month>
+<ee>https://doi.org/10.5281/zenodo.12594274</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.12594273" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/CanedoF24a" mdate="2025-06-26">
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0009-0004-8207-0519" pid="394/3251">Fabiano Damasceno Sousa Falc&#227;o</author>
+<title>Investigando a Percep&#231;&#227;o dos Desenvolvedores Brasileiros de Software sobre Privacidade de Dados no uso de LLMs.</title>
+<year>2024</year>
+<month>June</month>
+<ee>https://doi.org/10.5281/zenodo.12599730</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.12594273" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/CanedoF24b" mdate="2025-06-26">
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0009-0004-8207-0519" pid="394/3251">Fabiano Damasceno Sousa Falc&#227;o</author>
+<title>Investigating the Perception of Brazilian Software Developers on Data Privacy in the Use of Large Language Models (LLMs).</title>
+<year>2024</year>
+<month>July</month>
+<ee>https://doi.org/10.5281/zenodo.12661315</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.12538511" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/CanedoF24c" mdate="2025-06-26">
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0009-0004-8207-0519" pid="394/3251">Fabiano Damasceno Sousa Falc&#227;o</author>
+<title>Investigating the Perception of Brazilian Software Developers on Data Privacy in the Use of Large Language Models (LLMs).</title>
+<year>2024</year>
+<month>July</month>
+<ee>https://doi.org/10.5281/zenodo.12677054</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="3" label="Version 3" uri="https://doi.org/10.5281/zenodo.12538511" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/CanedoF24d" mdate="2025-06-26">
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0009-0004-8207-0519" pid="394/3251">Fabiano Damasceno Sousa Falc&#227;o</author>
+<title>Supplementary Material for &#34;Investigating Software Development Teams Members' Perceptions of Data Privacy in the Use of Large Language Models (LLMs)&#34;.</title>
+<year>2024</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.13139492</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.13138862" type="versionOf"></rel>
+</data>
+</r>
 <r><data key="data/11/CanedoRSM24" mdate="2025-06-23">
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
 <author orcid="0000-0002-8069-5249" pid="155/7275">Larissa Rocha 0001</author>
@@ -514,6 +599,18 @@
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
 <rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11154781" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/FalcaoC24" mdate="2025-06-26">
+<author orcid="0009-0004-8207-0519" pid="394/3251">Fabiano Damasceno Sousa Falc&#227;o</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<title>Investigating the Perception of Brazilian Software Developers on Data Privacy in the Use of Large Language Models (LLMs).</title>
+<year>2024</year>
+<month>June</month>
+<ee>https://doi.org/10.5281/zenodo.12538512</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.12538511" type="versionOf"></rel>
 </data>
 </r>
 <r><data key="data/11/GoncalvesCMS24" mdate="2025-06-23">
@@ -3287,7 +3384,7 @@
 <url>db/conf/trustcom/trustcom2012.html#JuniorCAD12</url>
 </inproceedings>
 </r>
-<coauthors n="287" nc="5">
+<coauthors n="287" nc="4">
 <co c="0"><na f="a/Abbas:Cl=aacute=udia_Jacy_Barenco" pid="121/9602">Cl&#225;udia Jacy Barenco Abbas</na></co>
 <co c="0"><na f="a/Agilar:Everton" pid="183/9268">Everton Agilar</na></co>
 <co c="0"><na f="a/Alarc=atilde=o:Ana_Paula_de_Aguiar" pid="301/6701">Ana Paula de Aguiar Alarc&#227;o</na></co>
@@ -3302,9 +3399,9 @@
 <co c="0"><na f="a/Althoff:Lucas_Dos_Santos" pid="288/6733">Lucas Dos Santos Althoff</na></co>
 <co c="0"><na f="a/Alves:Gabriela_Silva" pid="407/7743">Gabriela Silva Alves</na></co>
 <co c="0"><na f="a/Amaral:Luis_Henrique_Vieira" pid="233/8485">Luis Henrique Vieira Amaral</na></co>
-<co c="3"><na f="a/Amorim:Giovanni" pid="408/0280">Giovanni Amorim</na></co>
+<co c="0"><na f="a/Amorim:Giovanni" pid="408/0280">Giovanni Amorim</na></co>
 <co c="0"><na f="a/Amorim:Giovanni_Cunha_de" pid="403/7030">Giovanni Cunha de Amorim</na></co>
-<co c="4"><na f="a/Amorim_0001:Tiago" pid="87/10510">Tiago Amorim 0001</na></co>
+<co c="3"><na f="a/Amorim_0001:Tiago" pid="87/10510">Tiago Amorim 0001</na></co>
 <co c="0" n="2"><na f="a/Amvame=Nze:Georges" pid="60/3512">Georges Amvame-Nze</na><na>Georges Daniel Amvame Nze</na></co>
 <co c="0"><na f="a/Ancini:Gabriel" pid="388/4063">Gabriel Ancini</na></co>
 <co c="0"><na f="a/Andrade:Guilherme" pid="117/4708">Guilherme Andrade</na></co>
@@ -3333,12 +3430,12 @@
 <co c="0"><na f="c/Cagnin:Maria_Istela" pid="22/4238">Maria Istela Cagnin</na></co>
 <co c="0"><na f="c/Calado:Paulo_M=_R=_O=" pid="211/4844">Paulo M. R. O. Calado</na></co>
 <co c="0"><na f="c/Calazans:Ang=eacute=lica_Toffano_Seidel" pid="206/3903">Ang&#233;lica Toffano Seidel Calazans</na></co>
-<co c="1"><na f="c/Caldas:Isabelle_Alex" pid="407/9909">Isabelle Alex Caldas</na></co>
+<co c="2"><na f="c/Caldas:Isabelle_Alex" pid="407/9909">Isabelle Alex Caldas</na></co>
 <co c="0"><na f="c/Caldas:Luan_Pignata" pid="350/0879">Luan Pignata Caldas</na></co>
 <co c="0"><na f="c/C=acirc=mara:Alberto_Leite" pid="226/9930">Alberto Leite C&#226;mara</na></co>
 <co c="0" n="2"><na f="c/Cam=otilde=es:Renato" pid="293/7353">Renato Cam&#245;es</na><na>Renato Jos&#233; da Silva Cam&#245;es</na></co>
 <co c="0"><na f="c/Can=ccedil=ado:Emille_Catarine_Rodrigues" pid="282/4717">Emille Catarine Rodrigues Can&#231;ado</na></co>
-<co c="2"><na f="c/Cardoso:Cristiane_Naves" pid="249/1716">Cristiane Naves Cardoso</na></co>
+<co c="1"><na f="c/Cardoso:Cristiane_Naves" pid="249/1716">Cristiane Naves Cardoso</na></co>
 <co c="0"><na f="c/Cardoso:Maxwell_de_Oliveira" pid="229/5406">Maxwell de Oliveira Cardoso</na></co>
 <co c="0"><na f="c/Carvalho:Antonio" pid="217/3730">Antonio Carvalho</na></co>
 <co c="0"><na f="c/Carvalho:Artur_Potiguara" pid="266/5357">Artur Potiguara Carvalho</na></co>
@@ -3433,7 +3530,7 @@
 <co c="0"><na f="l/Lucena:Tiago_Franklin_R=" pid="177/4608">Tiago Franklin R. Lucena</na></co>
 <co c="0"><na f="l/Luz:Welder_Pinheiro" pid="227/3293">Welder Pinheiro Luz</na></co>
 <co c="0" n="2"><na f="m/Machado:Ivan_do_Carmo" pid="33/9369">Ivan do Carmo Machado</na><na>Ivan Machado 0001</na></co>
-<co c="2"><na f="m/Machado:Michelangelo_da_R=" pid="249/1713">Michelangelo da R. Machado</na></co>
+<co c="1"><na f="m/Machado:Michelangelo_da_R=" pid="249/1713">Michelangelo da R. Machado</na></co>
 <co c="0"><na f="m/Machado:Thiago_Veras" pid="286/2464">Thiago Veras Machado</na></co>
 <co c="0"><na f="m/Maia:Marcelo_de_Almeida" pid="97/4668">Marcelo de Almeida Maia</na></co>
 <co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
@@ -3478,7 +3575,7 @@
 <co c="0"><na f="o/Oliveira:Caio_Matheus_Campos_de" pid="237/6675">Caio Matheus Campos de Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Edgard_Costa" pid="96/6097">Edgard Costa Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Jo=atilde=o_Paulo_Couto_De" pid="406/7538">Jo&#227;o Paulo Couto De Oliveira</na></co>
-<co c="1"><na f="o/Oliveira:Nataly_Lacerda" pid="407/9104">Nataly Lacerda Oliveira</na></co>
+<co c="2"><na f="o/Oliveira:Nataly_Lacerda" pid="407/9104">Nataly Lacerda Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira:Sandro_R=_B=" pid="47/4435">Sandro R. B. Oliveira</na><na>Sandro Ronaldo Bezerra Oliveira</na></co>
 <co c="0"><na f="o/Oran:Ana_Carolina" pid="172/1825">Ana Carolina Oran</na></co>
 <co c="0"><na f="o/Orozco:Ana_Lucila_Sandoval" pid="15/9059">Ana Lucila Sandoval Orozco</na></co>
@@ -3494,7 +3591,7 @@
 <co c="0"><na f="p/Pereira:Ca=iacute=que_de_Paula" pid="201/2580">Ca&#237;que de Paula Pereira</na></co>
 <co c="0"><na f="p/Pereira:Claudia_Pinto" pid="219/0439">Claudia Pinto Pereira</na></co>
 <co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
-<co c="3"><na f="p/Pereira:Rodrigo_dos_Santos" pid="407/9252">Rodrigo dos Santos Pereira</na></co>
+<co c="0"><na f="p/Pereira:Rodrigo_dos_Santos" pid="407/9252">Rodrigo dos Santos Pereira</na></co>
 <co c="0"><na f="p/Pergentino:Ana_Carolina_Dos_Santos" pid="266/5936">Ana Carolina Dos Santos Pergentino</na></co>
 <co c="0"><na f="p/Pinheiro:Alexandre" pid="146/6557">Alexandre Pinheiro</na></co>
 <co c="0"><na f="p/Pinheiro:Gabriel_P=_M=" pid="259/8921">Gabriel P. M. Pinheiro</na></co>
@@ -3572,7 +3669,7 @@
 <co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
 <co c="0"><na f="v/Vidotti:Maur=iacute=cio_F=" pid="201/9901">Maur&#237;cio F. Vidotti</na></co>
 <co c="0"><na f="v/Vin=iacute=cius:Marcos" pid="278/9802">Marcos Vin&#237;cius</na></co>
-<co c="4"><na f="v/Vogelsang:Andreas" pid="19/8725">Andreas Vogelsang</na></co>
+<co c="3"><na f="v/Vogelsang:Andreas" pid="19/8725">Andreas Vogelsang</na></co>
 <co c="0"><na f="w/Wanderley:Fernando" pid="118/4045">Fernando Wanderley</na></co>
 <co c="0"><na f="z/Zacarias:Eliakim" pid="193/0940">Eliakim Zacarias</na></co>
 </coauthors>

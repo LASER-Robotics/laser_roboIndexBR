@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Elaine Pimentel" pid="53/5809" n="81">
+<dblpperson name="Elaine Pimentel" pid="53/5809" n="83">
 <person key="homepages/53/5809" mdate="2023-09-06">
 <author pid="53/5809">Elaine Pimentel</author>
 <note type="affiliation">University College London, UK</note>
@@ -67,6 +67,35 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.08349</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-08349</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-12824" mdate="2025-06-25">
+<author pid="404/9445">Renato Leme</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="53/4735">Marcelo E. Coniglio</author>
+<title>The Modal Cube Revisited: Semantics without Worlds.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.12824</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.12824</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-12824</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-18589" mdate="2025-06-26">
+<author pid="405/2997">Victor Barroso-Nascimento</author>
+<author pid="382/6810">Ekaterina Piotrovskaya</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<title>A Sequent Calculus Perspective on Base-Extension Semantics.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.18589</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.18589</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-18589</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1130,7 +1159,7 @@
 <url>db/conf/tableaux/tableaux2002.html#MillerP02</url>
 </inproceedings>
 </r>
-<coauthors n="57" nc="3">
+<coauthors n="59" nc="3">
 <co c="0"><na f="a/Ayala=Rinc=oacute=n:Mauricio" pid="56/538">Mauricio Ayala-Rinc&#243;n</na></co>
 <co c="2"><na f="b/Barroso=Nascimento:Victor" pid="405/2997">Victor Barroso-Nascimento</na></co>
 <co c="0"><na f="b/Benevides:Mario_R=_F=" pid="29/5198">Mario R. F. Benevides</na></co>
@@ -1139,6 +1168,7 @@
 <co c="0"><na f="c/Cata=ntilde=o:N=eacute=stor" pid="24/4">N&#233;stor Cata&#241;o</na></co>
 <co c="0"><na f="c/Chaudhuri:Kaustuv" pid="35/6012">Kaustuv Chaudhuri</na></co>
 <co c="0"><na f="c/Ciabattoni:Agata" pid="44/6796">Agata Ciabattoni</na></co>
+<co c="0"><na f="c/Coniglio:Marcelo_E=" pid="53/4735">Marcelo E. Coniglio</na></co>
 <co c="0"><na f="d/Dalmonte:Tiziano" pid="234/8544">Tiziano Dalmonte</na></co>
 <co c="0"><na f="d/Das_0002:Anupam" pid="84/5118-2">Anupam Das 0002</na></co>
 <co c="0"><na f="d/Despeyroux:Jo=euml=lle" pid="21/5646">Jo&#235;lle Despeyroux</na></co>
@@ -1153,6 +1183,7 @@
 <co c="0"><na f="k/Kuznetsov:Stepan_L=" pid="08/10856">Stepan L. Kuznetsov</na></co>
 <co c="0"><na f="l/Lang:Timo" pid="205/4383">Timo Lang</na></co>
 <co c="0"><na f="l/Lellmann:Bj=ouml=rn" pid="53/9766">Bj&#246;rn Lellmann</na></co>
+<co c="0"><na f="l/Leme:Renato" pid="404/9445">Renato Leme</na></co>
 <co c="1"><na f="m/Manea:Florin" pid="67/4899">Florin Manea</na></co>
 <co c="0"><na f="m/Marcos_0001:Jo=atilde=o" pid="00/3290-1">Jo&#227;o Marcos 0001</na></co>
 <co c="0"><na f="m/Marin:Sonia" pid="151/3463">Sonia Marin</na></co>

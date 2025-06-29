@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Alexandre Mota 0001" pid="m/AlexandreMota" n="85">
+<dblpperson name="Alexandre Mota 0001" pid="m/AlexandreMota" n="86">
 <person key="homepages/m/AlexandreMota" mdate="2025-01-10">
 <author pid="m/AlexandreMota">Alexandre Mota 0001</author>
 <author pid="m/AlexandreMota">Alexandre Cabral Mota</author>
@@ -22,6 +22,21 @@
 </person>
 </h>
 </homonyms>
+<r><article key="journals/isse/ReisM25" mdate="2025-06-26">
+<author pid="214/6083">Jacinto F. S. Reis</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<title>Improving Android app exploratory testing with UI test cases using code change analysis.</title>
+<pages>653-671</pages>
+<year>2025</year>
+<month>June</month>
+<volume>21</volume>
+<journal>Innov. Syst. Softw. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11334-024-00555-4</ee>
+<url>db/journals/isse/isse21.html#ReisM25</url>
+<stream>streams/journals/isse</stream>
+</article>
+</r>
 <r><article key="journals/spe/CorreiaIM24" mdate="2024-03-16">
 <author orcid="0000-0002-2407-4608" pid="319/3130">Alexandre R. S. Correia</author>
 <author pid="72/4526">Juliano Manabu Iyoda</author>

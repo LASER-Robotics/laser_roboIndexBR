@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Wesley Nunes Gon&#231;alves" pid="59/1925" n="111">
+<dblpperson name="Wesley Nunes Gon&#231;alves" pid="59/1925" n="112">
 <person key="homepages/59/1925" mdate="2020-05-12">
 <author pid="59/1925">Wesley Nunes Gon&#231;alves</author>
 <url>https://orcid.org/0000-0002-8815-6653</url>
@@ -38,6 +38,21 @@
 <ee>https://doi.org/10.1109/TGRS.2025.3541171</ee>
 <url>db/journals/tgrs/tgrs63.html#MengSPUPZGZ25</url>
 <stream>streams/journals/tgrs</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-15077" mdate="2025-06-25">
+<author pid="210/9466">Alessandro dos Santos Ferreira</author>
+<author pid="249/5873">Ana Paula Marques Ramos</author>
+<author pid="248/2262">Jos&#233; Marcato Junior</author>
+<author pid="59/1925">Wesley Nunes Gon&#231;alves</author>
+<title>Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.15077</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.15077</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-15077</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/staeors/RicciMJG24" mdate="2024-08-02">

@@ -638,12 +638,12 @@
 <url>db/journals/ijamc/ijamc3.html#CarvalhoG09</url>
 </article>
 </r>
-<r><article key="journals/mta/MelloGDYPK09" mdate="2020-10-26">
+<r><article key="journals/mta/MelloGDYPK09" mdate="2025-06-25">
 <author orcid="0000-0002-0435-3992" pid="81/6146">Rodrigo Fernandes de Mello</author>
 <author orcid="0000-0003-1531-1576" pid="48/414">Rudinei Goularte</author>
 <author pid="04/938">Evgueni Dodonov</author>
 <author pid="y/LaurenceTianruoYang">Laurence Tianruo Yang</author>
-<author pid="p/JongHyukPark">Jong Hyuk Park</author>
+<author pid="p/JongHyukPark">Jong Hyuk Park 0001</author>
 <author pid="k/TaiHoonKim">Tai-Hoon Kim</author>
 <title>On modeling and evaluating multicomputer transcoding architectures for live-video streams.</title>
 <pages>109-129</pages>
@@ -1066,7 +1066,7 @@
 <co c="0"><na f="m/Moraes:Marcelo_Isaias_de" pid="353/7373">Marcelo Isaias de Moraes</na></co>
 <co c="0"><na f="m/Moreira:Edson_dos_Santos" pid="90/5238">Edson dos Santos Moreira</na></co>
 <co c="0"><na f="o/Oliveira:L=iacute=lian_S=" pid="61/8695">L&#237;lian S. Oliveira</na></co>
-<co c="0"><na f="p/Park:Jong_Hyuk" pid="p/JongHyukPark">Jong Hyuk Park</na></co>
+<co c="0"><na f="p/Park_0001:Jong_Hyuk" pid="p/JongHyukPark">Jong Hyuk Park 0001</na></co>
 <co c="0"><na f="p/Pedrosa:Diogo_de_Carvalho" pid="20/8694">Diogo de Carvalho Pedrosa</na></co>
 <co c="0"><na f="p/Pedrosa:Diogo_de_Gra=ccedil=a" pid="128/2838">Diogo de Gra&#231;a Pedrosa</na></co>
 <co c="0"><na f="p/Pimentel:Maria_da_Gra=ccedil=a_Campos" pid="18/2858">Maria da Gra&#231;a Campos Pimentel</na></co>

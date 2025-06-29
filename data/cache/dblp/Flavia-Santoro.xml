@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fl&#225;via Maria Santoro" pid="33/6173" n="221">
+<dblpperson name="Fl&#225;via Maria Santoro" pid="33/6173" n="222">
 <person key="homepages/33/6173" mdate="2022-12-23">
 <author pid="33/6173">Fl&#225;via Maria Santoro</author>
 <note type="affiliation">State University of Rio de Janeiro, Brazil</note>
@@ -148,6 +148,19 @@
 <url>db/journals/sbcjis/sbcjis15.html#CarvalhoFBOSS24</url>
 <stream>streams/journals/sbcjis</stream>
 </article>
+</r>
+<r><inproceedings key="conf/iceed/KumagaiPS24" mdate="2025-06-26">
+<author pid="408/3890">Vinicius Kenji Kumagai</author>
+<author pid="54/2452">Henrique Mohallem Paiva</author>
+<author pid="33/6173">Fl&#225;via Maria Santoro</author>
+<title>PBL in Web Application Development: Study on a Construction Worker Hiring Website.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>ICEED</booktitle>
+<ee>https://doi.org/10.1109/ICEED62316.2024.10923825</ee>
+<crossref>conf/iceed/2024</crossref>
+<url>db/conf/iceed/iceed2024.html#KumagaiPS24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/ihc/CarvalhoRSO24" mdate="2025-01-08">
 <author orcid="0000-0003-1732-5517" pid="183/9137">Luiz Paulo Carvalho</author>
@@ -3180,7 +3193,7 @@
 <url>db/conf/hicss/hicss2000.html#SantoroBP00</url>
 </inproceedings>
 </r>
-<coauthors n="196" nc="4">
+<coauthors n="197" nc="4">
 <co c="0"><na f="a/Aalst:Wil_M=_P=_van_der" pid="a/WilMPvanderAalst">Wil M. P. van der Aalst</na></co>
 <co c="0"><na f="a/Anastassiu:Monica" pid="183/7120">Monica Anastassiu</na></co>
 <co c="0"><na f="a/Araujo:Renata_Mendes_de" pid="99/6614">Renata Mendes de Araujo</na></co>
@@ -3267,6 +3280,7 @@
 <co c="2"><na f="j/Joyce:Elisabeth" pid="90/29">Elisabeth Joyce</na></co>
 <co c="0"><na f="k/Kerpedzhiev:Georgi" pid="189/4940">Georgi Kerpedzhiev</na></co>
 <co c="0"><na f="k/Kraume:Karsten" pid="195/7911">Karsten Kraume</na></co>
+<co c="0"><na f="k/Kumagai:Vinicius_Kenji" pid="408/3890">Vinicius Kenji Kumagai</na></co>
 <co c="0"><na f="l/Laufer:Carlos" pid="37/3537">Carlos Laufer</na></co>
 <co c="0"><na f="l/Leite:Julio_C=eacute=sar_Sampaio_do_Prado" pid="l/JCSdoPradoLeite">Julio C&#233;sar Sampaio do Prado Leite</na></co>
 <co c="0"><na f="l/Leopold:Henrik" pid="25/8214">Henrik Leopold</na></co>

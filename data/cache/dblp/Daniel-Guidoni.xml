@@ -97,8 +97,8 @@
 <stream>streams/conf/ijcnn</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/latincom/BarretoSGGFM24" mdate="2025-03-03">
-<author pid="382/7714">Jorge Andre Domingues Barreto</author>
+<r><inproceedings key="conf/latincom/BarretoSGGFM24" mdate="2025-06-26">
+<author pid="382/7714">Jorge A. D. Barreto</author>
 <author pid="382/8601">Hericson Dos Santos</author>
 <author pid="115/5019">Vin&#237;cius Pereira Gon&#231;alves</author>
 <author pid="86/4704">Daniel L. Guidoni</author>
@@ -1624,7 +1624,7 @@
 <co c="0"><na f="a/Araujo:Regina_Borges_de" pid="10/330">Regina Borges de Araujo</na></co>
 <co c="0"><na f="a/Araujo:Renan_Pereira" pid="174/2100">Renan Pereira Araujo</na></co>
 <co c="0" n="2"><na f="a/Ara=uacute=jo:Samuel_M=_A=" pid="174/2113">Samuel M. A. Ara&#250;jo</na><na>Samuel Moreira Abreu Ara&#250;jo</na></co>
-<co c="0"><na f="b/Barreto:Jorge_Andre_Domingues" pid="382/7714">Jorge Andre Domingues Barreto</na></co>
+<co c="0"><na f="b/Barreto:Jorge_A=_D=" pid="382/7714">Jorge A. D. Barreto</na></co>
 <co c="0"><na f="b/Barros:Pedro_H=" pid="221/3357">Pedro H. Barros</na></co>
 <co c="0"><na f="b/Boukerche:Azzedine" pid="b/AzzedineBoukerche">Azzedine Boukerche</na></co>
 <co c="0"><na f="b/Brand=atilde=o:Yan_V=" pid="273/7893">Yan V. Brand&#227;o</na></co>

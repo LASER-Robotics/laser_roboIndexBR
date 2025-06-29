@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Giancarlo Guizzardi" pid="11/78" n="371">
+<dblpperson name="Giancarlo Guizzardi" pid="11/78" n="372">
 <person key="homepages/11/78" mdate="2022-12-25">
 <author pid="11/78">Giancarlo Guizzardi</author>
 <url>https://orcid.org/0000-0002-3452-553X</url>
@@ -36,6 +36,25 @@
 <url>db/journals/infsof/infsof183.html#SousaSGDGSPG25</url>
 <stream>streams/journals/infsof</stream>
 </article>
+</r>
+<r><inproceedings key="conf/bpmds/Oliveira0ASBJSD25" mdate="2025-06-26">
+<author pid="212/6684">Italo Jose da Silva Oliveira</author>
+<author pid="w/GerdWagner">Gerd Wagner 0001</author>
+<author pid="81/4277">Glenda C. M. Amaral</author>
+<author pid="134/4947">Tiago Prince Sales</author>
+<author pid="150/9376">Jan-Willem Bullee</author>
+<author pid="136/9942">Marianne Junger</author>
+<author pid="97/8574">Dipti Kapoor Sarmah</author>
+<author pid="17/3761">Maya Daneva</author>
+<author pid="11/78">Giancarlo Guizzardi</author>
+<title>An Ontological Model of the Phishing Attack Process.</title>
+<pages>274-289</pages>
+<year>2025</year>
+<booktitle>BPMDS/EMMSAD@CAiSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-95397-2_17</ee>
+<crossref>conf/bpmds/2025</crossref>
+<url>db/conf/bpmds/bpmds2025.html#Oliveira0ASBJSD25</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/caise/RomanenkoCG25" mdate="2025-06-12">
 <author pid="320/3107">Elena Romanenko</author>
@@ -5450,7 +5469,7 @@
 <url>db/conf/wer/wer1999.html#GuizzardiF99</url>
 </inproceedings>
 </r>
-<coauthors n="370" nc="1">
+<coauthors n="373" nc="1">
 <co c="0"><na f="a/Abdulrab:Habib" pid="58/2780">Habib Abdulrab</na></co>
 <co c="0"><na f="a/Adamo:Greta" pid="208/4152">Greta Adamo</na></co>
 <co c="0"><na f="a/Ahmad:Aakash" pid="09/9384">Aakash Ahmad</na></co>
@@ -5506,6 +5525,7 @@
 <co c="0"><na f="b/Breaux:Travis_D=" pid="62/962">Travis D. Breaux</na></co>
 <co c="0"><na f="b/Bringuente:Ana_Christina_de_Oliveira" pid="09/10361">Ana Christina de Oliveira Bringuente</na></co>
 <co c="0"><na f="b/Brochhausen:Mathias" pid="95/6422">Mathias Brochhausen</na></co>
+<co c="0"><na f="b/Bullee:Jan=Willem" pid="150/9376">Jan-Willem Bullee</na></co>
 <co c="0"><na f="b/Burattin:Andrea" pid="81/8569">Andrea Burattin</na></co>
 <co c="0" n="2"><na f="c/Calhau:Rodrigo_Fernandes" pid="63/9777">Rodrigo Fernandes Calhau</na><na>Rodrigo F. Calhau</na></co>
 <co c="0"><na f="c/Calvanese:Diego" pid="c/DiegoCalvanese">Diego Calvanese</na></co>
@@ -5623,6 +5643,7 @@
 <co c="0"><na f="j/Jensen:Mark" pid="63/2337">Mark Jensen</na></co>
 <co c="0"><na f="j/Johannesson:Paul" pid="j/PaulJohannesson">Paul Johannesson</na></co>
 <co c="0"><na f="j/Jonquet:Cl=eacute=ment" pid="95/4374">Cl&#233;ment Jonquet</na></co>
+<co c="0"><na f="j/Junger:Marianne" pid="136/9942">Marianne Junger</na></co>
 <co c="0" n="2"><na f="j/J=uacute=nior:Paulo_S=eacute=rgio_dos_Santos" pid="234/2383">Paulo S&#233;rgio dos Santos J&#250;nior</na><na>Paulo S&#233;rgio Santos Jr.</na></co>
 <co c="0"><na f="j/J=uacute=nior:Ramilton_Costa_Gomes" pid="167/9967">Ramilton Costa Gomes J&#250;nior</na></co>
 <co c="0"><na f="j/Juty:Nick_S=" pid="29/2183">Nick S. Juty</na></co>
@@ -5755,6 +5776,7 @@
 <co c="0" n="2"><na f="s/Santos:C=aacute=ssia_Trojahn_dos" pid="61/1342">C&#225;ssia Trojahn dos Santos</na><na>C&#225;ssia Trojahn</na></co>
 <co c="0"><na f="s/Santos:Luiz_Olavo_Bonino_da_Silva" pid="68/84">Luiz Olavo Bonino da Silva Santos</na></co>
 <co c="0"><na f="s/Santos:Victor_Amorim_dos" pid="135/0809">Victor Amorim dos Santos</na></co>
+<co c="0"><na f="s/Sarmah:Dipti_Kapoor" pid="97/8574">Dipti Kapoor Sarmah</na></co>
 <co c="0" n="2"><na f="s/Scafoglieri:Federico" pid="214/8650">Federico Scafoglieri</na><na>Federico Maria Scafoglieri</na></co>
 <co c="0"><na f="s/Schmidt:Daniela" pid="20/3363">Daniela Schmidt</na></co>
 <co c="0"><na f="s/Schmurr:Philipp" pid="254/2708">Philipp Schmurr</na></co>

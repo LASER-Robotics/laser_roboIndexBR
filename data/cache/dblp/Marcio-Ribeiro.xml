@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="M&#225;rcio Ribeiro 0001" pid="r/MarcioRibeiro" n="137">
+<dblpperson name="M&#225;rcio Ribeiro 0001" pid="r/MarcioRibeiro" n="139">
 <person key="homepages/r/MarcioRibeiro" mdate="2025-05-13">
 <author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
 <author pid="r/MarcioRibeiro">M&#225;rcio de Medeiros Ribeiro</author>
@@ -30,6 +30,24 @@
 <url>db/journals/jss/jss219.html#SouzaFCRO25</url>
 <stream>streams/journals/jss</stream>
 </article>
+</r>
+<r><inproceedings key="conf/ecoop/CostaMOCBNM025" mdate="2025-06-26">
+<author pid="279/0113">Francisco Handrick da Costa</author>
+<author pid="278/9713">Ismael Medeiros</author>
+<author pid="124/4869">Leandro Oliveira</author>
+<author pid="407/8931">Jo&#227;o Cal&#225;ssio</author>
+<author pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="174/2005">Krishna Narasimhan</author>
+<author pid="m/MiraMezini">Mira Mezini</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Scaling Up: Revisiting Mining Android Sandboxes at Scale for Malware Classification (Replication Paper).</title>
+<pages>40:1-40:26</pages>
+<year>2025</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2025.40</ee>
+<crossref>conf/ecoop/2025</crossref>
+<url>db/conf/ecoop/ecoop2025.html#CostaMOCBNM025</url>
+</inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2502-18454" mdate="2025-03-20">
 <author pid="10/3240">Rohit Gheyi</author>
@@ -96,6 +114,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2505.09501</ee>
 <url>db/journals/corr/corr2505.html#abs-2505-09501</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-20338" mdate="2025-06-27">
+<author pid="408/7445">Cayo Viegas</author>
+<author pid="10/3240">Rohit Gheyi</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Assessing the Capability of LLMs in Solving POSCOMP Questions.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.20338</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.20338</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-20338</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -2277,7 +2309,7 @@
 <url>db/conf/sbsi/sbsi2005.html#SalesPTRCL05</url>
 </inproceedings>
 </r>
-<coauthors n="211" nc="1">
+<coauthors n="212" nc="1">
 <co c="0"><na f="a/Abal:Iago" pid="115/4372">Iago Abal</na></co>
 <co c="0"><na f="a/Al=Hajjaji:Mustafa" pid="151/2237">Mustafa Al-Hajjaji</na></co>
 <co c="0"><na f="a/Albuquerque:Lucas" pid="383/9100">Lucas Albuquerque</na></co>
@@ -2484,6 +2516,7 @@
 <co c="0"><na f="u/Uch=ocirc=a:Anderson_G=" pid="199/5439">Anderson G. Uch&#244;a</na></co>
 <co c="0"><na f="v/Vasconcelos:Audrey" pid="394/9095">Audrey Vasconcelos</na></co>
 <co c="0"><na f="v/Viana:Jos=eacute=_Carlos" pid="233/8497">Jos&#233; Carlos Viana</na></co>
+<co c="0"><na f="v/Viegas:Cayo" pid="408/7445">Cayo Viegas</na></co>
 <co c="0"><na f="v/Vieira:Tiago_F=" pid="35/11261">Tiago F. Vieira</na></co>
 <co c="0"><na f="v/Virg=iacute=nio:T=aacute=ssio" pid="249/1752">T&#225;ssio Virg&#237;nio</na></co>
 <co c="0"><na f="w/Wasowski:Andrzej" pid="18/3339">Andrzej Wasowski</na></co>

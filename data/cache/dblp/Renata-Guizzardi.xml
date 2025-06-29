@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Renata S. S. Guizzardi" pid="75/5043" n="107">
+<dblpperson name="Renata S. S. Guizzardi" pid="75/5043" n="109">
 <person key="homepages/75/5043" mdate="2024-04-29">
 <author pid="75/5043">Renata S. S. Guizzardi</author>
 <author pid="75/5043">Renata Silva Souza Guizzardi</author>
@@ -45,6 +45,27 @@
 <stream>streams/journals/scp</stream>
 </article>
 </r>
+<r><inproceedings key="conf/caise/GuizzardiPAATBS25" mdate="2025-06-26">
+<author pid="75/5043">Renata S. S. Guizzardi</author>
+<author pid="187/6481">Jean Paul Sebastian Piest</author>
+<author pid="408/3801">Arda Akyazi</author>
+<author pid="408/3954">Sekai Ariji</author>
+<author pid="408/3940">Tommy Tao</author>
+<author pid="408/3958">Mohsen Bastani</author>
+<author pid="408/3921">Anne-Ruth Scheijgrond</author>
+<author pid="137/2504">Roland Kromanis</author>
+<author pid="408/3750">Farid Vahdatikhaki</author>
+<author pid="247/3524">Joschka Andreas H&#252;llmann</author>
+<author pid="96/4479">Martijn Mes</author>
+<title>Requirements Analysis for a Digital Twin to Increase the Resilience of Multimodal Corridors: A Case Study in the Twente Region.</title>
+<pages>219-230</pages>
+<year>2025</year>
+<booktitle>CAiSE Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-94931-9_18</ee>
+<crossref>conf/caise/2025w</crossref>
+<url>db/conf/caise/caisews2025.html#GuizzardiPAATBS25</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/rcis/SousaS0OGSPG25" mdate="2025-06-18">
 <author orcid="0000-0002-0952-9571" pid="330/9958">Isadora Valle Sousa</author>
 <author orcid="0000-0002-5385-5761" pid="134/4947">Tiago Prince Sales</author>
@@ -74,6 +95,23 @@
 <crossref>conf/refsq/2025w</crossref>
 <url>db/conf/refsq/refsq2025w.html#GuizzardiHP25</url>
 </inproceedings>
+</r>
+<r><proceedings key="conf/bpmds/2025" mdate="2025-06-26">
+<editor orcid="0000-0002-5804-5741" pid="75/5043">Renata S. S. Guizzardi</editor>
+<editor orcid="0000-0002-5182-2587" pid="121/4587">Luise Pufahl</editor>
+<editor orcid="0000-0002-4021-7752" pid="60/1141">Arnon Sturm</editor>
+<editor orcid="0000-0002-4200-4937" pid="132/6986">Han van der Aa</editor>
+<title>Enterprise, Business-Process and Information Systems Modeling - 26th International Conference, BPMDS 2025, and 30th International Conference, EMMSAD 2025, Vienna, Austria, June 16-17, 2025, Proceedings</title>
+<booktitle>BPMDS/EMMSAD@CAiSE</booktitle>
+<publisher>Springer</publisher>
+<year>2025</year>
+<series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+<volume>558</volume>
+<isbn>978-3-031-95396-5</isbn>
+<isbn>978-3-031-95397-2</isbn>
+<ee>https://doi.org/10.1007/978-3-031-95397-2</ee>
+<url>db/conf/bpmds/bpmds2025.html</url>
+</proceedings>
 </r>
 <r><proceedings key="conf/refsq/2025w" mdate="2025-06-04">
 <editor pid="128/7195">Anne Hess</editor>
@@ -1658,9 +1696,11 @@
 <url>db/conf/amkm/amkm2003.html#GuizzardiAW03</url>
 </inproceedings>
 </r>
-<coauthors n="194" nc="2">
+<coauthors n="207" nc="2">
+<co c="0"><na f="a/Aa:Han_van_der" pid="132/6986">Han van der Aa</na></co>
 <co c="0"><na f="a/Abualhaija:Sallam" pid="146/0408">Sallam Abualhaija</na></co>
 <co c="0"><na f="a/Accioly:Marcos" pid="237/7364">Marcos Accioly</na></co>
+<co c="0"><na f="a/Akyazi:Arda" pid="408/3801">Arda Akyazi</na></co>
 <co c="0" n="2"><na f="a/Almeida:Jo=atilde=o_Paulo_A=" pid="91/3408">Jo&#227;o Paulo A. Almeida</na><na>Jo&#227;o Paulo Andrade Almeida</na></co>
 <co c="0"><na f="a/Almendra:Camilo_C=" pid="252/8867">Camilo C. Almendra</na></co>
 <co c="0" n="2"><na f="a/Alves_0001:Carina" pid="93/9961">Carina Alves 0001</na><na>Carina Frota Alves</na></co>
@@ -1669,6 +1709,7 @@
 <co c="0"><na f="a/Antonelli_0001:Leandro" pid="15/4063">Leandro Antonelli 0001</na></co>
 <co c="0"><na f="a/Antunes:Julio_C=_P=" pid="00/7501">Julio C. P. Antunes</na></co>
 <co c="0"><na f="a/Ara=uacute=jo_0001:Jo=atilde=o" pid="72/1322-1">Jo&#227;o Ara&#250;jo 0001</na></co>
+<co c="0"><na f="a/Ariji:Sekai" pid="408/3954">Sekai Ariji</na></co>
 <co c="0"><na f="a/Arora_0002:Chetan" pid="19/1006-2">Chetan Arora 0002</na></co>
 <co c="0"><na f="a/Aroyo:Lora" pid="42/6100">Lora Aroyo</na></co>
 <co c="0"><na f="a/Aydemir:Fatma_Basak" pid="135/2727">Fatma Basak Aydemir</na></co>
@@ -1678,6 +1719,7 @@
 <co c="0"><na f="b/Barbosa:Ellen_Francine" pid="66/2060">Ellen Francine Barbosa</na></co>
 <co c="0" n="3"><na f="b/Barcellos:Monalessa_Perini" pid="97/7540">Monalessa Perini Barcellos</na><na>Monalessa P. Barcellos</na><na>Monalessa Barcellos</na></co>
 <co c="0"><na f="b/Barcelos:Pedro_Paulo_F=" pid="96/8280">Pedro Paulo F. Barcelos</na></co>
+<co c="0"><na f="b/Bastani:Mohsen" pid="408/3958">Mohsen Bastani</na></co>
 <co c="0"><na f="b/Beck:Martina" pid="357/9906">Martina Beck</na></co>
 <co c="0"><na f="b/Bencomo:Nelly" pid="96/6687">Nelly Bencomo</na></co>
 <co c="0"><na f="b/Bernab=eacute=:C=eacute=sar_Henrique" pid="304/7074">C&#233;sar Henrique Bernab&#233;</na></co>
@@ -1745,6 +1787,7 @@
 <co c="0"><na f="h/Herrmann_0001:Andrea" pid="24/3228-1">Andrea Herrmann 0001</na></co>
 <co c="0"><na f="h/Hess:Anne" pid="128/7195">Anne Hess</na></co>
 <co c="0"><na f="h/Horkoff:Jennifer" pid="92/5983">Jennifer Horkoff</na></co>
+<co c="0"><na f="h/H=uuml=llmann:Joschka_Andreas" pid="247/3524">Joschka Andreas H&#252;llmann</na></co>
 <co c="0"><na f="j/Jaramillo:Carlos_Mario_Zapata" pid="75/5130">Carlos Mario Zapata Jaramillo</na></co>
 <co c="0"><na f="j/J=uacute=nior:Ramilton_Costa_Gomes" pid="167/9967">Ramilton Costa Gomes J&#250;nior</na></co>
 <co c="0"><na f="j/Jureta:Ivan" pid="44/746">Ivan Jureta</na></co>
@@ -1754,6 +1797,7 @@
 <co c="0"><na f="k/Kerkhof:Rutger" pid="347/9826">Rutger Kerkhof</na></co>
 <co c="0"><na f="k/Khan:Muhammad_Abbas" pid="256/7077">Muhammad Abbas Khan</na></co>
 <co c="0"><na f="k/Kopczynska:Sylwia" pid="139/8191">Sylwia Kopczynska</na></co>
+<co c="0" n="2"><na f="k/Kromanis:Rolands" pid="137/2504">Rolands Kromanis</na><na>Roland Kromanis</na></co>
 <co c="0"><na f="l/Leal:Andr=eacute=_Luiz_de_Castro" pid="80/10831">Andr&#233; Luiz de Castro Leal</na></co>
 <co c="0"><na f="l/Leite:Julio_C=eacute=sar_Sampaio_do_Prado" pid="l/JCSdoPradoLeite">Julio C&#233;sar Sampaio do Prado Leite</na></co>
 <co c="0"><na f="l/Li:Feng=Lin" pid="31/7637">Feng-Lin Li</na></co>
@@ -1767,6 +1811,7 @@
 <co c="0"><na f="m/Matalonga:Santiago" pid="96/1477">Santiago Matalonga</na></co>
 <co c="0"><na f="m/M=eacute=ndez_0001:Daniel" pid="69/8522">Daniel M&#233;ndez 0001</na></co>
 <co c="0"><na f="m/Mennig:Patrick" pid="242/6555">Patrick Mennig</na></co>
+<co c="0"><na f="m/Mes:Martijn" pid="96/4479">Martijn Mes</na></co>
 <co c="0"><na f="m/Mich:Luisa" pid="89/5557">Luisa Mich</na></co>
 <co c="0"><na f="m/Miranda:Gabriel_M=" pid="208/0347">Gabriel M. Miranda</na></co>
 <co c="0"><na f="m/Miranda:Juan_Jose" pid="234/2429">Juan Jose Miranda</na></co>
@@ -1800,12 +1845,14 @@
 <co c="0" n="2"><na f="p/Pastor_0001:Oscar" pid="p/OscarPastor">Oscar Pastor 0001</na><na>Oscar Pastor L&#243;pez 0001</na></co>
 <co c="0"><na f="p/Penzenstadler:Birgit" pid="92/3113">Birgit Penzenstadler</na></co>
 <co c="0"><na f="p/Perini:Anna" pid="16/4754">Anna Perini</na></co>
+<co c="0"><na f="p/Piest:Jean_Paul_Sebastian" pid="187/6481">Jean Paul Sebastian Piest</na></co>
 <co c="0"><na f="p/Pimentel_0001:Ernesto" pid="p/ErnestoPimentel">Ernesto Pimentel 0001</na></co>
 <co c="0"><na f="p/Pinto:Miriam" pid="237/7191">Miriam Pinto</na></co>
 <co c="0"><na f="p/Pires:Lu=iacute=s_Ferreira" pid="p/LuisFerreiraPires">Lu&#237;s Ferreira Pires</na></co>
 <co c="0"><na f="p/Pons:Claudia" pid="p/ClaudiaPons">Claudia Pons</na></co>
 <co c="0"><na f="p/Porello:Daniele" pid="33/8219">Daniele Porello</na></co>
 <co c="0" n="2"><na f="p/Proper:Henderik_Alex" pid="p/ErikProper">Henderik Alex Proper</na><na>Henderik A. Proper</na></co>
+<co c="0"><na f="p/Pufahl:Luise" pid="121/4587">Luise Pufahl</na></co>
 <co c="0"><na f="r/Rachmann:Alexander" pid="21/11065">Alexander Rachmann</na></co>
 <co c="0"><na f="r/Ralyt=eacute=:Jolita" pid="79/3065">Jolita Ralyt&#233;</na></co>
 <co c="0" n="2"><na f="r/Ramos:Eduardo_Costa" pid="30/11293">Eduardo Costa Ramos</na><na>Eduardo da Costa Ramos</na></co>
@@ -1822,6 +1869,7 @@
 <co c="0"><na f="s/Santos:Luiz_Olavo_Bonino_da_Silva" pid="68/84">Luiz Olavo Bonino da Silva Santos</na></co>
 <co c="0"><na f="s/Santos:Raphael_O=" pid="96/3950">Raphael O. Santos</na></co>
 <co c="0"><na f="s/Sawyer:Peter" pid="s/PeterSawyer">Peter Sawyer</na></co>
+<co c="0"><na f="s/Scheijgrond:Anne=Ruth" pid="408/3921">Anne-Ruth Scheijgrond</na></co>
 <co c="0"><na f="s/Schneider:Kurt" pid="s/KurtSchneider">Kurt Schneider</na></co>
 <co c="1"><na f="s/Scholz:Paul" pid="298/0921">Paul Scholz</na></co>
 <co c="0"><na f="s/Semini:Laura" pid="48/2416">Laura Semini</na></co>
@@ -1840,10 +1888,13 @@
 <co c="0" n="2"><na f="s/Souza:V=iacute=tor_E=_Silva" pid="72/3662">V&#237;tor E. Silva Souza</na><na>V&#237;tor Est&#234;v&#227;o Silva Souza</na></co>
 <co c="0"><na f="s/Spoletini:Paola" pid="92/1332">Paola Spoletini</na></co>
 <co c="0"><na f="s/Stegh=ouml=fer:Jan=Philipp" pid="16/7127">Jan-Philipp Stegh&#246;fer</na></co>
+<co c="0"><na f="s/Sturm:Arnon" pid="60/1141">Arnon Sturm</na></co>
 <co c="0"><na f="s/Susi:Angelo" pid="53/5222">Angelo Susi</na></co>
+<co c="0"><na f="t/Tao:Tommy" pid="408/3940">Tommy Tao</na></co>
 <co c="0"><na f="t/Teixeira:Maria_das_Gra=ccedil=as_da_Silva" pid="134/9958">Maria das Gra&#231;as da Silva Teixeira</na></co>
 <co c="0" n="2"><na f="t/Tub=iacute=o:=Oacute=scar_Dieste" pid="24/1437">&#211;scar Dieste Tub&#237;o</na><na>Oscar Dieste</na></co>
 <co c="0"><na f="u/Unterkalmsteiner:Michael" pid="08/8212">Michael Unterkalmsteiner</na></co>
+<co c="0"><na f="v/Vahdatikhaki:Farid" pid="408/3750">Farid Vahdatikhaki</na></co>
 <co c="0"><na f="v/Vara:Jose_Luis_de_la" pid="08/1361">Jose Luis de la Vara</na></co>
 <co c="0"><na f="v/Vogelsang:Andreas" pid="19/8725">Andreas Vogelsang</na></co>
 <co c="0"><na f="w/Wagner_0001:Gerd" pid="w/GerdWagner">Gerd Wagner 0001</na></co>

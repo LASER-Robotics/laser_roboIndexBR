@@ -1314,8 +1314,8 @@
 <url>db/conf/ifsa/ifsa2019.html#DiasBBLSDBDBP19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/indin/MendoncaDCERB19" mdate="2023-12-11">
-<author pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<r><inproceedings key="conf/indin/MendoncaDCERB19" mdate="2025-06-25">
+<author pid="294/6853">Julio Cezar O. Mendon&#231;a</author>
 <author pid="257/5796">Marta Duarte</author>
 <author pid="257/6153">Victor Coch</author>
 <author pid="294/6256">Emanuel da S. D. Estrada</author>
@@ -2957,7 +2957,7 @@
 <url>db/conf/ecai/ecai98.html#Botelho98</url>
 </inproceedings>
 </r>
-<coauthors n="246" nc="1">
+<coauthors n="245" nc="1">
 <co c="0"><na f="a/aciel:Braian_Konzgen" pid="225/6154">Braian Konzgen aciel</na></co>
 <co c="0"><na f="a/Adamatti:Diana_Francisca" pid="87/4374">Diana Francisca Adamatti</na></co>
 <co c="0"><na f="a/Aguiar:Marcio_Rozante" pid="356/8740">Marcio Rozante Aguiar</na></co>
@@ -3101,7 +3101,6 @@
 <co c="0"><na f="m/Meireles:Lucas" pid="355/2906">Lucas Meireles</na></co>
 <co c="0"><na f="m/Mello_Jr=:Claudio_Dornelles" pid="333/2540">Claudio Dornelles Mello Jr.</na></co>
 <co c="0"><na f="m/Mendes:Amanda" pid="351/6164">Amanda Mendes</na></co>
-<co c="0" n="2"><na f="m/Mendonca:Julio" pid="174/3553">Julio Mendonca</na><na>J&#250;lio Mendon&#231;a</na></co>
 <co c="0"><na f="m/Mendon=ccedil=a:Julio_Cezar_O=" pid="294/6853">Julio Cezar O. Mendon&#231;a</na></co>
 <co c="0"><na f="m/Messias:Lucas_Ricardo_Vieira" pid="254/8214">Lucas Ricardo Vieira Messias</na></co>
 <co c="0"><na f="m/Mor:Jusoan_Lang" pid="181/4237">Jusoan Lang Mor</na></co>

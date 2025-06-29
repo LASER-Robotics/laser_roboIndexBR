@@ -401,12 +401,14 @@ def get_venue_type(weight):
 
 def get_authors(author_list):
     authors = []
-    if isinstance(author_list, dict):  # Artigo com um único autor
+    if isinstance(author_list, dict): # single author paper
         author_list = author_list["#text"]
         authors.append(author_list)
-    elif isinstance(author_list, str):  # Artigo com um único autor
+    elif isinstance(author_list, str):  # single author paper
+        if isinstance(author_list, dict):
+            author_list = author_list["#text"]
         authors.append(author_list)
-    else:  # Artigo com múltiplos autores
+    else:
         for name in author_list:
             if isinstance(name, dict):
                 name = name["#text"]
@@ -628,6 +630,8 @@ def init_confs():
             Global.conflist.append(conf_name)  # Se o peso for baixo, é uma conferência
         else:
             Global.journallist.append(conf_name)  #_
+    Global.conflist = list(set(Global.conflist))  # removing duplicates
+    Global.journallist = list(set(Global.journallist))  # removing duplicates
 
 def init_min_paper_size():
     # Abre o arquivo "research-areas-config.csv" para ler as configurações da área de pesquisa

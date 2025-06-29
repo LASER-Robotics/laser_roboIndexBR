@@ -1,9 +1,23 @@
 <?xml version="1.0"?>
-<dblpperson name="Simone Dantas" pid="84/5767" n="103">
+<dblpperson name="Simone Dantas" pid="84/5767" n="104">
 <person key="homepages/84/5767" mdate="2023-07-27">
 <author pid="84/5767">Simone Dantas</author>
 <url>https://orcid.org/0000-0002-8340-4881</url>
 </person>
+<r><article key="journals/dam/PantojaDL25" mdate="2025-06-26">
+<author pid="408/6107">Paola T. Pantoja</author>
+<author pid="84/5767">Simone Dantas</author>
+<author pid="143/4415">At&#237;lio G. Luiz</author>
+<title>Graceful colorings of graphs with maximum degree three.</title>
+<pages>75-96</pages>
+<year>2025</year>
+<volume>374</volume>
+<journal>Discret. Appl. Math.</journal>
+<ee>https://doi.org/10.1016/j.dam.2025.05.013</ee>
+<url>db/journals/dam/dam374.html#PantojaDL25</url>
+<stream>streams/journals/dam</stream>
+</article>
+</r>
 <r><article key="journals/dam/PalmaLD24" mdate="2024-05-31">
 <author pid="359/2099">Miguel A. D. R. Palma</author>
 <author pid="375/7057">Adriana J. Le&#243;n</author>
@@ -1484,7 +1498,7 @@
 <url>db/journals/jgo/jgo16.html#CampeloDS00</url>
 </article>
 </r>
-<coauthors n="80" nc="2">
+<coauthors n="81" nc="2">
 <co c="0"><na f="a/Alvarado:Jos=eacute=_D=" pid="161/7423">Jos&#233; D. Alvarado</na></co>
 <co c="0"><na f="a/Araujo:Eloi" pid="139/5711">Eloi Araujo</na></co>
 <co c="0"><na f="a/Artigas:Danilo" pid="81/2552">Danilo Artigas</na></co>
@@ -1538,6 +1552,7 @@
 <co c="0"><na f="o/Oliveira:Alonso_L=_S=" pid="217/7657">Alonso L. S. Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Deise_L=_de" pid="383/9776">Deise L. de Oliveira</na></co>
 <co c="0"><na f="p/Palma:Miguel_A=_D=_R=" pid="359/2099">Miguel A. D. R. Palma</na></co>
+<co c="0"><na f="p/Pantoja:Paola_T=" pid="408/6107">Paola T. Pantoja</na></co>
 <co c="0"><na f="p/Par=aacute=:Telma" pid="83/8044">Telma Par&#225;</na></co>
 <co c="0"><na f="p/Penso:Lucia_Draque" pid="p/LuciaDPenso">Lucia Draque Penso</na></co>
 <co c="0"><na f="p/Petito:Priscila" pid="53/5396">Priscila Petito</na></co>

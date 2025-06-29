@@ -536,8 +536,8 @@
 <url>db/journals/tcas/tcasII67.html#LimaMC20</url>
 </article>
 </r>
-<r><inproceedings key="conf/ets/ForlinHCRHT20" mdate="2021-04-09">
-<author pid="218/1093">Bruno Forlin</author>
+<r><inproceedings key="conf/ets/ForlinHCRHT20" mdate="2025-06-25">
+<author pid="218/1093">Bruno Endres Forlin</author>
 <author pid="22/4654">Ronaldo Husemann</author>
 <author pid="25/5214">Luigi Carro</author>
 <author orcid="0000-0001-6113-7041" pid="84/1043">Cezar Reinbrecht</author>
@@ -6234,7 +6234,7 @@
 <co c="0"><na f="f/Flores:M=_G=_C=" pid="321/9227">M. G. C. Flores</na></co>
 <co c="0"><na f="f/Flores:Maria_Da_Gloria" pid="93/6425">Maria Da Gloria Flores</na></co>
 <co c="0"><na f="f/Flores:Paulo_F=" pid="40/6116">Paulo F. Flores</na></co>
-<co c="0" n="2"><na f="f/Forlin:Bruno" pid="218/1093">Bruno Forlin</na><na>Bruno E. Forlin</na></co>
+<co c="0" n="2"><na f="f/Forlin:Bruno_Endres" pid="218/1093">Bruno Endres Forlin</na><na>Bruno E. Forlin</na></co>
 <co c="0"><na f="f/Franco:Denis_Teixeira" pid="18/4060">Denis Teixeira Franco</na></co>
 <co c="0"><na f="f/Frantz:Arthur_Pereira" pid="23/358">Arthur Pereira Frantz</na></co>
 <co c="0"><na f="f/Fratin:Vinicius" pid="199/7014">Vinicius Fratin</na></co>

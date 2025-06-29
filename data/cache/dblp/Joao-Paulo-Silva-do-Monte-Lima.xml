@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Joao Paulo Silva do Monte Lima" pid="139/8825" n="66">
+<dblpperson name="Joao Paulo Silva do Monte Lima" pid="139/8825" n="67">
 <person key="homepages/139/8825" mdate="2020-08-04">
 <author pid="139/8825">Joao Paulo Silva do Monte Lima</author>
 <author pid="139/8825">Jo&#227;o Paulo Silva do Monte Lima</author>
@@ -9,6 +9,19 @@
 <url>https://orcid.org/0000-0002-1834-5221</url>
 <url>https://www.wikidata.org/entity/Q93079260</url>
 </person>
+<r><article key="journals/cg/TorchelsenL25" mdate="2025-06-25">
+<author pid="25/7609">Rafael Piccin Torchelsen</author>
+<author pid="139/8825">Jo&#227;o Paulo Lima</author>
+<title>Foreword to the special section on SIBGRAPI 2023 tutorials.</title>
+<pages>104257</pages>
+<year>2025</year>
+<volume>130</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2025.104257</ee>
+<url>db/journals/cg/cg130.html#TorchelsenL25</url>
+<stream>streams/journals/cg</stream>
+</article>
+</r>
 <r><article key="journals/cg/LimaUTT24" mdate="2024-10-03">
 <author orcid="0000-0002-1834-5221" pid="139/8825">Jo&#227;o Paulo Lima</author>
 <author pid="14/1212">Hideaki Uchiyama</author>
@@ -1043,7 +1056,7 @@
 <url>db/conf/sbcci/sbcci2007.html#GuimaraesLTSTK07</url>
 </inproceedings>
 </r>
-<coauthors n="71" nc="1">
+<coauthors n="72" nc="1">
 <co c="0"><na f="a/Albuquerque:Eduardo_S=" pid="58/9717">Eduardo S. Albuquerque</na></co>
 <co c="0" n="2"><na f="a/Almeida:Dicksson" pid="165/7207">Dicksson Almeida</na><na>Dicksson Rammon Oliveira de Almeida</na></co>
 <co c="0"><na f="a/Almeida:Gabriel" pid="66/3193">Gabriel Almeida</na></co>
@@ -1111,6 +1124,7 @@
 <co c="0"><na f="t/Teichrieb:Veronica" pid="12/6264">Veronica Teichrieb</na></co>
 <co c="0"><na f="t/Teixeira:Jo=atilde=o_Marcelo_X=_N=" pid="26/3497">Jo&#227;o Marcelo X. N. Teixeira</na></co>
 <co c="0" n="2"><na f="t/Thomas:Diego" pid="84/9447">Diego Thomas</na><na>Diego Gabriel Francis Thomas</na></co>
+<co c="-1" n="2"><na f="t/Torchelsen:Rafael_P=" pid="25/7609">Rafael P. Torchelsen</na><na>Rafael Piccin Torchelsen</na></co>
 <co c="0"><na f="u/Uchiyama:Hideaki" pid="14/1212">Hideaki Uchiyama</na></co>
 <co c="0"><na f="v/Valen=ccedil=a:Lucas" pid="279/9792">Lucas Valen&#231;a</na></co>
 <co c="0"><na f="v/Velho_0001:Luiz" pid="v/LuizVelho">Luiz Velho 0001</na></co>

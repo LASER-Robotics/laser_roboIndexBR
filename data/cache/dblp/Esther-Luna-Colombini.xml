@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Esther Luna Colombini" pid="63/6586" n="69">
+<dblpperson name="Esther Luna Colombini" pid="63/6586" n="70">
 <person key="homepages/63/6586" mdate="2020-11-01">
 <author pid="63/6586">Esther Luna Colombini</author>
 <author pid="63/6586">Esther Colombini</author>
@@ -68,6 +68,24 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.13200</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-13200</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-20646" mdate="2025-06-27">
+<author pid="338/5385">Eduardo Yuji Sakabe</author>
+<author pid="192/1839">Felipe S. Abrah&#227;o</author>
+<author pid="59/464">Alexandre da Silva Sim&#245;es</author>
+<author pid="63/6586">Esther Colombini</author>
+<author pid="40/10223">Paula Dornhofer Paro Costa</author>
+<author pid="20/6092">Ricardo R. Gudwin</author>
+<author pid="z/HectorZenilChavez">Hector Zenil</author>
+<title>Binarized Neural Networks Converge Toward Algorithmic Simplicity: Empirical Support for the Learning-as-Compression Hypothesis.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.20646</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.20646</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-20646</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -983,7 +1001,8 @@
 <url>db/conf/his/his2005.html#ColombiniR05</url>
 </inproceedings>
 </r>
-<coauthors n="83" nc="5">
+<coauthors n="85" nc="5">
+<co c="0"><na f="a/Abrah=atilde=o:Felipe_S=" pid="192/1839">Felipe S. Abrah&#227;o</na></co>
 <co c="0"><na f="a/Abreu:Guilherme" pid="356/6189">Guilherme Abreu</na></co>
 <co c="0"><na f="a/Almeida:Aline_Gabriel_de" pid="356/5196">Aline Gabriel de Almeida</na></co>
 <co c="0"><na f="a/Alves:Adson_Nogueira" pid="283/9401">Adson Nogueira Alves</na></co>
@@ -1067,6 +1086,7 @@
 <co c="4"><na f="s/Sudakov:Vladimir" pid="291/1243">Vladimir Sudakov</na></co>
 <co c="0"><na f="v/Villarroel:Camila_M=_L=" pid="332/2127">Camila M. L. Villarroel</na></co>
 <co c="3"><na f="z/Zanini:Rafael_Anicet" pid="254/5596">Rafael Anicet Zanini</na></co>
+<co c="0"><na f="z/Zenil:Hector" pid="z/HectorZenilChavez">Hector Zenil</na></co>
 </coauthors>
 </dblpperson>
 

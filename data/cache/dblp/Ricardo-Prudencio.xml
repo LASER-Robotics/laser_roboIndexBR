@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ricardo B. C. Prud&#234;ncio" pid="76/1124" n="125">
+<dblpperson name="Ricardo B. C. Prud&#234;ncio" pid="76/1124" n="126">
 <person key="homepages/76/1124" mdate="2025-01-10">
 <author pid="76/1124">Ricardo B. C. Prud&#234;ncio</author>
 <author pid="76/1124">Ricardo Bastos Cavalcante Prud&#234;ncio</author>
@@ -8,6 +8,19 @@
 <url>https://orcid.org/0000-0001-7084-1233</url>
 <url>https://www.wikidata.org/entity/Q130853169</url>
 </person>
+<r><article key="journals/csl/OliveiraP26" mdate="2025-06-26">
+<author pid="273/9691">Chaina Santos Oliveira</author>
+<author pid="76/1124">Ricardo B. C. Prud&#234;ncio</author>
+<title>An item response theory framework to evaluate automatic speech recognition systems against speech difficulty.</title>
+<pages>101817</pages>
+<year>2026</year>
+<volume>95</volume>
+<journal>Comput. Speech Lang.</journal>
+<ee>https://doi.org/10.1016/j.csl.2025.101817</ee>
+<url>db/journals/csl/csl95.html#OliveiraP26</url>
+<stream>streams/journals/csl</stream>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2504-09759" mdate="2025-05-21">
 <author pid="271/4495">Lucas F. F. Cardoso</author>
 <author pid="228/1850">Vitor C. A. Santos</author>
@@ -243,8 +256,8 @@
 <url>db/conf/bracis/bracis2022-1.html#SilvaVNP22</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ijcai/OliveiraP22" mdate="2023-03-10">
-<author pid="264/0089">Chaina Oliveira</author>
+<r><inproceedings key="conf/ijcai/OliveiraP22" mdate="2025-06-25">
+<author pid="273/9691">Chaina Santos Oliveira</author>
 <author pid="76/1124">Ricardo B. C. Prud&#234;ncio</author>
 <title>Item Response Theory to Evaluate Speech Synthesis: Beyond Synthetic Speech Difficulty.</title>
 <year>2022</year>
@@ -1764,7 +1777,7 @@
 <url>db/conf/his/his2002.html#PrudencioL02</url>
 </inproceedings>
 </r>
-<coauthors n="121" nc="4">
+<coauthors n="120" nc="4">
 <co c="0"><na f="a/Ahmed:Chowdhury_Farhan" pid="76/5318">Chowdhury Farhan Ahmed</na></co>
 <co c="0" n="2"><na f="a/Alotaibi:Reem" pid="233/8958">Reem Alotaibi</na><na>Reem Al-Otaibi</na></co>
 <co c="0" n="2"><na f="a/Alves:Ronnie" pid="83/953">Ronnie Alves</na><na>Ronnie C. O. Alves</na></co>
@@ -1840,7 +1853,6 @@
 <co c="0" n="2"><na f="n/Nascimento:Lidia_P=_G=" pid="358/6721">Lidia P. G. Nascimento</na><na>Lidia Perside Gomes Nascimento</na></co>
 <co c="0"><na f="n/Neto:Eufrasio_A=_Lima" pid="344/3983">Eufrasio A. Lima Neto</na></co>
 <co c="3"><na f="n/Neto:Manoel_J=_R=" pid="63/7231">Manoel J. R. Neto</na></co>
-<co c="0"><na f="o/Oliveira:Chaina" pid="264/0089">Chaina Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Chaina_Santos" pid="273/9691">Chaina Santos Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Daniel_Cardoso_Coelho_Alves_de" pid="358/6595">Daniel Cardoso Coelho Alves de Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Hil=aacute=rio" pid="117/7535">Hil&#225;rio Oliveira</na></co>

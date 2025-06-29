@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Marcia Helena Costa Fampa" pid="57/5836" n="54">
+<dblpperson name="Marcia Helena Costa Fampa" pid="57/5836" n="55">
 <person key="homepages/57/5836" mdate="2023-09-17">
 <author pid="57/5836">Marcia Helena Costa Fampa</author>
 <author pid="57/5836">Marcia H. C. Fampa</author>
@@ -12,6 +12,22 @@
 <url>http://lattes.cnpq.br/0523104569378276</url>
 <note type="affiliation">Universidade Federal do Rio de Janeiro, Brasil</note>
 </person>
+<r><article key="journals/mp/ChenFL25" mdate="2025-06-26">
+<author pid="297/5403">Zhongzhu Chen</author>
+<author pid="57/5836">Marcia Fampa</author>
+<author pid="90/4448">Jon Lee 0001</author>
+<title>Generalized scaling for the constrained maximum-entropy sampling problem.</title>
+<pages>177-216</pages>
+<year>2025</year>
+<month>July</month>
+<volume>212</volume>
+<journal>Math. Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10107-024-02101-3</ee>
+<url>db/journals/mp/mp212.html#ChenFL25</url>
+<stream>streams/journals/mp</stream>
+</article>
+</r>
 <r><article key="journals/dam/FampaL24" mdate="2024-05-31">
 <author pid="57/5836">Marcia Fampa</author>
 <author orcid="0000-0002-8190-1091" pid="90/4448">Jon Lee 0001</author>

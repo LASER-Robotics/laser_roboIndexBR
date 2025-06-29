@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Diego G. Passos 0001" pid="47/4581" n="77">
+<dblpperson name="Diego G. Passos 0001" pid="47/4581" n="78">
 <person key="homepages/47/4581" mdate="2022-08-23">
 <author pid="47/4581">Diego G. Passos 0001</author>
 <author pid="47/4581">Diego Gimenez Passos 0001</author>
@@ -15,6 +15,26 @@
 <h f="p/Passos:Diego_Gimenez"><name>Diego Gimenez Passos</name>
 </h>
 </homonyms>
+<r><article key="journals/jnsm/DelfinoQVPMAM25" mdate="2025-06-25">
+<author pid="259/1972">Wilker de Oliveira Delfino</author>
+<author pid="191/5671">Silvio E. Quincozes</author>
+<author pid="247/0245">Juan Lucas Vieira</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Proactive Fault-Recovery on Distributed Software-Defined Network Controllers.</title>
+<pages>63</pages>
+<year>2025</year>
+<month>July</month>
+<volume>33</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-025-09944-x</ee>
+<url>db/journals/jnsm/jnsm33.html#DelfinoQVPMAM25</url>
+<stream>streams/journals/jnsm</stream>
+</article>
+</r>
 <r><article key="journals/adt/QuincozesQPAM24" mdate="2025-01-19">
 <author pid="322/2925">Vagner Ereno Quincozes</author>
 <author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
@@ -882,9 +902,9 @@
 <url>db/conf/sbrc/sbrc2017.html#SaraivaPCA17</url>
 </inproceedings>
 </r>
-<r><article key="journals/ett/PassosSA16" mdate="2022-08-23">
+<r><article key="journals/ett/PassosSA16" mdate="2025-06-28">
 <author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
-<author pid="165/1975">Felipe Souza</author>
+<author pid="408/7991">Felipe Rolim e Souza</author>
 <author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
 <title>Linear mesh network planning for power transmission line management.</title>
 <pages>1396-1408</pages>
@@ -1254,7 +1274,7 @@
 <co c="0"><na f="s/Soares:Marilson_Duarte" pid="349/2806">Marilson Duarte Soares</na></co>
 <co c="0" n="2"><na f="s/Sousa:Cledson" pid="156/8787">Cledson Sousa</na><na>Cledson Oliveira de Sousa</na></co>
 <co c="0"><na f="s/Souza:Cledson_de" pid="355/7847">Cledson de Souza</na></co>
-<co c="0"><na f="s/Souza:Felipe" pid="165/1975">Felipe Souza</na></co>
+<co c="0"><na f="s/Souza:Felipe_Rolim_e" pid="408/7991">Felipe Rolim e Souza</na></co>
 <co c="0"><na f="s/Souza:Lucas_M=_A=_de" pid="331/6538">Lucas M. A. de Souza</na></co>
 <co c="0"><na f="u/Uch=ocirc=a:Luana_M=" pid="259/1971">Luana M. Uch&#244;a</na></co>
 <co c="0"><na f="v/Valle:Rafael_De_T=" pid="05/4844">Rafael De T. Valle</na></co>

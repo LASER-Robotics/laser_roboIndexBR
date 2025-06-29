@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Marco A. Casanova" pid="c/MarcoACasanova" n="302">
+<dblpperson name="Marco A. Casanova" pid="c/MarcoACasanova" n="303">
 <person key="homepages/c/MarcoACasanova" mdate="2024-05-01">
 <author pid="c/MarcoACasanova">Marco A. Casanova</author>
 <author pid="c/MarcoACasanova">Marco Antonio Casanova</author>
@@ -450,6 +450,28 @@
 <ee>https://doi.org/10.1145/3631085.3631302</ee>
 <crossref>conf/sbgames/2023</crossref>
 <url>db/conf/sbgames/sbgames2023.html#LimaFC023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/0001CFIGOPS0LLC23" mdate="2025-06-26">
+<author pid="348/0471">Eduardo Nascimento 0001</author>
+<author pid="320/5747">Gustavo M. C. Coelho</author>
+<author pid="377/0585">Lucas Feij&#243;</author>
+<author pid="196/1460">Yenier Izquierdo</author>
+<author pid="196/1329">Grettel Garc&#237;a</author>
+<author pid="377/0658">Aiko R. de Oliveira</author>
+<author pid="324/2649">Jo&#227;o Pinheiro</author>
+<author pid="214/6173">Antony Seabra</author>
+<author pid="f/AntonioLFurtado">Ant&#243;nio Furtado 0001</author>
+<author pid="75/6273">Luiz Andr&#233; P. Paes Leme</author>
+<author pid="32/6523">Melissa Lemos</author>
+<author pid="c/MarcoACasanova">Marco A. Casanova</author>
+<title>On the Construction of Text-to-SQL Tools Based on Large Language Models for Real-World Relational Databases.</title>
+<pages>151-167</pages>
+<year>2023</year>
+<booktitle>WEBIST (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-89621-7_8</ee>
+<crossref>conf/webist/2023sp</crossref>
+<url>db/conf/webist/webist2023sp.html#0001CFIGOPS0LLC23</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/webist/PinheiroVNSIGCL23" mdate="2025-05-02">

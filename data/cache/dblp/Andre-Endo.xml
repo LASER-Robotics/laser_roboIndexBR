@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Andr&#233; Takeshi Endo" pid="55/7526" n="66">
+<dblpperson name="Andr&#233; Takeshi Endo" pid="55/7526" n="67">
 <person key="homepages/55/7526" mdate="2025-01-10">
 <author pid="55/7526">Andr&#233; Takeshi Endo</author>
 <url>https://orcid.org/0000-0002-8737-1749</url>
@@ -21,6 +21,18 @@
 <url>db/journals/infsof/infsof179.html#SantosSETPV25</url>
 <stream>streams/journals/infsof</stream>
 </article>
+</r>
+<r><inproceedings key="conf/ecoop/EndoM25" mdate="2025-06-26">
+<author pid="55/7526">Andr&#233; Takeshi Endo</author>
+<author pid="55/6739">Anders M&#248;ller</author>
+<title>Event Race Detection for Node.js Using Delay Injections.</title>
+<pages>9:1-9:28</pages>
+<year>2025</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2025.9</ee>
+<crossref>conf/ecoop/2025</crossref>
+<url>db/conf/ecoop/ecoop2025.html#EndoM25</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/OliveiraEV25" mdate="2025-05-02">
 <author pid="347/6746">Bruno Gon&#231;alves de Oliveira</author>

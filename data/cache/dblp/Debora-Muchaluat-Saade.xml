@@ -1,10 +1,25 @@
 <?xml version="1.0"?>
-<dblpperson name="D&#233;bora C. Muchaluat-Saade" pid="21/5891" n="162">
+<dblpperson name="D&#233;bora C. Muchaluat-Saade" pid="21/5891" n="164">
 <person key="homepages/21/5891" mdate="2010-11-24">
 <author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
 <author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
 <author pid="21/5891">D&#233;bora C. Muchaluat</author>
 </person>
+<r><article key="journals/access/MattosVMG25" mdate="2025-06-26">
+<author pid="131/4793">Douglas Paulo de Mattos</author>
+<author pid="281/0317">R&#244;mulo Vieira</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="g/GeorgeGhinea">George Ghinea</author>
+<title>Assessing Mulsemedia Authoring Application Based on Events With STEVE 2.0.</title>
+<pages>100970-100986</pages>
+<year>2025</year>
+<volume>13</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2025.3576167</ee>
+<url>db/journals/access/access13.html#MattosVMG25</url>
+<stream>streams/journals/access</stream>
+</article>
+</r>
 <r><article key="journals/fgcs/AndradeCRMR25" mdate="2025-04-01">
 <author pid="58/4508">Alexandre Andrade</author>
 <author pid="14/3505">Cristiano Andr&#233; da Costa</author>
@@ -19,6 +34,26 @@
 <ee>https://doi.org/10.1016/j.future.2025.107748</ee>
 <url>db/journals/fgcs/fgcs167.html#AndradeCRMR25</url>
 <stream>streams/journals/fgcs</stream>
+</article>
+</r>
+<r><article key="journals/jnsm/DelfinoQVPMAM25" mdate="2025-06-25">
+<author pid="259/1972">Wilker de Oliveira Delfino</author>
+<author pid="191/5671">Silvio E. Quincozes</author>
+<author pid="247/0245">Juan Lucas Vieira</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Proactive Fault-Recovery on Distributed Software-Defined Network Controllers.</title>
+<pages>63</pages>
+<year>2025</year>
+<month>July</month>
+<volume>33</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-025-09944-x</ee>
+<url>db/journals/jnsm/jnsm33.html#DelfinoQVPMAM25</url>
+<stream>streams/journals/jnsm</stream>
 </article>
 </r>
 <r><inproceedings key="conf/tvx/BarbosaPCTMNB25" mdate="2025-06-11">
@@ -2005,10 +2040,10 @@
 <url>db/journals/mta/mta61.html#SantosM12</url>
 </article>
 </r>
-<r><inproceedings key="conf/giis/BalbiFSCAMM12" mdate="2022-01-26">
+<r><inproceedings key="conf/giis/BalbiFSCAMM12" mdate="2025-06-28">
 <author pid="64/10127">Helga Dolorico Balbi</author>
 <author orcid="0000-0001-9481-6374" pid="88/3693">Natalia Castro Fernandes</author>
-<author pid="165/1975">Felipe Souza</author>
+<author pid="408/7991">Felipe Rolim e Souza</author>
 <author pid="75/10038">Ricardo Campanha Carrano</author>
 <author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
 <author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
@@ -2567,7 +2602,7 @@
 <co c="0" n="2"><na f="s/Soto:Julio_C=_H=" pid="123/3510">Julio C. H. Soto</na><na>Julio C&#233;sar Huarachi Soto</na></co>
 <co c="0"><na f="s/Sousa:Cledson_de" pid="399/2873">Cledson de Sousa</na></co>
 <co c="0"><na f="s/Souza:Andrea_Silveira_de" pid="37/5642">Andrea Silveira de Souza</na></co>
-<co c="0"><na f="s/Souza:Felipe" pid="165/1975">Felipe Souza</na></co>
+<co c="0"><na f="s/Souza:Felipe_Rolim_e" pid="408/7991">Felipe Rolim e Souza</na></co>
 <co c="0"><na f="t/Tentori:Monica" pid="06/58">Monica Tentori</na></co>
 <co c="0"><na f="t/Trevisan:Daniela_Gorski" pid="t/DanielaGorskiTrevisan">Daniela Gorski Trevisan</na></co>
 <co c="0"><na f="u/Uch=ocirc=a:Luana_M=" pid="259/1971">Luana M. Uch&#244;a</na></co>

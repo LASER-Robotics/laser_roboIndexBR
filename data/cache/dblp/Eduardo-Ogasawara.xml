@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Eduardo S. Ogasawara" pid="24/788" n="123">
+<dblpperson name="Eduardo S. Ogasawara" pid="24/788" n="124">
 <person key="homepages/24/788" mdate="2025-01-10">
 <author pid="24/788">Eduardo S. Ogasawara</author>
 <url>https://orcid.org/0000-0002-0466-0626</url>
@@ -40,6 +40,27 @@
 <ee>https://doi.org/10.1007/s10758-024-09758-x</ee>
 <url>db/journals/tkl/tkl30.html#MarquesLQAVOS25</url>
 <stream>streams/journals/tkl</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-19258" mdate="2025-06-26">
+<author pid="408/4381">Felipe Curcio</author>
+<author pid="56/1184">Pedro Castro</author>
+<author pid="227/0779">Augusto Jos&#233; Fonseca</author>
+<author pid="255/4883">Rafaela Castro</author>
+<author pid="408/6914">Raquel Franco</author>
+<author pid="24/788">Eduardo S. Ogasawara</author>
+<author pid="408/6475">Victor Stepanenko</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author pid="09/10314">Mariza Ferro</author>
+<author pid="128/2820">Eduardo Bezerra 0002</author>
+<title>Towards a Spatiotemporal Fusion Approach to Precipitation Nowcasting.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.19258</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.19258</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-19258</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/candie/SallesLRCPMACGPO24" mdate="2025-04-01">
@@ -2106,7 +2127,7 @@
 <url>db/conf/sbbd/sbbd1999.html#OgasawaraM99</url>
 </inproceedings>
 </r>
-<coauthors n="225" nc="1">
+<coauthors n="229" nc="1">
 <co c="0"><na f="a/Abreu:Carlos_Magno" pid="258/3799">Carlos Magno Abreu</na></co>
 <co c="0"><na f="a/Abreu:Raphael" pid="205/6721">Raphael Abreu</na></co>
 <co c="0"><na f="a/Akbarinia:Reza" pid="25/3618">Reza Akbarinia</na></co>
@@ -2151,6 +2172,7 @@
 <co c="0"><na f="c/Carvalho:Leonardo" pid="69/5667">Leonardo Carvalho</na></co>
 <co c="0"><na f="c/Casta=ntilde=eda:Rafael" pid="74/601">Rafael Casta&#241;eda</na></co>
 <co c="0"><na f="c/Castro:Antonio" pid="92/9666">Antonio Castro</na></co>
+<co c="0"><na f="c/Castro:Pedro" pid="56/1184">Pedro Castro</na></co>
 <co c="0"><na f="c/Chaves:Paula" pid="219/1004">Paula Chaves</na></co>
 <co c="0"><na f="c/Chen_0007:Chao" pid="66/3019-7">Chao Chen 0007</na></co>
 <co c="0" n="2"><na f="c/Chirigati:Fernando_Seabra" pid="04/5404">Fernando Seabra Chirigati</na><na>Fernando Chirigati</na></co>
@@ -2163,6 +2185,7 @@
 <co c="0"><na f="c/Cruz:Ana_Beatriz" pid="165/3689">Ana Beatriz Cruz</na></co>
 <co c="0"><na f="c/Cruz:S=eacute=rgio_Manuel_Serra_da" pid="65/591">S&#233;rgio Manuel Serra da Cruz</na></co>
 <co c="0"><na f="c/Cruz:S=eacute=rgio_Ricardo_de_Borba" pid="355/0658">S&#233;rgio Ricardo de Borba Cruz</na></co>
+<co c="0"><na f="c/Curcio:Felipe" pid="408/4381">Felipe Curcio</na></co>
 <co c="0"><na f="d/Dantas:Christofer" pid="228/1527">Christofer Dantas</na></co>
 <co c="0"><na f="d/D=aacute=vila:Alberto_M=_R=" pid="69/4027">Alberto M. R. D&#225;vila</na></co>
 <co c="0"><na f="d/Delicato:Fl=aacute=via_Coimbra" pid="88/4289">Fl&#225;via Coimbra Delicato</na></co>
@@ -2181,6 +2204,7 @@
 <co c="0"><na f="f/Fortes:Mariana" pid="329/9472">Mariana Fortes</na></co>
 <co c="0"><na f="f/Fraga:Fernando" pid="385/5896">Fernando Fraga</na></co>
 <co c="0"><na f="f/Fragoso:Luana" pid="308/4969">Luana Fragoso</na></co>
+<co c="0"><na f="f/Franco:Raquel" pid="408/6914">Raquel Franco</na></co>
 <co c="0"><na f="g/Garibaldi:Jonathan_M=" pid="97/4637">Jonathan M. Garibaldi</na></co>
 <co c="0"><na f="g/Gaspar:Daniel" pid="19/4084">Daniel Gaspar</na></co>
 <co c="0"><na f="g/Gea:Cristiane" pid="307/4319">Cristiane Gea</na></co>
@@ -2310,6 +2334,7 @@
 <co c="0"><na f="s/Souza:J=eacute=ssica" pid="385/4360">J&#233;ssica Souza</na></co>
 <co c="0"><na f="s/Souza_0001:Renan" pid="181/7054-1">Renan Souza 0001</na></co>
 <co c="0"><na f="s/Souza:U=eacute=verton_S=" pid="48/11143">U&#233;verton S. Souza</na></co>
+<co c="0"><na f="s/Stepanenko:Victor" pid="408/6475">Victor Stepanenko</na></co>
 <co c="0"><na f="s/Sternberg:Alice" pid="198/1302">Alice Sternberg</na></co>
 <co c="0"><na f="t/Tavares:Lucas" pid="342/2569">Lucas Tavares</na></co>
 <co c="0"><na f="t/Tavares:Lucas_Giusti" pid="385/4415">Lucas Giusti Tavares</na></co>

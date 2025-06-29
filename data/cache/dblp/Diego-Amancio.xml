@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Diego R. Amancio" pid="72/10670" n="104">
+<dblpperson name="Diego R. Amancio" pid="72/10670" n="105">
 <person key="homepages/72/10670" mdate="2017-02-08">
 <author pid="72/10670">Diego R. Amancio</author>
 <author pid="72/10670">Diego Raphael Amancio</author>
@@ -16,6 +16,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.04233</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-04233</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-21162" mdate="2025-06-27">
+<author pid="408/7906">Davi A. Bezerra</author>
+<author pid="12/11142">Filipi N. Silva</author>
+<author pid="72/10670">Diego R. Amancio</author>
+<title>Leveraging GANs for citation intent classification and its impact on citation network analysis.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.21162</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.21162</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-21162</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1380,12 +1394,13 @@
 <url>db/conf/textgraphs/textgraphs2010.html#AmancioFONC10</url>
 </inproceedings>
 </r>
-<coauthors n="51" nc="3">
+<coauthors n="52" nc="3">
 <co c="0"><na f="a/Akimushkin:Camilo" pid="185/0673">Camilo Akimushkin</na></co>
 <co c="0"><na f="a/Altmann:Eduardo_G=" pid="76/738">Eduardo G. Altmann</na></co>
 <co c="0"><na f="a/Alu=iacute=sio:Sandra_M=" pid="86/332">Sandra M. Alu&#237;sio</na></co>
 <co c="0"><na f="a/Arruda:Henrique_Ferraz_de" pid="157/8389">Henrique Ferraz de Arruda</na></co>
 <co c="0"><na f="b/Bardosova:Maria" pid="164/5630">Maria Bardosova</na></co>
+<co c="0"><na f="b/Bezerra:Davi_A=" pid="408/7906">Davi A. Bezerra</na></co>
 <co c="0"><na f="b/Brito:Ana_C=_M=" pid="248/7474">Ana C. M. Brito</na></co>
 <co c="0" n="2"><na f="b/Bruno:Odemir_Martinez" pid="17/6770">Odemir Martinez Bruno</na><na>Odemir M. Bruno</na></co>
 <co c="0"><na f="c/Casanova:Dalcimar" pid="29/2883">Dalcimar Casanova</na></co>

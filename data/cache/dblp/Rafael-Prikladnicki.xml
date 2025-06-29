@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rafael Prikladnicki" pid="39/5605" n="249">
+<dblpperson name="Rafael Prikladnicki" pid="39/5605" n="250">
 <person key="homepages/39/5605" mdate="2025-01-10">
 <author pid="39/5605">Rafael Prikladnicki</author>
 <note type="affiliation">Pontifical Catholic University of Rio Grande do Sul, PUCRS, Brazil</note>
@@ -89,6 +89,28 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.19380</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-19380</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-15743" mdate="2025-06-25">
+<author pid="30/4138">Darja Smite</author>
+<author pid="26/6303">Nils Brede Moe</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="48/5662">Fabio Calefato</author>
+<author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
+<author pid="236/3623">Marcin Floryan</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="69/8522">Daniel M&#233;ndez 0001</author>
+<author pid="161/9260">Graziela Pereira</author>
+<author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<author pid="39/5605">Rafael Prikladnicki</author>
+<title>Who &#34;Controls&#34; Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.15743</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.15743</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-15743</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -3982,7 +4004,7 @@
 <url>db/conf/iceis/iceis2002.html#PrikladnickiPAMP02</url>
 </inproceedings>
 </r>
-<coauthors n="365" nc="4">
+<coauthors n="367" nc="4">
 <co c="0"><na f="a/Abadi:Aharon" pid="52/3176">Aharon Abadi</na></co>
 <co c="0"><na f="a/Abrahamsson:Pekka" pid="71/5809">Pekka Abrahamsson</na></co>
 <co c="0"><na f="a/Abrah=atilde=o:Silvia" pid="a/SilviaMaraAbrahao">Silvia Abrah&#227;o</na></co>
@@ -4004,6 +4026,7 @@
 <co c="0"><na f="b/Back:Reginaldo" pid="319/2126">Reginaldo Back</na></co>
 <co c="0"><na f="b/Bajwa:Sohaib_Shahid" pid="75/7526">Sohaib Shahid Bajwa</na></co>
 <co c="0"><na f="b/Balancieri:Renato" pid="121/2397">Renato Balancieri</na></co>
+<co c="0"><na f="b/Baldassarre:Maria_Teresa" pid="73/1559">Maria Teresa Baldassarre</na></co>
 <co c="0"><na f="b/Baltes:Sebastian" pid="145/3950">Sebastian Baltes</na></co>
 <co c="0"><na f="b/Barcellos:Monalessa_Perini" pid="97/7540">Monalessa Perini Barcellos</na></co>
 <co c="0"><na f="b/Barros:M=aacute=rcio_de_Oliveira" pid="36/2479">M&#225;rcio de Oliveira Barros</na></co>
@@ -4085,6 +4108,7 @@
 <co c="0"><na f="f/Fernandez:Jude" pid="08/9256">Jude Fernandez</na></co>
 <co c="0"><na f="f/Figueiredo:Mayara_Costa" pid="90/8307">Mayara Costa Figueiredo</na></co>
 <co c="0"><na f="f/Finkelstein:Anthony" pid="f/AFinkelstein">Anthony Finkelstein</na></co>
+<co c="0"><na f="f/Floryan:Marcin" pid="236/3623">Marcin Floryan</na></co>
 <co c="0"><na f="f/Fontdevila:Diego" pid="203/0880">Diego Fontdevila</na></co>
 <co c="0"><na f="f/Fortaleza:Luiz_Leandro" pid="128/4570">Luiz Leandro Fortaleza</na></co>
 <co c="0"><na f="f/Fortes:Luciane_Oliveira" pid="394/3412">Luciane Oliveira Fortes</na></co>

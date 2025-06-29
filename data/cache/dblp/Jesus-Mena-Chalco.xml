@@ -1,9 +1,26 @@
 <?xml version="1.0"?>
-<dblpperson name="Jes&#250;s P. Mena-Chalco" pid="86/8870" n="29">
+<dblpperson name="Jes&#250;s P. Mena-Chalco" pid="86/8870" n="30">
 <person key="homepages/86/8870" mdate="2014-06-16">
 <author pid="86/8870">Jes&#250;s P. Mena-Chalco</author>
 <author pid="86/8870">Jes&#250;s Pascual Mena-Chalco</author>
 </person>
+<r><article key="journals/access/GarciaMGSGJ25" mdate="2025-06-26">
+<author pid="25/7075">Lu&#237;s Paulo F. Garcia</author>
+<author pid="86/8870">Jes&#250;s P. Mena-Chalco</author>
+<author pid="408/5735">Rafaela L. Grando</author>
+<author pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author pid="120/7814">Felipe Pontes Guimar&#227;es</author>
+<author pid="408/6436">Vanessa de A. Jorge</author>
+<title>Hierarchical Article Classification: A Multi-Level Framework for Organizing Scholarly Literature.</title>
+<pages>102589-102601</pages>
+<year>2025</year>
+<volume>13</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2025.3579232</ee>
+<url>db/journals/access/access13.html#GarciaMGSGJ25</url>
+<stream>streams/journals/access</stream>
+</article>
+</r>
 <r><article key="journals/scientometrics/BinSSMC22" mdate="2023-08-28">
 <author orcid="0000-0001-9774-2753" pid="157/2695">Adriana Bin</author>
 <author pid="150/9278">Sergio L. M. Salles-Filho</author>
@@ -419,27 +436,31 @@
 <url>db/conf/fgr/fgr2006.html#ZanaJM06</url>
 </inproceedings>
 </r>
-<coauthors n="39" nc="5">
-<co c="2"><na f="a/Abreu:Ant=oacute=nio" pid="72/5850">Ant&#243;nio Abreu</na></co>
+<coauthors n="44" nc="6">
+<co c="3"><na f="a/Abreu:Ant=oacute=nio" pid="72/5850">Ant&#243;nio Abreu</na></co>
 <co c="0"><na f="a/Amorim:Elisa" pid="151/3161">Elisa Amorim</na></co>
-<co c="2"><na f="b/Barreto:Maur=iacute=cio_Lima" pid="97/12">Maur&#237;cio Lima Barreto</na></co>
-<co c="3"><na f="b/Batista=Jr:Ant=ocirc=nio_de_Abreu" pid="323/6088">Ant&#244;nio de Abreu Batista-Jr</na></co>
+<co c="3"><na f="b/Barreto:Maur=iacute=cio_Lima" pid="97/12">Maur&#237;cio Lima Barreto</na></co>
+<co c="4"><na f="b/Batista=Jr:Ant=ocirc=nio_de_Abreu" pid="323/6088">Ant&#244;nio de Abreu Batista-Jr</na></co>
 <co c="0"><na f="b/Bechara:Etelvino_J=_H=" pid="231/5063">Etelvino J. H. Bechara</na></co>
-<co c="1"><na f="b/Bin:Adriana" pid="157/2695">Adriana Bin</na></co>
+<co c="2"><na f="b/Bin:Adriana" pid="157/2695">Adriana Bin</na></co>
 <co c="0"><na f="b/Braga:Juliana_Cristina" pid="135/0793">Juliana Cristina Braga</na></co>
 <co c="0"><na f="b/Brazil:Emilio_Vital" pid="26/1208">Emilio Vital Brazil</na></co>
 <co c="0"><na f="b/Breve:Matheus_Montanini" pid="282/1332">Matheus Montanini Breve</na></co>
 <co c="0"><na f="c/Carrer:Helaine" pid="32/4874">Helaine Carrer</na></co>
 <co c="0"><na f="c/Cervantes:Evelyn_Perez" pid="71/9459">Evelyn Perez Cervantes</na></co>
-<co c="1"><na f="c/Colugnati:Fernando_Antonio_Basile" pid="43/9673">Fernando Antonio Basile Colugnati</na></co>
+<co c="2"><na f="c/Colugnati:Fernando_Antonio_Basile" pid="43/9673">Fernando Antonio Basile Colugnati</na></co>
 <co c="0" n="2"><na f="d/Damaceno:Rafael_J=_P=" pid="135/0789">Rafael J. P. Damaceno</na><na>Rafael Jeferson Pezzuto Damaceno</na></co>
 <co c="0" n="2"><na f="d/Digiampietri:Luciano_A=" pid="09/6587">Luciano A. Digiampietri</na><na>Luciano Ant&#244;nio Digiampietri</na></co>
 <co c="-1"><na f="f/Fausto:Sibele" pid="168/4244">Sibele Fausto</na></co>
-<co c="2"><na f="f/Ferreira:Bruno_Santos" pid="261/9101">Bruno Santos Ferreira</na></co>
+<co c="3"><na f="f/Ferreira:Bruno_Santos" pid="261/9101">Bruno Santos Ferreira</na></co>
 <co c="0"><na f="f/Freire:Igor_Leite" pid="81/9662">Igor Leite Freire</na></co>
-<co c="3"><na f="g/Gouveia:F=aacute=bio_Castro" pid="294/9087">F&#225;bio Castro Gouveia</na></co>
-<co c="4"><na f="h/Haddad:Eduardo_Amaral" pid="192/9340">Eduardo Amaral Haddad</na></co>
-<co c="3"><na f="j/J=uacute=nior:Ant=ocirc=nio_de_Abreu_Batista" pid="163/3210">Ant&#244;nio de Abreu Batista J&#250;nior</na></co>
+<co c="1"><na f="g/Garcia:Lu=iacute=s_Paulo_F=" pid="25/7075">Lu&#237;s Paulo F. Garcia</na></co>
+<co c="4"><na f="g/Gouveia:F=aacute=bio_Castro" pid="294/9087">F&#225;bio Castro Gouveia</na></co>
+<co c="1"><na f="g/Grando:Rafaela_L=" pid="408/5735">Rafaela L. Grando</na></co>
+<co c="1"><na f="g/Guimar=atilde=es:Felipe_Pontes" pid="120/7814">Felipe Pontes Guimar&#227;es</na></co>
+<co c="5"><na f="h/Haddad:Eduardo_Amaral" pid="192/9340">Eduardo Amaral Haddad</na></co>
+<co c="1"><na f="j/Jorge:Vanessa_de_A=" pid="408/6436">Vanessa de A. Jorge</na></co>
+<co c="4"><na f="j/J=uacute=nior:Ant=ocirc=nio_de_Abreu_Batista" pid="163/3210">Ant&#244;nio de Abreu Batista J&#250;nior</na></co>
 <co c="0" n="3"><na f="j/Junior:Roberto_Marcondes_Cesar" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Junior</na><na>Roberto Marcondes Cesar Jr.</na><na>Roberto M. Cesar</na></co>
 <co c="0"><na f="l/Lopes:Fabr=iacute=cio_Martins" pid="32/4623">Fabr&#237;cio Martins Lopes</na></co>
 <co c="0"><na f="m/Mac=ecirc=do:Ives" pid="75/1075">Ives Mac&#234;do</na></co>
@@ -450,13 +471,14 @@
 <co c="0"><na f="p/Pinto:S=iacute=lvia_Cristina_Dias" pid="00/10698">S&#237;lvia Cristina Dias Pinto</na></co>
 <co c="-1"><na f="p/Portugal=Zambrano:Christian_E=" pid="62/11343">Christian E. Portugal-Zambrano</na></co>
 <co c="0"><na f="r/Rossi:Luciano" pid="201/2403">Luciano Rossi</na></co>
-<co c="1"><na f="s/Salles=Filho:Sergio_L=_M=" pid="150/9278">Sergio L. M. Salles-Filho</na></co>
+<co c="2"><na f="s/Salles=Filho:Sergio_L=_M=" pid="150/9278">Sergio L. M. Salles-Filho</na></co>
 <co c="0"><na f="s/Samavati:Faramarz_F=" pid="s/FaramarzFSamavati">Faramarz F. Samavati</na></co>
-<co c="2"><na f="s/Sampaio:Ricardo_Barros" pid="261/9346">Ricardo Barros Sampaio</na></co>
-<co c="4"><na f="s/Sidone:Ot=aacute=vio_Jos=eacute=_Guerci" pid="192/9454">Ot&#225;vio Jos&#233; Guerci Sidone</na></co>
+<co c="3"><na f="s/Sampaio:Ricardo_Barros" pid="261/9346">Ricardo Barros Sampaio</na></co>
+<co c="5"><na f="s/Sidone:Ot=aacute=vio_Jos=eacute=_Guerci" pid="192/9454">Ot&#225;vio Jos&#233; Guerci Sidone</na></co>
 <co c="0"><na f="s/Silva:Alex_Junior_Nunes_da" pid="282/0021">Alex Junior Nunes da Silva</na></co>
+<co c="1" n="2"><na f="s/Silva:Waldeyr_M=_C=" pid="193/7874">Waldeyr M. C. Silva</na><na>Waldeyr Mendes Cordeiro da Silva</na></co>
 <co c="0"><na f="s/Sousa:Mario_Costa" pid="63/2827">Mario Costa Sousa</na></co>
-<co c="1"><na f="s/Spatti:Ana_Carolina" pid="335/9324">Ana Carolina Spatti</na></co>
+<co c="2"><na f="s/Spatti:Ana_Carolina" pid="335/9324">Ana Carolina Spatti</na></co>
 <co c="0"><na f="v/Velho_0001:Luiz" pid="v/LuizVelho">Luiz Velho 0001</na></co>
 <co c="0"><na f="z/Zana:Yossi" pid="54/1454">Yossi Zana</na></co>
 </coauthors>

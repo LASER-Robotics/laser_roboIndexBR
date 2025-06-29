@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Carlos Olarte" pid="o/CarlosOlarte" n="95">
+<dblpperson name="Carlos Olarte" pid="o/CarlosOlarte" n="96">
 <person key="homepages/o/CarlosOlarte" mdate="2025-05-13">
 <author pid="o/CarlosOlarte">Carlos Olarte</author>
 <author pid="o/CarlosOlarte">Carlos Alberto Olarte</author>
@@ -51,6 +51,21 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.17605</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-17605</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-12824" mdate="2025-06-25">
+<author pid="404/9445">Renato Leme</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="53/4735">Marcelo E. Coniglio</author>
+<title>The Modal Cube Revisited: Semantics without Worlds.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.12824</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.12824</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-12824</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1333,7 +1348,7 @@
 <url>db/conf/moz/moz2004.html#DiazGOR04</url>
 </inproceedings>
 </r>
-<coauthors n="57" nc="1">
+<coauthors n="59" nc="1">
 <co c="-1"><na f="a/Accattoli:Beniamino" pid="90/7361">Beniamino Accattoli</na></co>
 <co c="0"><na f="a/Alvim:M=aacute=rio_S=" pid="84/8371">M&#225;rio S. Alvim</na></co>
 <co c="0"><na f="a/Aranda:Jes=uacute=s" pid="32/2986">Jes&#250;s Aranda</na></co>
@@ -1349,6 +1364,7 @@
 <co c="0"><na f="c/Chiarugi:Davide" pid="67/2106">Davide Chiarugi</na></co>
 <co c="0"><na f="c/Ciabattoni:Agata" pid="44/6796">Agata Ciabattoni</na></co>
 <co c="-1"><na f="c/Ciaffaglione:Alberto" pid="00/5910">Alberto Ciaffaglione</na></co>
+<co c="0"><na f="c/Coniglio:Marcelo_E=" pid="53/4735">Marcelo E. Coniglio</na></co>
 <co c="0"><na f="d/Delgado:Alberto" pid="50/3352">Alberto Delgado</na></co>
 <co c="0"><na f="d/Desainte=Catherine:Myriam" pid="41/4845">Myriam Desainte-Catherine</na></co>
 <co c="0"><na f="d/Despeyroux:Jo=euml=lle" pid="21/5646">Jo&#235;lle Despeyroux</na></co>
@@ -1364,6 +1380,7 @@
 <co c="0"><na f="h/Hermith:Diana" pid="42/10091">Diana Hermith</na></co>
 <co c="0"><na f="l/Lang:Timo" pid="205/4383">Timo Lang</na></co>
 <co c="0"><na f="l/Lellmann:Bj=ouml=rn" pid="53/9766">Bj&#246;rn Lellmann</na></co>
+<co c="0"><na f="l/Leme:Renato" pid="404/9445">Renato Leme</na></co>
 <co c="0" n="2"><na f="l/Li=ograve=:Pietro" pid="l/PietroLio">Pietro Li&#242;</na><na>Pietro Li&#243;</na></co>
 <co c="0"><na f="l/L=oacute=pez_0001:Hugo_A=" pid="69/5139">Hugo A. L&#243;pez 0001</na></co>
 <co c="0"><na f="m/Marangoni:Roberto" pid="96/5299">Roberto Marangoni</na></co>

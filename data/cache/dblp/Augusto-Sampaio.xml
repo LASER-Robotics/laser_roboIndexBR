@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
-<dblpperson name="Augusto Sampaio 0001" pid="s/AugustoSampaio" n="150">
-<person key="homepages/s/AugustoSampaio" mdate="2024-06-27">
+<dblpperson name="Augusto Sampaio 0001" pid="s/AugustoSampaio" n="152">
+<person key="homepages/s/AugustoSampaio" mdate="2025-06-25">
 <author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
 <author pid="s/AugustoSampaio">Augusto C. A. Sampaio</author>
+<author pid="s/AugustoSampaio">Augusto Cezar Alves Sampaio</author>
 <note type="affiliation">Universidade Federal de Pernambuco, Caic&#243;, Brazil</note>
 <url>http://www.cin.ufpe.br/~acas/</url>
 <url>https://scholar.google.com/citations?user=03R9LnwAAAAJ</url>
@@ -46,6 +47,22 @@
 <url>db/journals/fac/fac37.html#BeekCCGGHKLLR0S25</url>
 </article>
 </r>
+<r><article key="journals/jcloudc/CabralAS25" mdate="2025-06-25">
+<author pid="209/3099">Danilo Rafael de Lima Cabral</author>
+<author pid="135/9609">Pedro Antonino</author>
+<author pid="s/AugustoSampaio">Augusto Cezar Alves Sampaio</author>
+<title>Demystification and near-perfect estimation of minimum gas limit and gas used for Ethereum smart contracts.</title>
+<pages>29</pages>
+<year>2025</year>
+<month>December</month>
+<volume>14</volume>
+<journal>J. Cloud Comput.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13677-025-00751-y</ee>
+<url>db/journals/jcloudc/jcloudc14.html#CabralAS25</url>
+<stream>streams/journals/jcloudc</stream>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2501-04483" mdate="2025-02-18">
 <author pid="209/3099">Danilo Rafael de Lima Cabral</author>
 <author pid="135/9609">Pedro Antonino</author>
@@ -57,6 +74,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.04483</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-04483</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-13475" mdate="2025-06-25">
+<author pid="138/8861">Hugo Ara&#250;jo</author>
+<author pid="c/HanaChockler">Hana Chockler</author>
+<author pid="m/MohammadRezaMousavi">Mohammad Reza Mousavi 0001</author>
+<author pid="44/3540">Gustavo Carvalho</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<title>Causality for Cyber-Physical Systems.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.13475</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.13475</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-13475</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -2097,12 +2130,13 @@
 <url>db/conf/sbes/sbes1988.html#SampaioMAM88</url>
 </inproceedings>
 </r>
-<coauthors n="125" nc="2">
+<coauthors n="127" nc="2">
 <co c="0"><na f="a/Albuquerque:Carlos" pid="40/2101">Carlos Albuquerque</na></co>
 <co c="0"><na f="a/Albuquerque:Max_Cavalcanti_de" pid="364/6695">Max Cavalcanti de Albuquerque</na></co>
 <co c="0"><na f="a/Almeida:Rafaela" pid="219/2313">Rafaela Almeida</na></co>
 <co c="0" n="2"><na f="a/Antonino:Pedro_R=_G=" pid="135/9609">Pedro R. G. Antonino</na><na>Pedro Antonino</na></co>
 <co c="0"><na f="a/Aranha:Eduardo" pid="31/1490">Eduardo Aranha</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Hugo" pid="138/8861">Hugo Ara&#250;jo</na></co>
 <co c="0"><na f="a/Araujo:Hugo_Leonardo_da_Silva" pid="174/7661">Hugo Leonardo da Silva Araujo</na></co>
 <co c="0"><na f="a/Araujo:Renata_B=_S=" pid="174/7699">Renata B. S. Araujo</na></co>
 <co c="0"><na f="a/Arruda:Filipe" pid="183/9121">Filipe Arruda</na></co>
@@ -2125,6 +2159,7 @@
 <co c="0"><na f="c/Cavalcante:S=eacute=rgio" pid="37/2399">S&#233;rgio Cavalcante</na></co>
 <co c="0"><na f="c/Cavalcanti_0001:Ana" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</na></co>
 <co c="0" n="2"><na f="c/Chapman:Roderick" pid="72/613">Roderick Chapman</na><na>Rod Chapman</na></co>
+<co c="0"><na f="c/Chockler:Hana" pid="c/HanaChockler">Hana Chockler</na></co>
 <co c="0"><na f="c/Cleaveland:Rance" pid="c/RCleaveland">Rance Cleaveland</na></co>
 <co c="0"><na f="c/Cole:Leonardo" pid="51/1196">Leonardo Cole</na></co>
 <co c="0"><na f="c/Cordeiro:Virg=iacute=nia_A=_O=" pid="86/4800">Virg&#237;nia A. O. Cordeiro</na></co>

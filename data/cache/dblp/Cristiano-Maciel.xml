@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Cristiano Maciel" pid="62/5474" n="174">
+<dblpperson name="Cristiano Maciel" pid="62/5474" n="175">
 <person key="homepages/62/5474" mdate="2025-01-10">
 <author pid="62/5474">Cristiano Maciel</author>
 <url>https://dl.acm.org/profile/81314484360</url>
@@ -22,6 +22,25 @@
 <ee type="oa">https://doi.org/10.5753/jis.2025.4100</ee>
 <url>db/journals/sbcjis/sbcjis16.html#GalvaoMNR25</url>
 <stream>streams/journals/sbcjis</stream>
+</article>
+</r>
+<r><article key="journals/uais/BorgesBFMPN25" mdate="2025-06-25">
+<author pid="115/5009">Luciana Correia Lima de Faria Borges</author>
+<author pid="408/1654">Ana Paula Oliveira Bertholdo</author>
+<author pid="66/2805">Lucia Vilela Leite Filgueiras</author>
+<author pid="62/5474">Cristiano Maciel</author>
+<author pid="54/3748">Vin&#237;cius Carvalho Pereira</author>
+<author pid="56/8926">Eunice Pereira dos Santos Nunes</author>
+<title>Motivation of persons with cerebral palsy through participatory design: where there is a will, there is a way.</title>
+<pages>1221-1237</pages>
+<year>2025</year>
+<month>June</month>
+<volume>24</volume>
+<journal>Univers. Access Inf. Soc.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10209-024-01131-0</ee>
+<url>db/journals/uais/uais24.html#BorgesBFMPN25</url>
+<stream>streams/journals/uais</stream>
 </article>
 </r>
 <r><article key="journals/cacm/MacielGBRSFBJ24" mdate="2025-03-03">
@@ -2476,7 +2495,7 @@
 <url>db/conf/interact/interact2005.html#MacielNG05</url>
 </inproceedings>
 </r>
-<coauthors n="170" nc="4">
+<coauthors n="171" nc="4">
 <co c="0"><na f="a/Alencar:Fernando_Bispo" pid="07/9406">Fernando Bispo Alencar</na></co>
 <co c="0"><na f="a/Almeida:Gustavo" pid="210/9281">Gustavo Almeida</na></co>
 <co c="0"><na f="a/Almeida:Gustavo_de_Oliveira" pid="227/9429">Gustavo de Oliveira Almeida</na></co>
@@ -2502,6 +2521,7 @@
 <co c="0"><na f="b/Beppu:Flavia" pid="355/3272">Flavia Beppu</na></co>
 <co c="0" n="2"><na f="b/Berardi:Rita" pid="46/8104">Rita Berardi</na><na>Rita Cristina Galarraga Berardi</na></co>
 <co c="0" n="2"><na f="b/Bernardini:Flavia" pid="88/5413">Flavia Bernardini</na><na>Fl&#225;via Bernardini</na></co>
+<co c="0"><na f="b/Bertholdo:Ana_Paula_Oliveira" pid="408/1654">Ana Paula Oliveira Bertholdo</na></co>
 <co c="0"><na f="b/Biffi:Giovanni_C=" pid="201/3294">Giovanni C. Biffi</na></co>
 <co c="0"><na f="b/Bim:Silvia_Am=eacute=lia" pid="131/8176">Silvia Am&#233;lia Bim</na></co>
 <co c="0"><na f="b/Borges:Glauce" pid="136/0258">Glauce Borges</na></co>

@@ -24,10 +24,10 @@
 <stream>streams/journals/jbcs</stream>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2505-00787" mdate="2025-06-18">
+<r><article publtype="informal" key="journals/corr/abs-2505-00787" mdate="2025-06-26">
 <author pid="250/5118">Lucas N. Alegre</author>
 <author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
-<author pid="407/7248">Andr&#233; Barreto</author>
+<author pid="72/953">Andr&#233; Barreto 0001</author>
 <author pid="75/3139">Bruno C. da Silva 0001</author>
 <title>Constructing an Optimal Behavior Basis for the Option Keyboard.</title>
 <year>2025</year>
@@ -3409,7 +3409,7 @@
 <co c="0"><na f="a/Azzi:Guilherme_G=" pid="139/6047">Guilherme G. Azzi</na></co>
 <co c="0"><na f="b/Baraviera:Alexandre_Tavares" pid="12/958">Alexandre Tavares Baraviera</na></co>
 <co c="0"><na f="b/Barbieri:Matheus" pid="199/6476">Matheus Barbieri</na></co>
-<co c="0"><na f="b/Barreto:Andr=eacute=" pid="407/7248">Andr&#233; Barreto</na></co>
+<co c="0"><na f="b/Barreto_0001:Andr=eacute=" pid="72/953">Andr&#233; Barreto 0001</na></co>
 <co c="0"><na f="b/Basso:Daniel_M=" pid="95/1438">Daniel M. Basso</na></co>
 <co c="0"><na f="b/Basso:Eduardo_W=" pid="99/6575">Eduardo W. Basso</na></co>
 <co c="0" n="2"><na f="b/Batista:Gustavo" pid="85/1649">Gustavo Batista</na><na>Gustavo E. A. P. A. Batista</na></co>

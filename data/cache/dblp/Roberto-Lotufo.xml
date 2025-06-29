@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Roberto A. Lotufo" pid="42/168" n="188">
+<dblpperson name="Roberto A. Lotufo" pid="42/168" n="189">
 <person key="homepages/42/168" mdate="2025-06-07">
 <author pid="42/168">Roberto A. Lotufo</author>
 <author pid="42/168">Roberto de Alencar Lotufo</author>
@@ -33,6 +33,26 @@
 <ee>https://doi.org/10.1145/3652951</ee>
 <url>db/journals/dgov/dgov6.html#PereiraATALCDNML25</url>
 <stream>streams/journals/dgov</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-15916" mdate="2025-06-25">
+<author pid="408/3499">Juvenal Domingos J&#250;nior</author>
+<author pid="408/2713">Augusto Faria</author>
+<author pid="375/3343">Eduardo Seiti de Oliveira</author>
+<author pid="408/3351">Erick de Brito</author>
+<author pid="408/1985">Matheus Teotonio</author>
+<author pid="366/5859">Andre Assumpcao</author>
+<author pid="205/2031">Diedre Carmo</author>
+<author pid="42/168">Roberto A. Lotufo</author>
+<author pid="246/5617">Jayr Pereira</author>
+<title>BR-TaxQA-R: A Dataset for Question Answering with References for Brazilian Personal Income Tax Law, including case law.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.15916</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.15916</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-15916</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/access/SantosRML24" mdate="2025-01-08">
@@ -2690,7 +2710,7 @@
 <url>db/conf/bmvc/avc1988.html#ThomasDLMMM88</url>
 </inproceedings>
 </r>
-<coauthors n="163" nc="4">
+<coauthors n="167" nc="4">
 <co c="1"><na f="a/Abdallah:Chaouki_T=" pid="97/128">Chaouki T. Abdallah</na></co>
 <co c="0"><na f="a/Abonizio:Hugo_Queiroz" pid="246/8435">Hugo Queiroz Abonizio</na></co>
 <co c="0"><na f="a/Abreu:Thays" pid="226/8270">Thays Abreu</na></co>
@@ -2706,6 +2726,7 @@
 <co c="0"><na f="b/Benediktsson:J=oacute=n_Atli" pid="79/3767">J&#243;n Atli Benediktsson</na></co>
 <co c="0"><na f="b/Bento:Mariana_P=" pid="59/10579">Mariana P. Bento</na></co>
 <co c="0"><na f="b/Bonifacio:Luiz_Henrique" pid="276/4392">Luiz Henrique Bonifacio</na></co>
+<co c="0"><na f="b/Brito:Erick_de" pid="408/3351">Erick de Brito</na></co>
 <co c="0"><na f="b/Bueno:Mirelle" pid="327/6843">Mirelle Bueno</na></co>
 <co c="3"><na f="c/Caetano:Cesar_Augusto_Cardoso" pid="18/6753">Cesar Augusto Cardoso Caetano</na></co>
 <co c="0"><na f="c/Campbell:Jennifer_S=_W=" pid="98/3996">Jennifer S. W. Campbell</na></co>
@@ -2729,6 +2750,7 @@
 <co c="0"><na f="f/Fadaee:Marzieh" pid="159/4868">Marzieh Fadaee</na></co>
 <co c="0" n="2"><na f="f/Falc=atilde=o:Alexandre_X=" pid="f/AlexandreXFalcao">Alexandre X. Falc&#227;o</na><na>Alexandre Xavier Falc&#227;o</na></co>
 <co c="0"><na f="f/Fantini:Irene" pid="224/1183">Irene Fantini</na></co>
+<co c="0"><na f="f/Faria:Augusto" pid="408/2713">Augusto Faria</na></co>
 <co c="0"><na f="f/Fernandes:Leandro_Car=iacute=sio" pid="234/1962">Leandro Car&#237;sio Fernandes</na></co>
 <co c="0"><na f="f/Ferraretto:Fernando" pid="338/5699">Fernando Ferraretto</na></co>
 <co c="0"><na f="f/Ferreira:Janito_Vaqueiro" pid="16/9379">Janito Vaqueiro Ferreira</na></co>
@@ -2756,6 +2778,7 @@
 <co c="-1"><na f="j/Jesus:Edison_Oliveira_de" pid="85/966">Edison Oliveira de Jesus</na></co>
 <co c="1"><na f="j/Jordan:Ramiro" pid="74/146">Ramiro Jordan</na></co>
 <co c="0"><na f="j/Junior:Amadeu" pid="201/5132">Amadeu Junior</na></co>
+<co c="0"><na f="j/J=uacute=nior:Juvenal_Domingos" pid="408/3499">Juvenal Domingos J&#250;nior</na></co>
 <co c="0"><na f="k/Kallumadi:Surya" pid="09/9727">Surya Kallumadi</na></co>
 <co c="0"><na f="k/Koo:Robert" pid="28/4694">Robert Koo</na></co>
 <co c="0"><na f="k/K=ouml=rbes:Andr=eacute=" pid="42/7785">Andr&#233; K&#246;rbes</na></co>
@@ -2839,6 +2862,7 @@
 <co c="0"><na f="s/Sym:Yan" pid="201/5149">Yan Sym</na></co>
 <co c="0"><na f="t/Tavares:Jo=atilde=o_Manuel_R=_S=" pid="t/JoaoManuelRSTavares">Jo&#227;o Manuel R. S. Tavares</na></co>
 <co c="0"><na f="t/Tavares:Luis_A=" pid="62/10924">Luis A. Tavares</na></co>
+<co c="0"><na f="t/Teotonio:Matheus" pid="408/1985">Matheus Teotonio</na></co>
 <co c="2"><na f="t/Thomas:Barry_T=" pid="t/BarryTThomas">Barry T. Thomas</na></co>
 <co c="0"><na f="t/Trecenti:Julio" pid="298/3323">Julio Trecenti</na></co>
 <co c="-1"><na f="t/Trettel:Eduardo" pid="159/0859">Eduardo Trettel</na></co>

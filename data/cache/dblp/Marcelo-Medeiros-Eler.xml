@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Marcelo Medeiros Eler" pid="89/6957" n="71">
+<dblpperson name="Marcelo Medeiros Eler" pid="89/6957" n="72">
 <person key="homepages/89/6957" mdate="2025-01-10">
 <author pid="89/6957">Marcelo Medeiros Eler</author>
 <author pid="89/6957">Marcelo M. Eler</author>
@@ -7,6 +7,24 @@
 <url>https://orcid.org/0000-0001-5872-0607</url>
 <url>https://www.wikidata.org/entity/Q130827026</url>
 </person>
+<r><article key="journals/uais/AlghamdiAJLE25" mdate="2025-06-26">
+<author pid="388/5525">Asmaa Mansour Alghamdi</author>
+<author pid="245/7683">Wajdi Aljedaani</author>
+<author pid="198/6584-3">Hamed Jalali 0003</author>
+<author pid="58/3375">Stephanie Ludi</author>
+<author pid="89/6957">Marcelo M. Eler</author>
+<title>Understanding developer challenges and trends in web accessibility: a stack overflow analysis.</title>
+<pages>1701-1717</pages>
+<year>2025</year>
+<month>June</month>
+<volume>24</volume>
+<journal>Univers. Access Inf. Soc.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10209-024-01174-3</ee>
+<url>db/journals/uais/uais24.html#AlghamdiAJLE25</url>
+<stream>streams/journals/uais</stream>
+</article>
+</r>
 <r><inproceedings key="conf/chi/ElerA25" mdate="2025-05-01">
 <author orcid="0000-0001-5872-0607" pid="89/6957">Marcelo Medeiros Eler</author>
 <author orcid="0000-0002-6700-719X" pid="245/7683">Wajdi Aljedaani</author>

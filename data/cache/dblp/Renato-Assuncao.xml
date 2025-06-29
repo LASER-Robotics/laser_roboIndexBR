@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Renato Assun&#231;&#227;o" pid="130/0513" n="75">
+<dblpperson name="Renato Assun&#231;&#227;o" pid="130/0513" n="76">
 <person key="homepages/130/0513" mdate="2016-08-10">
 <author pid="130/0513">Renato Assun&#231;&#227;o</author>
 <author pid="130/0513">Renato M. Assun&#231;&#227;o</author>
@@ -7,6 +7,25 @@
 <note type="affiliation">Federal University of Minas Gerais, Belo Horizonte, Brazil</note>
 <url>http://homepages.dcc.ufmg.br/~assuncao/</url>
 </person>
+<r><article key="journals/gis/AssuncaoBKJLA25" mdate="2025-06-26">
+<author pid="130/0513">Renato Assun&#231;&#227;o</author>
+<author pid="87/3735">Kevin Butler</author>
+<author pid="408/5283">Eric Krause</author>
+<author pid="259/8187">Mark V. Janikas</author>
+<author pid="259/8251">Ting-Hwan Lee</author>
+<author pid="358/1825">Hanna Asefaw</author>
+<title>Spatially thinned bootstrap and random toroidal shift methods for correct estimation of P-values of maps similarity.</title>
+<pages>1597-1621</pages>
+<year>2025</year>
+<month>July</month>
+<volume>39</volume>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1080/13658816.2025.2461603</ee>
+<url>db/journals/gis/gis39.html#AssuncaoBKJLA25</url>
+<stream>streams/journals/gis</stream>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2501-10815" mdate="2025-02-21">
 <author pid="130/0513">Renato Assun&#231;&#227;o</author>
 <author pid="98/7536">Flavio V. D. de Figueiredo</author>
@@ -1041,7 +1060,7 @@
 <url>db/journals/endm/endm7.html#LageAR01</url>
 </article>
 </r>
-<coauthors n="88" nc="6">
+<coauthors n="90" nc="6">
 <co c="0"><na f="a/Alitappeh:Reza_Javanmard" pid="119/2522">Reza Javanmard Alitappeh</na></co>
 <co c="0"><na f="a/Almeida:Marcos_A=_de" pid="207/7025">Marcos A. de Almeida</na></co>
 <co c="0" n="2"><na f="a/Alves:Rodrigo" pid="143/7395">Rodrigo Alves</na><na>Rodrigo A. S. Alves</na></co>
@@ -1053,6 +1072,7 @@
 <co c="-1"><na f="b/Barbarioli:Bruno" pid="194/6154">Bruno Barbarioli</na></co>
 <co c="0" n="2"><na f="b/Borges:Guilherme_R=" pid="155/8945">Guilherme R. Borges</na><na>Guilherme Resende Borges</na></co>
 <co c="0"><na f="b/Brito:Denise_E=_F=_de" pid="153/6925">Denise E. F. de Brito</na></co>
+<co c="1"><na f="b/Butler:Kevin" pid="87/3735">Kevin Butler</na></co>
 <co c="2"><na f="c/C=acirc=mara:Gilberto" pid="76/5209">Gilberto C&#226;mara</na></co>
 <co c="0" n="2"><na f="c/Campos:Mario_Fernando_Montenegro" pid="70/4227">Mario Fernando Montenegro Campos</na><na>Mario F. M. Campos</na></co>
 <co c="0"><na f="c/Chaimowicz:Luiz" pid="c/LuizChaimowicz">Luiz Chaimowicz</na></co>
@@ -1075,6 +1095,7 @@
 <co c="1"><na f="j/Janikas:Mark_V=" pid="259/8187">Mark V. Janikas</na></co>
 <co c="0"><na f="j/J=uacute=nior:Francisco_N=_Tinoco" pid="397/6781">Francisco N. Tinoco J&#250;nior</na></co>
 <co c="0"><na f="k/Kloft:Marius" pid="73/2217">Marius Kloft</na></co>
+<co c="1"><na f="k/Krause:Eric" pid="408/5283">Eric Krause</na></co>
 <co c="0"><na f="k/Kulldorff:Martin" pid="53/2702">Martin Kulldorff</na></co>
 <co c="0"><na f="k/Kumar_0001:Vijay" pid="k/VijayKumar-1">Vijay Kumar 0001</na></co>
 <co c="5"><na f="l/Lage:Juliano_Palmieri" pid="23/5945">Juliano Palmieri Lage</na></co>

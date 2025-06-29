@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Carlos A. V. Campos" pid="83/4679" n="51">
+<dblpperson name="Carlos A. V. Campos" pid="83/4679" n="52">
 <person key="homepages/83/4679" mdate="2022-01-18">
 <author pid="83/4679">Carlos A. V. Campos</author>
 <author pid="83/4679">Carlos Alberto Vieira Campos</author>
@@ -30,6 +30,19 @@
 <journal>Future Gener. Comput. Syst.</journal>
 <ee>https://doi.org/10.1016/j.future.2025.107752</ee>
 <url>db/journals/fgcs/fgcs167.html#SoaresBC25</url>
+<stream>streams/journals/fgcs</stream>
+</article>
+</r>
+<r><article key="journals/fgcs/VieiraC25" mdate="2025-06-26">
+<author pid="369/0677">Fl&#225;vio Vieira</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Reducing weight divergence impact using local learning normalization in Federated Learning for heterogeneous data distributions.</title>
+<pages>107881</pages>
+<year>2025</year>
+<volume>173</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2025.107881</ee>
+<url>db/journals/fgcs/fgcs173.html#VieiraC25</url>
 <stream>streams/journals/fgcs</stream>
 </article>
 </r>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Celina M. H. de Figueiredo" pid="09/5415" n="203">
+<dblpperson name="Celina M. H. de Figueiredo" pid="09/5415" n="204">
 <person key="homepages/09/5415" mdate="2020-05-19">
 <author pid="09/5415">Celina M. H. de Figueiredo</author>
 <author pid="09/5415">Celina Miraglia Herrera de Figueiredo</author>
@@ -38,6 +38,20 @@
 <ee>https://doi.org/10.1016/j.disc.2024.114383</ee>
 <url>db/journals/dm/dm348.html#CameronCFS25</url>
 <stream>streams/journals/dm</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-16050" mdate="2025-06-25">
+<author pid="408/2235">G. A. Bridi</author>
+<author pid="32/7383">Franklin L. Marquezino</author>
+<author pid="09/5415">Celina M. H. de Figueiredo</author>
+<title>A Weight Function Lemma Heuristic for Graph Pebbling.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.16050</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.16050</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-16050</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/cdm/AlconFFGKSS24" mdate="2025-03-21">
@@ -2892,7 +2906,7 @@
 <ee>https://doi.org/10.1007/3-540-59175-3_96</ee>
 </inproceedings>
 </r>
-<coauthors n="113" nc="1">
+<coauthors n="114" nc="1">
 <co c="0"><na f="a/Abreu:Alexandre_Santiago_de" pid="191/4851">Alexandre Santiago de Abreu</na></co>
 <co c="0"><na f="a/Adauto:Matheus" pid="370/3275">Matheus Adauto</na></co>
 <co c="0"><na f="a/Alc=oacute=n:Liliana" pid="29/5539">Liliana Alc&#243;n</na></co>
@@ -2903,12 +2917,13 @@
 <co c="0"><na f="b/Bornstein:Claudson_F=" pid="93/6594">Claudson F. Bornstein</na></co>
 <co c="0"><na f="b/Braga:Mar=iacute=lia_D=_V=" pid="65/6243">Mar&#237;lia D. V. Braga</na></co>
 <co c="0"><na f="b/Brazil:Emilio_Vital" pid="26/1208">Emilio Vital Brazil</na></co>
+<co c="0"><na f="b/Bridi:G=_A=" pid="408/2235">G. A. Bridi</na></co>
 <co c="0"><na f="b/Brinkmann:Gunnar" pid="83/1228">Gunnar Brinkmann</na></co>
 <co c="0"><na f="b/Bueno:Let=iacute=cia_Rodrigues" pid="46/10362">Let&#237;cia Rodrigues Bueno</na></co>
 <co c="0"><na f="c/Cameron:Kathie" pid="76/1551">Kathie Cameron</na></co>
 <co c="0"><na f="c/Campos:C=_N=" pid="65/1977">C. N. Campos</na></co>
 <co c="0"><na f="c/Carmo:Renato" pid="64/3603">Renato Carmo</na></co>
-<co c="0"><na f="c/Carvalho:Paulo_Cezar_Pinto" pid="28/5479">Paulo Cezar Pinto Carvalho</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Paulo_C=_P=" pid="28/5479">Paulo C. P. Carvalho</na><na>Paulo Cezar Pinto Carvalho</na></co>
 <co c="0"><na f="c/Castonguay:Diane" pid="135/6054">Diane Castonguay</na></co>
 <co c="0"><na f="c/Cerioli:M=aacute=rcia_R=" pid="05/4738">M&#225;rcia R. Cerioli</na></co>
 <co c="0"><na f="c/Chaniotis:Aristotelis" pid="339/0756">Aristotelis Chaniotis</na></co>

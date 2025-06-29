@@ -1,11 +1,24 @@
 <?xml version="1.0"?>
-<dblpperson name="Rafael P. Torchelsen" pid="25/7609" n="27">
+<dblpperson name="Rafael P. Torchelsen" pid="25/7609" n="28">
 <person key="homepages/25/7609" mdate="2025-01-10">
 <author pid="25/7609">Rafael P. Torchelsen</author>
 <author pid="25/7609">Rafael Piccin Torchelsen</author>
 <url>https://orcid.org/0000-0003-2240-5183</url>
 <url>https://www.wikidata.org/entity/Q131163833</url>
 </person>
+<r><article key="journals/cg/TorchelsenL25" mdate="2025-06-25">
+<author pid="25/7609">Rafael Piccin Torchelsen</author>
+<author pid="139/8825">Jo&#227;o Paulo Lima</author>
+<title>Foreword to the special section on SIBGRAPI 2023 tutorials.</title>
+<pages>104257</pages>
+<year>2025</year>
+<volume>130</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2025.104257</ee>
+<url>db/journals/cg/cg130.html#TorchelsenL25</url>
+<stream>streams/journals/cg</stream>
+</article>
+</r>
 <r><article key="journals/cg/FernandesT24" mdate="2024-05-31">
 <author pid="48/5542">Leandro A. F. Fernandes</author>
 <author orcid="0000-0003-2240-5183" pid="25/7609">Rafael Piccin Torchelsen</author>
@@ -404,7 +417,7 @@
 <url>db/journals/cgf/cgf28.html#TorchelsenPBC09</url>
 </article>
 </r>
-<coauthors n="29" nc="1">
+<coauthors n="30" nc="1">
 <co c="0" n="2"><na f="a/Aguiar:Marilton_S=_de" pid="02/284">Marilton S. de Aguiar</na><na>Marilton Sanchotene de Aguiar</na></co>
 <co c="0"><na f="b/Bastos:Rui" pid="83/6941">Rui Bastos</na></co>
 <co c="0"><na f="b/Bergmann:Victor_Kunde" pid="363/5507">Victor Kunde Bergmann</na></co>
@@ -415,6 +428,7 @@
 <co c="0"><na f="f/Filho:Jorge_A=_Wagner" pid="181/7199">Jorge A. Wagner Filho</na></co>
 <co c="0" n="2"><na f="f/Freitas:Carla_M=_D=_S=" pid="f/CarlaMDSFreitas">Carla M. D. S. Freitas</na><na>Carla Maria Dal Sasso Freitas</na></co>
 <co c="0"><na f="l/Lemos:C=aacute=ssio_Fehlberg" pid="373/4984">C&#225;ssio Fehlberg Lemos</na></co>
+<co c="-1" n="2"><na f="l/Lima:Joao_Paulo_Silva_do_Monte" pid="139/8825">Joao Paulo Silva do Monte Lima</na><na>Jo&#227;o Paulo Lima</na></co>
 <co c="0"><na f="m/Maciel:Anderson" pid="72/4175">Anderson Maciel</na></co>
 <co c="0"><na f="m/Martins:Marcelo_Gomes" pid="363/6775">Marcelo Gomes Martins</na></co>
 <co c="0"><na f="m/Maule:Marilena" pid="64/10196">Marilena Maule</na></co>

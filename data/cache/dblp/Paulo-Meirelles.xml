@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Paulo Meirelles" pid="37/5038" n="48">
+<dblpperson name="Paulo Meirelles" pid="37/5038" n="50">
 <person key="homepages/37/5038" mdate="2020-01-24">
 <author pid="37/5038">Paulo Meirelles</author>
 <author pid="37/5038">Paulo Roberto Miranda Meirelles</author>
@@ -111,6 +111,34 @@
 <crossref>conf/vem/2024</crossref>
 <url>db/conf/vem/vem2024.html#PinheiroM24</url>
 </inproceedings>
+</r>
+<r><data key="data/11/PiloneMMK24" mdate="2025-06-26">
+<author orcid="0009-0004-3899-4087" pid="385/7279">Arthur Pilone</author>
+<author orcid="0000-0002-8923-2814" pid="37/5038">Paulo Meirelles</author>
+<author orcid="0000-0002-6899-4393" pid="98/6717">Walid Maalej</author>
+<author orcid="0000-0003-3888-7340" pid="k/FabioKon">Fabio Kon</author>
+<title>A replication package for 'Multilingual Crowd-Based Requirements Engineering Using Large Language Models'.</title>
+<year>2024</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.13001052</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="3" label="Version 3" uri="https://doi.org/10.5281/zenodo.11424209" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/PiloneMMK24a" mdate="2025-06-27">
+<author orcid="0009-0004-3899-4087" pid="385/7279">Arthur Pilone</author>
+<author orcid="0000-0002-8923-2814" pid="37/5038">Paulo Meirelles</author>
+<author orcid="0000-0002-6899-4393" pid="98/6717">Walid Maalej</author>
+<author orcid="0000-0003-3888-7340" pid="k/FabioKon">Fabio Kon</author>
+<title>A replication package for 'Multilingual Crowd-Based Requirements Engineering Using Large Language Models'.</title>
+<year>2024</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.13336659</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="4" label="Version 4" uri="https://doi.org/10.5281/zenodo.11424209" type="versionOf"></rel>
+</data>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2404-17417" mdate="2024-06-05">
 <author pid="65/1205">Eduardo Guerra 0001</author>

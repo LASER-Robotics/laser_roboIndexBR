@@ -314,8 +314,8 @@
 <stream>streams/conf/dcoss</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/latincom/BarretoSGGFM24" mdate="2025-03-03">
-<author pid="382/7714">Jorge Andre Domingues Barreto</author>
+<r><inproceedings key="conf/latincom/BarretoSGGFM24" mdate="2025-06-26">
+<author pid="382/7714">Jorge A. D. Barreto</author>
 <author pid="382/8601">Hericson Dos Santos</author>
 <author pid="115/5019">Vin&#237;cius Pereira Gon&#231;alves</author>
 <author pid="86/4704">Daniel L. Guidoni</author>
@@ -1662,7 +1662,7 @@
 <co c="0"><na f="a/Andrade:Fernando_R=_H=" pid="178/7446">Fernando R. H. Andrade</na></co>
 <co c="0"><na f="a/Antunes:Emerson_de_O=" pid="331/2197">Emerson de O. Antunes</na></co>
 <co c="0" n="2"><na f="a/Ara=uacute=jo:Alet=eacute=ia_P=_F=" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</na><na>Aleteia Araujo</na></co>
-<co c="0"><na f="b/Barreto:Jorge_Andre_Domingues" pid="382/7714">Jorge Andre Domingues Barreto</na></co>
+<co c="0" n="2"><na f="b/Barreto:Jorge_A=_D=" pid="382/7714">Jorge A. D. Barreto</na><na>Jorge Andre Domingues Barreto</na></co>
 <co c="0" n="2"><na f="b/Barreto:Priscila_Sol=iacute=s" pid="85/5282">Priscila Sol&#237;s Barreto</na><na>Priscila Am&#233;rica Sol&#237;s Mendez Barreto</na></co>
 <co c="0"><na f="b/Barros:Eric_Bernardes_Chagas" pid="151/0856">Eric Bernardes Chagas Barros</na></co>
 <co c="0"><na f="b/Bispo:Guilherme_Dantas" pid="362/8259">Guilherme Dantas Bispo</na></co>

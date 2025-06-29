@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rodrigo Bonif&#225;cio" pid="21/824" n="85">
+<dblpperson name="Rodrigo Bonif&#225;cio" pid="21/824" n="86">
 <person key="homepages/21/824" mdate="2025-01-10">
 <author pid="21/824">Rodrigo Bonif&#225;cio</author>
 <url>https://dl.acm.org/profile/81361591955</url>
@@ -44,6 +44,24 @@
 <url>db/journals/jserd/jserd13.html#NazarioBSKP25</url>
 <stream>streams/journals/jserd</stream>
 </article>
+</r>
+<r><inproceedings key="conf/ecoop/CostaMOCBNM025" mdate="2025-06-26">
+<author pid="279/0113">Francisco Handrick da Costa</author>
+<author pid="278/9713">Ismael Medeiros</author>
+<author pid="124/4869">Leandro Oliveira</author>
+<author pid="407/8931">Jo&#227;o Cal&#225;ssio</author>
+<author pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="174/2005">Krishna Narasimhan</author>
+<author pid="m/MiraMezini">Mira Mezini</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Scaling Up: Revisiting Mining Android Sandboxes at Scale for Malware Classification (Replication Paper).</title>
+<pages>40:1-40:26</pages>
+<year>2025</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2025.40</ee>
+<crossref>conf/ecoop/2025</crossref>
+<url>db/conf/ecoop/ecoop2025.html#CostaMOCBNM025</url>
+</inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2505-09392" mdate="2025-06-23">
 <author pid="249/9922">Marcos Felipe Carvalho Naz&#225;rio</author>

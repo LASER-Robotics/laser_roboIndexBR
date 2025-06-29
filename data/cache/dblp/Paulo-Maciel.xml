@@ -792,13 +792,13 @@
 <url>db/conf/syscon/syscon2021.html#Camboim0MAAM21</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/syscon/MacielAMPDMM21" mdate="2023-06-26">
+<r><inproceedings key="conf/syscon/MacielAMPDMM21" mdate="2025-06-25">
 <author pid="199/7124">Ronierison Maciel</author>
 <author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
 <author pid="194/9276">Carlos Melo</author>
 <author pid="23/4827">Paulo Pereira</author>
 <author pid="123/2647">Jamilson Dantas</author>
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
 <title>Impact Evaluation of DDoS Attacks Using IoT Devices.</title>
 <pages>1-8</pages>
@@ -1273,8 +1273,8 @@
 <url>db/conf/smc/smc2019.html#AraujoDMPM19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/smc/MendoncaMAMML19" mdate="2020-12-29">
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<r><inproceedings key="conf/smc/MendoncaMAMML19" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="254/5326">Wilson Medeiros</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson C. Andrade</author>
 <author pid="199/7124">Ronierison Maciel</author>
@@ -4910,7 +4910,7 @@
 <co c="0"><na f="m/Melo:Rosangela" pid="155/4568">Rosangela Melo</na></co>
 <co c="0"><na f="m/Mendes:Bruno" pid="170/0493">Bruno Mendes</na></co>
 <co c="1"><na f="m/Mendon=ccedil=a:Ant=ocirc=nio" pid="121/1985">Ant&#244;nio Mendon&#231;a</na></co>
-<co c="0" n="2"><na f="m/Mendonca:Julio" pid="174/3553">Julio Mendonca</na><na>J&#250;lio Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Mendonca_0001:Julio" pid="174/3553-1">Julio Mendonca 0001</na><na>J&#250;lio Mendon&#231;a 0001</na></co>
 <co c="0"><na f="m/Menezes:Julian" pid="261/0340">Julian Menezes</na></co>
 <co c="0" n="2"><na f="m/Mialaret:Marco_Aurelio_Tomaz" pid="281/8483">Marco Aurelio Tomaz Mialaret</na><na>Marco Mialaret</na></co>
 <co c="0"><na f="m/Mimouni:Salim" pid="360/3257">Salim Mimouni</na></co>

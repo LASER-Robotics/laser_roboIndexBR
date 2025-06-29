@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rohit Gheyi" pid="10/3240" n="113">
+<dblpperson name="Rohit Gheyi" pid="10/3240" n="114">
 <person key="homepages/10/3240" mdate="2019-05-23">
 <author pid="10/3240">Rohit Gheyi</author>
 <url>https://orcid.org/0000-0002-5562-4449</url>
@@ -51,6 +51,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.07343</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-07343</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-20338" mdate="2025-06-27">
+<author pid="408/7445">Cayo Viegas</author>
+<author pid="10/3240">Rohit Gheyi</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Assessing the Capability of LLMs in Solving POSCOMP Questions.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.20338</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.20338</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-20338</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1798,7 +1812,7 @@
 <url>db/journals/entcs/entcs95.html#GheyiB04</url>
 </inproceedings>
 </r>
-<coauthors n="123" nc="3">
+<coauthors n="124" nc="3">
 <co c="0"><na f="a/Aguiar:Solon" pid="05/10539">Solon Aguiar</na></co>
 <co c="0"><na f="a/Al=Hajjaji:Mustafa" pid="151/2237">Mustafa Al-Hajjaji</na></co>
 <co c="0"><na f="a/Albuquerque:Lucas" pid="383/9100">Lucas Albuquerque</na></co>
@@ -1921,6 +1935,7 @@
 <co c="0"><na f="u/Uchitel:Sebasti=aacute=n" pid="21/1391">Sebasti&#225;n Uchitel</na></co>
 <co c="0"><na f="v/Varjao:Catuxe" pid="95/10539">Catuxe Varjao</na></co>
 <co c="0"><na f="v/Viana:Jos=eacute=_Carlos" pid="233/8497">Jos&#233; Carlos Viana</na></co>
+<co c="0"><na f="v/Viegas:Cayo" pid="408/7445">Cayo Viegas</na></co>
 <co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
 </coauthors>
 </dblpperson>

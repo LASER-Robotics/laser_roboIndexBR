@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Jos&#233; A. F. de Mac&#234;do" pid="f/JAFernandesdeMacedo" n="168">
+<dblpperson name="Jos&#233; A. F. de Mac&#234;do" pid="f/JAFernandesdeMacedo" n="170">
 <person key="homepages/f/JAFernandesdeMacedo" mdate="2022-05-06">
 <author pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</author>
 <author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
@@ -59,6 +59,27 @@
 <stream>streams/journals/jbcs</stream>
 </article>
 </r>
+<r><article key="journals/jnsm/RegoSRMCZSM25" mdate="2025-06-25">
+<author pid="176/1468">Lu&#237;s Gustavo Coutinho do R&#234;go</author>
+<author pid="131/5507">Ticiana L. Coelho da Silva</author>
+<author pid="16/9780">Atslands Rego da Rocha</author>
+<author pid="408/1841">Matheus R. Monteiro</author>
+<author pid="119/6746">L&#237;via A. Cruz</author>
+<author pid="z/KarineZeitouni">Karine Zeitouni</author>
+<author pid="406/3897">Jorge Barbosa Soares</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<title>A Workflow for Synthetic Biometric in-Edge Data Generation using GAN based models.</title>
+<pages>64</pages>
+<year>2025</year>
+<month>July</month>
+<volume>33</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-025-09938-9</ee>
+<url>db/journals/jnsm/jnsm33.html#RegoSRMCZSM25</url>
+<stream>streams/journals/jnsm</stream>
+</article>
+</r>
 <r><inproceedings key="conf/iceis/PeresCSMMM25" mdate="2025-05-02">
 <author pid="206/3288">Lucas Peres</author>
 <author pid="119/6746">L&#237;via Almada Cruz</author>
@@ -91,12 +112,12 @@
 <url>db/conf/sbsi/sbsi2025.html#MarquesMCMMM25</url>
 </inproceedings>
 </r>
-<r><article key="journals/cee/RochaMMDSMM24" mdate="2024-08-28">
+<r><article key="journals/cee/RochaMMDSMM24" mdate="2025-06-25">
 <author orcid="0000-0002-3069-132X" pid="16/9780">Atslands Rego da Rocha</author>
-<author orcid="0009-0008-5404-2958" pid="273/7917">Matheus Monteiro</author>
+<author orcid="0009-0008-5404-2958" pid="408/1841">Matheus R. Monteiro</author>
 <author orcid="0000-0002-2404-3625" pid="150/2808">C&#233;sar L. C. Mattos</author>
 <author pid="190/2685">Madson L. D. Dias</author>
-<author orcid="0000-0002-2940-6309" pid="124/1336">Jorge Soares</author>
+<author orcid="0000-0002-2940-6309" pid="406/3897">Jorge Barbosa Soares</author>
 <author pid="119/3890">Regis Pires Magalh&#227;es</author>
 <author pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</author>
 <title>Edge AI for Internet of Medical Things: A literature review.</title>
@@ -123,6 +144,25 @@
 <ee>https://doi.org/10.1016/j.ins.2024.120128</ee>
 <url>db/journals/isci/isci660.html#NetoSSM24</url>
 </article>
+</r>
+<r><inproceedings key="conf/isc2/FurtadoMGCFSSSM24" mdate="2025-06-25">
+<author orcid="0000-0002-9123-2805" pid="182/5159">Lara Sucupira Furtado</author>
+<author orcid="0000-0001-5131-2088" pid="406/4760">Nicolas Monteiro</author>
+<author pid="406/3902">Nayara Gurj&#227;o</author>
+<author orcid="0000-0003-1241-4529" pid="406/4147">Rivelino M. Cavalcante</author>
+<author pid="404/6286">Jos&#233; Edilson Silva Filho</author>
+<author orcid="0000-0003-2590-9520" pid="144/2501">Jarbas Aryel Nunes da Silveira</author>
+<author pid="55/2973">Rafael Santos</author>
+<author orcid="0000-0002-2940-6309" pid="406/3897">Jorge Barbosa Soares</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<title>Low-Cost Smart Sensing Pipeline: Assembly, Calibration, and Interpretation of Air Quality Data.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>ISC2</booktitle>
+<ee>https://doi.org/10.1109/ISC260477.2024.11004140</ee>
+<crossref>conf/isc2/2024</crossref>
+<url>db/conf/isc2/isc2024.html#FurtadoMGCFSSSM24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/acl-clinicalnlp/SilvaMM23" mdate="2023-12-23">
 <author pid="131/5507">Ticiana L. Coelho da Silva</author>
@@ -2599,7 +2639,7 @@
 <url>db/conf/sbbd/sbbd2001.html#FreitasLM01</url>
 </inproceedings>
 </r>
-<coauthors n="216" nc="3">
+<coauthors n="222" nc="3">
 <co c="0"><na f="a/Akbarinia:Reza" pid="25/3618">Reza Akbarinia</na></co>
 <co c="0"><na f="a/Albuquerque:F=aacute=bio_da_Costa" pid="117/6102">F&#225;bio da Costa Albuquerque</na></co>
 <co c="0"><na f="a/Almeida:Antonio_M=_R=" pid="192/4753">Antonio M. R. Almeida</na></co>
@@ -2637,6 +2677,7 @@
 <co c="0"><na f="c/Carneiro:Cl=aacute=udio" pid="24/3926">Cl&#225;udio Carneiro</na></co>
 <co c="0"><na f="c/Carvalho:Marcelo_T=iacute=lio_Monteiro_de" pid="17/5965">Marcelo T&#237;lio Monteiro de Carvalho</na></co>
 <co c="0" n="2"><na f="c/Casanova:Marco_A=" pid="c/MarcoACasanova">Marco A. Casanova</na><na>Marco Antonio Casanova</na></co>
+<co c="0"><na f="c/Cavalcante:Rivelino_M=" pid="406/4147">Rivelino M. Cavalcante</na></co>
 <co c="0"><na f="c/Chainey:Spencer_P=" pid="303/2049">Spencer P. Chainey</na></co>
 <co c="0"><na f="c/Chaves:Samir_Braga" pid="394/6439">Samir Braga Chaves</na></co>
 <co c="0"><na f="c/Cintia:Paolo" pid="134/5436">Paolo Cintia</na></co>
@@ -2653,6 +2694,7 @@
 <co c="0"><na f="f/Fernandes:Guilherme_Sales" pid="330/8615">Guilherme Sales Fernandes</na></co>
 <co c="0"><na f="f/Ferreira:Marianna_Gon=ccedil=alves_Fontenele" pid="315/0375">Marianna Gon&#231;alves Fontenele Ferreira</na></co>
 <co c="0"><na f="f/Filho:Fernando_Wagner" pid="181/6559">Fernando Wagner Filho</na></co>
+<co c="0"><na f="f/Filho:Jos=eacute=_Edilson_Silva" pid="404/6286">Jos&#233; Edilson Silva Filho</na></co>
 <co c="0" n="2"><na f="f/Filho:Pedro_Pedrosa_Rebou=ccedil=as" pid="91/2760">Pedro Pedrosa Rebou&#231;as Filho</na><na>Pedro P. R. Filho</na></co>
 <co c="0"><na f="f/Fran=ccedil=a:Diego_S=_de" pid="398/6843">Diego S. de Fran&#231;a</na></co>
 <co c="0" n="2"><na f="f/Franco:Artur_de_Oliveira_da_Rocha" pid="142/4729">Artur de Oliveira da Rocha Franco</na><na>Artur O. R. Franco</na></co>
@@ -2670,6 +2712,7 @@
 <co c="0"><na f="g/Gomes:La=eacute=cia_Gretha_Amorim" pid="403/9403">La&#233;cia Gretha Amorim Gomes</na></co>
 <co c="0"><na f="g/Gomes:Raphael_do_Vale_Amaral" pid="151/0982">Raphael do Vale Amaral Gomes</na></co>
 <co c="0"><na f="g/Guerra:Paulo_T=" pid="51/8671">Paulo T. Guerra</na></co>
+<co c="0"><na f="g/Gurj=atilde=o:Nayara" pid="406/3902">Nayara Gurj&#227;o</na></co>
 <co c="0"><na f="h/Hara:Carmem_S=" pid="26/3914">Carmem S. Hara</na></co>
 <co c="0"><na f="i/Inoubli:Wissem" pid="188/5971">Wissem Inoubli</na></co>
 <co c="0"><na f="j/J=uacute=nior:Antonio_Jos=eacute=_Melo_Leite" pid="55/1721">Antonio Jos&#233; Melo Leite J&#250;nior</na></co>
@@ -2715,7 +2758,8 @@
 <co c="0" n="2"><na f="m/Miranda:Antonio_B=_de" pid="77/2060">Antonio B. de Miranda</na><na>Antonio Bas&#237;lio de Miranda</na></co>
 <co c="0"><na f="m/Moelans:Bart" pid="53/366">Bart Moelans</na></co>
 <co c="0" n="2"><na f="m/Monteiro:Jos=eacute=_Maria" pid="92/1818">Jos&#233; Maria Monteiro</na><na>Jos&#233; Maria da Silva Monteiro Filho</na></co>
-<co c="0"><na f="m/Monteiro:Matheus" pid="273/7917">Matheus Monteiro</na></co>
+<co c="0"><na f="m/Monteiro:Matheus_R=" pid="408/1841">Matheus R. Monteiro</na></co>
+<co c="0"><na f="m/Monteiro:Nicolas" pid="406/4760">Nicolas Monteiro</na></co>
 <co c="0"><na f="m/Mota:Abelardo_Vieira" pid="272/7180">Abelardo Vieira Mota</na></co>
 <co c="0"><na f="n/Nardini:Franco_Maria" pid="56/1965">Franco Maria Nardini</na></co>
 <co c="1"><na f="n/Nascimento:Anderson_Jhones_Passos" pid="336/4894">Anderson Jhones Passos Nascimento</na></co>
@@ -2763,6 +2807,7 @@
 <co c="0"><na f="s/Santos:Alexandre_M=_M=" pid="275/8015">Alexandre M. M. Santos</na></co>
 <co c="0"><na f="s/Santos:Emanuele_Marques_dos" pid="42/3050">Emanuele Marques dos Santos</na></co>
 <co c="0"><na f="s/Santos:Helano_P=" pid="293/8102">Helano P. Santos</na></co>
+<co c="0"><na f="s/Santos:Rafael" pid="55/2973">Rafael Santos</na></co>
 <co c="0"><na f="s/Santos:Salom=atilde=o" pid="206/1322">Salom&#227;o Santos</na></co>
 <co c="0"><na f="s/Saraiva:Felipe_Zschornack_Rodrigues" pid="266/3202">Felipe Zschornack Rodrigues Saraiva</na></co>
 <co c="0"><na f="s/Sarker:Bishnu" pid="88/10824">Bishnu Sarker</na></co>
@@ -2776,12 +2821,13 @@
 <co c="0"><na f="s/Silva:Ronildo_Oliveira_da" pid="359/0648">Ronildo Oliveira da Silva</na></co>
 <co c="0" n="2"><na f="s/Silva:Ticiana_L=_Coelho_da" pid="131/5507">Ticiana L. Coelho da Silva</na><na>Ticiana Linhares Coelho da Silva</na></co>
 <co c="0" n="3"><na f="s/Silva:Wellington_C=_P=" pid="262/7111">Wellington C. P. Silva</na><na>Wellington Clay Porcino Silva</na><na>Wellington Clay Porcino</na></co>
+<co c="0" n="2"><na f="s/Silveira:Jarbas" pid="144/2501">Jarbas Silveira</na><na>Jarbas Aryel Nunes da Silveira</na></co>
 <co c="0"><na f="s/Siqueira:Manoel" pid="133/8838">Manoel Siqueira</na></co>
 <co c="0"><na f="s/Sma=iuml=l=Tabbone:Malika" pid="s/MSmail-Tabbone">Malika Sma&#239;l-Tabbone</na></co>
 <co c="0"><na f="s/Soares:Felipe_F=" pid="275/7141">Felipe F. Soares</na></co>
 <co c="0"><na f="s/Soares:Felipe_Melo" pid="255/0135">Felipe Melo Soares</na></co>
 <co c="0" n="2"><na f="s/Soares:Johnny_Marcos_S=" pid="290/4451">Johnny Marcos S. Soares</na><na>Johnny Marcos Silva Soares</na></co>
-<co c="0"><na f="s/Soares:Jorge" pid="124/1336">Jorge Soares</na></co>
+<co c="0"><na f="s/Soares:Jorge_Barbosa" pid="406/3897">Jorge Barbosa Soares</na></co>
 <co c="-1"><na f="s/Sousa:Diego_Victor_Sim=otilde=es_de" pid="181/6556">Diego Victor Sim&#245;es de Sousa</na></co>
 <co c="0"><na f="s/Sousa:Fl=aacute=vio_R=_C=" pid="04/162">Fl&#225;vio R. C. Sousa</na></co>
 <co c="0" n="2"><na f="s/Souza:Cr=iacute=ston_P=_de" pid="48/3503">Cr&#237;ston P. de Souza</na><na>Cr&#237;ston Pereira de Souza</na></co>

@@ -73,12 +73,12 @@
 <stream>streams/journals/asc</stream>
 </article>
 </r>
-<r><article key="journals/cee/RochaMMDSMM24" mdate="2024-08-28">
+<r><article key="journals/cee/RochaMMDSMM24" mdate="2025-06-25">
 <author orcid="0000-0002-3069-132X" pid="16/9780">Atslands Rego da Rocha</author>
-<author orcid="0009-0008-5404-2958" pid="273/7917">Matheus Monteiro</author>
+<author orcid="0009-0008-5404-2958" pid="408/1841">Matheus R. Monteiro</author>
 <author orcid="0000-0002-2404-3625" pid="150/2808">C&#233;sar L. C. Mattos</author>
 <author pid="190/2685">Madson L. D. Dias</author>
-<author orcid="0000-0002-2940-6309" pid="124/1336">Jorge Soares</author>
+<author orcid="0000-0002-2940-6309" pid="406/3897">Jorge Barbosa Soares</author>
 <author pid="119/3890">Regis Pires Magalh&#227;es</author>
 <author pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</author>
 <title>Edge AI for Internet of Medical Things: A literature review.</title>
@@ -780,7 +780,7 @@
 <co c="0"><na f="m/Medeiros:Ald=iacute=sio_Gon=ccedil=alves" pid="213/1744">Ald&#237;sio Gon&#231;alves Medeiros</na></co>
 <co c="0" n="2"><na f="m/Mesquita:Diego" pid="163/4293">Diego Mesquita</na><na>Diego P. P. Mesquita</na></co>
 <co c="0"><na f="m/Monteiro:Jos=eacute=_Maria" pid="92/1818">Jos&#233; Maria Monteiro</na></co>
-<co c="0"><na f="m/Monteiro:Matheus" pid="273/7917">Matheus Monteiro</na></co>
+<co c="0"><na f="m/Monteiro:Matheus_R=" pid="408/1841">Matheus R. Monteiro</na></co>
 <co c="0"><na f="m/Mour=atilde=o:Pedro_Jorge_Chaves" pid="293/7280">Pedro Jorge Chaves Mour&#227;o</na></co>
 <co c="0"><na f="n/Neto:Airton_F=_Souza" pid="386/5521">Airton F. Souza Neto</na></co>
 <co c="0"><na f="n/Neto:Ajalmar_R=_da_Rocha" pid="23/9794">Ajalmar R. da Rocha Neto</na></co>
@@ -811,7 +811,7 @@
 <co c="0"><na f="s/Silva:Paulo_Mateus_Moura_da" pid="255/9598">Paulo Mateus Moura da Silva</na></co>
 <co c="0"><na f="s/Silva:Ticiana_L=_Coelho_da" pid="131/5507">Ticiana L. Coelho da Silva</na></co>
 <co c="0"><na f="s/Silva:Wellington_C=_P=" pid="262/7111">Wellington C. P. Silva</na></co>
-<co c="0"><na f="s/Soares:Jorge" pid="124/1336">Jorge Soares</na></co>
+<co c="0"><na f="s/Soares:Jorge_Barbosa" pid="406/3897">Jorge Barbosa Soares</na></co>
 <co c="0"><na f="s/Sousa:Lucas_Silva_de" pid="200/9735">Lucas Silva de Sousa</na></co>
 <co c="0"><na f="s/Souza:Alisson_Barbosa_de" pid="50/7714">Alisson Barbosa de Souza</na></co>
 <co c="0" n="4"><na f="s/Souza:Amauri_H=" pid="131/3352">Amauri H. Souza</na><na>Amauri H. de Souza</na><na>Amauri Holanda de Souza J&#250;nior</na><na>Amauri H. Souza J&#250;nior</na></co>

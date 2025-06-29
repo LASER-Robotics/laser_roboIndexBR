@@ -1,11 +1,32 @@
 <?xml version="1.0"?>
-<dblpperson name="William Robson Schwartz" pid="78/6398" n="188">
+<dblpperson name="William Robson Schwartz" pid="78/6398" n="189">
 <person key="homepages/78/6398" mdate="2022-10-29">
 <author pid="78/6398">William Robson Schwartz</author>
 <url>https://orcid.org/0000-0003-1449-8834</url>
 <url>https://www.wikidata.org/entity/Q62056058</url>
 <url>https://ieeexplore.ieee.org/author/37325223000</url>
 </person>
+<r><article key="journals/tgrs/CangucuJBSLCTSVM25" mdate="2025-06-27">
+<author pid="329/9374">Gabriel L. Cangu&#231;u</author>
+<author pid="408/8105">Leonardo M. S. Jorge</author>
+<author pid="408/7283">Gabriela T. Barreto</author>
+<author pid="303/4322">Thales H. Silva</author>
+<author pid="408/8229">Luiz A. Lima</author>
+<author pid="408/7816">Walace S. Caldas</author>
+<author pid="408/8059">Carlos G. S. Tavares</author>
+<author pid="78/6398">William Robson Schwartz</author>
+<author pid="408/7451">Pedro O. S. Vaz-de-Melo</author>
+<author pid="13/7145">Alexei M. C. Machado</author>
+<title>A Principled Benchmark for Seismic Data Segmentation.</title>
+<pages>1-9</pages>
+<year>2025</year>
+<volume>63</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2025.3575336</ee>
+<url>db/journals/tgrs/tgrs63.html#CangucuJBSLCTSVM25</url>
+<stream>streams/journals/tgrs</stream>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2505-06393" mdate="2025-06-23">
 <author pid="332/0795">Valfride Nascimento</author>
 <author pid="386/1476">Gabriel E. Lima</author>
@@ -2662,7 +2683,7 @@
 <url>db/conf/icip/icip2001-3.html#PedriniSF01</url>
 </inproceedings>
 </r>
-<coauthors n="160" nc="1">
+<coauthors n="169" nc="1">
 <co c="0"><na f="a/Akio:Fernando" pid="263/7325">Fernando Akio</na></co>
 <co c="0"><na f="a/Alves:Ra=uacute=l" pid="152/8254">Ra&#250;l Alves</na></co>
 <co c="0"><na f="a/Andrade:Matheus_Toledo_Lustosa_de" pid="196/3183">Matheus Toledo Lustosa de Andrade</na></co>
@@ -2670,6 +2691,7 @@
 <co c="0"><na f="a/Ara=uacute=jo:Arnaldo_de_Albuquerque" pid="a/ArnaldodeAlbuquerqueAraujo">Arnaldo de Albuquerque Ara&#250;jo</na></co>
 <co c="0"><na f="a/Avila:Sandra_Eliza_Fontes_de" pid="97/3954">Sandra Eliza Fontes de Avila</na></co>
 <co c="0"><na f="b/Bandyopadhyay:Sabyasachi" pid="342/3582">Sabyasachi Bandyopadhyay</na></co>
+<co c="0"><na f="b/Barreto:Gabriela_T=" pid="408/7283">Gabriela T. Barreto</na></co>
 <co c="0" n="2"><na f="b/Barroso:Victor_A=_N=" pid="15/1416">Victor A. N. Barroso</na><na>Victor Barroso</na></co>
 <co c="0" n="2"><na f="b/Baslanti:Tezcan" pid="206/6388">Tezcan Baslanti</na><na>Tezcan Ozrazgat-Baslanti</na></co>
 <co c="0" n="2"><na f="b/Bastos:Igor_L=_O=" pid="170/3095">Igor L. O. Bastos</na><na>Igor Leonardo Oliveira Bastos</na></co>
@@ -2682,7 +2704,9 @@
 <co c="0"><na f="b/Brito:Alceu_De_S=" pid="214/2418">Alceu De S. Brito</na></co>
 <co c="0" n="2"><na f="b/Britto_Jr=:Alceu_S=" pid="98/5101">Alceu S. Britto Jr.</na><na>Alceu de Souza Britto Jr.</na></co>
 <co c="0" n="2"><na f="c/Caetano_Jr=:Carlos_Ant=ocirc=nio" pid="148/4357">Carlos Ant&#244;nio Caetano Jr.</na><na>Carlos Caetano</na></co>
+<co c="0"><na f="c/Caldas:Walace_S=" pid="408/7816">Walace S. Caldas</na></co>
 <co c="0"><na f="c/Campos:Mario_Fernando_Montenegro" pid="70/4227">Mario Fernando Montenegro Campos</na></co>
+<co c="0"><na f="c/Cangu=ccedil=u:Gabriel_L=" pid="329/9374">Gabriel L. Cangu&#231;u</na></co>
 <co c="0"><na f="c/Carlos:Gerson_de_Paulo" pid="134/1509">Gerson de Paulo Carlos</na></co>
 <co c="0"><na f="c/Carreira:Luiz_Guilherme_Fonseca" pid="390/4523">Luiz Guilherme Fonseca Carreira</na></co>
 <co c="0"><na f="c/Carvalho_Jr=:Paulo_Roberto_de" pid="134/9312">Paulo Roberto de Carvalho Jr.</na></co>
@@ -2720,6 +2744,7 @@
 <co c="0"><na f="h/Hamann:Bernd" pid="75/4849">Bernd Hamann</na></co>
 <co c="0"><na f="h/Harwood:David" pid="50/1979">David Harwood</na></co>
 <co c="0" n="2"><na f="j/Jord=atilde=o:Artur" pid="191/2742">Artur Jord&#227;o</na><na>Artur Jord&#227;o Lima Correia</na></co>
+<co c="0"><na f="j/Jorge:Leonardo_M=_S=" pid="408/8105">Leonardo M. S. Jorge</na></co>
 <co c="-1"><na f="j/Junior:Renato_Sergio_Lopes" pid="309/4387">Renato Sergio Lopes Junior</na></co>
 <co c="0" n="2"><na f="k/Kaick:Oliver_van" pid="72/2530">Oliver van Kaick</na><na>Oliver Matias van Kaick</na></co>
 <co c="0"><na f="k/Kasim:Furkan" pid="328/4163">Furkan Kasim</na></co>
@@ -2735,12 +2760,14 @@
 <co c="0"><na f="l/Li:Stan_Z=" pid="l/StanZLi">Stan Z. Li</na></co>
 <co c="0" n="2"><na f="l/Lie:Maiko_M=_I=" pid="190/1364">Maiko M. I. Lie</na><na>Maiko Lie 0001</na></co>
 <co c="0"><na f="l/Lima:Gabriel_E=" pid="386/1476">Gabriel E. Lima</na></co>
+<co c="0"><na f="l/Lima:Luiz_A=" pid="408/8229">Luiz A. Lima</na></co>
 <co c="0"><na f="l/Lima:Luiz_Eduardo_Coelho" pid="235/7527">Luiz Eduardo Coelho Lima</na></co>
 <co c="0"><na f="l/Lima:Vitor_de" pid="31/8671">Vitor de Lima</na></co>
 <co c="0"><na f="l/Linghu:Yu" pid="326/1960">Yu Linghu</na></co>
 <co c="0"><na f="l/Loftus:Tyler_J=" pid="215/5504">Tyler J. Loftus</na></co>
 <co c="0"><na f="l/Lorenzo=Navarro:Javier" pid="l/JavierLorenzoNavarro">Javier Lorenzo-Navarro</na></co>
 <co c="0"><na f="l/Luz:Eduardo_Jos=eacute=_da_S=" pid="126/6191">Eduardo Jos&#233; da S. Luz</na></co>
+<co c="0"><na f="m/Machado:Alexei_M=_C=" pid="13/7145">Alexei M. C. Machado</na></co>
 <co c="0"><na f="m/Marcel:S=eacute=bastien" pid="31/5046">S&#233;bastien Marcel</na></co>
 <co c="0" n="2"><na f="m/Melo:Victor_C=_de" pid="126/8185">Victor C. de Melo</na><na>Victor Hugo Cunha de Melo</na></co>
 <co c="0"><na f="m/Mendes:Gilson" pid="232/9108">Gilson Mendes</na></co>
@@ -2805,17 +2832,20 @@
 <co c="0"><na f="s/Silva:Ricardo_Dutra_da" pid="53/65">Ricardo Dutra da Silva</na></co>
 <co c="0" n="2"><na f="s/Silva:Samira" pid="152/8623">Samira Silva</na><na>Samira Santos Da Silva</na></co>
 <co c="0"><na f="s/Silva:Sirlene_Pio_Gomes_da" pid="183/6169">Sirlene Pio Gomes da Silva</na></co>
+<co c="0"><na f="s/Silva:Thales_H=" pid="303/4322">Thales H. Silva</na></co>
 <co c="0"><na f="s/Siqueira:Fernando_Roberti_de" pid="134/9240">Fernando Roberti de Siqueira</na></co>
 <co c="0"><na f="s/Sirena:Nicola" pid="120/8512">Nicola Sirena</na></co>
 <co c="0"><na f="s/Soares:Larissa_Rocha" pid="155/7275">Larissa Rocha Soares</na></co>
 <co c="0"><na f="s/Souza:Tiago" pid="152/8474">Tiago Souza</na></co>
 <co c="0"><na f="s/Srivastava_0001:Ankur" pid="83/1695">Ankur Srivastava 0001</na></co>
+<co c="0"><na f="t/Tavares:Carlos_G=_S=" pid="408/8059">Carlos G. S. Tavares</na></co>
 <co c="0"><na f="t/Tighe:Patrick_James" pid="188/3099">Patrick James Tighe</na></co>
 <co c="0"><na f="t/Todt:Eduardo" pid="91/2657">Eduardo Todt</na></co>
 <co c="0" n="2"><na f="t/Torres:Leonardo_A=_B=" pid="16/6491">Leonardo A. B. Torres</na><na>Leonardo Ant&#244;nio Borges Torres</na></co>
 <co c="0"><na f="t/Tronci:Roberto" pid="54/912">Roberto Tronci</na></co>
 <co c="0"><na f="v/Valenzuela:Ricardo_Eugenio_Gonz=aacute=lez" pid="169/2690">Ricardo Eugenio Gonz&#225;lez Valenzuela</na></co>
 <co c="0"><na f="v/Vareto:Rafael_Henrique" pid="208/7477">Rafael Henrique Vareto</na></co>
+<co c="0"><na f="v/Vaz=de=Melo:Pedro_O=_S=" pid="408/7451">Pedro O. S. Vaz-de-Melo</na></co>
 <co c="0"><na f="v/Vieira:Ant=ocirc=nio_Wilson" pid="94/143">Ant&#244;nio Wilson Vieira</na></co>
 <co c="0"><na f="y/Yamada:Fernando" pid="228/8039">Fernando Yamada</na></co>
 <co c="0"><na f="y/Yan:Junjie" pid="115/9656">Junjie Yan</na></co>

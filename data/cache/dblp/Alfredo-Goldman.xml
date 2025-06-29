@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Alfredo Goldman" pid="g/AlfredoGoldman" n="150">
+<dblpperson name="Alfredo Goldman" pid="g/AlfredoGoldman" n="151">
 <person key="homepages/g/AlfredoGoldman" mdate="2022-02-15">
 <author pid="g/AlfredoGoldman">Alfredo Goldman</author>
 <author pid="g/AlfredoGoldman">Alfredo Goldman vel Lejbman</author>
@@ -31,6 +31,20 @@
 <ee>https://doi.org/10.1007/978-3-031-72781-8</ee>
 <url>db/conf/xpu/xp2024w.html</url>
 </proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-21603" mdate="2025-06-27">
+<author pid="403/5149">Andre Massahiro Shimaoka</author>
+<author pid="395/8850">Renato Cordeiro Ferreira</author>
+<author pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<title>Leveraging XP and CRISP-DM for Agile Data Science Projects.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.21603</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.21603</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-21603</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/tc/MoraisAJRAFGM24" mdate="2024-03-08">
 <author orcid="0000-0002-9461-9183" pid="208/8224">Lucas Morais</author>
@@ -2140,7 +2154,7 @@
 <ee>https://doi.org/10.1007/3-540-58184-7_130</ee>
 </inproceedings>
 </r>
-<coauthors n="191" nc="3">
+<coauthors n="192" nc="3">
 <co c="0"><na f="a/Abrahao:Patrick" pid="313/9837">Patrick Abrahao</na></co>
 <co c="0"><na f="a/Aguiar:Ademar" pid="48/4640">Ademar Aguiar</na></co>
 <co c="0"><na f="a/Aguiar:Carla_S=_R=" pid="57/844">Carla S. R. Aguiar</na></co>
@@ -2302,6 +2316,7 @@
 <co c="0"><na f="s/Santos:Viviane_A=" pid="57/8920">Viviane A. Santos</na></co>
 <co c="0"><na f="s/Sato:Danilo_T=" pid="68/1583">Danilo T. Sato</na></co>
 <co c="0" n="2"><na f="s/Seaman:Carolyn_B=" pid="s/CarolynBSeaman">Carolyn B. Seaman</na><na>Carolyn Seaman</na></co>
+<co c="0"><na f="s/Shimaoka:Andre_Massahiro" pid="403/5149">Andre Massahiro Shimaoka</na></co>
 <co c="0"><na f="s/Shinoda:Ana_Carolina_M=" pid="17/10588">Ana Carolina M. Shinoda</na></co>
 <co c="0"><na f="s/Silva:Anderson_Andrei_Da" pid="277/3301">Anderson Andrei Da Silva</na></co>
 <co c="-1"><na f="s/Silva:Caio_Cestari" pid="172/1577">Caio Cestari Silva</na></co>

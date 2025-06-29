@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Antonio Carlos Schneider Beck" pid="02/7021" n="200">
+<dblpperson name="Antonio Carlos Schneider Beck" pid="02/7021" n="201">
 <person key="homepages/02/7021" mdate="2025-05-09">
 <author pid="02/7021">Antonio Carlos Schneider Beck</author>
 <author pid="02/7021">Antonio Carlos S. Beck</author>
@@ -108,6 +108,20 @@
 <crossref>conf/supercomputer/2025</crossref>
 <url>db/conf/supercomputer/isc2025.html#LorenzonBNM25</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-17626" mdate="2025-06-26">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="04/5327">Jer&#243;nimo Castrill&#243;n</author>
+<title>Leveraging Stochastic Depth Training for Adaptive Inference.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.17626</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.17626</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-17626</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/tjs/MooriRLB24" mdate="2024-08-02">
 <author pid="348/7524">Marcelo K. Moori</author>

@@ -446,13 +446,13 @@
 <url>db/conf/intenv/intenv2021w.html#PinheiroOJ0PMOT21</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/syscon/MacielAMPDMM21" mdate="2023-06-26">
+<r><inproceedings key="conf/syscon/MacielAMPDMM21" mdate="2025-06-25">
 <author pid="199/7124">Ronierison Maciel</author>
 <author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
 <author pid="194/9276">Carlos Melo</author>
 <author pid="23/4827">Paulo Pereira</author>
 <author pid="123/2647">Jamilson Dantas</author>
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
 <title>Impact Evaluation of DDoS Attacks Using IoT Devices.</title>
 <pages>1-8</pages>
@@ -1102,7 +1102,7 @@
 <co c="0" n="2"><na f="m/Melo:Matheus_D=E=ccedil=a_Torquato_de" pid="151/4104">Matheus D'E&#231;a Torquato de Melo</na><na>Matheus Torquato 0001</na></co>
 <co c="0"><na f="m/Melo:Pedro" pid="34/7401">Pedro Melo</na></co>
 <co c="0"><na f="m/Melo:Rosangela" pid="155/4568">Rosangela Melo</na></co>
-<co c="0" n="2"><na f="m/Mendonca:Julio" pid="174/3553">Julio Mendonca</na><na>J&#250;lio Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Mendonca_0001:Julio" pid="174/3553-1">Julio Mendonca 0001</na><na>J&#250;lio Mendon&#231;a 0001</na></co>
 <co c="0" n="2"><na f="m/Mialaret:Marco_Aurelio_Tomaz" pid="281/8483">Marco Aurelio Tomaz Mialaret</na><na>Marco Mialaret</na></co>
 <co c="0"><na f="m/Min:Dugki" pid="22/5769">Dugki Min</na></co>
 <co c="0"><na f="m/Montenegro:Artur" pid="378/4808">Artur Montenegro</na></co>

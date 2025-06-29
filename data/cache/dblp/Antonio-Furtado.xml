@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ant&#243;nio L. Furtado 0001" pid="f/AntonioLFurtado" n="151">
+<dblpperson name="Ant&#243;nio L. Furtado 0001" pid="f/AntonioLFurtado" n="152">
 <person key="homepages/f/AntonioLFurtado" mdate="2025-01-10">
 <author pid="f/AntonioLFurtado">Ant&#243;nio L. Furtado 0001</author>
 <author pid="f/AntonioLFurtado">Ant&#243;nio Luz Furtado</author>
@@ -161,6 +161,28 @@
 <ee>https://doi.org/10.1145/3631085.3631302</ee>
 <crossref>conf/sbgames/2023</crossref>
 <url>db/conf/sbgames/sbgames2023.html#LimaFC023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/0001CFIGOPS0LLC23" mdate="2025-06-26">
+<author pid="348/0471">Eduardo Nascimento 0001</author>
+<author pid="320/5747">Gustavo M. C. Coelho</author>
+<author pid="377/0585">Lucas Feij&#243;</author>
+<author pid="196/1460">Yenier Izquierdo</author>
+<author pid="196/1329">Grettel Garc&#237;a</author>
+<author pid="377/0658">Aiko R. de Oliveira</author>
+<author pid="324/2649">Jo&#227;o Pinheiro</author>
+<author pid="214/6173">Antony Seabra</author>
+<author pid="f/AntonioLFurtado">Ant&#243;nio Furtado 0001</author>
+<author pid="75/6273">Luiz Andr&#233; P. Paes Leme</author>
+<author pid="32/6523">Melissa Lemos</author>
+<author pid="c/MarcoACasanova">Marco A. Casanova</author>
+<title>On the Construction of Text-to-SQL Tools Based on Large Language Models for Real-World Relational Databases.</title>
+<pages>151-167</pages>
+<year>2023</year>
+<booktitle>WEBIST (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-89621-7_8</ee>
+<crossref>conf/webist/2023sp</crossref>
+<url>db/conf/webist/webist2023sp.html#0001CFIGOPS0LLC23</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/webist/PinheiroVNSIGCL23" mdate="2025-05-02">
@@ -2499,10 +2521,11 @@
 <ee>https://doi.org/10.1016/0020-0190(73)90009-4</ee>
 </article>
 </r>
-<coauthors n="80" nc="3">
+<coauthors n="82" nc="3">
 <co c="0"><na f="a/Abelha:Paulo" pid="138/4594">Paulo Abelha</na></co>
 <co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
 <co c="2"><na f="a/Alc=aacute=zar:Jos=eacute=_de_Jes=uacute=s_P=eacute=rez" pid="61/2733">Jos&#233; de Jes&#250;s P&#233;rez Alc&#225;zar</na></co>
+<co c="0" n="2"><na f="a/Andrade:Lucas_Feij=oacute=_L=" pid="377/0585">Lucas Feij&#243; L. Andrade</na><na>Lucas Feij&#243;</na></co>
 <co c="0"><na f="a/Araujo:Eric_T=" pid="15/10482">Eric T. Araujo</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Luciane_C=" pid="266/5874">Luciane C. Ara&#250;jo</na></co>
 <co c="0"><na f="a/Araujo:Luciane_Calixto_de" pid="291/5081">Luciane Calixto de Araujo</na></co>
@@ -2555,6 +2578,7 @@
 <co c="0"><na f="n/Neuhold:Erich_J=" pid="n/ErichJNeuhold">Erich J. Neuhold</na></co>
 <co c="2"><na f="n/Nogueira:Jos=eacute=_Helano_Matos" pid="85/2348">Jos&#233; Helano Matos Nogueira</na></co>
 <co c="0"><na f="n/Nunes:Bernardo_Pereira" pid="08/10894">Bernardo Pereira Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Aiko_R=_de" pid="377/0658">Aiko R. de Oliveira</na></co>
 <co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
 <co c="0"><na f="p/Piccinini:Helena" pid="33/8675">Helena Piccinini</na></co>
 <co c="0"><na f="p/Pinheiro:=Acirc=ngela_M=_A=" pid="84/5173">&#194;ngela M. A. Pinheiro</na></co>

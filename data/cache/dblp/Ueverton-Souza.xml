@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="U&#233;verton S. Souza" pid="48/11143" n="151">
+<dblpperson name="U&#233;verton S. Souza" pid="48/11143" n="152">
 <person key="homepages/48/11143" mdate="2020-07-14">
 <author pid="48/11143">U&#233;verton S. Souza</author>
 <author pid="48/11143">U&#233;verton dos Santos Souza</author>
@@ -8,6 +8,21 @@
 <url>https://mathgenealogy.org/id.php?id=197045</url>
 <url>https://orcid.org/0000-0002-5320-9209</url>
 </person>
+<r><article key="journals/combinatorics/BessyRRS25" mdate="2025-06-26">
+<author pid="54/4758">St&#233;phane Bessy</author>
+<author pid="02/10867">Johannes Rauch</author>
+<author pid="61/1118">Dieter Rautenbach</author>
+<author pid="48/11143">U&#233;verton S. Souza</author>
+<title>Sparse Vertex Cutsets and the Maximum Degree.</title>
+<year>2025</year>
+<volume>32</volume>
+<journal>Electron. J. Comb.</journal>
+<number>2</number>
+<ee>https://doi.org/10.37236/12902</ee>
+<url>db/journals/combinatorics/combinatorics32.html#BessyRRS25</url>
+<stream>streams/journals/combinatorics</stream>
+</article>
+</r>
 <r><article key="journals/dam/SilvaSS25" mdate="2025-05-01">
 <author pid="402/7958">Kedson Alves Silva</author>
 <author pid="243/5828">Tanilson Dias dos Santos</author>

@@ -1,9 +1,30 @@
 <?xml version="1.0"?>
-<dblpperson name="Mariza Ferro" pid="09/10314" n="21">
+<dblpperson name="Mariza Ferro" pid="09/10314" n="22">
 <person key="homepages/09/10314" mdate="2020-10-28">
 <author pid="09/10314">Mariza Ferro</author>
 <url>https://orcid.org/0000-0003-0191-582X</url>
 </person>
+<r><article publtype="informal" key="journals/corr/abs-2505-19258" mdate="2025-06-26">
+<author pid="408/4381">Felipe Curcio</author>
+<author pid="56/1184">Pedro Castro</author>
+<author pid="227/0779">Augusto Jos&#233; Fonseca</author>
+<author pid="255/4883">Rafaela Castro</author>
+<author pid="408/6914">Raquel Franco</author>
+<author pid="24/788">Eduardo S. Ogasawara</author>
+<author pid="408/6475">Victor Stepanenko</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author pid="09/10314">Mariza Ferro</author>
+<author pid="128/2820">Eduardo Bezerra 0002</author>
+<title>Towards a Spatiotemporal Fusion Approach to Precipitation Nowcasting.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.19258</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.19258</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-19258</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
 <r><article key="journals/aicom/GarciaF24" mdate="2024-07-24">
 <author pid="45/6671">Ana Cristina Bicharra Garcia</author>
 <author pid="09/10314">Mariza Ferro</author>
@@ -327,7 +348,7 @@
 <url>db/journals/concurrency/concurrency23.html#FerroMS11</url>
 </article>
 </r>
-<coauthors n="43" nc="2">
+<coauthors n="47" nc="2">
 <co c="0"><na f="a/Amorim:Annie" pid="329/9127">Annie Amorim</na></co>
 <co c="0"><na f="a/Assis:Gabriel" pid="371/5059">Gabriel Assis</na></co>
 <co c="0"><na f="b/Barros:Claudio_Daniel_Tenorio_de" pid="283/4980">Claudio Daniel Tenorio de Barros</na></co>
@@ -336,7 +357,10 @@
 <co c="0" n="2"><na f="b/Bona:Luis_C=_E=" pid="78/3197">Luis C. E. Bona</na><na>Luis Carlos Erpen De Bona</na></co>
 <co c="0"><na f="c/Cardoso:Carlos" pid="151/2531">Carlos Cardoso</na></co>
 <co c="0"><na f="c/Carvalho:Jonnathan" pid="156/6577">Jonnathan Carvalho</na></co>
+<co c="0"><na f="c/Castro:Pedro" pid="56/1184">Pedro Castro</na></co>
+<co c="0"><na f="c/Curcio:Felipe" pid="408/4381">Felipe Curcio</na></co>
 <co c="0"><na f="f/Fonseca:Augusto_Jos=eacute=" pid="227/0779">Augusto Jos&#233; Fonseca</na></co>
+<co c="0"><na f="f/Franco:Raquel" pid="408/6914">Raquel Franco</na></co>
 <co c="1"><na f="g/Garcia:Ana_Cristina_Bicharra" pid="45/6671">Ana Cristina Bicharra Garcia</na></co>
 <co c="0"><na f="g/Gritz:Matheus" pid="258/4280">Matheus Gritz</na></co>
 <co c="0"><na f="h/Hermsdorff:Juliana" pid="321/9205">Juliana Hermsdorff</na></co>
@@ -348,7 +372,7 @@
 <co c="0"><na f="m/McEvoy:Giacomo_V=" pid="63/3009">Giacomo V. McEvoy</na></co>
 <co c="0"><na f="m/Moeda:Thiago" pid="321/9203">Thiago Moeda</na></co>
 <co c="0"><na f="m/Mury:Antonio_Roberto" pid="44/7892">Antonio Roberto Mury</na></co>
-<co c="0" n="2"><na f="n/Nascimento:Rafaela_C=" pid="255/4883">Rafaela C. Nascimento</na><na>Rafaela Nascimento Castro</na></co>
+<co c="0" n="3"><na f="n/Nascimento:Rafaela_C=" pid="255/4883">Rafaela C. Nascimento</na><na>Rafaela Castro</na><na>Rafaela Nascimento Castro</na></co>
 <co c="0"><na f="n/Nicolas:Marisa_F=" pid="183/4713">Marisa F. Nicolas</na></co>
 <co c="0"><na f="o/Ogasawara:Eduardo_S=" pid="24/788">Eduardo S. Ogasawara</na></co>
 <co c="0"><na f="o/Oliveira_0001:Daniel_de" pid="68/7553-1">Daniel de Oliveira 0001</na></co>
@@ -366,6 +390,7 @@
 <co c="0"><na f="s/Silva:Gabrieli" pid="225/6338">Gabrieli Silva</na></co>
 <co c="0" n="2"><na f="s/Silva_0001:Jo=atilde=o" pid="13/3798-1">Jo&#227;o Silva 0001</na><na>Jo&#227;o Victor Silva</na></co>
 <co c="0"><na f="s/Sim=otilde=es:Adolfo" pid="251/2402">Adolfo Sim&#245;es</na></co>
+<co c="0"><na f="s/Stepanenko:Victor" pid="408/6475">Victor Stepanenko</na></co>
 <co c="0"><na f="v/Vianna_0001:Daniela" pid="89/4325">Daniela Vianna 0001</na></co>
 <co c="0"><na f="v/Vieira:V=iacute=tor" pid="180/6206">V&#237;tor Vieira</na></co>
 <co c="0"><na f="y/Yokoyama:Andr=eacute=_M=" pid="145/0883">Andr&#233; M. Yokoyama</na></co>

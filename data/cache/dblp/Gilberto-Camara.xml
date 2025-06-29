@@ -19,11 +19,11 @@
 <url>db/journals/corr/corr2204.html#abs-2204-11082</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2204-11301" mdate="2023-01-31">
+<r><article publtype="informal" key="journals/corr/abs-2204-11301" mdate="2025-06-28">
 <author pid="200/7434">Rolf Ezequiel O. Sim&#245;es</author>
 <author pid="76/5209">Gilberto C&#226;mara</author>
 <author pid="12/3220">Gilberto Ribeiro de Queiroz</author>
-<author pid="165/1975">Felipe Souza</author>
+<author pid="165/1975">Felipe Souza 0001</author>
 <author pid="03/1919">Pedro Ribeiro de Andrade</author>
 <author pid="200/7448">Lorena A. Santos</author>
 <author pid="66/1904">Alexandre Carvalho</author>
@@ -76,11 +76,11 @@
 <url>db/journals/remotesensing/remotesensing13.html#SanchezPCACLSMS21</url>
 </article>
 </r>
-<r><article key="journals/remotesensing/SimoesCQSASCF21" mdate="2025-04-01">
+<r><article key="journals/remotesensing/SimoesCQSASCF21" mdate="2025-06-28">
 <author pid="200/7434">Rolf Ezequiel O. Sim&#245;es</author>
 <author orcid="0000-0002-3681-487X" pid="76/5209">Gilberto C&#226;mara</author>
 <author pid="12/3220">Gilberto Ribeiro de Queiroz</author>
-<author orcid="0000-0002-5826-1700" pid="165/1975">Felipe Souza</author>
+<author orcid="0000-0002-5826-1700" pid="165/1975">Felipe Souza 0001</author>
 <author orcid="0000-0001-8675-4046" pid="03/1919">Pedro Ribeiro de Andrade</author>
 <author orcid="0000-0003-2612-5859" pid="200/7448">Lorena A. Santos</author>
 <author orcid="0000-0001-8762-5465" pid="66/1904">Alexandre Carvalho</author>
@@ -1480,7 +1480,7 @@
 <co c="0"><na f="s/Soares:Anderson_Reis" pid="172/7641">Anderson Reis Soares</na></co>
 <co c="0"><na f="s/Soares=Filho:Britaldo_Silveira" pid="40/4529">Britaldo Silveira Soares-Filho</na></co>
 <co c="0"><na f="s/Soler:Luciana_de_Souza" pid="36/9902">Luciana de Souza Soler</na></co>
-<co c="0"><na f="s/Souza:Felipe" pid="165/1975">Felipe Souza</na></co>
+<co c="0"><na f="s/Souza_0001:Felipe" pid="165/1975">Felipe Souza 0001</na></co>
 <co c="-1" n="2"><na f="s/Souza:Vanessa_C=_O=" pid="232/9213">Vanessa C. O. Souza</na><na>Vanessa Cristina Oliveira de Souza</na></co>
 <co c="0"><na f="t/Thom=eacute=:Rog=eacute=rio" pid="03/4493">Rog&#233;rio Thom&#233;</na></co>
 <co c="0"><na f="v/Valeriano:Dalton_de_Morisson" pid="121/7052">Dalton de Morisson Valeriano</na></co>

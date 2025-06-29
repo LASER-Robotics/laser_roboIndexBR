@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Diego Dermeval" pid="50/365" n="65">
+<dblpperson name="Diego Dermeval" pid="50/365" n="66">
 <person key="homepages/50/365" mdate="2024-02-07">
 <author pid="50/365">Diego Dermeval</author>
 <author pid="50/365">Diego Dermeval Medeiros da Cunha Matos</author>
@@ -29,6 +29,26 @@
 <number>1</number>
 <ee>https://doi.org/10.1007/s40593-024-00397-y</ee>
 <url>db/journals/aiedu/aiedu35.html#RodriguesGSCOPMVMMBDI25</url>
+<stream>streams/journals/aiedu</stream>
+</article>
+</r>
+<r><article key="journals/aiedu/FerreiraLOBDRI25" mdate="2025-06-26">
+<author pid="385/6586">Andreza Ferreira</author>
+<author pid="184/8353">Danielli Ara&#250;jo Lima</author>
+<author pid="241/7016">Wilk Oliveira</author>
+<author pid="11/2860">Ig Ibert Bittencourt</author>
+<author pid="50/365">Diego Dermeval</author>
+<author pid="408/5098">Fernando Reimers</author>
+<author pid="83/1033">Seiji Isotani</author>
+<title>Exploring Brazilian Teachers' Perceptions and a priori Needs to Design Smart Classrooms.</title>
+<pages>914-965</pages>
+<year>2025</year>
+<month>June</month>
+<volume>35</volume>
+<journal>Int. J. Artif. Intell. Educ.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s40593-024-00410-4</ee>
+<url>db/journals/aiedu/aiedu35.html#FerreiraLOBDRI25</url>
 <stream>streams/journals/aiedu</stream>
 </article>
 </r>
@@ -1181,7 +1201,7 @@
 <url>db/conf/iceis/iceis2009.html#BittencourtBCPVDL09</url>
 </inproceedings>
 </r>
-<coauthors n="140" nc="1">
+<coauthors n="143" nc="1">
 <co c="0"><na f="a/Abreu:Danilo" pid="224/7029">Danilo Abreu</na></co>
 <co c="0"><na f="a/Accete:Victor" pid="368/5026">Victor Accete</na></co>
 <co c="0" n="2"><na f="a/Albuquerque:Josmario" pid="206/9677">Josmario Albuquerque</na><na>Josm&#225;rio Albuquerque</na></co>
@@ -1230,6 +1250,7 @@
 <co c="0"><na f="e/Elias:Endhe" pid="16/11460">Endhe Elias</na></co>
 <co c="0"><na f="f/Falc=atilde=o:Taciana_Pontual" pid="10/5013">Taciana Pontual Falc&#227;o</na></co>
 <co c="0"><na f="f/Feitosa:Danila" pid="215/5939">Danila Feitosa</na></co>
+<co c="0"><na f="f/Ferreira:Andreza" pid="385/6586">Andreza Ferreira</na></co>
 <co c="0"><na f="f/Finkelstein:Anthony" pid="f/AFinkelstein">Anthony Finkelstein</na></co>
 <co c="0" n="2"><na f="f/Freitas:Elyda_L=_S=_X=" pid="166/4415">Elyda L. S. X. Freitas</na><na>Elyda Laisa Soares Xavier Freitas</na></co>
 <co c="0"><na f="g/Gasevic:Dragan" pid="67/5716">Dragan Gasevic</na></co>
@@ -1247,6 +1268,7 @@
 <co c="0"><na f="l/Lemos:Bruno" pid="268/9052">Bruno Lemos</na></co>
 <co c="0"><na f="l/Lemos:Wansel" pid="221/3474">Wansel Lemos</na></co>
 <co c="0"><na f="l/Lima:Dalmaris" pid="242/2643">Dalmaris Lima</na></co>
+<co c="0" n="2"><na f="l/Lima:Danielli_A=" pid="184/8353">Danielli A. Lima</na><na>Danielli Ara&#250;jo Lima</na></co>
 <co c="0"><na f="l/Lima:Italo" pid="248/4347">Italo Lima</na></co>
 <co c="0"><na f="l/L=oacute=scio:Bernadette_Farias" pid="51/6689">Bernadette Farias L&#243;scio</na></co>
 <co c="0"><na f="l/Lucena:M=aacute=rcia" pid="47/3088">M&#225;rcia Lucena</na></co>
@@ -1282,6 +1304,7 @@
 <co c="0"><na f="p/Pontes:Jo=atilde=o_Pedro" pid="67/10585">Jo&#227;o Pedro Pontes</na></co>
 <co c="0" n="3"><na f="p/Portela:Carlos_S=" pid="163/5352">Carlos S. Portela</na><na>Carlos dos Santos Portela</na><na>Carlos Portela 0003</na></co>
 <co c="0" n="2"><na f="p/Primo:Tiago_Thompsen" pid="34/9982">Tiago Thompsen Primo</na><na>Tiago T. Primo</na></co>
+<co c="0"><na f="r/Reimers:Fernando" pid="408/5098">Fernando Reimers</na></co>
 <co c="0"><na f="r/Reis:Marcelo" pid="316/7206">Marcelo Reis</na></co>
 <co c="0"><na f="r/Remigio:Sterfanno" pid="313/0610">Sterfanno Remigio</na></co>
 <co c="0"><na f="r/Ribeiro_0001:M=aacute=rcio" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</na></co>

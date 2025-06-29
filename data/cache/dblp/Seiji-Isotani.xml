@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Seiji Isotani" pid="83/1033" n="221">
+<dblpperson name="Seiji Isotani" pid="83/1033" n="222">
 <person key="homepages/83/1033" mdate="2024-05-01">
 <author pid="83/1033">Seiji Isotani</author>
 <url>https://en.wikipedia.org/wiki/Seiji_Isotani</url>
@@ -30,6 +30,26 @@
 <number>1</number>
 <ee>https://doi.org/10.1007/s40593-024-00397-y</ee>
 <url>db/journals/aiedu/aiedu35.html#RodriguesGSCOPMVMMBDI25</url>
+<stream>streams/journals/aiedu</stream>
+</article>
+</r>
+<r><article key="journals/aiedu/FerreiraLOBDRI25" mdate="2025-06-26">
+<author pid="385/6586">Andreza Ferreira</author>
+<author pid="184/8353">Danielli Ara&#250;jo Lima</author>
+<author pid="241/7016">Wilk Oliveira</author>
+<author pid="11/2860">Ig Ibert Bittencourt</author>
+<author pid="50/365">Diego Dermeval</author>
+<author pid="408/5098">Fernando Reimers</author>
+<author pid="83/1033">Seiji Isotani</author>
+<title>Exploring Brazilian Teachers' Perceptions and a priori Needs to Design Smart Classrooms.</title>
+<pages>914-965</pages>
+<year>2025</year>
+<month>June</month>
+<volume>35</volume>
+<journal>Int. J. Artif. Intell. Educ.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s40593-024-00410-4</ee>
+<url>db/journals/aiedu/aiedu35.html#FerreiraLOBDRI25</url>
 <stream>streams/journals/aiedu</stream>
 </article>
 </r>
@@ -3640,7 +3660,7 @@
 <url>db/conf/its/its2004.html#BrandoIM04</url>
 </inproceedings>
 </r>
-<coauthors n="286" nc="2">
+<coauthors n="287" nc="2">
 <co c="0"><na f="a/Adams:Deanne" pid="77/10120">Deanne Adams</na></co>
 <co c="0"><na f="a/Alamri:Ahmed" pid="241/8694">Ahmed Alamri</na></co>
 <co c="0"><na f="a/Albuquerque:Antonio_R=_P=_L=_de" pid="38/6097">Antonio R. P. L. de Albuquerque</na></co>
@@ -3772,7 +3792,7 @@
 <co c="0"><na f="l/Laranjeira:Dion" pid="266/3425">Dion Laranjeira</na></co>
 <co c="0"><na f="l/Leite:Glauber_Rodrigues" pid="210/7283">Glauber Rodrigues Leite</na></co>
 <co c="0"><na f="l/Lemos:Bruno" pid="268/9052">Bruno Lemos</na></co>
-<co c="-1" n="2"><na f="l/Lima:Danielli_A=" pid="184/8353">Danielli A. Lima</na><na>Danielli Ara&#250;jo Lima</na></co>
+<co c="0" n="2"><na f="l/Lima:Danielli_A=" pid="184/8353">Danielli A. Lima</na><na>Danielli Ara&#250;jo Lima</na></co>
 <co c="0"><na f="l/Lima:M=aacute=rcia" pid="249/1753">M&#225;rcia Lima</na></co>
 <co c="0"><na f="l/Lindsay:Euan" pid="35/7993">Euan Lindsay</na></co>
 <co c="0"><na f="l/Lins:Lucas_Fernandes" pid="380/0365">Lucas Fernandes Lins</na></co>
@@ -3850,6 +3870,7 @@
 <co c="0" n="2"><na f="p/Primo:Tiago_Thompsen" pid="34/9982">Tiago Thompsen Primo</na><na>Tiago T. Primo</na></co>
 <co c="0"><na f="q/Queiroga:Emanuel_Marques" pid="269/6865">Emanuel Marques Queiroga</na></co>
 <co c="0"><na f="r/Rakovic:Mladen" pid="181/1415">Mladen Rakovic</na></co>
+<co c="0"><na f="r/Reimers:Fernando" pid="408/5098">Fernando Reimers</na></co>
 <co c="0"><na f="r/Reis:Clausius_Duque_Gon=ccedil=alves" pid="231/4615">Clausius Duque Gon&#231;alves Reis</na></co>
 <co c="0"><na f="r/Reis:Helena_Macedo" pid="125/2998">Helena Macedo Reis</na></co>
 <co c="0"><na f="r/Reis:Marcelo" pid="316/7206">Marcelo Reis</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Lucila Ishitani" pid="67/564" n="29">
+<dblpperson name="Lucila Ishitani" pid="67/564" n="30">
 <person key="homepages/67/564" mdate="2021-03-01">
 <author pid="67/564">Lucila Ishitani</author>
 <url>https://orcid.org/0000-0001-8565-8386</url>
@@ -18,6 +18,24 @@
 <ee>https://doi.org/10.1007/s10462-024-11062-0</ee>
 <url>db/journals/air/air58.html#NevesIP25</url>
 <stream>streams/journals/air</stream>
+</article>
+</r>
+<r><article key="journals/uais/MolMNGI25" mdate="2025-06-25">
+<author pid="135/0955">Artur Martins Mol</author>
+<author pid="226/4857">M&#244;nica da Consola&#231;&#227;o Machado</author>
+<author pid="408/2802">Michelle Nery Nascimento</author>
+<author pid="367/4373">Ana Luiza Do Nascimento Guercy</author>
+<author pid="67/564">Lucila Ishitani</author>
+<title>Game attributes and their relationship with older people's values.</title>
+<pages>1527-1543</pages>
+<year>2025</year>
+<month>June</month>
+<volume>24</volume>
+<journal>Univers. Access Inf. Soc.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10209-024-01158-3</ee>
+<url>db/journals/uais/uais24.html#MolMNGI25</url>
+<stream>streams/journals/uais</stream>
 </article>
 </r>
 <r><article key="journals/creativity/MachadoI24" mdate="2024-11-12">
@@ -408,7 +426,7 @@
 <url>db/conf/wiiw/wiiw2001.html#IshitaniGANM01</url>
 </inproceedings>
 </r>
-<coauthors n="44" nc="5">
+<coauthors n="45" nc="5">
 <co c="0"><na f="a/Almeida:Virg=iacute=lio_A=_F=" pid="a/VirgilioAlmeida">Virg&#237;lio A. F. Almeida</na></co>
 <co c="2"><na f="=/=Aacute=vila:Paulo_Muniz_de" pid="47/4786">Paulo Muniz de &#193;vila</na></co>
 <co c="2"><na f="b/Baldini:Rogerio" pid="261/5192">Rogerio Baldini</na></co>
@@ -427,7 +445,7 @@
 <co c="0"><na f="g/Gama:Gustavo_Machado_Campagnani" pid="82/6712">Gustavo Machado Campagnani Gama</na></co>
 <co c="1"><na f="g/Gontijo:Gustavo" pid="249/9645">Gustavo Gontijo</na></co>
 <co c="0" n="2"><na f="g/Guedes:Dorgival_O=" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</na><na>Dorgival Olavo Guedes Neto</na></co>
-<co c="-1"><na f="g/Guercy:Ana_Luiza_Do_Nascimento" pid="367/4373">Ana Luiza Do Nascimento Guercy</na></co>
+<co c="1"><na f="g/Guercy:Ana_Luiza_Do_Nascimento" pid="367/4373">Ana Luiza Do Nascimento Guercy</na></co>
 <co c="0"><na f="g/Guimar=atilde=es:Silvio_Jamil_Ferzoli" pid="08/3856">Silvio Jamil Ferzoli Guimar&#227;es</na></co>
 <co c="2"><na f="j/Junior:Jo=atilde=o_Benedito_dos_Santos" pid="58/7296">Jo&#227;o Benedito dos Santos Junior</na></co>
 <co c="4"><na f="l/Lambert:Pedro" pid="388/4997">Pedro Lambert</na></co>
@@ -436,6 +454,7 @@
 <co c="0"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
 <co c="0"><na f="m/Miranda:D=eacute=bora_M=" pid="315/4909">D&#233;bora M. Miranda</na></co>
 <co c="1"><na f="m/Mol:Artur_Martins" pid="135/0955">Artur Martins Mol</na></co>
+<co c="1"><na f="n/Nascimento:Michelle_Nery" pid="408/2802">Michelle Nery Nascimento</na></co>
 <co c="2"><na f="n/Nascimento:Rinaldi" pid="261/5182">Rinaldi Nascimento</na></co>
 <co c="0"><na f="n/Neves:Daniel_Eug=ecirc=nio" pid="243/5992">Daniel Eug&#234;nio Neves</na></co>
 <co c="0"><na f="n/Neves:Otaviano_F=" pid="204/4369">Otaviano F. Neves</na></co>

@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
-<dblpperson name="Rafael A. Melo" pid="78/7608" n="35">
+<dblpperson name="Rafael A. Melo" pid="78/7608" n="36">
 <person key="homepages/78/7608" mdate="2018-03-12">
 <author pid="78/7608">Rafael A. Melo</author>
 <url>https://orcid.org/0000-0003-4300-0097</url>
 </person>
+<r><article key="journals/cor/SilvaMRST25" mdate="2025-06-26">
+<author pid="186/9422">Mateus C. Silva</author>
+<author pid="78/7608">Rafael A. Melo</author>
+<author pid="r/MauricioGCResende">Mauricio G. C. Resende</author>
+<author pid="408/6958">Marcio C. Santos</author>
+<author pid="17/3416">Rodrigo F. Toso</author>
+<title>The connected Grundy coloring problem: Formulations and a local-search enhanced biased random-key genetic algorithm.</title>
+<pages>107136</pages>
+<year>2025</year>
+<volume>183</volume>
+<journal>Comput. Oper. Res.</journal>
+<ee>https://doi.org/10.1016/j.cor.2025.107136</ee>
+<url>db/journals/cor/cor183.html#SilvaMRST25</url>
+<stream>streams/journals/cor</stream>
+</article>
+</r>
 <r><article key="journals/eor/MeloRUV25" mdate="2025-06-11">
 <author orcid="0000-0003-4300-0097" pid="78/7608">Rafael A. Melo</author>
 <author orcid="0000-0002-9478-2351" pid="26/4167">Celso C. Ribeiro</author>
@@ -464,7 +480,7 @@
 <url>db/conf/cisched/cisched2007.html#UrrutiaRM07</url>
 </inproceedings>
 </r>
-<coauthors n="19" nc="1">
+<coauthors n="20" nc="1">
 <co c="0"><na f="c/C=aacute=rdenas=Barr=oacute=n:Leopoldo_Eduardo" pid="42/7058">Leopoldo Eduardo C&#225;rdenas-Barr&#243;n</na></co>
 <co c="0"><na f="c/Cunha:Jesus_O=" pid="174/9304">Jesus O. Cunha</na></co>
 <co c="0"><na f="k/Kramer:Hugo_Harry" pid="120/2141">Hugo Harry Kramer</na></co>
@@ -476,6 +492,7 @@
 <co c="0"><na f="r/Ribeiro:Celso_C=" pid="26/4167">Celso C. Ribeiro</na></co>
 <co c="0"><na f="r/Riveaux:Jos=eacute=_A=" pid="244/6396">Jos&#233; A. Riveaux</na></co>
 <co c="0"><na f="s/Samer:Phillippe" pid="119/4505">Phillippe Samer</na></co>
+<co c="0"><na f="s/Santos:Marcio_C=" pid="408/6958">Marcio C. Santos</na></co>
 <co c="0"><na f="s/Santos:Marcio_Costa" pid="221/4211">Marcio Costa Santos</na></co>
 <co c="0"><na f="s/Silva:Mateus_C=" pid="186/9422">Mateus C. Silva</na></co>
 <co c="0"><na f="s/S=ouml=rensen:Kenneth" pid="s/KennethSorensen">Kenneth S&#246;rensen</na></co>

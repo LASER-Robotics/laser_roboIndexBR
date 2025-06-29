@@ -73,8 +73,8 @@
 <url>db/conf/indin/indin2020.html#GoulartTMREDOB20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/indin/MendoncaDCERB19" mdate="2023-12-11">
-<author pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<r><inproceedings key="conf/indin/MendoncaDCERB19" mdate="2025-06-25">
+<author pid="294/6853">Julio Cezar O. Mendon&#231;a</author>
 <author pid="257/5796">Marta Duarte</author>
 <author pid="257/6153">Victor Coch</author>
 <author pid="294/6256">Emanuel da S. D. Estrada</author>
@@ -129,7 +129,7 @@
 <ee>http://hdl.handle.net/10183/153326</ee>
 </phdthesis>
 </r>
-<coauthors n="27" nc="1">
+<coauthors n="26" nc="1">
 <co c="0"><na f="a/Azzolin:Rodrigo_Zelir" pid="143/9499">Rodrigo Zelir Azzolin</na></co>
 <co c="0" n="2"><na f="b/Borges:Eduardo_N=" pid="33/4798">Eduardo N. Borges</na><na>Eduardo Nunes Borges</na></co>
 <co c="0" n="3"><na f="b/Botelho:Silvia_Silva_da_Costa" pid="43/4171">Silvia Silva da Costa Botelho</na><na>Silvia S. C. Botelho</na><na>Silvia Botelho</na></co>
@@ -143,7 +143,6 @@
 <co c="0"><na f="j/Junior:Mario_Ricardo_Nascimento_Marques" pid="225/6910">Mario Ricardo Nascimento Marques Junior</na></co>
 <co c="0"><na f="l/Lobell:Bruno_Machado" pid="297/9783">Bruno Machado Lobell</na></co>
 <co c="0"><na f="m/Marca:Lucas_Silva" pid="298/0396">Lucas Silva Marca</na></co>
-<co c="0" n="2"><na f="m/Mendonca:Julio" pid="174/3553">Julio Mendonca</na><na>J&#250;lio Mendon&#231;a</na></co>
 <co c="0"><na f="m/Mendon=ccedil=a:Julio_Cezar_O=" pid="294/6853">Julio Cezar O. Mendon&#231;a</na></co>
 <co c="0"><na f="m/Moraes:Fabiano_Sandrini" pid="238/3775">Fabiano Sandrini Moraes</na></co>
 <co c="0" n="2"><na f="o/Oliveira:Vinicius_Menezes_de" pid="08/2829">Vinicius Menezes de Oliveira</na><na>Vin&#237;cius Menezes de Oliveira</na></co>

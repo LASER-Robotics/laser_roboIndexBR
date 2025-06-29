@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Sylvio Barbon Junior" pid="66/5992" n="138">
+<dblpperson name="Sylvio Barbon Junior" pid="66/5992" n="139">
 <person key="homepages/66/5992" mdate="2024-06-06">
 <author pid="66/5992">Sylvio Barbon Junior</author>
 <author pid="66/5992">Sylvio Barbon Jr.</author>
@@ -27,6 +27,19 @@
 <ee>https://doi.org/10.1016/j.bspc.2024.106864</ee>
 <url>db/journals/bspc/bspc99.html#SchiaberSEAAB25</url>
 <stream>streams/journals/bspc</stream>
+</article>
+</r>
+<r><article key="journals/cbm/GuidoJ25" mdate="2025-06-25">
+<author pid="30/1980">Rodrigo Capobianco Guido</author>
+<author pid="66/5992">Sylvio Barbon Junior</author>
+<title>Beyond accuracy: The need for explainable AI in biomedical voice technology.</title>
+<pages>110240</pages>
+<year>2025</year>
+<volume>192</volume>
+<journal>Comput. Biol. Medicine</journal>
+<ee>https://doi.org/10.1016/j.compbiomed.2025.110240</ee>
+<url>db/journals/cbm/cbm192.html#GuidoJ25</url>
+<stream>streams/journals/cbm</stream>
 </article>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2504-10527" mdate="2025-05-21">

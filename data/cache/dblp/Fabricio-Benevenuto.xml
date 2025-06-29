@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fabr&#237;cio Benevenuto" pid="90/2878" n="217">
+<dblpperson name="Fabr&#237;cio Benevenuto" pid="90/2878" n="218">
 <person key="homepages/90/2878" mdate="2021-07-24">
 <author pid="90/2878">Fabr&#237;cio Benevenuto</author>
 <author pid="90/2878">Fabr&#237;cio Benevenuto de Souza</author>
@@ -11,6 +11,22 @@
 <url>https://www.wikidata.org/entity/Q43662070</url>
 <note type="affiliation">Federal University of Minas Gerais</note>
 </person>
+<r><article key="journals/crossroads/GuimaraesSB25" mdate="2025-06-26">
+<author pid="205/9781">Samuel da S. Guimar&#227;es</author>
+<author pid="65/2466">M&#225;rcio Silva</author>
+<author pid="90/2878">Fabr&#237;cio Benevenuto</author>
+<title>The Hurdles of Political Ad Transparency in Brazil.</title>
+<pages>28-31</pages>
+<year>2025</year>
+<month>Spring</month>
+<volume>31</volume>
+<journal>XRDS</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3729512</ee>
+<url>db/journals/crossroads/crossroads31.html#GuimaraesSB25</url>
+<stream>streams/journals/crossroads</stream>
+</article>
+</r>
 <r><inproceedings key="conf/coling/SallesVB25" mdate="2025-01-28">
 <author pid="322/6591">Isadora Salles</author>
 <author pid="206/1071">Francielle Vargas</author>
@@ -3267,7 +3283,7 @@
 <url>db/conf/hotp2p/hotp2p2004.html#BenevenutoIA04</url>
 </inproceedings>
 </r>
-<coauthors n="220" nc="1">
+<coauthors n="221" nc="1">
 <co c="0"><na f="a/Aggarwal:Anupama" pid="29/10103">Anupama Aggarwal</na></co>
 <co c="0"><na f="a/Ahn:Yong=Yeol" pid="64/6974">Yong-Yeol Ahn</na></co>
 <co c="0"><na f="a/Ali_0014:Muhammad" pid="64/5995-14">Muhammad Ali 0014</na></co>
@@ -3346,6 +3362,7 @@
 <co c="0"><na f="g/Gon=ccedil=alves:Pollyanna" pid="133/8317">Pollyanna Gon&#231;alves</na></co>
 <co c="0"><na f="g/Goussevskaia:Olga" pid="53/238">Olga Goussevskaia</na></co>
 <co c="0"><na f="g/Grabowicz:Przemyslaw_A=" pid="12/9888">Przemyslaw A. Grabowicz</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Samuel_da_S=" pid="205/9781">Samuel da S. Guimar&#227;es</na></co>
 <co c="0"><na f="g/Guimar=atilde=es:Samuel_S=" pid="279/5465">Samuel S. Guimar&#227;es</na></co>
 <co c="0" n="2"><na f="g/Gummadi:Krishna_P=" pid="g/PKrishnaGummadi">Krishna P. Gummadi</na><na>P. Krishna Gummadi</na></co>
 <co c="0"><na f="h/Haddadi:Hamed" pid="33/5454">Hamed Haddadi</na></co>

@@ -1459,11 +1459,11 @@
 <url>db/conf/mascots/mascots2019.html#HargreavesMN19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/mobihoc/AltmanAMX19" mdate="2021-10-14">
+<r><inproceedings key="conf/mobihoc/AltmanAMX19" mdate="2025-06-25">
 <author pid="a/EitanAltman">Eitan Altman</author>
 <author orcid="0000-0002-4756-0887" pid="71/4360">Rachid El Azouzi</author>
 <author pid="44/4915">Daniel Sadoc Menasch&#233;</author>
-<author pid="26/340">Yuedong Xu</author>
+<author pid="26/340">Yuedong Xu 0001</author>
 <title>Forever Young: Aging Control For Hybrid Networks.</title>
 <pages>91-100</pages>
 <year>2019</year>
@@ -2447,11 +2447,11 @@
 <url>db/conf/sigmetrics/sigmetrics2012.html#SilvaM12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/valuetools/El-FenniAMX12" mdate="2024-05-07">
+<r><inproceedings key="conf/valuetools/El-FenniAMX12" mdate="2025-06-25">
 <author orcid="0000-0002-6340-1085" pid="22/9717">Mohammed Raiss El-Fenni</author>
 <author orcid="0000-0002-4756-0887" pid="71/4360">Rachid El Azouzi</author>
 <author pid="44/4915">Daniel Sadoc Menasch&#233;</author>
-<author pid="26/340">Yuedong Xu</author>
+<author pid="26/340">Yuedong Xu 0001</author>
 <title>Optimal sensing policies for smartphones in hybrid networks: A POMDP approach.</title>
 <pages>89-98</pages>
 <year>2012</year>
@@ -2462,11 +2462,11 @@
 <url>db/conf/valuetools/valuetools2012.html#El-FenniAMX12</url>
 </inproceedings>
 </r>
-<r><article key="journals/sigmetrics/AltmanAMX11" mdate="2021-10-14">
+<r><article key="journals/sigmetrics/AltmanAMX11" mdate="2025-06-25">
 <author pid="a/EitanAltman">Eitan Altman</author>
 <author orcid="0000-0002-4756-0887" pid="71/4360">Rachid El Azouzi</author>
 <author pid="44/4915">Daniel S. Menasch&#233;</author>
-<author pid="26/340">Yuedong Xu</author>
+<author pid="26/340">Yuedong Xu 0001</author>
 <title>Poster: aging control for smartphones in hybrid networks.</title>
 <pages>68</pages>
 <year>2011</year>
@@ -2551,11 +2551,11 @@
 <url>db/journals/corr/corr1004.html#abs-1004-0395</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-1009-4733" mdate="2018-08-13">
+<r><article publtype="informal" key="journals/corr/abs-1009-4733" mdate="2025-06-25">
 <author pid="a/EitanAltman">Eitan Altman</author>
 <author pid="71/4360">Rachid El Azouzi</author>
 <author pid="44/4915">Daniel Sadoc Menasch&#233;</author>
-<author pid="26/340">Yuedong Xu</author>
+<author pid="26/340">Yuedong Xu 0001</author>
 <title>Forever Young: Aging Control In DTNs</title>
 <ee type="oa">http://arxiv.org/abs/1009.4733</ee>
 <year>2010</year>
@@ -2903,7 +2903,7 @@
 <co c="0"><na f="w/Woiwood:Ashton" pid="354/6044">Ashton Woiwood</na></co>
 <co c="0"><na f="w/Wolter:Katinka" pid="10/5050">Katinka Wolter</na></co>
 <co c="0"><na f="x/Xex=eacute=o:Geraldo" pid="x/GXexeo">Geraldo Xex&#233;o</na></co>
-<co c="0"><na f="x/Xu:Yuedong" pid="26/340">Yuedong Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Yuedong" pid="26/340">Yuedong Xu 0001</na></co>
 <co c="0"><na f="y/Yi:Ping" pid="82/791">Ping Yi</na></co>
 <co c="0"><na f="z/Zaverucha:Gerson" pid="53/3165">Gerson Zaverucha</na></co>
 <co c="0"><na f="z/Zhu_0001:Ting" pid="42/5105-1">Ting Zhu 0001</na></co>

@@ -310,7 +310,7 @@
 <url>db/conf/ihc/ihc2014.html#HornungPA14</url>
 </inproceedings>
 </r>
-<r><phdthesis key="phd/ndltd/Hornung13" mdate="2018-02-05">
+<r><phdthesis key="phd/ndltd/Hornung13" mdate="2025-06-25">
 <author pid="32/9821">Heiko Horst Hornung</author>
 <title>Design da intera&#231;&#227;o na Web pragm&#225;tica: reduzindo barreiras semi&#243;ticas na colabora&#231;&#227;o mediada pela Web.</title>
 <year>2013</year>
@@ -319,6 +319,8 @@
 <ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/275517</ee>
 <ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.unicamp.br:REPOSIP/275517</ee>
 <note type="source">ndltd.org (oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/275517)</note>
+<note type="source">LaReferencia (lareferencia.info): oai::926507</note>
+<ee>https://hdl.handle.net/20.500.12733/1622479</ee>
 </phdthesis>
 </r>
 <r><inproceedings key="conf/hci/MirandaHPB13" mdate="2021-05-19">

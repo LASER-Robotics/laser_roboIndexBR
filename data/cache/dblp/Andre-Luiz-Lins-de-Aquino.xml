@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
-<dblpperson name="Andr&#233; L. L. de Aquino" pid="13/5158" n="73">
+<dblpperson name="Andr&#233; L. L. de Aquino" pid="13/5158" n="74">
 <person key="homepages/13/5158" mdate="2013-09-01">
 <author pid="13/5158">Andr&#233; L. L. de Aquino</author>
 <author pid="13/5158">Andr&#233; Luiz Lins de Aquino</author>
 </person>
+<r><article key="journals/jnsm/LimaAC25" mdate="2025-06-25">
+<author pid="157/0061">David H. S. Lima</author>
+<author pid="13/5158">Andr&#233; L. L. de Aquino</author>
+<author pid="c/MariliaCurado">Mar&#237;lia Curado</author>
+<title>Efficient Task Allocation in Data Center Environments Based on Information Theory.</title>
+<pages>66</pages>
+<year>2025</year>
+<month>July</month>
+<volume>33</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-025-09942-z</ee>
+<url>db/journals/jnsm/jnsm33.html#LimaAC25</url>
+<stream>streams/journals/jnsm</stream>
+</article>
+</r>
 <r><article key="journals/adhoc/MouraAL24" mdate="2024-09-08">
 <author orcid="0000-0002-8743-8827" pid="225/6124">Douglas L. L. Moura</author>
 <author pid="13/5158">Andr&#233; L. L. de Aquino</author>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="F&#225;bio Porto 0001" pid="p/FabioPorto" n="142">
+<dblpperson name="F&#225;bio Porto 0001" pid="p/FabioPorto" n="144">
 <person key="homepages/p/FabioPorto" mdate="2025-01-10">
 <author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
 <author pid="p/FabioPorto">F&#225;bio Andr&#233; Machado Porto</author>
@@ -37,6 +37,41 @@
 <crossref>conf/sigmod/2025c</crossref>
 <url>db/conf/sigmod/sigmod2025c.html#BeedkarBGFKLMP025</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-13490" mdate="2025-06-25">
+<author pid="408/2221">Carmen Bonfacio</author>
+<author pid="28/1899">Fernando Schapachnik</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<title>Generative AI and the transformation of Work in Latin America - Brazil.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.13490</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.13490</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-13490</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-19258" mdate="2025-06-26">
+<author pid="408/4381">Felipe Curcio</author>
+<author pid="56/1184">Pedro Castro</author>
+<author pid="227/0779">Augusto Jos&#233; Fonseca</author>
+<author pid="255/4883">Rafaela Castro</author>
+<author pid="408/6914">Raquel Franco</author>
+<author pid="24/788">Eduardo S. Ogasawara</author>
+<author pid="408/6475">Victor Stepanenko</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author pid="09/10314">Mariza Ferro</author>
+<author pid="128/2820">Eduardo Bezerra 0002</author>
+<title>Towards a Spatiotemporal Fusion Approach to Precipitation Nowcasting.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.19258</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.19258</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-19258</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/bmcbi/CostaGDRRSSP24" mdate="2025-03-03">
 <author pid="228/9334">Raquel Lopes Costa</author>
@@ -2269,7 +2304,7 @@
 <url>db/conf/tools/tools26-1998.html#PortoSC98</url>
 </inproceedings>
 </r>
-<coauthors n="244" nc="1">
+<coauthors n="250" nc="2">
 <co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
 <co c="0"><na f="a/Abrah=atilde=o:Felipe_S=" pid="192/1839">Felipe S. Abrah&#227;o</na></co>
 <co c="0"><na f="a/Akbarinia:Reza" pid="25/3618">Reza Akbarinia</na></co>
@@ -2296,6 +2331,7 @@
 <co c="0"><na f="b/Bezerra_0002:Eduardo" pid="128/2820">Eduardo Bezerra 0002</na></co>
 <co c="0"><na f="b/Blanco:Pablo" pid="121/6730">Pablo Blanco</na></co>
 <co c="0"><na f="b/Boeres:Cristina" pid="89/6061">Cristina Boeres</na></co>
+<co c="1"><na f="b/Bonfacio:Carmen" pid="408/2221">Carmen Bonfacio</na></co>
 <co c="0"><na f="b/Bonif=aacute=cio:Carmen" pid="355/0473">Carmen Bonif&#225;cio</na></co>
 <co c="0"><na f="b/Borges:Heraldo" pid="224/9189">Heraldo Borges</na></co>
 <co c="0"><na f="b/Botella:Christophe" pid="221/5722">Christophe Botella</na></co>
@@ -2314,6 +2350,7 @@
 <co c="0"><na f="c/Casanova:Marco_A=" pid="c/MarcoACasanova">Marco A. Casanova</na></co>
 <co c="0"><na f="c/Castro:Antonio" pid="92/9666">Antonio Castro</na></co>
 <co c="0"><na f="c/Castro:Luis_Eduardo_Viveiros_de" pid="118/2657">Luis Eduardo Viveiros de Castro</na></co>
+<co c="0"><na f="c/Castro:Pedro" pid="56/1184">Pedro Castro</na></co>
 <co c="0"><na f="c/Chen_0007:Chao" pid="66/3019-7">Chao Chen 0007</na></co>
 <co c="0" n="2"><na f="c/Chirigati:Fernando_Seabra" pid="04/5404">Fernando Seabra Chirigati</na><na>Fernando Chirigati</na></co>
 <co c="0"><na f="c/Ciarlini:Angelo_E=_M=" pid="46/2581">Angelo E. M. Ciarlini</na></co>
@@ -2327,6 +2364,7 @@
 <co c="0" n="2"><na f="c/Coutinho:Rafaelli_de_C=" pid="120/7486">Rafaelli de C. Coutinho</na><na>Rafaelli Coutinho</na></co>
 <co c="0"><na f="c/Cruz:Ana_Beatriz" pid="165/3689">Ana Beatriz Cruz</na></co>
 <co c="0"><na f="c/Cruz:S=eacute=rgio_Ricardo_de_Borba" pid="355/0658">S&#233;rgio Ricardo de Borba Cruz</na></co>
+<co c="0"><na f="c/Curcio:Felipe" pid="408/4381">Felipe Curcio</na></co>
 <co c="0"><na f="d/Dalto:A=" pid="153/5938">A. Dalto</na></co>
 <co c="0"><na f="d/Damiani:Maria_Luisa" pid="d/MariaLuisaDamiani">Maria Luisa Damiani</na></co>
 <co c="0"><na f="d/D=arc:Mirela" pid="371/8472">Mirela D'arc</na></co>
@@ -2348,6 +2386,7 @@
 <co c="0"><na f="f/Fontes:Vin=iacute=cius" pid="42/390">Vin&#237;cius Fontes</na></co>
 <co c="0"><na f="f/Fortes:Mariana" pid="329/9472">Mariana Fortes</na></co>
 <co c="0"><na f="f/Fraga:Fernando" pid="385/5896">Fernando Fraga</na></co>
+<co c="0"><na f="f/Franco:Raquel" pid="408/6914">Raquel Franco</na></co>
 <co c="0"><na f="f/Freire:Vin=iacute=cius_Pires_de_Moura" pid="155/5526">Vin&#237;cius Pires de Moura Freire</na></co>
 <co c="0"><na f="g/Gadelha_Jr=:Luiz_M=_R=" pid="63/1981">Luiz M. R. Gadelha Jr.</na></co>
 <co c="0"><na f="g/Galheigo:Marcelo" pid="244/3660">Marcelo Galheigo</na></co>
@@ -2462,6 +2501,7 @@
 <co c="0" n="2"><na f="s/Santos:Ismael_H=_F=_dos" pid="32/2540">Ismael H. F. dos Santos</na><na>Ismael Santos 0001</na></co>
 <co c="0"><na f="s/Santos:Joel_dos" pid="385/5400">Joel dos Santos</na></co>
 <co c="0"><na f="s/Scatena:Gabriel_dos_Santos" pid="389/2190">Gabriel dos Santos Scatena</na></co>
+<co c="1"><na f="s/Schapachnik:Fernando" pid="28/1899">Fernando Schapachnik</na></co>
 <co c="0"><na f="s/Schulze:Bruno" pid="27/729">Bruno Schulze</na></co>
 <co c="0"><na f="s/Schwartz:Jean=Marc" pid="26/6426">Jean-Marc Schwartz</na></co>
 <co c="0"><na f="s/Shasha:Dennis_E=" pid="s/DennisShasha">Dennis E. Shasha</na></co>
@@ -2489,6 +2529,7 @@
 <co c="0"><na f="s/Souza:J=eacute=ssica" pid="385/4360">J&#233;ssica Souza</na></co>
 <co c="0"><na f="s/Souza_0001:Renan" pid="181/7054-1">Renan Souza 0001</na></co>
 <co c="0"><na f="s/Spaccapietra:Stefano" pid="s/StefanoSpaccapietra">Stefano Spaccapietra</na></co>
+<co c="0"><na f="s/Stepanenko:Victor" pid="408/6475">Victor Stepanenko</na></co>
 <co c="0"><na f="s/Stoyanovich:Julia" pid="s/JuliaStoyanovich">Julia Stoyanovich</na></co>
 <co c="0"><na f="t/Tajmouati:Othman" pid="96/6091">Othman Tajmouati</na></co>
 <co c="0"><na f="t/Tamargo:Javier_Sanchez" pid="79/1177">Javier Sanchez Tamargo</na></co>

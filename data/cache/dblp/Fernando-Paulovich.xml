@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fernando Vieira Paulovich" pid="63/3726" n="100">
+<dblpperson name="Fernando Vieira Paulovich" pid="63/3726" n="101">
 <person key="homepages/63/3726" mdate="2021-03-23">
 <author pid="63/3726">Fernando Vieira Paulovich</author>
 <author pid="63/3726">Fernando V. Paulovich</author>
@@ -8,6 +8,24 @@
 <url>https://www.wikidata.org/entity/Q55979500</url>
 <url>https://www.researcherid.com/rid/G-1329-2010</url>
 </person>
+<r><article key="journals/cg/HanHHLCMP25" mdate="2025-06-25">
+<author pid="231/7782">Zixuan Han</author>
+<author pid="342/8227">Diede van der Hoorn</author>
+<author pid="48/5522">Thomas H&#246;llt</author>
+<author pid="334/7620">Qiaodan Luo</author>
+<author pid="284/0645">Leonardo Christino</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="63/3726">Fernando V. Paulovich</author>
+<title>DimenFix: A novel meta-strategy to preserve user-defined data values on dimensionality reduction layouts.</title>
+<pages>104231</pages>
+<year>2025</year>
+<volume>130</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2025.104231</ee>
+<url>db/journals/cg/cg130.html#HanHHLCMP25</url>
+<stream>streams/journals/cg</stream>
+</article>
+</r>
 <r><article key="journals/prl/KortingCFP25" mdate="2025-03-17">
 <author pid="56/2916">Thales Sehn K&#246;rting</author>
 <author pid="59/5772">Esteban Walter Gonzalez Clua</author>
@@ -1462,7 +1480,7 @@
 <url>db/conf/vda/vda2006.html#MinghimPL06</url>
 </inproceedings>
 </r>
-<coauthors n="119" nc="4">
+<coauthors n="122" nc="4">
 <co c="0"><na f="a/Abreu:Fernando_Henrique_Oliveira" pid="290/0240">Fernando Henrique Oliveira Abreu</na></co>
 <co c="0"><na f="a/Aerts:Jan" pid="17/7236">Jan Aerts</na></co>
 <co c="0"><na f="a/Alencar:Aretha_Barbosa" pid="00/3550">Aretha Barbosa Alencar</na></co>
@@ -1505,10 +1523,13 @@
 <co c="1"><na f="g/Garc=iacute=a:Angel_E=" pid="84/6263">Angel E. Garc&#237;a</na></co>
 <co c="0"><na f="g/Glowacka:Dorota" pid="82/9381">Dorota Glowacka</na></co>
 <co c="0"><na f="g/Goldenstein:Siome" pid="g/SiomeGoldenstein">Siome Goldenstein</na></co>
+<co c="0"><na f="h/Han:Zixuan" pid="231/7782">Zixuan Han</na></co>
 <co c="0"><na f="h/Heberle:Henry" pid="117/2548">Henry Heberle</na></co>
 <co c="0"><na f="h/Heijs:Anton" pid="60/3982">Anton Heijs</na></co>
 <co c="0"><na f="h/Hilasaca:Gladys_M=_H=" pid="234/7770">Gladys M. H. Hilasaca</na></co>
 <co c="0"><na f="h/Hill:Taylor" pid="335/2440">Taylor Hill</na></co>
+<co c="0"><na f="h/H=ouml=llt:Thomas" pid="48/5522">Thomas H&#246;llt</na></co>
+<co c="0"><na f="h/Hoorn:Diede_van_der" pid="342/8227">Diede van der Hoorn</na></co>
 <co c="0"><na f="h/Huo:Peiyang" pid="396/2481">Peiyang Huo</na></co>
 <co c="0"><na f="h/Hurter:Christophe" pid="99/4557">Christophe Hurter</na></co>
 <co c="0"><na f="h/H=uuml=tt:Marc=Thorsten" pid="35/2800">Marc-Thorsten H&#252;tt</na></co>

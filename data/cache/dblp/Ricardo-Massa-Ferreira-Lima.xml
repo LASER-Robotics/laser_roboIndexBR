@@ -78,8 +78,8 @@
 <url>db/journals/fi/fi12.html#GoncalvesSL20</url>
 </article>
 </r>
-<r><article key="journals/ijguc/MendoncaLA20" mdate="2020-10-22">
-<author pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<r><article key="journals/ijguc/MendoncaLA20" mdate="2025-06-26">
+<author pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="34/3170">Ricardo Lima 0001</author>
 <author pid="78/2745">Ermeson C. Andrade</author>
 <title>Evaluating and modelling solutions for disaster recovery.</title>
@@ -108,8 +108,8 @@
 <url>db/journals/information/information11.html#TelinoMMGM20</url>
 </article>
 </r>
-<r><inproceedings key="conf/drcn/MendoncaLAAK20" mdate="2024-08-04">
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<r><inproceedings key="conf/drcn/MendoncaLAAK20" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="34/3170">Ricardo Lima 0001</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson Carneiro de Andrade</author>
 <author pid="117/7983">Julian Araujo</author>
@@ -155,8 +155,8 @@
 <url>db/conf/worldcist/worldcist2020-1.html#TelinoMMGM20</url>
 </inproceedings>
 </r>
-<r><article key="journals/computing/MendoncaAL19" mdate="2020-12-29">
-<author orcid="0000-0002-1432-1169" pid="174/3553">Julio Mendonca</author>
+<r><article key="journals/computing/MendoncaAL19" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">Julio Mendonca 0001</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson C. Andrade</author>
 <author pid="34/3170">Ricardo M. F. Lima</author>
 <title>Assessing mobile applications performance and energy consumption through experiments and Stochastic models.</title>
@@ -169,8 +169,8 @@
 <url>db/journals/computing/computing101.html#MendoncaAL19</url>
 </article>
 </r>
-<r><article key="journals/jss/MendoncaAEL19" mdate="2025-01-19">
-<author orcid="0000-0002-1432-1169" pid="174/3553">Julio Mendonca</author>
+<r><article key="journals/jss/MendoncaAEL19" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">Julio Mendonca 0001</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson C. Andrade</author>
 <author orcid="0000-0002-9163-5583" pid="18/8101">Patricia Takako Endo</author>
 <author pid="34/3170">Ricardo M. F. Lima</author>
@@ -184,8 +184,8 @@
 <url>db/journals/jss/jss149.html#MendoncaAEL19</url>
 </article>
 </r>
-<r><inproceedings key="conf/iscc/MendoncaLQAK19" mdate="2024-08-04">
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<r><inproceedings key="conf/iscc/MendoncaLQAK19" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="34/3170">Ricardo Lima 0001</author>
 <author pid="257/5513">Ewerton Queiroz</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson Carneiro de Andrade</author>
@@ -199,8 +199,8 @@
 <url>db/conf/iscc/iscc2019.html#MendoncaLQAK19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/smc/MendoncaMAMML19" mdate="2020-12-29">
-<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<r><inproceedings key="conf/smc/MendoncaMAMML19" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">J&#250;lio Mendon&#231;a 0001</author>
 <author pid="254/5326">Wilson Medeiros</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson C. Andrade</author>
 <author pid="199/7124">Ronierison Maciel</author>
@@ -215,8 +215,8 @@
 <url>db/conf/smc/smc2019.html#MendoncaMAMML19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aina/MendoncaLMFA18" mdate="2023-03-24">
-<author orcid="0000-0002-1432-1169" pid="174/3553">Julio Mendonca</author>
+<r><inproceedings key="conf/aina/MendoncaLMFA18" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">Julio Mendonca 0001</author>
 <author pid="34/3170">Ricardo M. F. Lima</author>
 <author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
 <author pid="62/1526-2">Jo&#227;o Ferreira 0002</author>
@@ -303,8 +303,8 @@
 <url>db/conf/etfa/etfa2015.html#TeixeiraRBEL15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/smc/MendoncaLAC15" mdate="2020-12-29">
-<author orcid="0000-0002-1432-1169" pid="174/3553">Julio Mendonca</author>
+<r><inproceedings key="conf/smc/MendoncaLAC15" mdate="2025-06-26">
+<author orcid="0000-0002-1432-1169" pid="174/3553-1">Julio Mendonca 0001</author>
 <author pid="34/3170">Ricardo M. F. Lima</author>
 <author orcid="0000-0002-9614-4492" pid="78/2745">Ermeson C. Andrade</author>
 <author orcid="0000-0002-7997-374X" pid="40/3382">Gustavo Rau de Almeida Callou</author>
@@ -1368,7 +1368,7 @@
 <co c="0"><na f="m/Mello:Carlos_A=_B=" pid="48/6569">Carlos A. B. Mello</na></co>
 <co c="0"><na f="m/Mello:Lorenna_Andrade_de" pid="282/3607">Lorenna Andrade de Mello</na></co>
 <co c="0"><na f="m/Melo:Thiago_Suruagy_de" pid="282/3744">Thiago Suruagy de Melo</na></co>
-<co c="0" n="2"><na f="m/Mendonca:Julio" pid="174/3553">Julio Mendonca</na><na>J&#250;lio Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Mendonca_0001:Julio" pid="174/3553-1">Julio Mendonca 0001</na><na>J&#250;lio Mendon&#231;a 0001</na></co>
 <co c="0"><na f="m/Moreira:Fernando" pid="11/4978">Fernando Moreira</na></co>
 <co c="0"><na f="m/Mota_0001:Alexandre" pid="m/AlexandreMota">Alexandre Mota 0001</na></co>
 <co c="0"><na f="m/Mota:Ion=aacute=" pid="272/3468">Ion&#225; Mota</na></co>

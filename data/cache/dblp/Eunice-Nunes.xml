@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Eunice P. dos Santos Nunes" pid="56/8926" n="29">
+<dblpperson name="Eunice P. dos Santos Nunes" pid="56/8926" n="30">
 <person key="homepages/56/8926" mdate="2015-11-03">
 <author pid="56/8926">Eunice P. dos Santos Nunes</author>
 <author pid="56/8926">Eunice Pereira dos Santos Nunes</author>
@@ -18,6 +18,25 @@
 <ee type="oa">https://doi.org/10.5753/jis.2025.4100</ee>
 <url>db/journals/sbcjis/sbcjis16.html#GalvaoMNR25</url>
 <stream>streams/journals/sbcjis</stream>
+</article>
+</r>
+<r><article key="journals/uais/BorgesBFMPN25" mdate="2025-06-25">
+<author pid="115/5009">Luciana Correia Lima de Faria Borges</author>
+<author pid="408/1654">Ana Paula Oliveira Bertholdo</author>
+<author pid="66/2805">Lucia Vilela Leite Filgueiras</author>
+<author pid="62/5474">Cristiano Maciel</author>
+<author pid="54/3748">Vin&#237;cius Carvalho Pereira</author>
+<author pid="56/8926">Eunice Pereira dos Santos Nunes</author>
+<title>Motivation of persons with cerebral palsy through participatory design: where there is a will, there is a way.</title>
+<pages>1221-1237</pages>
+<year>2025</year>
+<month>June</month>
+<volume>24</volume>
+<journal>Univers. Access Inf. Soc.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10209-024-01131-0</ee>
+<url>db/journals/uais/uais24.html#BorgesBFMPN25</url>
+<stream>streams/journals/uais</stream>
 </article>
 </r>
 <r><inproceedings key="conf/ihc/GalvaoMNR23" mdate="2024-02-10">
@@ -439,7 +458,7 @@
 <url>db/conf/csedu/csedu2010-1.html#SouzaNA10</url>
 </inproceedings>
 </r>
-<coauthors n="57" nc="1">
+<coauthors n="59" nc="1">
 <co c="0"><na f="a/Alonso:Katia_Morosov" pid="135/0758">Katia Morosov Alonso</na></co>
 <co c="0"><na f="a/Anjos:Alexandre_Martins_dos" pid="139/8795">Alexandre Martins dos Anjos</na></co>
 <co c="0"><na f="a/Anjos:Rosana_Abutakka_Vasconcelos_dos" pid="193/0971">Rosana Abutakka Vasconcelos dos Anjos</na></co>
@@ -448,12 +467,14 @@
 <co c="0"><na f="a/Azevedo:Guilherme" pid="187/8499">Guilherme Azevedo</na></co>
 <co c="0"><na f="b/Barcellos:Raissa" pid="201/3190">Raissa Barcellos</na></co>
 <co c="0" n="2"><na f="b/Bernardini:Flavia" pid="88/5413">Flavia Bernardini</na><na>Fl&#225;via Bernardini</na></co>
+<co c="0"><na f="b/Bertholdo:Ana_Paula_Oliveira" pid="408/1654">Ana Paula Oliveira Bertholdo</na></co>
 <co c="0"><na f="b/Biffi:Giovanni_C=" pid="201/3294">Giovanni C. Biffi</na></co>
 <co c="0" n="2"><na f="b/Borges:Luciana_Correia_Lima_De_Faria" pid="115/5009">Luciana Correia Lima De Faria Borges</na><na>Luciana Correia Lima de Faria Borges</na></co>
 <co c="0"><na f="b/Boscarioli:Clodis" pid="97/993">Clodis Boscarioli</na></co>
 <co c="0"><na f="c/Casagrande:Ana_Lara" pid="338/0289">Ana Lara Casagrande</na></co>
 <co c="0"><na f="c/Cunha:Vanice_Canuto" pid="261/8397">Vanice Canuto Cunha</na></co>
 <co c="0"><na f="f/Fagundes:Emelyn" pid="359/5212">Emelyn Fagundes</na></co>
+<co c="0"><na f="f/Filgueiras:Lucia_Vilela_Leite" pid="66/2805">Lucia Vilela Leite Filgueiras</na></co>
 <co c="0"><na f="g/Galv=atilde=o:Vin=iacute=cius_Ferreira" pid="215/7041">Vin&#237;cius Ferreira Galv&#227;o</na></co>
 <co c="0"><na f="g/Garcia:J=eacute=ssica" pid="329/0928">J&#233;ssica Garcia</na></co>
 <co c="0"><na f="g/Girata:Natalina_Namie_Hirata" pid="148/4323">Natalina Namie Hirata Girata</na></co>

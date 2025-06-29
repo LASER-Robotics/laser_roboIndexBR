@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Marcos Kalinowski" pid="38/3792" n="239">
+<dblpperson name="Marcos Kalinowski" pid="38/3792" n="240">
 <person key="homepages/38/3792" mdate="2023-12-12">
 <author pid="38/3792">Marcos Kalinowski</author>
 <note type="affiliation">Pontifical Catholic University of Rio de Janeiro, Brazil</note>
@@ -194,6 +194,28 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2503.11291</ee>
 <url>db/journals/corr/corr2503.html#abs-2503-11291</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-15743" mdate="2025-06-25">
+<author pid="30/4138">Darja Smite</author>
+<author pid="26/6303">Nils Brede Moe</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="48/5662">Fabio Calefato</author>
+<author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
+<author pid="236/3623">Marcin Floryan</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="69/8522">Daniel M&#233;ndez 0001</author>
+<author pid="161/9260">Graziela Pereira</author>
+<author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<author pid="39/5605">Rafael Prikladnicki</author>
+<title>Who &#34;Controls&#34; Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.15743</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.15743</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-15743</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -3919,7 +3941,7 @@
 <url>db/conf/cscwd/cscwd2002.html#ManganAKBW02</url>
 </inproceedings>
 </r>
-<coauthors n="377" nc="1">
+<coauthors n="381" nc="1">
 <co c="0"><na f="a/Abbehusen:Marcelo" pid="350/0886">Marcelo Abbehusen</na></co>
 <co c="0"><na f="a/Abrantes:Jos=eacute=_Fortuna" pid="97/10607">Jos&#233; Fortuna Abrantes</na></co>
 <co c="0"><na f="a/Adisaputri:Gianisa" pid="264/5244">Gianisa Adisaputri</na></co>
@@ -4033,6 +4055,7 @@
 <co c="0"><na f="f/Ferrucci:Filomena" pid="68/6536">Filomena Ferrucci</na></co>
 <co c="0"><na f="f/Fialho:Leonardo" pid="34/6847">Leonardo Fialho</na></co>
 <co c="0"><na f="f/Fischer:Marinho" pid="276/7287">Marinho Fischer</na></co>
+<co c="0"><na f="f/Floryan:Marcin" pid="236/3623">Marcin Floryan</na></co>
 <co c="0"><na f="f/Fontdevila:Diego" pid="203/0880">Diego Fontdevila</na></co>
 <co c="0" n="2"><na f="f/Fran=ccedil=a:Breno_B=_N=_de" pid="122/4837">Breno B. N. de Fran&#231;a</na><na>Breno de Fran&#231;a</na></co>
 <co c="0"><na f="f/Franch:Xavier" pid="f/XavierFranch">Xavier Franch</na></co>
@@ -4126,6 +4149,7 @@
 <co c="0"><na f="m/Mendoza:Isela" pid="232/8924">Isela Mendoza</na></co>
 <co c="0"><na f="m/Mesa:Oslien" pid="226/7745">Oslien Mesa</na></co>
 <co c="0"><na f="m/Miranda:Juan_Jose" pid="234/2429">Juan Jose Miranda</na></co>
+<co c="0"><na f="m/Moe:Nils_Brede" pid="26/6303">Nils Brede Moe</na></co>
 <co c="0"><na f="m/Molina:Jes=uacute=s_Garc=iacute=a" pid="78/4516">Jes&#250;s Garc&#237;a Molina</na></co>
 <co c="0"><na f="m/Monteiro:Rodrigo_Salvador" pid="89/5975">Rodrigo Salvador Monteiro</na></co>
 <co c="0"><na f="m/Montoni:Mariano" pid="47/1229">Mariano Montoni</na></co>
@@ -4174,6 +4198,7 @@
 <co c="0"><na f="p/Pastor_0001:Oscar" pid="p/OscarPastor">Oscar Pastor 0001</na></co>
 <co c="0"><na f="p/Pelizaro:Carlos" pid="276/7318">Carlos Pelizaro</na></co>
 <co c="0"><na f="p/Penzenstadler:Birgit" pid="92/3113">Birgit Penzenstadler</na></co>
+<co c="0"><na f="p/Pereira:Graziela" pid="161/9260">Graziela Pereira</na></co>
 <co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
 <co c="0"><na f="p/Petrillo:F=aacute=bio" pid="84/5879">F&#225;bio Petrillo</na></co>
 <co c="0"><na f="p/Petrovic:Sanja" pid="79/4038">Sanja Petrovic</na></co>
@@ -4233,6 +4258,7 @@
 <co c="0"><na f="s/Silva:Luciana" pid="350/1151">Luciana Silva</na></co>
 <co c="0"><na f="s/Silva:Tarcila_G=_da" pid="227/5382">Tarcila G. da Silva</na></co>
 <co c="0"><na f="s/Silva:Thuener" pid="187/8802">Thuener Silva</na></co>
+<co c="0"><na f="s/Smite:Darja" pid="30/4138">Darja Smite</na></co>
 <co c="0"><na f="s/Soares:Henrique_Frota" pid="180/8277">Henrique Frota Soares</na></co>
 <co c="0"><na f="s/Solari:Mart=iacute=n" pid="09/2658">Mart&#237;n Solari</na></co>
 <co c="0"><na f="s/Sousa:Leonardo_da_Silva" pid="179/8618">Leonardo da Silva Sousa</na></co>

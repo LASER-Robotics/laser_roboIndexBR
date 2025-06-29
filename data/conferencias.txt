@@ -52,12 +52,12 @@ MECÂNICA
 IEEE Robot. Autom. Lett.
 IEEE Trans. Robotics
 IEEE Robotics & Automation Mag.
-x-IEEE Trans. Field Robotics
+IEEE Trans. Field Robotics
 Intern. J. of Robotics Research
-x-International Journal of Advanced Robotic Systems
+International Journal of Advanced Robotic Systems
 Robotics & Autonomous Syst.
 Robotica
-x-J. Field Robotics
+J. Field Robotics
 Science Robotics
 Journal of Robotics
 International Journal of Social Robotics
@@ -65,11 +65,9 @@ J. Robot. Mechatronics
 x-Mechatronics
 Int. J. Mechatronics Autom.
 Robotics and Computer-Integrated Manufacturing
-x-Journal of the Brazilian Society of Mechanical Sciences and Engineering
-x-IEEE Trans. Mechatronics
-x-CROS, CROS,3
-x-SBAI, SBAI,2
-x-ICUAS, ICUAS,2
+Journal of the Brazilian Society of Mechanical Sciences and Engineering
+IEEE Trans. Mechatronics
+
 
 CONTROLE
 IEEE Robot. Autom. Lett.

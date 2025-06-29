@@ -276,9 +276,9 @@
 <url>db/journals/access/access8.html#CruzB20</url>
 </article>
 </r>
-<r><inproceedings key="conf/ijcnn/MoreiraOMZB20" mdate="2025-03-11">
+<r><inproceedings key="conf/ijcnn/MoreiraOMZB20" mdate="2025-06-25">
 <author pid="264/0159">Johny Moreira</author>
-<author pid="264/0089">Chaina Oliveira</author>
+<author pid="273/9691">Chaina Santos Oliveira</author>
 <author orcid="0000-0002-2527-4548" pid="228/1710">David L. Mac&#234;do</author>
 <author pid="75/5629">Cleber Zanchettin</author>
 <author pid="80/468">Luciano Barbosa</author>
@@ -322,9 +322,9 @@
 <url>db/conf/sbbd/sbbd2020.html#SoaresBRMM20</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2004-14443" mdate="2020-05-03">
+<r><article publtype="informal" key="journals/corr/abs-2004-14443" mdate="2025-06-25">
 <author pid="264/0159">Johny Moreira</author>
-<author pid="264/0089">Chaina Oliveira</author>
+<author pid="273/9691">Chaina Santos Oliveira</author>
 <author pid="228/1710">David Macedo</author>
 <author pid="75/5629">Cleber Zanchettin</author>
 <author pid="80/468">Luciano Barbosa</author>
@@ -1037,7 +1037,7 @@
 <co c="0"><na f="n/Neto:Paulo_S=_G=_de_Mattos" pid="21/8284">Paulo S. G. de Mattos Neto</na></co>
 <co c="0"><na f="n/Nguyen:Hoa" pid="64/1505">Hoa Nguyen</na></co>
 <co c="0"><na f="n/Nguyen:Thanh_Hoang" pid="57/8700">Thanh Hoang Nguyen</na></co>
-<co c="0"><na f="o/Oliveira:Chaina" pid="264/0089">Chaina Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Chaina_Santos" pid="273/9691">Chaina Santos Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira:Jo=atilde=o_F=_L=" pid="122/9540">Jo&#227;o F. L. Oliveira</na><na>Jo&#227;o F. L. de Oliveira</na></co>
 <co c="0"><na f="p/Pang_0001:Bo" pid="16/6344-1">Bo Pang 0001</na></co>
 <co c="0"><na f="p/Pham:Kien" pid="52/7031">Kien Pham</na></co>
