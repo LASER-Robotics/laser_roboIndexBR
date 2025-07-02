@@ -32,15 +32,16 @@ COMPUTAÇÃO
 IEEE Robot. Autom. Lett.
 IEEE Trans. Robotics
 IEEE Robotics & Automation Mag.
-IEEE Trans. Field Robotics
+-IEEE Trans. Field Robotics
 Intern. J. of Robotics Research
-International Journal of Advanced Robotic Systems
+-International Journal of Advanced Robotic Systems
 Robotics & Autonomous Syst.
 Robotica
 J. Field Robotics
 Science Robotics
 Journal of Robotics
 International Journal of Social Robotics
+--
 Autonomous Robots
 J. Intelligent & Robotic Syst.
 Cognitive Robotics
@@ -61,10 +62,11 @@ J. Field Robotics
 Science Robotics
 Journal of Robotics
 International Journal of Social Robotics
-J. Robot. Mechatronics
-x-Mechatronics
-Int. J. Mechatronics Autom.
-Robotics and Computer-Integrated Manufacturing
+--
+-J. Robot. Mechatronics
+Mechatronics
+-Int. J. Mechatronics Autom.
+-Robotics and Computer-Integrated Manufacturing
 Journal of the Brazilian Society of Mechanical Sciences and Engineering
 IEEE Trans. Mechatronics
 
@@ -82,6 +84,7 @@ J. Field Robotics
 Science Robotics
 Journal of Robotics
 International Journal of Social Robotics
+--
 International Journal of Control, Automation and Systems
 IEEE/CAA Automatica Sinica
 
