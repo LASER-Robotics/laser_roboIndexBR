@@ -51,7 +51,7 @@ top_path = "../utils/profs_top.html"
 bottom_path = "../utils/profs_bottm.html"
 
 # Abre o arquivo onde será gerado o HTML com a lista de professores
-out = open('../profs.html', 'w', encoding="utf-8")  # Usando 'w' para sobrescrever o arquivo
+out = open('../../profs.html', 'w', encoding="utf-8")  # Usando 'w' para sobrescrever o arquivo
 out2 = open('../../data/configs/profs/profs.csv', 'w', encoding="utf-8")  # Arquivo CSV para as informações
 
 # Escreve o cabeçalho do arquivo CSV
