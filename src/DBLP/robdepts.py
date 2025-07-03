@@ -24,7 +24,7 @@ for a in reader3:
 
 for area in area_list:
     score = {}
-    reader2 = csv.reader(open(area + "-out-scores.csv", 'r'))
+    reader2 = csv.reader(open("../../data/" + area + "-out-scores.csv", 'r'))
     for dept_tuple in reader2:
         dept = dept_tuple[0]
         if not(dept in dept_list):
@@ -35,7 +35,7 @@ for area in area_list:
 
 dept_list.sort()
 
-f2 = open('depts/depts.html','w')
+f2 = open('../../data/depts/depts.html','w')
 f2.write('<ul>\n')
 
 for dept in dept_list:
@@ -44,7 +44,7 @@ for dept in dept_list:
         continue
     dept2 = dept.replace("/", "").replace(" ","").lower()
     f2.write('<li>  <a href="https://csindexbr.org/depts.html?d=' + dept2 + '">' + dept + '</a>\n')
-    f = open('depts/scores-' + dept2 + '.csv','w')
+    f = open('../../data/depts/scores-' + dept2 + '.csv','w')
     for area in area_list:
         f.write(area.upper())
         f.write(',')

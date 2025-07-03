@@ -311,7 +311,7 @@ def output_profs_list():
 # merge todos os arquivos CSV de artigos de um professor em um unico csv
 def merge_output_prof_papers(prof):
     # Muda o diretório para o local onde estão armazenados os artigos dos professores
-    os.chdir("../../data/configs/profs/search/")
+    os.chdir("../../data/configs/profs/all-articles/")
 
     # Cria uma lista
     filenames = []
@@ -320,17 +320,17 @@ def merge_output_prof_papers(prof):
     prof = prof.replace(" ", "-")
 
     # Busca todos os arquivos que possuem o nome do professor e terminam com "-papers.csv"
-    for file in glob.glob("*" + prof + "-papers.csv"):
+    for file in glob.glob("../papers/*" + prof + "-papers.csv"):
         filenames.append(file)
 
     # Ordena os arquivos pelo nome
     filenames.sort()
 
     # Abre um arquivo de saída para armazenar os artigos unidos
-    outfile = open( prof + ".csv", 'w')
+    outfile = open( prof + ".csv", 'w', encoding="utf-8", newline='')
 
     for fname in filenames:
-        with open(fname) as infile:
+        with open(fname, encoding="utf-8") as infile:  
             outfile.write(infile.read())
     os.chdir("../../")
 
@@ -338,7 +338,7 @@ def merge_output_prof_papers(prof):
     # usado pora a busca por professores em profs.html
 def output_search_box_list():
     # Muda o diretório para a pasta onde os arquivos de pesquisa dos professores estão localizados
-    os.chdir("../../data/configs/profs/search/")
+    os.chdir("../../data/configs/profs/all-articles/")
 
     # Cria uma lista para armazenar os nomes dos professores
     profs = []
@@ -350,7 +350,7 @@ def output_search_box_list():
         profs.append(file)
 
     # Remove o item "empty" da lista, se existir
-    profs.remove("empty")
+    # profs.remove("empty")
 
     # Ordena os professores em ordem alfabética
     profs.sort()
