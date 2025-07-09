@@ -26,17 +26,30 @@ def get_area(prof):
     return area.upper()
 
 # Função que cria o arquivo HTML individual de um professor, se ainda não existir
+# Função que cria o arquivo HTML individual de um professor, se ainda não existir
 def create_p_file(prof_name):
-    file_name = "../src/p/" + prof_name + '.html'
+    print("Função foi chamada")
+    file_name = "../../src/p/" + prof_name + '.html'
     if os.path.exists(file_name):
         return
     line = '      var corebr_author = "' + prof_name + '"\n'
-    with open(file_name, 'w', encoding="utf-8") as out:
-        with open('../src/utils/_authors1.html', 'r', encoding="utf-8") as file1:
-            with open('../src/utils/_authors2.html', 'r', encoding="utf-8") as file2:
-                out.write(file1.read())
-                out.write(line)
-                out.write(file2.read())
+
+    out = open(file_name, 'w', encoding="utf-8")
+    file1 = open('../utils/_authors1.html', 'r', encoding="utf-8")
+    file2 = open('../utils/_authors2.html', 'r', encoding="utf-8")
+
+    out.write(file1.read())
+    out.write(line)
+    out.write(file2.read())
+
+    # Corrige o fechamento do arquivo (você esqueceu os parênteses em `out.close`)
+    out.close()
+    file1.close()
+    file2.close()
+
+    # Exibe mensagem no terminal
+    print(f"Arquivo salvo: {file_name}")
+
 
 # Dicionário para armazenar a afiliação institucional de cada professor
 inst = {}
@@ -70,6 +83,8 @@ for p in reader2:
     
     # Aqui, chamamos a função get_area() para encontrar a área do professor
     area = get_area(p2)
+
+    create_p_file(p2)
 
     # Escreve o nome do professor, com link para a página dele
     out.write('<li>  <a href="https://csindexbr.org/authors.html?p=' + p2 + '">')

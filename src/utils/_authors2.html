@@ -1,6 +1,6 @@
 
 
-   var corebr_papers_file = "data/profs/search/" + corebr_author + ".csv";
+   var corebr_papers_file = "../../data/configs/profs/all-articles/" + corebr_author + ".csv";
 
    function drawTablePapers() {
    $.get(corebr_papers_file, function(csvString) {
@@ -97,25 +97,25 @@
       <span class="navbar-toggler-icon"></span>
    </button>
 
-   <a class="navbar-brand" href="index.html">CSIndexbr <font size="1">BETA</font></a>
+   <a class="navbar-brand" href="../../ index.html">CSIndexbr <font size="1">BETA</font></a>
 
    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
       <ul class="navbar-nav mr-auto">
          <li class="nav-item">
-         <a class="nav-link" href="index.html">Home</a>
+         <a class="nav-link" href="../../index.html">Home</a>
          </li>
          <li class="nav-item active">
-         <a class="nav-link" href="authors2.html">Faculty <span class="sr-only">(current)</span></a>
+         <a class="nav-link" href="../../authors2.html">Faculty <span class="sr-only">(current)</span></a>
          </li>
          <li class="nav-item">
-         <a class="nav-link" href="depts2.html">Departments</a>
+         <a class="nav-link" href="../../depts2.html">Departments</a>
+         </li>
+         <!-- <li class="nav-item">
+         <a class="nav-link" href="../../statistics.html">Statistics</a>
          </li>
          <li class="nav-item">
-         <a class="nav-link" href="statistics.html">Statistics</a>
-         </li>
-         <li class="nav-item">
-         <a class="nav-link" href="faq.html">FAQ</a>
-         </li>
+         <a class="nav-link" href="../../faq.html">FAQ</a>
+         </li> -->
 
       </ul>
 
