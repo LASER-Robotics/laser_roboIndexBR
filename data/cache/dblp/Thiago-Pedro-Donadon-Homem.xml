@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<dblpperson name="Thiago Pedro Donadon Homem" pid="182/1219" n="15">
+<person key="homepages/182/1219" mdate="2024-02-14">
+<author pid="182/1219">Thiago Pedro Donadon Homem</author>
+<url>https://orcid.org/0000-0003-2140-0129</url>
+</person>
+<r><proceedings key="conf/larc/2022" mdate="2023-01-18">
+<editor pid="182/1219">Thiago Pedro Donadon Homem</editor>
+<editor pid="40/169">Reinaldo Augusto da Costa Bianchi</editor>
+<editor pid="39/10150">Bruno Marques Ferreira da Silva</editor>
+<editor pid="283/9478">Carla da Costa Fernandes Curvelo</editor>
+<editor pid="218/9057">Milena Faria Pinto</editor>
+<title>Latin American Robotics Symposium, Brazilian Symposium on Robotics and Workshop on Robotics in Education LARS/SBR/WRE 2022, S&#227;o Bernardo do Campo, Brazil, October 18-21, 2022</title>
+<booktitle>LARS/SBR/WRE</booktitle>
+<publisher>IEEE</publisher>
+<year>2022</year>
+<isbn>978-1-6654-6280-8</isbn>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022</ee>
+<url>db/conf/larc/lars2022.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jirs/MeneghettiHOSPB21" mdate="2024-08-04">
+<author orcid="0000-0002-0478-467X" pid="275/3401">Douglas De Rizzo Meneghetti</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author pid="275/3695">Jonas Henrique Renolfi de Oliveira</author>
+<author pid="223/9633">Isaac Jesus da Silva</author>
+<author pid="187/9085">Danilo Hernani Perico</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<title>Detecting Soccer Balls with Reduced Neural Networks.</title>
+<pages>53</pages>
+<year>2021</year>
+<volume>101</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10846-021-01336-y</ee>
+<url>db/journals/jirs/jirs101.html#MeneghettiHOSPB21</url>
+</article>
+</r>
+<r><article key="journals/jirs/SilvaPHB21" mdate="2024-08-04">
+<author orcid="0000-0002-5662-6593" pid="223/9633">Isaac Jesus da Silva</author>
+<author pid="187/9085">Danilo Hernani Perico</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<title>Deep Reinforcement Learning for a Humanoid Robot Soccer Player.</title>
+<pages>69</pages>
+<year>2021</year>
+<volume>102</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10846-021-01333-1</ee>
+<url>db/journals/jirs/jirs102.html#SilvaPHB21</url>
+</article>
+</r>
+<r><article key="journals/ai/HomemSCBM20" mdate="2024-02-05">
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0001-8484-0354" pid="33/5229">Paulo Eduardo Santos</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<author pid="m/RLdMantaras">Ram&#243;n L&#243;pez de M&#225;ntaras</author>
+<title>Qualitative case-based reasoning and learning.</title>
+<pages>103258</pages>
+<year>2020</year>
+<volume>283</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2020.103258</ee>
+<url>db/journals/ai/ai283.html#HomemSCBM20</url>
+</article>
+</r>
+<r><data key="data/10/BianchiPHSM20" mdate="2024-06-18">
+<author orcid="0000-0001-9097-827X" pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo Hernani Perico</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0002-5662-6593" pid="223/9633">Isaac Jesus da Silva</author>
+<author orcid="0000-0002-0478-467X" pid="275/3401">Douglas De Rizzo Meneghetti</author>
+<title>Open Soccer Ball Dataset.</title>
+<year>2020</year>
+<month>September</month>
+<ee type="oa">https://doi.org/10.21227/0vvr-5c61</ee>
+<publisher>IEEE DataPort</publisher>
+<stream>streams/repo/ieeedataport</stream>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-13684" mdate="2020-09-30">
+<author pid="275/3401">Douglas De Rizzo Meneghetti</author>
+<author pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author pid="275/3695">Jonas Henrique Renolfi de Oliveira</author>
+<author pid="223/9633">Isaac Jesus da Silva</author>
+<author pid="187/9085">Danilo Hernani Perico</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<title>Detecting soccer balls with reduced neural networks: a comparison of multiple architectures under constrained hardware scenarios.</title>
+<year>2020</year>
+<volume>abs/2009.13684</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.13684</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-13684</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/OliveiraSHMPB19" mdate="2024-02-05">
+<author pid="275/3695">Jonas Henrique Renolfi de Oliveira</author>
+<author pid="223/9633">Isaac Jesus da Silva</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author pid="275/3401">Douglas De Rizzo Meneghetti</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo Hernani Perico</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<title>Object Detection under Constrained Hardware Scenarios: A Comparative Study of Reduced Convolutional Network Architectures.</title>
+<pages>25-30</pages>
+<year>2019</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR-WRE48964.2019.00013</ee>
+<crossref>conf/larc/2019</crossref>
+<url>db/conf/larc/lars2019.html#OliveiraSHMPB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/aicom/HomemPSBM17" mdate="2024-02-05">
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo H. Perico</author>
+<author orcid="0000-0001-8484-0354" pid="33/5229">Paulo Eduardo Santos</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<author pid="m/RLdMantaras">Ram&#243;n L&#243;pez de M&#225;ntaras</author>
+<title>Retrieving and reusing qualitative cases: An application in humanoid-robot soccer.</title>
+<pages>251-265</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170735</ee>
+<url>db/journals/aicom/aicom30.html#HomemPSBM17</url>
+</article>
+</r>
+<r><article key="journals/jors/LimaBHS17" mdate="2024-02-05">
+<author pid="198/4952">Camila de Lima</author>
+<author orcid="0000-0002-4512-0140" pid="157/8572">Antonio Roberto Balbo</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0003-2740-8826" pid="03/11296">Helenice de Oliveira Florentino Silva</author>
+<title>A hybrid approach combining interior-point and branch-and-bound methods applied to the problem of sugar cane waste.</title>
+<pages>147-164</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>J. Oper. Res. Soc.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1057/s41274-016-0027-0</ee>
+<url>db/journals/jors/jors68.html#LimaBHS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/HomemPSCB17" mdate="2024-02-05">
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo Hernani Perico</author>
+<author orcid="0000-0001-8484-0354" pid="33/5229">Paulo Eduardo Santos</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<title>Improving Reinforcement Learning Results with Qualitative Spatial Representation.</title>
+<pages>151-156</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.63</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.63</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#HomemPSCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/HomemPSCBM17" mdate="2024-02-05">
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo H. Perico</author>
+<author orcid="0000-0001-8484-0354" pid="33/5229">Paulo E. Santos</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
+<author pid="40/169">Reinaldo A. C. Bianchi</author>
+<author pid="m/RLdMantaras">Ram&#243;n L&#243;pez de M&#225;ntaras</author>
+<title>A hybrid approach to learn, retrieve and reuse qualitative cases.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/SBR-LARS-R.2017.8215309</ee>
+<crossref>conf/larc/2017</crossref>
+<url>db/conf/larc/lars-sbr2017.html#HomemPSCBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccbr/HomemPSBM16" mdate="2024-02-05">
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo H. Perico</author>
+<author orcid="0000-0001-8484-0354" pid="33/5229">Paulo E. Santos</author>
+<author pid="40/169">Reinaldo A. C. Bianchi</author>
+<author pid="m/RLdMantaras">Ram&#243;n L&#243;pez de M&#225;ntaras</author>
+<title>Qualitative Case-Based Reasoning for Humanoid Robot Soccer: A New Retrieval and Reuse Algorithm.</title>
+<pages>170-185</pages>
+<year>2016</year>
+<booktitle>ICCBR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-47096-2_12</ee>
+<crossref>conf/iccbr/2016</crossref>
+<url>db/conf/iccbr/iccbr2016.html#HomemPSBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/PericoHASVFB16" mdate="2024-02-05">
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo H. Perico</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0002-8780-4057" pid="211/8167">Aislan C. Almeida</author>
+<author orcid="0000-0002-5662-6593" pid="223/9633">Isaac J. da Silva</author>
+<author orcid="0000-0002-7113-6541" pid="356/6811">Claudio O. Vilao</author>
+<author pid="356/6033">Vinicius Nicassio Ferreira</author>
+<author pid="40/169">Reinaldo A. C. Bianchi</author>
+<title>A Robot Simulator Based on the Cross Architecture for the Development of Cognitive Robotics.</title>
+<pages>317-322</pages>
+<year>2016</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR.2016.60</ee>
+<crossref>conf/larc/2016</crossref>
+<url>db/conf/larc/lars2016.html#PericoHASVFB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SilvaPHVTB15" mdate="2024-02-05">
+<author orcid="0000-0002-5662-6593" pid="223/9633">Isaac J. da Silva</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo H. Perico</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0002-7113-6541" pid="356/6811">Claudio O. Vilao</author>
+<author orcid="0000-0003-0345-668X" pid="32/2417">Flavio Tonidandel</author>
+<author orcid="0000-0001-9097-827X" pid="40/169">Reinaldo A. C. Bianchi</author>
+<title>Using Reinforcement Learning to Improve the Stability of a Humanoid Robot: Walking on Sloped Terrain.</title>
+<pages>210-215</pages>
+<year>2015</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR.2015.41</ee>
+<ee>https://www.wikidata.org/entity/Q58920634</ee>
+<crossref>conf/larc/2015</crossref>
+<url>db/conf/larc/lars2015.html#SilvaPHVTB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/itor/FlorentinoLCBH11" mdate="2024-02-05">
+<author orcid="0000-0003-2740-8826" pid="03/11296">Helenice de Oliveira Florentino</author>
+<author pid="182/1093">Adriano Dawison De Lima</author>
+<author orcid="0000-0003-0575-2263" pid="182/1140">L&#237;dia Raquel De Carvalho</author>
+<author orcid="0000-0002-4512-0140" pid="157/8572">Antonio Roberto Balbo</author>
+<author orcid="0000-0003-2140-0129" pid="182/1219">Thiago Pedro Donadon Homem</author>
+<title>Multiobjective 0-1 integer programming for the use of sugarcane residual biomass in energy cogeneration.</title>
+<pages>605-615</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>Int. Trans. Oper. Res.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1111/j.1475-3995.2011.00818.x</ee>
+<ee>https://www.wikidata.org/entity/Q59844140</ee>
+<url>db/journals/itor/itor18.html#FlorentinoLCBH11</url>
+</article>
+</r>
+<coauthors n="20" nc="2">
+<co c="0"><na f="a/Almeida:Aislan_C=" pid="211/8167">Aislan C. Almeida</na></co>
+<co c="1"><na f="b/Balbo:Antonio_Roberto" pid="157/8572">Antonio Roberto Balbo</na></co>
+<co c="0" n="2"><na f="b/Bianchi:Reinaldo_Augusto_da_Costa" pid="40/169">Reinaldo Augusto da Costa Bianchi</na><na>Reinaldo A. C. Bianchi</na></co>
+<co c="1"><na f="c/Carvalho:L=iacute=dia_Raquel_De" pid="182/1140">L&#237;dia Raquel De Carvalho</na></co>
+<co c="0" n="2"><na f="c/Costa:Anna_Helena_Reali" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</na><na>Anna H. R. Costa</na></co>
+<co c="0"><na f="c/Curvelo:Carla_da_Costa_Fernandes" pid="283/9478">Carla da Costa Fernandes Curvelo</na></co>
+<co c="0"><na f="f/Ferreira:Vinicius_Nicassio" pid="356/6033">Vinicius Nicassio Ferreira</na></co>
+<co c="1" n="2"><na f="f/Florentino:Helenice_de_Oliveira" pid="03/11296">Helenice de Oliveira Florentino</na><na>Helenice de Oliveira Florentino Silva</na></co>
+<co c="1"><na f="l/Lima:Adriano_Dawison_De" pid="182/1093">Adriano Dawison De Lima</na></co>
+<co c="1"><na f="l/Lima:Camila_de" pid="198/4952">Camila de Lima</na></co>
+<co c="0"><na f="m/M=aacute=ntaras:Ram=oacute=n_L=oacute=pez_de" pid="m/RLdMantaras">Ram&#243;n L&#243;pez de M&#225;ntaras</na></co>
+<co c="0"><na f="m/Meneghetti:Douglas_De_Rizzo" pid="275/3401">Douglas De Rizzo Meneghetti</na></co>
+<co c="0"><na f="o/Oliveira:Jonas_Henrique_Renolfi_de" pid="275/3695">Jonas Henrique Renolfi de Oliveira</na></co>
+<co c="0" n="2"><na f="p/Perico:Danilo_H=" pid="187/9085">Danilo H. Perico</na><na>Danilo Hernani Perico</na></co>
+<co c="0" n="2"><na f="p/Pinto:Milena_F=" pid="218/9057">Milena F. Pinto</na><na>Milena Faria Pinto</na></co>
+<co c="0" n="2"><na f="s/Santos:Paulo_E=" pid="33/5229">Paulo E. Santos</na><na>Paulo Eduardo Santos</na></co>
+<co c="0"><na f="s/Silva:Bruno_Marques_Ferreira_da" pid="39/10150">Bruno Marques Ferreira da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Isaac_J=_da" pid="223/9633">Isaac J. da Silva</na><na>Isaac Jesus da Silva</na></co>
+<co c="0"><na f="t/Tonidandel:Flavio" pid="32/2417">Flavio Tonidandel</na></co>
+<co c="0"><na f="v/Vilao:Claudio_O=" pid="356/6811">Claudio O. Vilao</na></co>
+</coauthors>
+</dblpperson>
+

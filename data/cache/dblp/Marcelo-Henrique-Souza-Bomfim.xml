@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<dblpperson name="Marcelo Henrique Souza Bomfim" pid="119/3423" n="5">
+<person key="homepages/119/3423" mdate="2018-03-05">
+<author pid="119/3423">Marcelo Henrique Souza Bomfim</author>
+</person>
+<r><article key="journals/robotica/BomfimML22" mdate="2022-06-02">
+<author orcid="0000-0002-0263-6075" pid="119/3423">Marcelo Henrique Souza Bomfim</author>
+<author orcid="0000-0002-5631-9008" pid="307/1582">Neemias Silva Monteiro</author>
+<author orcid="0000-0002-0089-5743" pid="31/9807">Eduardo Jose Lima II</author>
+<title>Modelling, simulation and implementation of a hybrid model reference adaptive controller applied to a manipulator driven by pneumatic artificial muscles.</title>
+<pages>1894-1918</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>Robotica</journal>
+<number>6</number>
+<ee>https://doi.org/10.1017/S0263574721001442</ee>
+<url>db/journals/robotica/robotica40.html#BomfimML22</url>
+</article>
+</r>
+<r><article key="journals/irob/BomfimLMS21" mdate="2022-01-03">
+<author pid="119/3423">Marcelo Henrique Souza Bomfim</author>
+<author orcid="0000-0002-0089-5743" pid="31/9807">Eduardo Jose Lima II</author>
+<author pid="307/1582">Neemias Silva Monteiro</author>
+<author pid="307/1215">Vin&#237;cius Avelino Sena</author>
+<title>A new approach for hybrid (PID + MRAC) adaptive controller applied to two-axes McKibben muscle manipulator: a mechanism for human-robot collaboration.</title>
+<pages>836-845</pages>
+<year>2021</year>
+<volume>48</volume>
+<journal>Ind. Robot</journal>
+<number>6</number>
+<ee>https://doi.org/10.1108/IR-12-2020-0267</ee>
+<url>db/journals/irob/irob48.html#BomfimLMS21</url>
+</article>
+</r>
+<r><article key="journals/irob/LimaBM17" mdate="2020-04-16">
+<author orcid="0000-0002-0089-5743" pid="31/9807">Eduardo Jose Lima II</author>
+<author pid="119/3423">Marcelo Henrique Souza Bomfim</author>
+<author pid="215/6126">Miguel Augusto de Miranda Mour&#227;o</author>
+<title>POLIBOT - POwer Lines Inspection RoBOT.</title>
+<pages>98-109</pages>
+<year>2017</year>
+<volume>45</volume>
+<journal>Ind. Robot</journal>
+<number>1</number>
+<ee>https://doi.org/10.1108/IR-08-2016-0217</ee>
+<url>db/journals/irob/irob45.html#LimaBM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/robio/AlvaresTLB17" mdate="2021-11-25">
+<author pid="205/7029">Alberto J. Alvares</author>
+<author pid="249/2925">Juan S. Toquica</author>
+<author orcid="0000-0002-0089-5743" pid="31/9807">Eduardo Jose Lima II</author>
+<author pid="119/3423">Marcelo Henrique Souza Bomfim</author>
+<title>Retrofitting of ASEA IRB2-S6 industrial robot using numeric control technologies based on LinuxCNC and MACH3-MatLab.</title>
+<pages>2148-2153</pages>
+<year>2017</year>
+<booktitle>ROBIO</booktitle>
+<ee>https://doi.org/10.1109/ROBIO.2017.8324737</ee>
+<crossref>conf/robio/2017</crossref>
+<url>db/conf/robio/robio2017.html#AlvaresTLB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/BomfimGBL12" mdate="2023-03-24">
+<author pid="119/3423">Marcelo Henrique Souza Bomfim</author>
+<author pid="119/3617">R. A. Gontijo</author>
+<author pid="86/5736">Alexandre Queiroz Bracarense</author>
+<author orcid="0000-0002-0089-5743" pid="31/9807">Eduardo Jose Lima II</author>
+<title>Overhauling of a ASEA Robot IR6 with Open Architecture.</title>
+<pages>482-489</pages>
+<year>2012</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2012.217</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TrustCom.2012.217</ee>
+<crossref>conf/trustcom/2012</crossref>
+<url>db/conf/trustcom/trustcom2012.html#BomfimGBL12</url>
+</inproceedings>
+</r>
+<coauthors n="8" nc="1">
+<co c="0" n="2"><na f="a/Alvares:Alberto_Jose" pid="205/7029">Alberto Jose Alvares</na><na>Alberto J. Alvares</na></co>
+<co c="0"><na f="b/Bracarense:Alexandre_Queiroz" pid="86/5736">Alexandre Queiroz Bracarense</na></co>
+<co c="0"><na f="g/Gontijo:R=_A=" pid="119/3617">R. A. Gontijo</na></co>
+<co c="0"><na f="l/Lima_II:Eduardo_Jose" pid="31/9807">Eduardo Jose Lima II</na></co>
+<co c="0"><na f="m/Monteiro:Neemias_Silva" pid="307/1582">Neemias Silva Monteiro</na></co>
+<co c="0"><na f="m/Mour=atilde=o:Miguel_Augusto_de_Miranda" pid="215/6126">Miguel Augusto de Miranda Mour&#227;o</na></co>
+<co c="0"><na f="s/Sena:Vin=iacute=cius_Avelino" pid="307/1215">Vin&#237;cius Avelino Sena</na></co>
+<co c="0"><na f="t/Toquica:Juan_S=" pid="249/2925">Juan S. Toquica</na></co>
+</coauthors>
+</dblpperson>
+

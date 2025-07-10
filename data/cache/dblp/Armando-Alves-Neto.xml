@@ -1,0 +1,941 @@
+<?xml version="1.0"?>
+<dblpperson name="Armando Alves Neto" pid="22/7610" n="61">
+<person key="homepages/22/7610" mdate="2022-09-29">
+<author pid="22/7610">Armando Alves Neto</author>
+<url>https://orcid.org/0000-0002-4940-0377</url>
+</person>
+<r><article key="journals/cee/SilvaMNS25" mdate="2025-03-07">
+<author orcid="0000-0003-4657-8986" pid="365/8900">Emerson A. da Silva</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando O. Souza</author>
+<title>Disturbance and uncertainty compensation control for heterogeneous platoons under network delays.</title>
+<pages>110066</pages>
+<year>2025</year>
+<volume>123</volume>
+<journal>Comput. Electr. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compeleceng.2025.110066</ee>
+<url>db/journals/cee/cee123.html#SilvaMNS25</url>
+<stream>streams/journals/cee</stream>
+</article>
+</r>
+<r><article key="journals/jfi/CamposNM25" mdate="2025-04-01">
+<author orcid="0000-0002-2971-4125" pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>A semi-Lagrangian approach for time and energy path planning optimization in static flow fields.</title>
+<pages>107612</pages>
+<year>2025</year>
+<volume>362</volume>
+<journal>J. Frankl. Inst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.jfranklin.2025.107612</ee>
+<url>db/journals/jfi/jfi362.html#CamposNM25</url>
+<stream>streams/journals/jfi</stream>
+</article>
+</r>
+<r><article key="journals/kbs/FreitasWNGP24" mdate="2024-10-06">
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias Jos&#233; De Rezende Freitas</author>
+<author pid="41/5759">Miri Weiss-Cohen</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9238-8839" pid="04/4216">Frederico Gadelha Guimar&#227;es</author>
+<author pid="75/1982">Luciano C. A. Pimenta</author>
+<title>DE3D-NURBS: A differential evolution-based 3D path-planner integrating kinematic constraints and obstacle avoidance.</title>
+<pages>112084</pages>
+<year>2024</year>
+<volume>300</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2024.112084</ee>
+<url>db/journals/kbs/kbs300.html#FreitasWNGP24</url>
+</article>
+</r>
+<r><article key="journals/tie/MirandaNFM24" mdate="2024-02-29">
+<author orcid="0000-0001-9653-6050" pid="258/1804">Victor R. F. Miranda</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-5343-7028" pid="160/1964">Gustavo Medeiros Freitas</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<title>Generalization in Deep Reinforcement Learning for Robotic Navigation by Reward Shaping.</title>
+<pages>6013-6020</pages>
+<year>2024</year>
+<month>June</month>
+<volume>71</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TIE.2023.3290244</ee>
+<url>db/journals/tie/tie71.html#MirandaNFM24</url>
+</article>
+</r>
+<r><article key="journals/tii/NetoCM24" mdate="2024-05-07">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-2971-4125" pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<author orcid="0000-0002-1781-7186" pid="23/7609">Douglas G. Macharet</author>
+<title>Minimal Exposure Escape Path Problem.</title>
+<pages>5572-5580</pages>
+<year>2024</year>
+<month>April</month>
+<volume>20</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TII.2023.3336354</ee>
+<url>db/journals/tii/tii20.html#NetoCM24</url>
+</article>
+</r>
+<r><article key="journals/tits/NetoM24" mdate="2024-10-22">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<title>Robust Longitudinal Control for Vehicular Platoons Using Deep Reinforcement Learning.</title>
+<pages>14401-14410</pages>
+<year>2024</year>
+<month>October</month>
+<volume>25</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TITS.2024.3388390</ee>
+<url>db/journals/tits/tits25.html#NetoM24</url>
+<stream>streams/journals/tits</stream>
+</article>
+</r>
+<r><inproceedings key="conf/iros/PinheiroNMD24" mdate="2025-07-04">
+<author pid="258/1573">Pedro M. Pinheiro</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews</author>
+<title>Energy-efficient Trajectory Planning with Media Transition for a Hybrid Unmanned Aerial-Underwater Vehicle.</title>
+<pages>5424-5429</pages>
+<year>2024</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS58592.2024.10802863</ee>
+<crossref>conf/iros/2024</crossref>
+<url>db/conf/iros/iros2024.html#PinheiroNMD24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/GomesJDPNF24" mdate="2025-01-17">
+<author pid="136/4907">Gabriel Gomes</author>
+<author pid="290/2950">Gilmar P. Cruz J&#250;nior</author>
+<author pid="283/9548">Jac&#243; Domingues</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>Visual Odometry through Optical Flow Integrated with a Multi-sensor Localization System Applied to Mining Vehicles.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LARS</booktitle>
+<ee>https://doi.org/10.1109/LARS64411.2024.10786421</ee>
+<crossref>conf/larc/2024</crossref>
+<url>db/conf/larc/lars2024.html#GomesJDPNF24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-16859" mdate="2024-04-09">
+<author pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>A Semi-Lagrangian Approach for Time and Energy Path Planning Optimization in Static Flow Fields.</title>
+<year>2024</year>
+<volume>abs/2403.16859</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.16859</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-16859</url>
+</article>
+</r>
+<r><article key="journals/ral/NetoCM23" mdate="2023-03-21">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-2971-4125" pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<author orcid="0000-0002-1781-7186" pid="23/7609">Douglas G. Macharet</author>
+<title>Minimal Exposure Paths in Time-Varying Fields: A Semi-Lagrangian Approach.</title>
+<pages>664-671</pages>
+<year>2023</year>
+<volume>8</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LRA.2022.3230595</ee>
+<url>db/journals/ral/ral8.html#NetoCM23</url>
+</article>
+</r>
+<r><article key="journals/tits/GodinhoNMS23" mdate="2023-06-15">
+<author orcid="0000-0001-7952-2167" pid="348/5299">Daniel Almeida Godinho</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando de Oliveira Souza</author>
+<title>A Strategy for Traffic Safety of Vehicular Platoons Under Connection Loss and Time-Delay.</title>
+<pages>6627-6638</pages>
+<year>2023</year>
+<month>June</month>
+<volume>24</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TITS.2023.3258633</ee>
+<url>db/journals/tits/tits24.html#GodinhoNMS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/OliveiraN23" mdate="2024-01-04">
+<author pid="364/1774">Leandro Daros Oliveira</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<title>Comparative Analysis of Fuzzy Inference Systems Applications on Mobile Robot Navigation in Unknown Environments.</title>
+<pages>325-330</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333047</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#OliveiraN23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-14897" mdate="2024-01-18">
+<author pid="365/8900">Emerson A. da Silva</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="12/7143">Fernando O. Souza</author>
+<title>Improving the Design of Linear Controllers for Homogeneous Platooning under Disturbances.</title>
+<year>2023</year>
+<volume>abs/2312.14897</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.14897</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-14897</url>
+</article>
+</r>
+<r><article key="journals/adhoc/NetoCM22" mdate="2022-05-18">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-2971-4125" pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>A semi-Lagrangian approach for the Minimal Exposure Path Problem in Wireless Sensor Networks.</title>
+<pages>102834</pages>
+<year>2022</year>
+<volume>130</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2022.102834</ee>
+<url>db/journals/adhoc/adhoc130.html#NetoCM22</url>
+</article>
+</r>
+<r><article key="journals/jirs/PinheiroNGSACHD22" mdate="2025-04-01">
+<author orcid="0000-0002-8564-458X" pid="258/1573">Pedro M. Pinheiro</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author pid="255/3272">C&#233;sar B. da Silva</author>
+<author pid="283/9931">Vivian M. Aoki</author>
+<author pid="309/6610">Dayana Cardoso</author>
+<author pid="232/9835">Alexandre C. Horn</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo L. J. Drews-Jr</author>
+<title>Trajectory Planning for Hybrid Unmanned Aerial Underwater Vehicles with Smooth Media Transition.</title>
+<pages>46</pages>
+<year>2022</year>
+<volume>104</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10846-021-01567-z</ee>
+<url>db/journals/jirs/jirs104.html#PinheiroNGSACHD22</url>
+</article>
+</r>
+<r><article key="journals/tase/JuniorRMFANPF22" mdate="2023-08-28">
+<author orcid="0000-0002-8103-0206" pid="290/2950">Gilmar P. Cruz J&#250;nior</author>
+<author orcid="0000-0001-7784-6934" pid="233/0546">Adriano M. C. Rezende</author>
+<author orcid="0000-0001-9653-6050" pid="258/1804">Victor R. F. Miranda</author>
+<author orcid="0000-0001-5537-4649" pid="211/8779">Rafael Fernandes</author>
+<author pid="156/6854">H&#233;ctor Azp&#250;rua</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-7411-9229" pid="59/7537">Gustavo Pessin</author>
+<author orcid="0000-0001-5343-7028" pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>EKF-LOAM: An Adaptive Fusion of LiDAR SLAM With Wheel Odometry and Inertial Data for Confined Spaces With Few Geometric Features.</title>
+<pages>1458-1471</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Trans Autom. Sci. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TASE.2022.3169442</ee>
+<ee>https://www.wikidata.org/entity/Q114085264</ee>
+<url>db/journals/tase/tase19.html#JuniorRMFANPF22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-01175" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="40/3969">Leonardo Amaral Mozelli</author>
+<title>Robust Longitudinal Control for Vehicular Autonomous Platoons Using Deep Reinforcement Learning.</title>
+<year>2022</year>
+<volume>abs/2206.01175</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.01175</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-01175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-14271" mdate="2023-09-30">
+<author pid="258/1804">Victor R. F. Miranda</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<title>On the Generalization of Deep Reinforcement Learning Methods in the Problem of Local Navigation.</title>
+<year>2022</year>
+<volume>abs/2209.14271</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.14271</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-14271</url>
+</article>
+</r>
+<r><article key="journals/jirs/OliveiraNHBCM21" mdate="2025-02-20">
+<author orcid="0000-0002-5435-0933" pid="211/8209">Felipe G. Oliveira</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="03/2433">David Howard 0001</author>
+<author pid="05/4396">Paulo V. K. Borges</author>
+<author pid="70/4227">Mario F. M. Campos</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>Three-Dimensional Mapping with Augmented Navigation Cost through Deep Learning.</title>
+<pages>50</pages>
+<year>2021</year>
+<volume>101</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10846-020-01304-y</ee>
+<url>db/journals/jirs/jirs101.html#OliveiraNHBCM21</url>
+</article>
+</r>
+<r><article key="journals/ral/MacharetNS21" mdate="2021-04-20">
+<author orcid="0000-0002-1781-7186" pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-8514-9634" pid="166/3603">Daigo Shishika</author>
+<title>Minimal Exposure Dubins Orienteering Problem.</title>
+<pages>2280-2287</pages>
+<year>2021</year>
+<volume>6</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LRA.2021.3061004</ee>
+<url>db/journals/ral/ral6.html#MacharetNS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/GrandoJKKBPNJ21" mdate="2025-05-31">
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author orcid="0000-0002-8819-1168" pid="283/9978">Junior Costa de Jesus</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="283/9594">Nicolas P. Bortoluzzi</author>
+<author pid="258/1573">Pedro M. Pinheiro</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews Junior</author>
+<title>Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition.</title>
+<pages>1088-1094</pages>
+<year>2021</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA48506.2021.9561188</ee>
+<crossref>conf/icra/2021</crossref>
+<url>db/conf/icra/icra2021.html#GrandoJKKBPNJ21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-12883" mdate="2021-10-14">
+<author pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="283/9594">Nicolas Pieper Bortoluzzi</author>
+<author pid="258/1573">Pedro Miranda Pinheiro</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews Junior</author>
+<title>Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition.</title>
+<year>2021</year>
+<volume>abs/2103.12883</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.12883</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-12883</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-05868" mdate="2021-08-18">
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>A Semi-Lagrangian Approach for the Minimal Exposure Path Problem in Wireless Sensor Networks.</title>
+<year>2021</year>
+<volume>abs/2108.05868</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.05868</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-05868</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-13819" mdate="2022-01-04">
+<author pid="258/1573">Pedro Miranda Pinheiro</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="255/3272">C&#233;sar Bastos da Silva</author>
+<author pid="283/9931">Vivian Misaki Aoki</author>
+<author pid="309/6610">Dayana Cardoso</author>
+<author pid="232/9835">Alexandre Campos Horn</author>
+<author pid="76/7747">Paulo Lilles Drews Jr.</author>
+<title>Trajectory Planning for Hybrid Unmanned Aerial Underwater Vehicles with Smooth Media Transition.</title>
+<year>2021</year>
+<volume>abs/2112.13819</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.13819</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-13819</url>
+</article>
+</r>
+<r><article key="journals/ras/NetoMM20" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>On the consensus of nonlinear agents in unknown cluttered environments using random planning.</title>
+<pages>103607</pages>
+<year>2020</year>
+<volume>132</volume>
+<journal>Robotics Auton. Syst.</journal>
+<ee>https://doi.org/10.1016/j.robot.2020.103607</ee>
+<url>db/journals/ras/ras132.html#NetoMM20</url>
+</article>
+</r>
+<r><article key="journals/tits/SouzaTMN20" mdate="2021-09-20">
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando de Oliveira Souza</author>
+<author orcid="0000-0003-3039-6547" pid="16/6491">Leonardo Ant&#244;nio Borges Torres</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<title>Stability and Formation Error of Homogeneous Vehicular Platoons With Communication Time Delays.</title>
+<pages>4338-4349</pages>
+<year>2020</year>
+<volume>21</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TITS.2019.2939777</ee>
+<url>db/journals/tits/tits21.html#SouzaTMN20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/VanaNFM20" mdate="2023-09-30">
+<author pid="173/5903">Petr V&#225;na</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="86/2282">Jan Faigl</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>Minimal 3D Dubins Path with Bounded Curvature and Pitch Angle.</title>
+<pages>8497-8503</pages>
+<year>2020</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA40945.2020.9197084</ee>
+<crossref>conf/icra/2020</crossref>
+<url>db/conf/icra/icra2020.html#VanaNFM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/FernandesRAPNF20" mdate="2023-09-30">
+<author pid="211/8779">Rafael Fernandes</author>
+<author pid="283/9904">Thiago Lages Rocha</author>
+<author pid="156/6854">H&#233;ctor Azp&#250;rua</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-5343-7028" pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>Investigation of Visual Reconstruction Techniques Using Mobile Robots in Confined Environments.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE51543.2020.9307018</ee>
+<crossref>conf/larc/2020</crossref>
+<url>db/conf/larc/lars2020.html#FernandesRAPNF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/GrandoPBSZPAKLD20" mdate="2025-04-01">
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author pid="258/1573">Pedro M. Pinheiro</author>
+<author pid="283/9594">Nicolas P. Bortoluzzi</author>
+<author pid="255/3272">C&#233;sar B. da Silva</author>
+<author pid="283/9886">Ot&#225;vio F. Zauk</author>
+<author pid="283/9695">Mariana O. Pi&#241;eiro</author>
+<author pid="283/9931">Vivian M. Aoki</author>
+<author pid="283/9569">Andr&#233; L. S. da Kelbouscas</author>
+<author pid="283/9666">Ylanna B. Lima</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo L. J. Drews-Jr</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<title>Visual-based Autonomous Unmanned Aerial Vehicle for Inspection in Indoor Environments.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE51543.2020.9307024</ee>
+<crossref>conf/larc/2020</crossref>
+<url>db/conf/larc/lars2020.html#GrandoPBSZPAKLD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/HornPGSND20" mdate="2025-04-01">
+<author pid="232/9835">Alexandre C. Horn</author>
+<author pid="258/1573">Pedro M. Pinheiro</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author pid="255/3272">C&#233;sar B. da Silva</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo L. J. Drews-Jr</author>
+<title>A Novel Concept for Hybrid Unmanned Aerial Underwater Vehicles Focused on Aquatic Performance.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE51543.2020.9307110</ee>
+<crossref>conf/larc/2020</crossref>
+<url>db/conf/larc/lars2020.html#HornPGSND20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-11932" mdate="2021-04-20">
+<author pid="23/7609">Douglas G. Macharet</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="166/3603">Daigo Shishika</author>
+<title>Minimal Exposure Dubins Orienteering Problem.</title>
+<year>2020</year>
+<volume>abs/2010.11932</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.11932</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-11932</url>
+</article>
+</r>
+<r><article key="journals/cee/NetoMS19" mdate="2025-01-19">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando O. Souza</author>
+<title>Control of air-ground convoy subject to communication time delay.</title>
+<pages>213-224</pages>
+<year>2019</year>
+<volume>76</volume>
+<journal>Comput. Electr. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compeleceng.2019.03.016</ee>
+<ee>https://www.wikidata.org/entity/Q128094171</ee>
+<url>db/journals/cee/cee76.html#NetoMS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icar/HornPSND19" mdate="2023-09-30">
+<author pid="232/9835">Alexandre C. Horn</author>
+<author pid="258/1573">Pedro M. Pinheiro</author>
+<author pid="255/3272">C&#233;sar B. da Silva</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo L. J. Drews-Jr</author>
+<title>A Study on Configuration of Propellers for Multirotor-like Hybrid Aerial-Aquatic Vehicles.</title>
+<pages>173-178</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981667</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#HornPSND19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icar/MirandaMNF19" mdate="2023-09-30">
+<author pid="258/1804">Victor R. F. Miranda</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-5343-7028" pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>On the Robust Longitudinal Trajectory Tracking for Load Transportation Vehicles on Uneven Terrains.</title>
+<pages>320-325</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981641</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#MirandaMNF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icar/OliveiraNBCM19" mdate="2024-01-26">
+<author orcid="0000-0002-5435-0933" pid="211/8209">Felipe G. Oliveira</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="05/4396">Paulo V. K. Borges</author>
+<author pid="70/4227">Mario F. M. Campos</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>Augmented Vector Field Navigation Cost Mapping using Inertial Sensors.</title>
+<pages>388-393</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981572</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#OliveiraNBCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icar/SantanaMN19" mdate="2023-09-30">
+<author pid="258/1572">Robson O. de Santana</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<title>Vision-based Autonomous Landing for Micro Aerial Vehicles on Targets Moving in 3D Space.</title>
+<pages>541-546</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981643</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#SantanaMN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icar/MacharetN19" mdate="2023-09-30">
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<title>Multi-robot On-line Sampling Scheduler for Persistent Monitoring.</title>
+<pages>617-622</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981550</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#MacharetN19</url>
+</inproceedings>
+</r>
+<r><article key="journals/heuristics/MacharetNNC18" mdate="2023-09-30">
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="43/7787">Vilar Fiuza da Camara Neto</author>
+<author pid="70/4227">Mario F. M. Campos</author>
+<title>Dynamic region visit routing problem for vehicles with minimum turning radius.</title>
+<pages>83-109</pages>
+<year>2018</year>
+<volume>24</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10732-017-9359-4</ee>
+<url>db/journals/heuristics/heuristics24.html#MacharetNNC18</url>
+</article>
+</r>
+<r><article key="journals/jirs/NetoMC18" mdate="2021-04-20">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-1781-7186" pid="23/7609">Douglas G. Macharet</author>
+<author pid="70/4227">Mario F. M. Campos</author>
+<title>Multi-agent Rapidly-exploring Pseudo-random Tree.</title>
+<pages>69-85</pages>
+<year>2018</year>
+<volume>89</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10846-017-0516-7</ee>
+<url>db/journals/jirs/jirs89.html#NetoMC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/RosaEJNHAB18" mdate="2023-09-30">
+<author pid="211/8786">Romulo Thiago Silva da Rosa</author>
+<author orcid="0000-0002-5383-053X" pid="202/5626">Paulo Jefferson Dias de Oliveira Evald</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews Junior</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="232/9835">Alexandre C. Horn</author>
+<author pid="143/9499">Rodrigo Zelir Azzolin</author>
+<author orcid="0000-0002-8857-0221" pid="43/4171">Silvia S. C. Botelho</author>
+<title>A Comparative Study on Sigma-Point Kalman Filters for Trajectory Estimation of Hybrid Aerial-Aquatic Vehicles.</title>
+<pages>7460-7465</pages>
+<year>2018</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2018.8593556</ee>
+<crossref>conf/iros/2018</crossref>
+<url>db/conf/iros/iros2018.html#RosaEJNHAB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/OliveiraSNCM17" mdate="2023-09-30">
+<author orcid="0000-0002-5435-0933" pid="211/8209">Felipe G. Oliveira</author>
+<author orcid="0000-0002-8431-3439" pid="137/6299">Elerson Rubens da Silva Santos</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario F. M. Campos</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>Speed-invariant terrain roughness classification and control based on inertial sensors.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/SBR-LARS-R.2017.8215332</ee>
+<crossref>conf/larc/2017</crossref>
+<url>db/conf/larc/lars-sbr2017.html#OliveiraSNCM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/VieiraNM16" mdate="2023-09-30">
+<author pid="347/6479">Igor Pereira Vieira</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<title>Fiducial Markers Applied for Pose Tracking of a Robotic Manipulator: Application in Visual Servoing Control.</title>
+<pages>287-292</pages>
+<year>2016</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR.2016.55</ee>
+<crossref>conf/larc/2016</crossref>
+<url>db/conf/larc/lars2016.html#VieiraNM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/NetoMJC15" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews Junior</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Attitude control for an Hybrid Unmanned Aerial Underwater Vehicle: A robust switched strategy with global stability.</title>
+<pages>395-400</pages>
+<year>2015</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2015.7139029</ee>
+<crossref>conf/icra/2015</crossref>
+<url>db/conf/icra/icra2015.html#NetoMJC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/MozelliNC15" mdate="2023-09-30">
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Attitude of quadrotor-like vehicles: Fuzzy modeling and control with prescribed rate of convergence.</title>
+<pages>1710-1715</pages>
+<year>2015</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2015.7139418</ee>
+<crossref>conf/icra/2015</crossref>
+<url>db/conf/icra/icra2015.html#MozelliNC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/NetoMC15" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>3D path planning with continuous bounded curvature and pitch angle profiles using 7th order curves.</title>
+<pages>4923-4928</pages>
+<year>2015</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2015.7354069</ee>
+<crossref>conf/iros/2015</crossref>
+<url>db/conf/iros/iros2015.html#NetoMC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/JuniorNC14" mdate="2023-09-30">
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews Junior</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Hybrid Unmanned Aerial Underwater Vehicle: Modeling and simulation.</title>
+<pages>4637-4642</pages>
+<year>2014</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2014.6943220</ee>
+<crossref>conf/iros/2014</crossref>
+<url>db/conf/iros/iros2014.html#JuniorNC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/NetoMC13" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Feasible path planning for fixed-wing UAVs using seventh order B&#233;zier curves.</title>
+<pages>193-203</pages>
+<year>2013</year>
+<volume>19</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13173-012-0093-3</ee>
+<url>db/journals/jbcs/jbcs19.html#NetoMC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icar/NetoMCC13" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0001-8156-9941" pid="c/LuizChaimowicz">Luiz Chaimowicz</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Path planning with Multiple Rapidly-exploring Random Trees for teams of robots.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR.2013.6766510</ee>
+<crossref>conf/icar/2013</crossref>
+<url>db/conf/icar/icar2013.html#NetoMCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/MacharetNNC13" mdate="2023-09-30">
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="43/7787">Vilar Fiuza da Camara Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Efficient target visiting path planning for multiple vehicles with bounded curvature.</title>
+<pages>3830-3836</pages>
+<year>2013</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2013.6696904</ee>
+<crossref>conf/iros/2013</crossref>
+<url>db/conf/iros/iros2013.html#MacharetNNC13</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Neto12" mdate="2022-05-04">
+<author pid="22/7610">Armando Alves Neto</author>
+<title>Um arcabou&#231;o para planejamento e controle descentralizado de rob&#244;s heterog&#234;neos.</title>
+<year>2012</year>
+<school>Federal University of Minas Gerais, Brazil</school>
+<ee>https://hdl.handle.net/1843/ESBF-8ZEN86</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_UFMG:oai:bibliotecadigital.ufmg.br:MTD2BR-ESBF-8ZEN86</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_UFMG:oai:bibliotecadigital.ufmg.br:MTD2BR-ESBF-8ZEN86)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cec/MacharetNNC12" mdate="2023-09-30">
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="43/7787">Vilar Fiuza da Camara Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Data gathering tour optimization for Dubins' vehicles.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2012.6256477</ee>
+<crossref>conf/cec/2012</crossref>
+<url>db/conf/cec/cec2012.html#MacharetNNC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/MacharetNNC12" mdate="2018-11-06">
+<author pid="23/7609">Douglas Guimar&#227;es Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="43/7787">Vilar Fiuza da Camara Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>An evolutionary approach for the dubins' traveling salesman problem with neighborhoods.</title>
+<pages>377-384</pages>
+<year>2012</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/2330163.2330218</ee>
+<crossref>conf/gecco/2012</crossref>
+<url>db/conf/gecco/gecco2012.html#MacharetNNC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/MacharetNNC11" mdate="2023-09-30">
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="43/7787">Vilar Fiuza da Camara Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Nonholonomic path planning optimization for Dubins' vehicles.</title>
+<pages>4208-4213</pages>
+<year>2011</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2011.5980239</ee>
+<crossref>conf/icra/2011</crossref>
+<url>db/conf/icra/icra2011.html#MacharetNNC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jirs/NetoMC10" mdate="2021-04-20">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>On the Generation of Trajectories for Multiple UAVs in Environments with Obstacles.</title>
+<pages>123-141</pages>
+<year>2010</year>
+<volume>57</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>1-4</number>
+<ee>https://doi.org/10.1007/s10846-009-9365-3</ee>
+<url>db/journals/jirs/jirs57.html#NetoMC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/NetoMC10" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Feasible RRT-based path planning using seventh order B&#233;zier curves.</title>
+<pages>1445-1450</pages>
+<year>2010</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2010.5649145</ee>
+<crossref>conf/iros/2010</crossref>
+<url>db/conf/iros/iros2010.html#NetoMC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/MacharetNC10" mdate="2023-09-30">
+<author pid="23/7609">Douglas Guimar&#227;es Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Feasible UAV Path Planning Using Genetic Algorithms and B&#233;zier Curves.</title>
+<pages>223-232</pages>
+<year>2010</year>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16138-4_23</ee>
+<crossref>conf/sbia/2010</crossref>
+<url>db/conf/sbia/sbia2010.html#MacharetNC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/VieiraNMC10" mdate="2023-09-30">
+<author pid="94/143">Ant&#244;nio Wilson Vieira</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Mesh Denoising Using Quadric Error Metric.</title>
+<pages>247-254</pages>
+<year>2010</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2010.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2010.41</ee>
+<crossref>conf/sibgrapi/2010</crossref>
+<url>db/conf/sibgrapi/sibgrapi2010.html#VieiraNMC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/NetoMCC09" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="23/7609">Douglas Guimar&#227;es Macharet</author>
+<author orcid="0000-0002-2971-4125" pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Adaptive complementary filtering algorithm for mobile robot localization.</title>
+<pages>19-31</pages>
+<year>2009</year>
+<volume>15</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/BF03194503</ee>
+<url>db/journals/jbcs/jbcs15.html#NetoMCC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/NetoC09" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>On the generation of feasible paths for aerial robots with limited climb angle.</title>
+<pages>2872-2877</pages>
+<year>2009</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2009.5152336</ee>
+<crossref>conf/icra/2009</crossref>
+<url>db/conf/icra/icra2009.html#NetoC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/MacharetNC09" mdate="2021-04-20">
+<author pid="23/7609">Douglas G. Macharet</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>On the generation of feasible paths for aerial robots in environments with obstacles.</title>
+<pages>3380-3385</pages>
+<year>2009</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2009.5354628</ee>
+<crossref>conf/iros/2009</crossref>
+<url>db/conf/iros/iros2009.html#MacharetNC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/NetoC09" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>A path planning algorithm for UAVs with limited climb angle.</title>
+<pages>3894-3899</pages>
+<year>2009</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2009.5354604</ee>
+<crossref>conf/iros/2009</crossref>
+<url>db/conf/iros/iros2009.html#NetoC09</url>
+</inproceedings>
+</r>
+<coauthors n="54" nc="1">
+<co c="0" n="2"><na f="a/Aoki:Vivian_M=" pid="283/9931">Vivian M. Aoki</na><na>Vivian Misaki Aoki</na></co>
+<co c="0"><na f="a/Azp=uacute=rua:H=eacute=ctor" pid="156/6854">H&#233;ctor Azp&#250;rua</na></co>
+<co c="0"><na f="a/Azzolin:Rodrigo_Zelir" pid="143/9499">Rodrigo Zelir Azzolin</na></co>
+<co c="0" n="2"><na f="b/Borges:Paulo_Vinicius_Koerich" pid="05/4396">Paulo Vinicius Koerich Borges</na><na>Paulo V. K. Borges</na></co>
+<co c="0" n="2"><na f="b/Bortoluzzi:Nicolas_P=" pid="283/9594">Nicolas P. Bortoluzzi</na><na>Nicolas Pieper Bortoluzzi</na></co>
+<co c="0" n="2"><na f="b/Botelho:Silvia_Silva_da_Costa" pid="43/4171">Silvia Silva da Costa Botelho</na><na>Silvia S. C. Botelho</na></co>
+<co c="0" n="2"><na f="c/Campos:Mario_Fernando_Montenegro" pid="70/4227">Mario Fernando Montenegro Campos</na><na>Mario F. M. Campos</na></co>
+<co c="0" n="2"><na f="c/Campos:V=iacute=ctor_C=_S=" pid="95/171">V&#237;ctor C. S. Campos</na><na>V&#237;ctor Costa da Silva Campos</na></co>
+<co c="0"><na f="c/Cardoso:Dayana" pid="309/6610">Dayana Cardoso</na></co>
+<co c="0"><na f="c/Chaimowicz:Luiz" pid="c/LuizChaimowicz">Luiz Chaimowicz</na></co>
+<co c="0"><na f="d/Domingues:Jac=oacute=" pid="283/9548">Jac&#243; Domingues</na></co>
+<co c="0" n="4"><na f="d/Drews=Jr:Paulo_L=_J=" pid="76/7747">Paulo L. J. Drews-Jr</na><na>Paulo Lilles Drews Jr.</na><na>Paulo Lilles Jorge Drews Junior</na><na>Paulo Lilles Jorge Drews</na></co>
+<co c="0"><na f="e/Evald:Paulo_Jefferson_Dias_de_Oliveira" pid="202/5626">Paulo Jefferson Dias de Oliveira Evald</na></co>
+<co c="0"><na f="f/Faigl:Jan" pid="86/2282">Jan Faigl</na></co>
+<co c="0"><na f="f/Fernandes:Rafael" pid="211/8779">Rafael Fernandes</na></co>
+<co c="0"><na f="f/Freitas:Elias_Jos=eacute=_De_Rezende" pid="278/8618">Elias Jos&#233; De Rezende Freitas</na></co>
+<co c="0"><na f="f/Freitas:Gustavo_Medeiros" pid="160/1964">Gustavo Medeiros Freitas</na></co>
+<co c="0"><na f="g/Godinho:Daniel_Almeida" pid="348/5299">Daniel Almeida Godinho</na></co>
+<co c="0"><na f="g/Gomes:Gabriel" pid="136/4907">Gabriel Gomes</na></co>
+<co c="0" n="2"><na f="g/Grando:Ricardo_B=" pid="260/3823">Ricardo B. Grando</na><na>Ricardo Bedin Grando</na></co>
+<co c="0" n="2"><na f="g/Guimar=atilde=es:Frederico_G=" pid="04/4216">Frederico G. Guimar&#227;es</na><na>Frederico Gadelha Guimar&#227;es</na></co>
+<co c="0" n="2"><na f="h/Horn:Alexandre_C=" pid="232/9835">Alexandre C. Horn</na><na>Alexandre Campos Horn</na></co>
+<co c="0" n="2"><na f="h/Howard:Gerard_David" pid="03/2433">Gerard David Howard</na><na>David Howard 0001</na></co>
+<co c="0"><na f="j/Jesus:Junior_Costa_de" pid="283/9978">Junior Costa de Jesus</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:Gilmar_Pereira_da_Cruz" pid="290/2950">Gilmar Pereira da Cruz J&#250;nior</na><na>Gilmar P. Cruz J&#250;nior</na></co>
+<co c="0"><na f="k/Kelbouscas:Andr=eacute=_L=_S=_da" pid="283/9569">Andr&#233; L. S. da Kelbouscas</na></co>
+<co c="0"><na f="k/Kich:Victor_Augusto" pid="289/0078">Victor Augusto Kich</na></co>
+<co c="0"><na f="k/Kolling:Alisson_Henrique" pid="289/0082">Alisson Henrique Kolling</na></co>
+<co c="0"><na f="l/Lima:Ylanna_B=" pid="283/9666">Ylanna B. Lima</na></co>
+<co c="0" n="2"><na f="m/Macharet:Douglas_G=" pid="23/7609">Douglas G. Macharet</na><na>Douglas Guimar&#227;es Macharet</na></co>
+<co c="0"><na f="m/Miranda:Victor_R=_F=" pid="258/1804">Victor R. F. Miranda</na></co>
+<co c="0" n="2"><na f="m/Mozelli:Leonardo_A=" pid="40/3969">Leonardo A. Mozelli</na><na>Leonardo Amaral Mozelli</na></co>
+<co c="0"><na f="n/Neto:Vilar_Fiuza_da_Camara" pid="43/7787">Vilar Fiuza da Camara Neto</na></co>
+<co c="0"><na f="o/Oliveira:Felipe_G=" pid="211/8209">Felipe G. Oliveira</na></co>
+<co c="-1"><na f="o/Oliveira:Leandro_Daros" pid="364/1774">Leandro Daros Oliveira</na></co>
+<co c="0"><na f="p/Pessin:Gustavo" pid="59/7537">Gustavo Pessin</na></co>
+<co c="0"><na f="p/Pimenta:Luciano_C=_A=" pid="75/1982">Luciano C. A. Pimenta</na></co>
+<co c="0"><na f="p/Pi=ntilde=eiro:Mariana_O=" pid="283/9695">Mariana O. Pi&#241;eiro</na></co>
+<co c="0" n="2"><na f="p/Pinheiro:Pedro_M=" pid="258/1573">Pedro M. Pinheiro</na><na>Pedro Miranda Pinheiro</na></co>
+<co c="0"><na f="r/Rezende:Adriano_M=_C=" pid="233/0546">Adriano M. C. Rezende</na></co>
+<co c="0"><na f="r/Rocha:Thiago_Lages" pid="283/9904">Thiago Lages Rocha</na></co>
+<co c="0"><na f="r/Rosa:Romulo_Thiago_Silva_da" pid="211/8786">Romulo Thiago Silva da Rosa</na></co>
+<co c="0"><na f="s/Santana:Robson_O=_de" pid="258/1572">Robson O. de Santana</na></co>
+<co c="0"><na f="s/Santos:Elerson_Rubens_da_Silva" pid="137/6299">Elerson Rubens da Silva Santos</na></co>
+<co c="0"><na f="s/Shishika:Daigo" pid="166/3603">Daigo Shishika</na></co>
+<co c="0" n="2"><na f="s/Silva:C=eacute=sar_B=_da" pid="255/3272">C&#233;sar B. da Silva</na><na>C&#233;sar Bastos da Silva</na></co>
+<co c="0"><na f="s/Silva:Emerson_A=_da" pid="365/8900">Emerson A. da Silva</na></co>
+<co c="0" n="2"><na f="s/Souza:Fernando_de_Oliveira" pid="12/7143">Fernando de Oliveira Souza</na><na>Fernando O. Souza</na></co>
+<co c="0" n="2"><na f="t/Torres:Leonardo_A=_B=" pid="16/6491">Leonardo A. B. Torres</na><na>Leonardo Ant&#244;nio Borges Torres</na></co>
+<co c="0" n="2"><na f="v/Vana:Petr" pid="173/5903">Petr Vana</na><na>Petr V&#225;na</na></co>
+<co c="0"><na f="v/Vieira:Ant=ocirc=nio_Wilson" pid="94/143">Ant&#244;nio Wilson Vieira</na></co>
+<co c="0" n="2"><na f="v/Vieira:Igor_P=" pid="347/6479">Igor P. Vieira</na><na>Igor Pereira Vieira</na></co>
+<co c="0"><na f="w/Weiss=Cohen:Miri" pid="41/5759">Miri Weiss-Cohen</na></co>
+<co c="0"><na f="z/Zauk:Ot=aacute=vio_F=" pid="283/9886">Ot&#225;vio F. Zauk</na></co>
+</coauthors>
+</dblpperson>
+

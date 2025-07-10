@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<dblpperson name="Leonardo de L. Rossi" pid="284/7299" n="5">
+<person key="homepages/284/7299" mdate="2023-05-05">
+<author pid="284/7299">Leonardo de L. Rossi</author>
+<author pid="284/7299">Leonardo de Lellis Rossi</author>
+</person>
+<r><article key="journals/cogsr/BertoRRCGSC24" mdate="2025-02-11">
+<author orcid="0000-0001-5599-192X" pid="284/7346">Let&#237;cia M. Berto</author>
+<author orcid="0000-0003-4607-1624" pid="284/7299">Leonardo de Lellis Rossi</author>
+<author orcid="0000-0002-0689-2703" pid="03/4223">Eric Rohmer</author>
+<author orcid="0000-0002-1534-5744" pid="40/10223">Paula D. P. Costa</author>
+<author orcid="0000-0002-9666-3954" pid="20/6092">Ricardo R. Gudwin</author>
+<author pid="59/464">Alexandre da Silva Sim&#245;es</author>
+<author orcid="0000-0003-0467-3133" pid="63/6586">Esther Colombini</author>
+<title>Piagetian experiments to DevRobotics.</title>
+<pages>101170</pages>
+<year>2024</year>
+<month>January</month>
+<volume>83</volume>
+<journal>Cogn. Syst. Res.</journal>
+<ee>https://doi.org/10.1016/j.cogsys.2023.101170</ee>
+<url>db/journals/cogsr/cogsr83.html#BertoRRCGSC24</url>
+</article>
+</r>
+<r><article key="journals/jirs/RossiRCCSG24" mdate="2025-03-03">
+<author orcid="0000-0003-4607-1624" pid="284/7299">Leonardo de Lellis Rossi</author>
+<author pid="03/4223">Eric Rohmer</author>
+<author orcid="0000-0002-1534-5744" pid="40/10223">Paula Dornhofer Paro Costa</author>
+<author pid="63/6586">Esther Luna Colombini</author>
+<author pid="59/464">Alexandre da Silva Sim&#245;es</author>
+<author pid="20/6092">Ricardo Ribeiro Gudwin</author>
+<title>A Procedural Constructive Learning Mechanism with Deep Reinforcement Learning for Cognitive Agents.</title>
+<pages>38</pages>
+<year>2024</year>
+<month>March</month>
+<volume>110</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10846-024-02064-9</ee>
+<url>db/journals/jirs/jirs110.html#RossiRCCSG24</url>
+<stream>streams/journals/jirs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icdl/RossiBCGCS24" mdate="2025-03-03">
+<author orcid="0000-0003-4607-1624" pid="284/7299">Leonardo de L. Rossi</author>
+<author pid="284/7346">Let&#237;cia M. Berto</author>
+<author pid="40/10223">Paula D. P. Costa</author>
+<author pid="20/6092">Ricardo R. Gudwin</author>
+<author pid="63/6586">Esther Colombini</author>
+<author pid="59/464">Alexandre da Silva Sim&#245;es</author>
+<title>Drives and Impulses: Shaping Motivation and Procedural Learning for Humanoid Robots.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>ICDL</booktitle>
+<ee>https://doi.org/10.1109/ICDL61372.2024.10645017</ee>
+<crossref>conf/icdl/2024</crossref>
+<url>db/conf/icdl/icdl2024.html#RossiBCGCS24</url>
+<stream>streams/conf/icdl</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-00597" mdate="2024-02-05">
+<author pid="284/7299">Leonardo de Lellis Rossi</author>
+<author pid="284/7346">Let&#237;cia Mara Berto</author>
+<author pid="03/4223">Eric Rohmer</author>
+<author orcid="0000-0002-1534-5744" pid="40/10223">Paula Dornhofer Paro Costa</author>
+<author pid="20/6092">Ricardo Ribeiro Gudwin</author>
+<author pid="63/6586">Esther Luna Colombini</author>
+<author pid="59/464">Alexandre da Silva Sim&#245;es</author>
+<title>Incremental procedural and sensorimotor learning in cognitive humanoid robots.</title>
+<year>2023</year>
+<volume>abs/2305.00597</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.00597</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-00597</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdl-epirob/BertoRRCSGC20" mdate="2024-02-05">
+<author orcid="0000-0001-5599-192X" pid="284/7346">Let&#237;cia M. Berto</author>
+<author orcid="0000-0003-4607-1624" pid="284/7299">Leonardo de L. Rossi</author>
+<author pid="03/4223">Eric Rohmer</author>
+<author orcid="0000-0002-1534-5744" pid="40/10223">Paula D. P. Costa</author>
+<author pid="59/464">Alexandre da Silva Sim&#245;es</author>
+<author orcid="0000-0002-9666-3954" pid="20/6092">Ricardo R. Gudwin</author>
+<author pid="63/6586">Esther Luna Colombini</author>
+<title>Learning over the Attentional Space with Mobile Robots.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/ICDL-EpiRob48136.2020.9278119</ee>
+<crossref>conf/icdl-epirob/2020</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2020.html#BertoRRCSGC20</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0" n="2"><na f="b/Berto:Let=iacute=cia_M=" pid="284/7346">Let&#237;cia M. Berto</na><na>Let&#237;cia Mara Berto</na></co>
+<co c="0" n="2"><na f="c/Colombini:Esther_Luna" pid="63/6586">Esther Luna Colombini</na><na>Esther Colombini</na></co>
+<co c="0" n="2"><na f="c/Costa:Paula_Dornhofer_Paro" pid="40/10223">Paula Dornhofer Paro Costa</na><na>Paula D. P. Costa</na></co>
+<co c="0" n="2"><na f="g/Gudwin:Ricardo_R=" pid="20/6092">Ricardo R. Gudwin</na><na>Ricardo Ribeiro Gudwin</na></co>
+<co c="0"><na f="r/Rohmer:Eric" pid="03/4223">Eric Rohmer</na></co>
+<co c="0"><na f="s/Sim=otilde=es:Alexandre_da_Silva" pid="59/464">Alexandre da Silva Sim&#245;es</na></co>
+</coauthors>
+</dblpperson>
+

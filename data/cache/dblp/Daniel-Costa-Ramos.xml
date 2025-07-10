@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<dblpperson name="Daniel C. Ramos" pid="177/2507" n="4">
+<person key="homepages/177/2507" mdate="2022-03-21">
+<author pid="177/2507">Daniel C. Ramos</author>
+<author pid="177/2507">Daniel Costa Ramos</author>
+<url>https://orcid.org/0000-0002-9782-1256</url>
+<url>https://www.wikidata.org/entity/Q90878189</url>
+</person>
+<r><article key="journals/sensors/SouzaLMORT22" mdate="2022-04-27">
+<author orcid="0000-0001-6773-6694" pid="316/2239">Rafael Monteiro Jorge Alves Souza</author>
+<author orcid="0000-0002-5810-8351" pid="316/1069">Gabriela Vieira Lima</author>
+<author orcid="0000-0002-9707-115X" pid="181/4668">Aniel Silva de Morais</author>
+<author orcid="0000-0003-4224-5586" pid="316/2208">Lu&#237;s Cl&#225;udio Oliveira-Lopes</author>
+<author orcid="0000-0002-9782-1256" pid="177/2507">Daniel Costa Ramos</author>
+<author orcid="0000-0001-7313-9060" pid="122/7202">Fernando Lessa Tofoli</author>
+<title>Modified Artificial Potential Field for the Path Planning of Aircraft Swarms in Three-Dimensional Environments.</title>
+<pages>1558</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.3390/s22041558</ee>
+<url>db/journals/sensors/sensors22.html#SouzaLMORT22</url>
+</article>
+</r>
+<r><article key="journals/sensors/RamosAM19" mdate="2020-05-30">
+<author orcid="0000-0002-9782-1256" pid="177/2507">Daniel C. Ramos</author>
+<author orcid="0000-0002-9544-3028" pid="a/LuisAlmeida">Lu&#237;s Almeida 0001</author>
+<author pid="88/633">Ubirajara Franco Moreno</author>
+<title>Integrated Robotic and Network Simulation Method.</title>
+<pages>4585</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Sensors</journal>
+<number>20</number>
+<ee type="oa">https://doi.org/10.3390/s19204585</ee>
+<ee>https://www.wikidata.org/entity/Q90878192</ee>
+<url>db/journals/sensors/sensors19.html#RamosAM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/robot/RamosOAM15" mdate="2022-04-09">
+<author orcid="0000-0002-9782-1256" pid="177/2507">Daniel C. Ramos</author>
+<author pid="117/3290-2">Luis Oliveira 0002</author>
+<author orcid="0000-0002-9544-3028" pid="a/LuisAlmeida">Lu&#237;s Almeida 0001</author>
+<author pid="88/633">Ubirajara Franco Moreno</author>
+<title>Network Interference on Cooperative Mobile Robots Consensus.</title>
+<pages>651-663</pages>
+<year>2015</year>
+<booktitle>ROBOT (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-27146-0_50</ee>
+<crossref>conf/robot/2015-1</crossref>
+<url>db/conf/robot/robot2015-1.html#RamosOAM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/RamosMOA15" mdate="2023-03-23">
+<author orcid="0000-0002-9782-1256" pid="177/2507">Daniel C. Ramos</author>
+<author pid="88/633">Ubirajara Franco Moreno</author>
+<author pid="117/3290-2">Luis Oliveira 0002</author>
+<author orcid="0000-0002-9544-3028" pid="a/LuisAlmeida">Lu&#237;s Almeida 0001</author>
+<title>Impact of Alien Networks on Consensus in a Team of Cooperative Mobile Robots.</title>
+<pages>84-89</pages>
+<year>2015</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2015.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2015.23</ee>
+<crossref>conf/sbesc/2015</crossref>
+<url>db/conf/sbesc/sbesc2015.html#RamosMOA15</url>
+</inproceedings>
+</r>
+<coauthors n="8" nc="2">
+<co c="1"><na f="a/Almeida_0001:Lu=iacute=s" pid="a/LuisAlmeida">Lu&#237;s Almeida 0001</na></co>
+<co c="0"><na f="l/Lima:Gabriela_Vieira" pid="316/1069">Gabriela Vieira Lima</na></co>
+<co c="0"><na f="m/Morais:Aniel_Silva_de" pid="181/4668">Aniel Silva de Morais</na></co>
+<co c="1"><na f="m/Moreno:Ubirajara_Franco" pid="88/633">Ubirajara Franco Moreno</na></co>
+<co c="1"><na f="o/Oliveira_0002:Luis" pid="117/3290-2">Luis Oliveira 0002</na></co>
+<co c="0"><na f="o/Oliveira=Lopes:Lu=iacute=s_Cl=aacute=udio" pid="316/2208">Lu&#237;s Cl&#225;udio Oliveira-Lopes</na></co>
+<co c="0"><na f="s/Souza:Rafael_Monteiro_Jorge_Alves" pid="316/2239">Rafael Monteiro Jorge Alves Souza</na></co>
+<co c="0"><na f="t/Tofoli:Fernando_Lessa" pid="122/7202">Fernando Lessa Tofoli</na></co>
+</coauthors>
+</dblpperson>
+

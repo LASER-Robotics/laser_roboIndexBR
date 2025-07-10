@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<dblpperson name="Marcelo Alves dos Santos" pid="192/4807" n="7">
+<person key="homepages/192/4807" mdate="2024-01-03">
+<author pid="192/4807">Marcelo Alves dos Santos</author>
+</person>
+<r><article key="journals/automatica/SantosFR24" mdate="2024-01-13">
+<author orcid="0000-0002-7578-2217" pid="192/4807">Marcelo Alves dos Santos</author>
+<author orcid="0000-0003-3935-9734" pid="99/7140">Antonio Ferramosca</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme Vianna Raffo</author>
+<title>Set-point tracking MPC with avoidance features.</title>
+<pages>111390</pages>
+<year>2024</year>
+<month>January</month>
+<volume>159</volume>
+<journal>Autom.</journal>
+<ee>https://doi.org/10.1016/j.automatica.2023.111390</ee>
+<url>db/journals/automatica/automatica159.html#SantosFR24</url>
+</article>
+</r>
+<r><article key="journals/csysl/SantosFR24" mdate="2025-06-15">
+<author orcid="0000-0002-7578-2217" pid="192/4807">Marcelo Alves dos Santos</author>
+<author orcid="0000-0003-3935-9734" pid="99/7140">Antonio Ferramosca</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme Vianna Raffo</author>
+<title>On the Stability of a Nonlinear MPC Scheme for Avoidance.</title>
+<pages>3285-3290</pages>
+<year>2024</year>
+<volume>8</volume>
+<journal>IEEE Control. Syst. Lett.</journal>
+<ee type="oa">https://doi.org/10.1109/LCSYS.2024.3523844</ee>
+<url>db/journals/csysl/csysl8.html#SantosFR24</url>
+<stream>streams/journals/csysl</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-10871" mdate="2024-01-03">
+<author pid="192/4807">Marcelo Alves dos Santos</author>
+<author pid="99/7140">Antonio Ferramosca</author>
+<author pid="32/8083">Guilherme V. Raffo</author>
+<title>Set-Point Tracking MPC with Avoidance Features.</title>
+<year>2023</year>
+<volume>abs/2307.10871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.10871</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-10871</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/SantosFR21" mdate="2024-01-03">
+<author orcid="0000-0002-7578-2217" pid="192/4807">Marcelo Alves dos Santos</author>
+<author orcid="0000-0003-3935-9734" pid="99/7140">Antonio Ferramosca</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme V. Raffo</author>
+<title>Tracking Nonlinear Model Predictive Control for Obstacle Avoidance.</title>
+<pages>30-35</pages>
+<year>2021</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE54079.2021.9605408</ee>
+<crossref>conf/larc/2021</crossref>
+<url>db/conf/larc/lars2021.html#SantosFR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucc/Dulce-GalindoSR19" mdate="2024-01-03">
+<author pid="247/4370">Jaime A. Dulce-Galindo</author>
+<author orcid="0000-0002-7578-2217" pid="192/4807">Marcelo Alves dos Santos</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme V. Raffo</author>
+<author pid="76/3971">Patr&#237;cia N. Pena</author>
+<title>Autonomous Navigation of Multiple Robots using Supervisory Control Theory.</title>
+<pages>3198-3203</pages>
+<year>2019</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.23919/ECC.2019.8796261</ee>
+<crossref>conf/eucc/2019</crossref>
+<url>db/conf/eucc/eucc2019.html#Dulce-GalindoSR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdc/SantosCRRE17" mdate="2024-01-03">
+<author orcid="0000-0002-7578-2217" pid="192/4807">Marcelo Alves dos Santos</author>
+<author pid="192/4842">Daniel Neri Cardoso</author>
+<author pid="192/4640">Brenner S. Rego</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme Vianna Raffo</author>
+<author orcid="0000-0002-3869-4218" pid="22/997">Sergio Esteban</author>
+<title>A discrete robust adaptive control of a tilt-rotor UAV for an enlarged flight envelope.</title>
+<pages>5208-5214</pages>
+<year>2017</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2017.8264431</ee>
+<crossref>conf/cdc/2017</crossref>
+<url>db/conf/cdc/cdc2017.html#SantosCRRE17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/SantosR16" mdate="2024-01-03">
+<author orcid="0000-0002-7578-2217" pid="192/4807">Marcelo Alves dos Santos</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme V. Raffo</author>
+<title>Path tracking Model Predictive Control of a Tilt-rotor UAV carrying a suspended load.</title>
+<pages>1458-1463</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795749</ee>
+<ee>https://www.wikidata.org/entity/Q59231510</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#SantosR16</url>
+</inproceedings>
+</r>
+<coauthors n="7" nc="1">
+<co c="0"><na f="c/Cardoso:Daniel_Neri" pid="192/4842">Daniel Neri Cardoso</na></co>
+<co c="0"><na f="d/Dulce=Galindo:Jaime_A=" pid="247/4370">Jaime A. Dulce-Galindo</na></co>
+<co c="0"><na f="e/Esteban:Sergio" pid="22/997">Sergio Esteban</na></co>
+<co c="0"><na f="f/Ferramosca:Antonio" pid="99/7140">Antonio Ferramosca</na></co>
+<co c="0" n="2"><na f="p/Pena:Patr=iacute=cia_Nascimento" pid="76/3971">Patr&#237;cia Nascimento Pena</na><na>Patr&#237;cia N. Pena</na></co>
+<co c="0" n="2"><na f="r/Raffo:Guilherme_V=" pid="32/8083">Guilherme V. Raffo</na><na>Guilherme Vianna Raffo</na></co>
+<co c="0"><na f="r/Rego:Brenner_S=" pid="192/4640">Brenner S. Rego</na></co>
+</coauthors>
+</dblpperson>
+

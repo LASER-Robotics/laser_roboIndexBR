@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<dblpperson name="Raul Benites Paradeda" pid="166/2413" n="22">
+<person key="homepages/166/2413" mdate="2021-05-26">
+<author pid="166/2413">Raul Benites Paradeda</author>
+<url>https://orcid.org/0000-0002-4031-6275</url>
+</person>
+<r><inproceedings key="conf/iceis/AlvesSCLAMCCSSP25" mdate="2025-05-02">
+<author pid="374/7130">&#193;lisson Alves</author>
+<author pid="403/6582">Lu&#237;sa Souza</author>
+<author pid="403/7007">Luiz Cho-Luck</author>
+<author pid="403/6833">Raniere Lima</author>
+<author pid="403/6498">Carlos Augusto</author>
+<author pid="403/6550">Wesley Marinho</author>
+<author pid="403/6802">Rafael Capuano</author>
+<author pid="24/5736">Bruno Costa</author>
+<author pid="403/6809">Marina Siqueira</author>
+<author pid="403/7074">Jesa&#237;as Silva</author>
+<author pid="166/2413">Raul Benites Paradeda</author>
+<author pid="79/6178">Pablo Javier Alsina</author>
+<title>Integrating Satellite Images Segmentation and Electrical Infrastructure Data to Identify Possible Urban Irregularities in Power Grid.</title>
+<pages>929-936</pages>
+<year>2025</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0013437500003929</ee>
+<crossref>conf/iceis/2025-1</crossref>
+<url>db/conf/iceis/iceis2025-1.html#AlvesSCLAMCCSSP25</url>
+</inproceedings>
+</r>
+<r><article key="journals/sbcjis/ParadedaATL24" mdate="2024-08-04">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7999-8189" pid="374/7130">&#193;lisson Alves</author>
+<author orcid="0000-0003-2118-3523" pid="51/3860">Daniel Torres</author>
+<author orcid="0009-0003-2350-8878" pid="374/7647">Althierfson Lima</author>
+<title>The Emotions and Advice in Virtual Assistants: A Dual Study on Emotion Validation and Agent Suggestions in a Gaming Scenario.</title>
+<pages>118-129</pages>
+<year>2024</year>
+<volume>15</volume>
+<journal>J. Interact. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jis.2024.3725</ee>
+<url>db/journals/sbcjis/sbcjis15.html#ParadedaATL24</url>
+</article>
+</r>
+<r><inproceedings key="conf/cig/ParadedaFFS23" mdate="2025-03-03">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="364/2230">Georgy Freitas</author>
+<author orcid="0000-0002-2029-4726" pid="137/6434">Sebasti&#227;o E. Alves Filho</author>
+<author pid="95/3835">Anderson Abner Souza</author>
+<title>The Influence of Well-Dressed NPCs on Player Perception, Immersion and Decision-Making in Gaming.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>CoG</booktitle>
+<ee>https://doi.org/10.1109/CoG57401.2023.10333225</ee>
+<crossref>conf/cig/2023</crossref>
+<url>db/conf/cig/cog2023.html#ParadedaFFS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icids/FerreiraPONP22" mdate="2025-03-03">
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="123/3193">Raquel Oliveira</author>
+<author pid="00/5956">Valentina Nisi</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Using Storytelling to Teach Children Biodiversity.</title>
+<pages>3-27</pages>
+<year>2022</year>
+<booktitle>ICIDS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-22298-6_1</ee>
+<crossref>conf/icids/2022</crossref>
+<url>db/conf/icids/icids2022.html#FerreiraPONP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hai/ParadedaMP20" mdate="2021-12-17">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Persuasion Strategies Using a Social Robot in an Interactive Storytelling Scenario.</title>
+<pages>69-77</pages>
+<year>2020</year>
+<booktitle>HAI</booktitle>
+<ee>https://doi.org/10.1145/3406499.3415084</ee>
+<crossref>conf/hai/2020</crossref>
+<url>db/conf/hai/hai2020.html#ParadedaMP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socrob/ParadedaFMP20" mdate="2022-04-09">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>The Importance of the Person's Assertiveness in Persuasive Human-Robot Interactions.</title>
+<pages>516-528</pages>
+<year>2020</year>
+<booktitle>ICSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-62056-1_43</ee>
+<crossref>conf/socrob/2020</crossref>
+<url>db/conf/socrob/icsr2020.html#ParadedaFMP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chiplay/ParadedaFOMP19" mdate="2025-01-19">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author pid="123/3193">Raquel Oliveira</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author orcid="0000-0003-3998-5188" pid="92/5819">Ana Paiva 0001</author>
+<title>The Role of Assertiveness in a Storytelling Game with Persuasive Robotic Non-Player Characters.</title>
+<pages>453-465</pages>
+<year>2019</year>
+<booktitle>CHI PLAY</booktitle>
+<ee>https://doi.org/10.1145/3311350.3347162</ee>
+<ee>https://www.wikidata.org/entity/Q130868532</ee>
+<crossref>conf/chiplay/2019</crossref>
+<url>db/conf/chiplay/chiplay2019.html#ParadedaFOMP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epia/HashemianPGP19" mdate="2021-12-17">
+<author pid="165/4868">Mojgan Hashemian</author>
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="222/7894">Carla Guerra</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Do You Trust Me? Investigating the Formation of Trust in Social Robots.</title>
+<pages>357-369</pages>
+<year>2019</year>
+<booktitle>EPIA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-30244-3_30</ee>
+<crossref>conf/epia/2019-2</crossref>
+<url>db/conf/epia/epia2019-2.html#HashemianPGP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socrob/ParadedaFOMP19" mdate="2022-04-09">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author pid="123/3193">Raquel Oliveira</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>What Makes a Good Robotic Advisor? The Role of Assertiveness in Human-Robot Interaction.</title>
+<pages>144-154</pages>
+<year>2019</year>
+<booktitle>ICSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-35888-4_14</ee>
+<crossref>conf/socrob/2019</crossref>
+<url>db/conf/socrob/icsr2019.html#ParadedaFOMP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hri/ChandraPYDPP18" mdate="2025-01-28">
+<author orcid="0000-0003-2042-8875" pid="171/5729">Shruti Chandra</author>
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="81/7626-1">Hang Yin 0001</author>
+<author pid="03/4041">Pierre Dillenbourg</author>
+<author orcid="0000-0002-5370-1893" pid="58/5094">Rui Prada</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Do Children Perceive Whether a Robotic Peer is Learning or Not?</title>
+<pages>41-49</pages>
+<year>2018</year>
+<booktitle>HRI</booktitle>
+<ee>https://doi.org/10.1145/3171221.3171274</ee>
+<ee>https://ieeexplore.ieee.org/document/9473495</ee>
+<ee>https://www.wikidata.org/entity/Q130861636</ee>
+<crossref>conf/hri/2018</crossref>
+<url>db/conf/hri/hri2018.html#ChandraPYDPP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icids/ParadedaFMP18" mdate="2022-04-09">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Communicating Assertiveness in Robotic Storytellers.</title>
+<pages>442-452</pages>
+<year>2018</year>
+<booktitle>ICIDS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-04028-4_51</ee>
+<crossref>conf/icids/2018</crossref>
+<url>db/conf/icids/icids2018.html#ParadedaFMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icids/ParadedaFMP18a" mdate="2022-04-09">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Would You Follow the Suggestions of a Storyteller Robot?</title>
+<pages>489-493</pages>
+<year>2018</year>
+<booktitle>ICIDS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-04028-4_57</ee>
+<crossref>conf/icids/2018</crossref>
+<url>db/conf/icids/icids2018.html#ParadedaFMP18a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ChandraPYDPP17" mdate="2025-01-28">
+<author pid="171/5729">Shruti Chandra</author>
+<author pid="166/2413">Raul Benites Paradeda</author>
+<author pid="81/7626-1">Hang Yin 0001</author>
+<author pid="03/4041">Pierre Dillenbourg</author>
+<author pid="58/5094">Rui Prada</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Affect of Robot's Competencies on Children's Perception.</title>
+<pages>1490-1492</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091339</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#ChandraPYDPP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ParadedaHGPDP17" mdate="2024-06-27">
+<author pid="166/2413">Raul Benites Paradeda</author>
+<author pid="165/4868">Mojgan Hashemian</author>
+<author pid="170/7816">Carla N. Guerra</author>
+<author pid="58/5094">Rui Prada</author>
+<author pid="48/1389-1">Jo&#227;o Dias 0001</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>FIDES: How Emotions and Small Talks May Influence Trust in an Embodied vs. Non-embodied Robot.</title>
+<pages>1673-1675</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091400</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#ParadedaHGPDP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hri/ParadedaFDP17" mdate="2024-06-27">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author orcid="0000-0002-1653-1821" pid="48/1389-1">Jo&#227;o Dias 0001</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>How Robots Persuasion based on Personality Traits May Affect Human Decisions.</title>
+<pages>251-252</pages>
+<year>2017</year>
+<booktitle>HRI (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3029798.3038348</ee>
+<crossref>conf/hri/2017c</crossref>
+<url>db/conf/hri/hri2017c.html#ParadedaFDP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hri/ParadedaMP17" mdate="2021-12-17">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Persuasion Based on Personality Traits: Using a Social Robot as Storyteller.</title>
+<pages>367-368</pages>
+<year>2017</year>
+<booktitle>HRI (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3029798.3034824</ee>
+<crossref>conf/hri/2017c</crossref>
+<url>db/conf/hri/hri2017c.html#ParadedaMP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icids/ParadedaFMP17" mdate="2021-12-17">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-7746-751X" pid="144/5700">Maria Jos&#233; Ferreira</author>
+<author pid="70/5007">Carlos Martinho</author>
+<author pid="92/5819">Ana Paiva 0001</author>
+<title>Using Interactive Storytelling to Identify Personality Traits.</title>
+<pages>181-192</pages>
+<year>2017</year>
+<booktitle>ICIDS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71027-3_15</ee>
+<crossref>conf/icids/2017</crossref>
+<url>db/conf/icids/icids2017.html#ParadedaFMP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socrob/ParadedaHRP16" mdate="2021-12-17">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author orcid="0000-0002-3035-1341" pid="165/4868">Mojgan Hashemian</author>
+<author pid="187/1610">Rafael Afonso Rodrigues</author>
+<author orcid="0000-0003-3998-5188" pid="92/5819">Ana Paiva 0001</author>
+<title>How Facial Expressions and Small Talk May Influence Trust in a Robot.</title>
+<pages>169-178</pages>
+<year>2016</year>
+<booktitle>ICSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-47437-3_17</ee>
+<crossref>conf/socrob/2016</crossref>
+<url>db/conf/socrob/icsr2016.html#ParadedaHRP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/ParadedaSGS15" mdate="2015-08-04">
+<author pid="166/2413">Raul Benites Paradeda</author>
+<author pid="166/2435">Ailton Francisco de Luna e Silva</author>
+<author pid="163/8267">Jones Granatyr</author>
+<author pid="14/3877">Alberto Signoretti</author>
+<title>BrailleApp - Educational Mobile Application to Assist in the Learning of Braille Language.</title>
+<pages>523-529</pages>
+<year>2015</year>
+<booktitle>CSEDU (2)</booktitle>
+<crossref>conf/csedu/2015-2</crossref>
+<url>db/conf/csedu/csedu2015-2.html#ParadedaSGS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrn/ParadedaXC08" mdate="2023-03-24">
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="29/3254">Jo&#227;o Carlos Xavier Jr.</author>
+<author pid="c/AnneMPCanuto">Anne M. P. Canuto</author>
+<title>Applying Static and Dynamic Weight Measures in Ensemble Systems.</title>
+<pages>45-50</pages>
+<year>2008</year>
+<booktitle>SBRN</booktitle>
+<ee>https://doi.org/10.1109/SBRN.2008.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRN.2008.35</ee>
+<crossref>conf/sbrn/2008</crossref>
+<url>db/conf/sbrn/sbrn2008.html#ParadedaXC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/OliveiraPCCS07" mdate="2025-03-03">
+<author pid="81/532">Lucas M. Oliveira</author>
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="m/BrunoMottadeCarvalho">Bruno M. Carvalho 0001</author>
+<author pid="c/AnneMPCanuto">Anne M. P. Canuto</author>
+<author pid="02/156">Marc&#237;lio Carlos Pereira de Souto</author>
+<title>Particle Detection on Election Microscopy Micrographs Using Multi-Classifier Systems.</title>
+<pages>216-221</pages>
+<year>2007</year>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/HIS.2007.51</ee>
+<crossref>conf/his/2007</crossref>
+<url>db/conf/his/his2007.html#OliveiraPCCS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ausai/SilvaAPSS05" mdate="2021-05-05">
+<author pid="05/5135">Shirlly C. M. Silva</author>
+<author pid="180/5263">Daniel S. A. de Araujo</author>
+<author orcid="0000-0002-4031-6275" pid="166/2413">Raul Benites Paradeda</author>
+<author pid="23/3106">Valmar S. Severiano-Sobrinho</author>
+<author pid="02/156">Marc&#237;lio Carlos Pereira de Souto</author>
+<title>Individual Clustering and Homogeneous Cluster Ensemble Approaches Applied to Gene Expression Data.</title>
+<pages>930-933</pages>
+<year>2005</year>
+<crossref>conf/ausai/2005</crossref>
+<booktitle>Australian Conference on Artificial Intelligence</booktitle>
+<ee>https://doi.org/10.1007/11589990_113</ee>
+<url>db/conf/ausai/ausai2005.html#SilvaAPSS05</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="2">
+<co c="1"><na f="a/Alsina:Pablo_Javier" pid="79/6178">Pablo Javier Alsina</na></co>
+<co c="1"><na f="a/Alves:=Aacute=lisson" pid="374/7130">&#193;lisson Alves</na></co>
+<co c="0" n="2"><na f="a/Ara=uacute=jo_0001:Daniel" pid="180/5263">Daniel Ara&#250;jo 0001</na><na>Daniel S. A. de Araujo</na></co>
+<co c="1"><na f="a/Augusto:Carlos" pid="403/6498">Carlos Augusto</na></co>
+<co c="0"><na f="c/Canuto:Anne_M=_P=" pid="c/AnneMPCanuto">Anne M. P. Canuto</na></co>
+<co c="1"><na f="c/Capuano:Rafael" pid="403/6802">Rafael Capuano</na></co>
+<co c="0"><na f="c/Carvalho_0001:Bruno_M=" pid="m/BrunoMottadeCarvalho">Bruno M. Carvalho 0001</na></co>
+<co c="0"><na f="c/Chandra:Shruti" pid="171/5729">Shruti Chandra</na></co>
+<co c="1"><na f="c/Cho=Luck:Luiz" pid="403/7007">Luiz Cho-Luck</na></co>
+<co c="1"><na f="c/Costa:Bruno" pid="24/5736">Bruno Costa</na></co>
+<co c="0"><na f="d/Dias_0001:Jo=atilde=o" pid="48/1389-1">Jo&#227;o Dias 0001</na></co>
+<co c="0"><na f="d/Dillenbourg:Pierre" pid="03/4041">Pierre Dillenbourg</na></co>
+<co c="0"><na f="f/Ferreira:Maria_Jos=eacute=" pid="144/5700">Maria Jos&#233; Ferreira</na></co>
+<co c="1" n="2"><na f="f/Filho:Sebastiao_Emidio_Alves" pid="137/6434">Sebastiao Emidio Alves Filho</na><na>Sebasti&#227;o E. Alves Filho</na></co>
+<co c="1"><na f="f/Freitas:Georgy" pid="364/2230">Georgy Freitas</na></co>
+<co c="0"><na f="g/Granatyr:Jones" pid="163/8267">Jones Granatyr</na></co>
+<co c="0"><na f="g/Guerra:Carla" pid="222/7894">Carla Guerra</na></co>
+<co c="0"><na f="g/Guerra:Carla_N=" pid="170/7816">Carla N. Guerra</na></co>
+<co c="0"><na f="h/Hashemian:Mojgan" pid="165/4868">Mojgan Hashemian</na></co>
+<co c="1"><na f="l/Lima:Althierfson" pid="374/7647">Althierfson Lima</na></co>
+<co c="1"><na f="l/Lima:Raniere" pid="403/6833">Raniere Lima</na></co>
+<co c="1"><na f="m/Marinho:Wesley" pid="403/6550">Wesley Marinho</na></co>
+<co c="0"><na f="m/Martinho:Carlos" pid="70/5007">Carlos Martinho</na></co>
+<co c="0"><na f="n/Nisi:Valentina" pid="00/5956">Valentina Nisi</na></co>
+<co c="0"><na f="o/Oliveira:Lucas_M=" pid="81/532">Lucas M. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Raquel" pid="123/3193">Raquel Oliveira</na></co>
+<co c="0"><na f="p/Paiva_0001:Ana" pid="92/5819">Ana Paiva 0001</na></co>
+<co c="0"><na f="p/Prada:Rui" pid="58/5094">Rui Prada</na></co>
+<co c="0"><na f="r/Rodrigues:Rafael_Afonso" pid="187/1610">Rafael Afonso Rodrigues</na></co>
+<co c="0"><na f="s/Severiano=Sobrinho:Valmar_S=" pid="23/3106">Valmar S. Severiano-Sobrinho</na></co>
+<co c="0"><na f="s/Signoretti:Alberto" pid="14/3877">Alberto Signoretti</na></co>
+<co c="0"><na f="s/Silva:Ailton_Francisco_de_Luna_e" pid="166/2435">Ailton Francisco de Luna e Silva</na></co>
+<co c="1"><na f="s/Silva:Jesa=iacute=as" pid="403/7074">Jesa&#237;as Silva</na></co>
+<co c="0"><na f="s/Silva:Shirlly_C=_M=" pid="05/5135">Shirlly C. M. Silva</na></co>
+<co c="1"><na f="s/Siqueira:Marina" pid="403/6809">Marina Siqueira</na></co>
+<co c="0"><na f="s/Souto:Marc=iacute=lio_Carlos_Pereira_de" pid="02/156">Marc&#237;lio Carlos Pereira de Souto</na></co>
+<co c="1" n="2"><na f="s/Souza:Anderson_A=_S=" pid="95/3835">Anderson A. S. Souza</na><na>Anderson Abner Souza</na></co>
+<co c="1"><na f="s/Souza:Lu=iacute=sa" pid="403/6582">Lu&#237;sa Souza</na></co>
+<co c="1"><na f="t/Torres:Daniel" pid="51/3860">Daniel Torres</na></co>
+<co c="0"><na f="x/Xavier_Jr=:Jo=atilde=o_Carlos" pid="29/3254">Jo&#227;o Carlos Xavier Jr.</na></co>
+<co c="0"><na f="y/Yin_0001:Hang" pid="81/7626-1">Hang Yin 0001</na></co>
+</coauthors>
+</dblpperson>
+

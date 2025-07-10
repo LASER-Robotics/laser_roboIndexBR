@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<dblpperson name="Filipe C. A. Lins" pid="283/9589" n="2">
+<person key="homepages/283/9589" mdate="2021-01-28">
+<author pid="283/9589">Filipe C. A. Lins</author>
+</person>
+<r><article key="journals/sensors/LinsRGMA23" mdate="2023-03-21">
+<author orcid="0000-0001-8360-4632" pid="283/9589">Filipe C. A. Lins</author>
+<author orcid="0000-0002-3511-090X" pid="198/1985">N&#237;colas dos Santos Rosa</author>
+<author orcid="0000-0001-6753-139X" pid="93/4528">Valdir Grassi Jr.</author>
+<author orcid="0000-0001-8520-1888" pid="07/4890">Adelardo A. D. Medeiros</author>
+<author orcid="0000-0002-2882-5237" pid="79/6178">Pablo Javier Alsina</author>
+<title>DPO: Direct Planar Odometry with Stereo Camera.</title>
+<pages>1393</pages>
+<year>2023</year>
+<month>February</month>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/s23031393</ee>
+<url>db/journals/sensors/sensors23.html#LinsRGMA23</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/LinsLMA20" mdate="2021-01-28">
+<author pid="283/9589">Filipe C. A. Lins</author>
+<author pid="283/9714">Orcilano M. Luz</author>
+<author pid="07/4890">Adelardo A. D. Medeiros</author>
+<author pid="79/6178">Pablo Javier Alsina</author>
+<title>A Comparison of Three Different Parameterizations to Represent Planes For the Mapping Step of Direct Visual SLAM Approaches.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE51543.2020.9306932</ee>
+<crossref>conf/larc/2020</crossref>
+<url>db/conf/larc/lars2020.html#LinsLMA20</url>
+</inproceedings>
+</r>
+<coauthors n="5" nc="1">
+<co c="0"><na f="a/Alsina:Pablo_Javier" pid="79/6178">Pablo Javier Alsina</na></co>
+<co c="0"><na f="g/Grassi_Jr=:Valdir" pid="93/4528">Valdir Grassi Jr.</na></co>
+<co c="0"><na f="l/Luz:Orcilano_M=" pid="283/9714">Orcilano M. Luz</na></co>
+<co c="0" n="2"><na f="m/Medeiros:Adelardo_A=_D=_de" pid="07/4890">Adelardo A. D. de Medeiros</na><na>Adelardo A. D. Medeiros</na></co>
+<co c="0"><na f="r/Rosa:N=iacute=colas_dos_Santos" pid="198/1985">N&#237;colas dos Santos Rosa</na></co>
+</coauthors>
+</dblpperson>
+

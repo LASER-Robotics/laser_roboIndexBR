@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<dblpperson name="Rog&#233;rio Sales Gon&#231;alves" pid="246/0891" n="26">
+<person key="homepages/246/0891" mdate="2022-01-14">
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+</person>
+<r><article key="journals/isrob/GoncalvesCSSGSTCH24" mdate="2024-05-04">
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="372/9874">Talles M. de Carvalho</author>
+<author pid="372/9935">Pablo B. dos Santos</author>
+<author pid="337/9373">Frederico Costa Souza</author>
+<author pid="126/1582">Carlos Alberto Gallo</author>
+<author pid="337/9212">Daniel Edgardo Tio Sudbrack</author>
+<author pid="337/9403">Paulo Victor Trautmann</author>
+<author pid="337/9398">Bruno Cordeiro Clasen</author>
+<author pid="337/9345">Rafael Zimmermann Homma</author>
+<title>Drone-robot to install aerial marker balls for power lines.</title>
+<pages>329-343</pages>
+<year>2024</year>
+<month>March</month>
+<volume>17</volume>
+<journal>Intell. Serv. Robotics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11370-023-00493-3</ee>
+<url>db/journals/isrob/isrob17.html#GoncalvesCSSGSTCH24</url>
+</article>
+</r>
+<r><article key="journals/jirs/VigoloRVCG24" mdate="2024-12-09">
+<author orcid="0000-0003-0235-9095" pid="384/7748">Vin&#237;cius Vigolo</author>
+<author orcid="0000-0002-0452-603X" pid="310/8332">Lucas A. O. Rodrigues</author>
+<author orcid="0000-0001-7447-2076" pid="246/0656">Antonio Carlos Valdiero</author>
+<author orcid="0009-0001-8513-343X" pid="384/7290">Daniel A. L. da Cruz</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>HOPE-G: A Dual Belt Treadmill Servo-Pneumatic System for Gait Rehabilitation.</title>
+<pages>127</pages>
+<year>2024</year>
+<month>September</month>
+<volume>110</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s10846-024-02158-4</ee>
+<url>db/journals/jirs/jirs110.html#VigoloRVCG24</url>
+<stream>streams/journals/jirs</stream>
+</article>
+</r>
+<r><article key="journals/ras/GoncalvesSSSTCH24" mdate="2024-07-04">
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="337/9373">Frederico Costa Souza</author>
+<author pid="377/7623">Claudio Costa Souza</author>
+<author pid="337/9212">Daniel Edgardo Tio Sudbrack</author>
+<author pid="337/9403">Paulo Victor Trautmann</author>
+<author pid="337/9398">Bruno Cordeiro Clasen</author>
+<author orcid="0009-0008-3465-4172" pid="337/9345">Rafael Zimmermann Homma</author>
+<title>Semi-autonomous mobile robot coupled to a drone for debris removal from high-voltage power lines.</title>
+<pages>104697</pages>
+<year>2024</year>
+<volume>177</volume>
+<journal>Robotics Auton. Syst.</journal>
+<ee>https://doi.org/10.1016/j.robot.2024.104697</ee>
+<url>db/journals/ras/ras177.html#GoncalvesSSSTCH24</url>
+</article>
+</r>
+<r><article key="journals/robotics/PaivaGC24" mdate="2024-03-16">
+<author orcid="0000-0002-3526-2188" pid="367/8648">Thiago S&#225; de Paiva</author>
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author orcid="0000-0003-0831-8358" pid="77/2867">Giuseppe Carbone</author>
+<title>A Critical Review and Systematic Design Approach for Linkage-Based Gait Rehabilitation Devices.</title>
+<pages>11</pages>
+<year>2024</year>
+<volume>13</volume>
+<journal>Robotics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/robotics13010011</ee>
+<url>db/journals/robotics/robotics13.html#PaivaGC24</url>
+</article>
+</r>
+<r><article key="journals/robotics/LaraMolinaG24" mdate="2025-03-03">
+<author orcid="0000-0002-5863-2356" pid="75/10540">Fabian Andres Lara-Molina</author>
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Kinematic Reliability of Manipulators Based on an Interval Approach.</title>
+<pages>155</pages>
+<year>2024</year>
+<volume>13</volume>
+<journal>Robotics</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/robotics13110155</ee>
+<url>db/journals/robotics/robotics13.html#LaraMolinaG24</url>
+<stream>streams/journals/robotics</stream>
+</article>
+</r>
+<r><article key="journals/robotica/RodriguesG23" mdate="2023-04-16">
+<author orcid="0000-0002-0452-603X" pid="310/8332">Lucas A. O. Rodrigues</author>
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Development of a novel body weight support system for gait rehabilitation.</title>
+<pages>1275-1294</pages>
+<year>2023</year>
+<month>April</month>
+<volume>41</volume>
+<journal>Robotica</journal>
+<number>4</number>
+<ee>https://doi.org/10.1017/S0263574722001709</ee>
+<url>db/journals/robotica/robotica41.html#RodriguesG23</url>
+</article>
+</r>
+<r><article key="journals/robotica/GoncalvesK23" mdate="2023-04-29">
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="345/0896">Yasmin V. Kaufmann</author>
+<title>Comparison of theoretical and experimental models for knee flexion/extension using a cable-driven robot.</title>
+<pages>1617-1633</pages>
+<year>2023</year>
+<month>May</month>
+<volume>41</volume>
+<journal>Robotica</journal>
+<number>5</number>
+<ee>https://doi.org/10.1017/S0263574723000024</ee>
+<url>db/journals/robotica/robotica41.html#GoncalvesK23</url>
+</article>
+</r>
+<r><article key="journals/robotics/GoncalvesRHC23" mdate="2023-06-02">
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="310/8332">Lucas Ant&#244;nio Oliveira Rodrigues</author>
+<author pid="347/3935">Ren&#233; Humbert</author>
+<author orcid="0000-0003-0831-8358" pid="77/2867">Giuseppe Carbone</author>
+<title>A User-Friendly Nonmotorized Device for Ankle Rehabilitation.</title>
+<pages>32</pages>
+<year>2023</year>
+<month>April</month>
+<volume>12</volume>
+<journal>Robotics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/robotics12020032</ee>
+<url>db/journals/robotics/robotics12.html#GoncalvesRHC23</url>
+</article>
+</r>
+<r><article key="journals/robotics/GoncalvesPLG23" mdate="2023-06-02">
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="347/4306">Rodrigo Alves Prado</author>
+<author pid="347/4310">Gu&#234;nia Mara Vieira Ladeira</author>
+<author pid="347/3787">Andr&#233;a Licre Pessina Gasparini</author>
+<title>Development of Serious Games for the Rehabilitation of the Human Vertebral Spine for Home Care.</title>
+<pages>58</pages>
+<year>2023</year>
+<month>April</month>
+<volume>12</volume>
+<journal>Robotics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/robotics12020058</ee>
+<url>db/journals/robotics/robotics12.html#GoncalvesPLG23</url>
+</article>
+</r>
+<r><article key="journals/sensors/GoncalvesORSGST23" mdate="2024-04-11">
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="350/9875">Murilo De Oliveira</author>
+<author pid="350/9441">Murilo Rocioli</author>
+<author pid="337/9373">Frederico Costa Souza</author>
+<author pid="126/1582">Carlos Alberto Gallo</author>
+<author pid="337/9212">Daniel Edgardo Tio Sudbrack</author>
+<author pid="337/9403">Paulo Victor Trautmann</author>
+<author pid="337/9398">Bruno Cordeiro Clasen</author>
+<author pid="337/9345">Rafael Zimmermann Homma</author>
+<title>Drone-Robot to Clean Power Line Insulators.</title>
+<pages>5529</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s23125529</ee>
+<url>db/journals/sensors/sensors23.html#GoncalvesORSGST23</url>
+</article>
+</r>
+<r><article key="journals/firai/AlvesGC22" mdate="2022-08-16">
+<author pid="315/6251">Thiago Alves 0003</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="77/2867">Giuseppe Carbone</author>
+<title>Serious Games Strategies With Cable-Driven Robots for Bimanual Rehabilitation: A Randomized Controlled Trial With Post-Stroke Patients.</title>
+<pages>739088</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>Frontiers Robotics AI</journal>
+<ee type="oa">https://doi.org/10.3389/frobt.2022.739088</ee>
+<ee>https://www.wikidata.org/entity/Q112688914</ee>
+<url>db/journals/firai/firai9.html#AlvesGC22</url>
+</article>
+</r>
+<r><article key="journals/firai/CarboneG22" mdate="2023-02-28">
+<author pid="77/2867">Giuseppe Carbone</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Editorial: Robot-assisted rehabilitation for neurological disorders.</title>
+<year>2022</year>
+<volume>9</volume>
+<journal>Frontiers Robotics AI</journal>
+<ee type="oa">https://doi.org/10.3389/frobt.2022.1014681</ee>
+<url>db/journals/firai/firai9.html#CarboneG22</url>
+</article>
+</r>
+<r><article key="journals/robotica/GoncalvesR22" mdate="2022-01-21">
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author orcid="0000-0002-0452-603X" pid="310/8332">Lucas A. O. Rodrigues</author>
+<title>Development of nonmotorized mechanisms for lower limb rehabilitation.</title>
+<pages>102-119</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>Robotica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S0263574721000412</ee>
+<url>db/journals/robotica/robotica40.html#GoncalvesR22</url>
+</article>
+</r>
+<r><article key="journals/sensors/GoncalvesSC22" mdate="2022-09-26">
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="311/3452">Marcus R. S. B. de Souza</author>
+<author orcid="0000-0003-0831-8358" pid="77/2867">Giuseppe Carbone</author>
+<title>Analysis of the Leap Motion Controller's Performance in Measuring Wrist Rehabilitation Tasks Using an Industrial Robot Arm Reference.</title>
+<pages>4880</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>13</number>
+<ee type="oa">https://doi.org/10.3390/s22134880</ee>
+<url>db/journals/sensors/sensors22.html#GoncalvesSC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/GoncalvesSHSTC22" mdate="2023-01-18">
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="337/9373">Frederico Costa Souza</author>
+<author pid="337/9345">Rafael Zimmermann Homma</author>
+<author pid="337/9212">Daniel Edgardo Tio Sudbrack</author>
+<author pid="337/9403">Paulo Victor Trautmann</author>
+<author pid="337/9398">Bruno Cordeiro Clasen</author>
+<title>Mobile Robot for Debris Removal from High Voltage Power Lines.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995816</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#GoncalvesSHSTC22</url>
+</inproceedings>
+</r>
+<r><article key="journals/robotics/SouzaGC21" mdate="2022-03-14">
+<author pid="311/3452">Marcus R. S. B. de Souza</author>
+<author orcid="0000-0002-1378-0363" pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author orcid="0000-0003-0831-8358" pid="77/2867">Giuseppe Carbone</author>
+<title>Feasibility and Performance Validation of a Leap Motion Controller for Upper Limb Rehabilitation.</title>
+<pages>130</pages>
+<year>2021</year>
+<volume>10</volume>
+<journal>Robotics</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.3390/robotics10040130</ee>
+<url>db/journals/robotics/robotics10.html#SouzaGC21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icorr/GoergenVROSG19" mdate="2022-08-30">
+<author pid="327/7406">Roberta Goergen</author>
+<author orcid="0000-0001-7447-2076" pid="246/0656">Antonio Carlos Valdiero</author>
+<author orcid="0000-0001-8334-0956" pid="233/1301">Luiz Antonio Rasia</author>
+<author pid="327/7167">Mauricio Oberd&#246;rfer</author>
+<author pid="327/7076">Jocarly Patroc&#237;nio de Souza</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Development of a Pneumatic Exoskeleton Robot for Lower Limb Rehabilitation.</title>
+<pages>187-192</pages>
+<year>2019</year>
+<booktitle>ICORR</booktitle>
+<ee>https://doi.org/10.1109/ICORR.2019.8779522</ee>
+<ee>https://www.wikidata.org/entity/Q92371231</ee>
+<crossref>conf/icorr/2019</crossref>
+<url>db/conf/icorr/icorr2019.html#GoergenVROSG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icorr/PereiraBG19" mdate="2022-01-14">
+<author pid="246/0625">Lucas B. Pereira</author>
+<author pid="246/0898">Daniel D. Barbosa</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Development of Games Controlled by Kinect to Spine Physical Therapy.</title>
+<pages>193-197</pages>
+<year>2019</year>
+<booktitle>ICORR</booktitle>
+<ee>https://doi.org/10.1109/ICORR.2019.8779494</ee>
+<ee>https://www.wikidata.org/entity/Q92371234</ee>
+<crossref>conf/icorr/2019</crossref>
+<url>db/conf/icorr/icorr2019.html#PereiraBG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icorr/GoncalvesHK17" mdate="2022-10-02">
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author orcid="0000-0002-6588-4674" pid="208/1520">Taya Hamilton</author>
+<author pid="82/9967">Hermano Igo Krebs</author>
+<title>MIT-Skywalker: On the use of a markerless system.</title>
+<pages>205-210</pages>
+<year>2017</year>
+<booktitle>ICORR</booktitle>
+<ee>https://doi.org/10.1109/ICORR.2017.8009247</ee>
+<ee>https://www.wikidata.org/entity/Q47788725</ee>
+<crossref>conf/icorr/2017</crossref>
+<url>db/conf/icorr/icorr2017.html#GoncalvesHK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icorr/GoncalvesHDHK17" mdate="2022-10-02">
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author orcid="0000-0002-6588-4674" pid="208/1520">Taya Hamilton</author>
+<author orcid="0000-0002-2703-0491" pid="208/1470">Ali R. Daher</author>
+<author pid="30/2951">Hiroaki Hirai</author>
+<author pid="82/9967">Hermano Igo Krebs</author>
+<title>MIT-Skywalker: Evaluating comfort of bicycle/saddle seat.</title>
+<pages>516-520</pages>
+<year>2017</year>
+<booktitle>ICORR</booktitle>
+<ee>https://doi.org/10.1109/ICORR.2017.8009300</ee>
+<ee>https://www.wikidata.org/entity/Q47788584</ee>
+<crossref>conf/icorr/2017</crossref>
+<url>db/conf/icorr/icorr2017.html#GoncalvesHDHK17</url>
+</inproceedings>
+</r>
+<r><article key="journals/robotica/JuniorCG16" mdate="2017-05-28">
+<author pid="186/0170">Glicerinho Danter Lopes Soares J&#250;nior</author>
+<author pid="62/1785">Jo&#227;o Carlos Mendes Carvalho</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Stiffness analysis of multibody systems using matrix structural analysis - MSA.</title>
+<pages>2368-2385</pages>
+<year>2016</year>
+<volume>34</volume>
+<journal>Robotica</journal>
+<number>10</number>
+<ee>https://doi.org/10.1017/S0263574715000016</ee>
+<url>db/journals/robotica/robotica34.html#JuniorCG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/MarquesVJCG15" mdate="2024-03-01">
+<author orcid="0000-0002-5499-0404" pid="288/6185">Vin&#237;cius Abr&#227;o da Silva Marques</author>
+<author pid="356/8617">Murilo Mendonca Venancio</author>
+<author pid="356/9170">Leonardo A. Jappe</author>
+<author pid="62/1785">Jo&#227;o Carlos Mendes Carvalho</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Analysis and Simulation of Humanoid Gait.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR.2015.12</ee>
+<crossref>conf/larc/2015</crossref>
+<url>db/conf/larc/lars2015.html#MarquesVJCG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/MarquesGCPH15" mdate="2024-03-01">
+<author orcid="0000-0002-5499-0404" pid="288/6185">Vin&#237;cius Abr&#227;o da Silva Marques</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<author pid="62/1785">Jo&#227;o Carlos Mendes Carvalho</author>
+<author orcid="0000-0003-1988-2202" pid="15/4615">Martin Pfurner</author>
+<author pid="55/7023">Manfred L. Husty</author>
+<title>Humanoid Robot's Inverse Kinematics Using Algebraic Geometry.</title>
+<pages>169-174</pages>
+<year>2015</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR.2015.13</ee>
+<crossref>conf/larc/2015</crossref>
+<url>db/conf/larc/lars2015.html#MarquesGCPH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/MoraisRG15" mdate="2023-09-19">
+<author pid="356/8684">Renan Alves Franco de Morais</author>
+<author pid="356/9563">Arthur Ribeiro Rezende</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Development of a Software for Coaching of Paralympic Sport Shooting.</title>
+<pages>240-245</pages>
+<year>2015</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR.2015.29</ee>
+<crossref>conf/larc/2015</crossref>
+<url>db/conf/larc/lars2015.html#MoraisRG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/BarbosaRSG12" mdate="2024-12-24">
+<author pid="387/8767">Andre M. Barbosa</author>
+<author orcid="0000-0002-0452-603X" pid="310/8332">Lucas A. O. Rodrigues</author>
+<author pid="387/8765">Silvio S. dos Santos</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Comparison of a Mechanical and Biomechanical System Applied in the Human Wrist Rehabilitation Using a Cable-Based System.</title>
+<pages>120-124</pages>
+<year>2012</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/SBR-LARS.2012.27</ee>
+<crossref>conf/larc/2012</crossref>
+<url>db/conf/larc/lars2012.html#BarbosaRSG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SobrinhoG11" mdate="2017-05-23">
+<author pid="13/10539">Wudson Tome Sobrinho</author>
+<author pid="246/0891">Rog&#233;rio Sales Gon&#231;alves</author>
+<title>Study of robotics singularities using LEGO Mindstorms kit.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>LARC</booktitle>
+<ee>https://doi.org/10.1109/LARC.2011.6086792</ee>
+<crossref>conf/larc/2011</crossref>
+<url>db/conf/larc/larc2011.html#SobrinhoG11</url>
+</inproceedings>
+</r>
+<coauthors n="47" nc="6">
+<co c="0"><na f="a/Alves_0003:Thiago" pid="315/6251">Thiago Alves 0003</na></co>
+<co c="0"><na f="b/Barbosa:Andre_M=" pid="387/8767">Andre M. Barbosa</na></co>
+<co c="5"><na f="b/Barbosa:Daniel_D=" pid="246/0898">Daniel D. Barbosa</na></co>
+<co c="0"><na f="c/Carbone:Giuseppe" pid="77/2867">Giuseppe Carbone</na></co>
+<co c="0"><na f="c/Carvalho:Jo=atilde=o_Carlos_Mendes" pid="62/1785">Jo&#227;o Carlos Mendes Carvalho</na></co>
+<co c="1"><na f="c/Carvalho:Talles_M=_de" pid="372/9874">Talles M. de Carvalho</na></co>
+<co c="1"><na f="c/Clasen:Bruno_Cordeiro" pid="337/9398">Bruno Cordeiro Clasen</na></co>
+<co c="0"><na f="c/Cruz:Daniel_A=_L=_da" pid="384/7290">Daniel A. L. da Cruz</na></co>
+<co c="2"><na f="d/Daher:Ali_R=" pid="208/1470">Ali R. Daher</na></co>
+<co c="1"><na f="g/Gallo:Carlos_Alberto" pid="126/1582">Carlos Alberto Gallo</na></co>
+<co c="3"><na f="g/Gasparini:Andr=eacute=a_Licre_Pessina" pid="347/3787">Andr&#233;a Licre Pessina Gasparini</na></co>
+<co c="0"><na f="g/Goergen:Roberta" pid="327/7406">Roberta Goergen</na></co>
+<co c="2"><na f="h/Hamilton:Taya" pid="208/1520">Taya Hamilton</na></co>
+<co c="2"><na f="h/Hirai:Hiroaki" pid="30/2951">Hiroaki Hirai</na></co>
+<co c="1"><na f="h/Homma:Rafael_Zimmermann" pid="337/9345">Rafael Zimmermann Homma</na></co>
+<co c="0"><na f="h/Humbert:Ren=eacute=" pid="347/3935">Ren&#233; Humbert</na></co>
+<co c="0" n="2"><na f="h/Husty:Manfred" pid="55/7023">Manfred Husty</na><na>Manfred L. Husty</na></co>
+<co c="0"><na f="j/Jappe:Leonardo_A=" pid="356/9170">Leonardo A. Jappe</na></co>
+<co c="0"><na f="j/J=uacute=nior:Glicerinho_Danter_Lopes_Soares" pid="186/0170">Glicerinho Danter Lopes Soares J&#250;nior</na></co>
+<co c="-1"><na f="k/Kaufmann:Yasmin_V=" pid="345/0896">Yasmin V. Kaufmann</na></co>
+<co c="2"><na f="k/Krebs:Hermano_Igo" pid="82/9967">Hermano Igo Krebs</na></co>
+<co c="3"><na f="l/Ladeira:Gu=ecirc=nia_Mara_Vieira" pid="347/4310">Gu&#234;nia Mara Vieira Ladeira</na></co>
+<co c="-1"><na f="l/Lara=Molina:Fabian_Andres" pid="75/10540">Fabian Andres Lara-Molina</na></co>
+<co c="0"><na f="m/Marques:Vin=iacute=cius_Abr=atilde=o_da_Silva" pid="288/6185">Vin&#237;cius Abr&#227;o da Silva Marques</na></co>
+<co c="4"><na f="m/Morais:Renan_Alves_Franco_de" pid="356/8684">Renan Alves Franco de Morais</na></co>
+<co c="0"><na f="o/Oberd=ouml=rfer:Mauricio" pid="327/7167">Mauricio Oberd&#246;rfer</na></co>
+<co c="1"><na f="o/Oliveira:Murilo_De" pid="350/9875">Murilo De Oliveira</na></co>
+<co c="0"><na f="p/Paiva:Thiago_S=aacute=_de" pid="367/8648">Thiago S&#225; de Paiva</na></co>
+<co c="5"><na f="p/Pereira:Lucas_B=" pid="246/0625">Lucas B. Pereira</na></co>
+<co c="0"><na f="p/Pfurner:Martin" pid="15/4615">Martin Pfurner</na></co>
+<co c="3"><na f="p/Prado:Rodrigo_Alves" pid="347/4306">Rodrigo Alves Prado</na></co>
+<co c="0"><na f="r/Rasia:Luiz_Antonio" pid="233/1301">Luiz Antonio Rasia</na></co>
+<co c="4"><na f="r/Rezende:Arthur_Ribeiro" pid="356/9563">Arthur Ribeiro Rezende</na></co>
+<co c="1"><na f="r/Rocioli:Murilo" pid="350/9441">Murilo Rocioli</na></co>
+<co c="0" n="2"><na f="r/Rodrigues:Lucas_A=_O=" pid="310/8332">Lucas A. O. Rodrigues</na><na>Lucas Ant&#244;nio Oliveira Rodrigues</na></co>
+<co c="1"><na f="s/Santos:Pablo_B=_dos" pid="372/9935">Pablo B. dos Santos</na></co>
+<co c="0"><na f="s/Santos:Silvio_S=_dos" pid="387/8765">Silvio S. dos Santos</na></co>
+<co c="-1"><na f="s/Sobrinho:Wudson_Tome" pid="13/10539">Wudson Tome Sobrinho</na></co>
+<co c="1"><na f="s/Souza:Claudio_Costa" pid="377/7623">Claudio Costa Souza</na></co>
+<co c="1"><na f="s/Souza:Frederico_Costa" pid="337/9373">Frederico Costa Souza</na></co>
+<co c="0"><na f="s/Souza:Jocarly_Patroc=iacute=nio_de" pid="327/7076">Jocarly Patroc&#237;nio de Souza</na></co>
+<co c="0"><na f="s/Souza:Marcus_R=_S=_B=_de" pid="311/3452">Marcus R. S. B. de Souza</na></co>
+<co c="1"><na f="s/Sudbrack:Daniel_Edgardo_Tio" pid="337/9212">Daniel Edgardo Tio Sudbrack</na></co>
+<co c="1"><na f="t/Trautmann:Paulo_Victor" pid="337/9403">Paulo Victor Trautmann</na></co>
+<co c="0" n="2"><na f="v/Valdiero:A=_C=" pid="246/0656">A. C. Valdiero</na><na>Antonio Carlos Valdiero</na></co>
+<co c="0"><na f="v/Venancio:Murilo_Mendonca" pid="356/8617">Murilo Mendonca Venancio</na></co>
+<co c="0"><na f="v/Vigolo:Vin=iacute=cius" pid="384/7748">Vin&#237;cius Vigolo</na></co>
+</coauthors>
+</dblpperson>
+

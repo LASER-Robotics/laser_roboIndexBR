@@ -1,0 +1,910 @@
+<?xml version="1.0"?>
+<dblpperson name="Paulo E. Miyagi" pid="72/6007" n="56">
+<person key="homepages/72/6007" mdate="2018-03-12">
+<author pid="72/6007">Paulo E. Miyagi</author>
+<author pid="72/6007">Paulo Eigi Miyagi</author>
+<url>https://orcid.org/0000-0001-6409-7591</url>
+</person>
+<r><inproceedings key="conf/doceis/SilvaPMBT22" mdate="2022-11-22">
+<author pid="334/0121">Gerson Fabio da Silva</author>
+<author pid="333/9229">Marcosiris Amorim de Oliveira Pessoa</author>
+<author pid="72/6007">Paulo Eigi Miyagi</author>
+<author pid="154/5089">Ahmad Barari</author>
+<author pid="38/6014">Marcos de Sales Guerra Tsuzuki</author>
+<title>PLC as the Main Controller for Additive Manufacturing Machines.</title>
+<pages>217-224</pages>
+<year>2022</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-07520-9_20</ee>
+<crossref>conf/doceis/2022</crossref>
+<url>db/conf/doceis/doceis2022.html#SilvaPMBT22</url>
+</inproceedings>
+</r>
+<r><article key="journals/computers/VeigaPJMF21" mdate="2022-01-21">
+<author orcid="0000-0003-3228-7352" pid="298/0205">Jackson T. Veiga</author>
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<title>A Systematic Modelling Procedure to Design Agent-Oriented Control to Coalition of Capabilities - In the Context of I4.0 as Virtual Assets (AAS).</title>
+<pages>161</pages>
+<year>2021</year>
+<volume>10</volume>
+<journal>Comput.</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/computers10120161</ee>
+<url>db/journals/computers/computers10.html#VeigaPJMF21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip5-5/VeigaPJMF21" mdate="2022-01-03">
+<author orcid="0000-0003-3228-7352" pid="298/0205">Jackson T. Veiga</author>
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="72/6007">Paulo E. Miyagi</author>
+<author pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<title>Control of Manufacturing Systems by HMS/EPS Paradigms Orchestrating I4.0 Components Based on Capabilities.</title>
+<pages>62-70</pages>
+<year>2021</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78288-7_6</ee>
+<crossref>conf/ifip5-5/2021doceis</crossref>
+<url>db/conf/ifip5-5/doceis2021.html#VeigaPJMF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/CodaFJM20" mdate="2020-12-29">
+<author orcid="0000-0003-3823-8172" pid="239/7051">Felipe A. Coda</author>
+<author pid="98/4230">Diolino J. Santos Filho</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="72/6007">Paulo E. Miyagi</author>
+<title>Big Data Acquisition Architecture: An Industry 4.0 Approach.</title>
+<pages>222-229</pages>
+<year>2020</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45124-0_21</ee>
+<crossref>conf/ifip5-5/2020doceis</crossref>
+<url>db/conf/ifip5-5/doceis2020.html#CodaFJM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codit/JorgeRJFM19" mdate="2021-04-09">
+<author pid="248/5064">Andr&#233; A. Jorge</author>
+<author orcid="0000-0002-8453-9913" pid="218/2326">Luis A. M. Riascos</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Model of the Human Cardiovascular System based on Hybrid Systems.</title>
+<pages>744-749</pages>
+<year>2019</year>
+<booktitle>CoDIT</booktitle>
+<ee>https://doi.org/10.1109/CoDIT.2019.8820713</ee>
+<crossref>conf/codit/2019</crossref>
+<url>db/conf/codit/codit2019.html#JorgeRJFM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codit/JorgeRM19" mdate="2020-03-27">
+<author pid="248/5064">Andr&#233; A. Jorge</author>
+<author orcid="0000-0002-8453-9913" pid="218/2326">Luis A. M. Riascos</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Modelling and Controlling of a Hybrid Motorized Wheelchair on Flat and Inclined Surfaces.</title>
+<pages>750-755</pages>
+<year>2019</year>
+<booktitle>CoDIT</booktitle>
+<ee>https://doi.org/10.1109/CoDIT.2019.8820679</ee>
+<crossref>conf/codit/2019</crossref>
+<url>db/conf/codit/codit2019.html#JorgeRM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/DiasDLSJMMMF19" mdate="2021-04-09">
+<author orcid="0000-0002-2999-1341" pid="217/9861">Jeferson C. Dias</author>
+<author orcid="0000-0003-2515-8018" pid="217/9847">J&#244;natas C. Dias</author>
+<author pid="198/6756">Edinei P. Legaspe</author>
+<author pid="239/7034">Rodrigo Lima Stoeterau</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="81/9184">Newton Maruyama</author>
+<author pid="239/7042">Lucas Ant&#244;nio Moscato</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<title>Treatment of Ventricular Assist Device Test Bench Data for Prediction of Failures and Improved Intrinsic Reliability.</title>
+<pages>183-190</pages>
+<year>2019</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17771-3_15</ee>
+<crossref>conf/ifip5-5/2019doceis</crossref>
+<url>db/conf/ifip5-5/doceis2019.html#DiasDLSJMMMF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/CodaSVPMFJM19" mdate="2022-01-03">
+<author orcid="0000-0003-3823-8172" pid="239/7051">Felipe A. Coda</author>
+<author pid="239/7032">Rafael M. Salles</author>
+<author pid="239/7037">Henrique A. Vitoi</author>
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author pid="239/7042">Lucas A. Moscato</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Big Data on Machine to Machine Integration's Requirement Analysis Within Industry 4.0.</title>
+<pages>247-254</pages>
+<year>2019</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17771-3_21</ee>
+<crossref>conf/ifip5-5/2019doceis</crossref>
+<url>db/conf/ifip5-5/doceis2019.html#CodaSVPMFJM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/candie/PischingPJFM18" mdate="2023-03-21">
+<author pid="161/2684">Marcos A. Pisching</author>
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>An architecture based on RAMI 4.0 to discover equipment to process operations required by products.</title>
+<pages>574-591</pages>
+<year>2018</year>
+<volume>125</volume>
+<journal>Comput. Ind. Eng.</journal>
+<ee>https://doi.org/10.1016/j.cie.2017.12.029</ee>
+<url>db/journals/candie/candie125.html#PischingPJFM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/PischingPJM18" mdate="2022-01-03">
+<author pid="161/2684">Marcos A. Pisching</author>
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>PFS/PN Technique to Model Industry 4.0 Systems Based on RAMI 4.0.</title>
+<pages>1153-1156</pages>
+<year>2018</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2018.8502573</ee>
+<crossref>conf/etfa/2018</crossref>
+<url>db/conf/etfa/etfa2018.html#PischingPJM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinco/DiasDBFJMC18" mdate="2018-08-29">
+<author pid="217/9861">Jeferson C. Dias</author>
+<author pid="217/9847">J&#244;natas C. Dias</author>
+<author pid="23/2584">Marcelo Barbosa</author>
+<author pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="72/6007">Paulo Eigi Miyagi</author>
+<author pid="95/9666">Jos&#233; Roberto Cardoso</author>
+<title>In Vitro Test Bench with Intelligent Behavior to Ventricular Assist Devices.</title>
+<pages>137-144</pages>
+<year>2018</year>
+<booktitle>ICINCO (1)</booktitle>
+<ee>https://doi.org/10.5220/0006849101370144</ee>
+<crossref>conf/icinco/2018-1</crossref>
+<url>db/conf/icinco/icinco2018-1.html#DiasDBFJMC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/PessoaPYJMB18" mdate="2022-06-20">
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author pid="161/2684">Marcos A. Pisching</author>
+<author pid="56/6651-1">Lina Yao 0001</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0002-8805-1130" pid="b/BoualemBenatallah">Boualem Benatallah</author>
+<title>Industry 4.0, How to Integrate Legacy Devices: A Cloud IoT Approach.</title>
+<pages>2902-2907</pages>
+<year>2018</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2018.8592774</ee>
+<crossref>conf/iecon/2018</crossref>
+<url>db/conf/iecon/iecon2018.html#PessoaPYJMB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/SobrinhoLDDDBMO18" mdate="2021-10-14">
+<author orcid="0000-0003-2166-5485" pid="217/9799">Jos&#233; R. Sousa Sobrinho</author>
+<author pid="198/6756">Edinei P. Legaspe</author>
+<author pid="217/9771">Evandro Drigo</author>
+<author orcid="0000-0003-2515-8018" pid="217/9847">J&#244;natas C. Dias</author>
+<author orcid="0000-0002-2999-1341" pid="217/9861">Jeferson C. Dias</author>
+<author pid="217/9882">Marcelo Barboza</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0001-8869-3662" pid="28/5229">Jun Okamoto Jr.</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0003-3962-9052" pid="55/9667">Eduardo Bock</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<title>Supervisory Control System Associated with the Development of Device Thrombosis in VAD.</title>
+<pages>90-97</pages>
+<year>2018</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78574-5_9</ee>
+<crossref>conf/ifip5-5/2018doceis</crossref>
+<url>db/conf/ifip5-5/doceis2018.html#SobrinhoLDDDBMO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/MirandaMMLPFM17" mdate="2021-04-09">
+<author pid="198/6774">Bruno S. Miranda</author>
+<author pid="198/6749">Gian M. Meira</author>
+<author pid="198/6750">Sidney Jos&#233; Montebeller</author>
+<author pid="198/6756">Edinei Peres Legaspe</author>
+<author pid="198/6751">Joel R. Pinto</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Efficient Fuzzy Controller to Increase Soybean Productivity.</title>
+<pages>47-54</pages>
+<year>2017</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-56077-9_4</ee>
+<crossref>conf/ifip5-5/2017doceis</crossref>
+<url>db/conf/ifip5-5/doceis2017.html#MirandaMMLPFM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/SouzaFSJMS17" mdate="2021-04-09">
+<author pid="130/2345">Jeferson A. L. de Souza</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Santos Fo.</author>
+<author pid="130/2213">Reinaldo Squillante Jr.</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0003-2796-1613" pid="21/2615">Jos&#233; Reinaldo Silva</author>
+<title>Safety Active Barriers Considering Different Scenarios of Faults in Modern Production Systems.</title>
+<pages>154-164</pages>
+<year>2017</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-56077-9_14</ee>
+<ee>https://www.wikidata.org/entity/Q59288039</ee>
+<crossref>conf/ifip5-5/2017doceis</crossref>
+<url>db/conf/ifip5-5/doceis2017.html#SouzaFSJMS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcim/AsatoPJFOM16" mdate="2021-10-14">
+<author pid="51/10946">Osvaldo Luis Asato</author>
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<author orcid="0000-0001-8869-3662" pid="28/5229">Jun Okamoto Jr.</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Using the enhanced-mark flow graph for dynamic resource allocation in distributed manufacturing.</title>
+<pages>1238-1251</pages>
+<year>2016</year>
+<volume>29</volume>
+<journal>Int. J. Comput. Integr. Manuf.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1080/0951192X.2015.1126000</ee>
+<ee>https://www.wikidata.org/entity/Q59288045</ee>
+<url>db/journals/ijcim/ijcim29.html#AsatoPJFOM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/PischingJFM16" mdate="2019-06-02">
+<author orcid="0000-0002-0320-7889" pid="161/2684">Marcos A. Pisching</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>An architecture based on IoT and CPS to organize and locate services.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2016.7733506</ee>
+<ee>https://www.wikidata.org/entity/Q59288041</ee>
+<crossref>conf/etfa/2016</crossref>
+<url>db/conf/etfa/etfa2016.html#PischingJFM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/WatanabeSJFM16" mdate="2021-04-09">
+<author pid="08/6952">Edson H. Watanabe</author>
+<author orcid="0000-0003-0895-2594" pid="05/9667">Robson Marinho da Silva</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Systematization of Performance Evaluation Process for Industrial Productive Systems Considering Sustainability Indicators.</title>
+<pages>77-85</pages>
+<year>2016</year>
+<booktitle>DoCEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-31165-4_8</ee>
+<ee>https://www.wikidata.org/entity/Q59288044</ee>
+<crossref>conf/ifip5-5/2016doceis</crossref>
+<url>db/conf/ifip5-5/doceis2016.html#WatanabeSJFM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/holomas/SilvaFM15" mdate="2017-06-15">
+<author orcid="0000-0003-0895-2594" pid="05/9667">Robson Marinho da Silva</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>From Conception to Implementation of Reconfigurable and Distributed Manufacturing Control System.</title>
+<pages>35-46</pages>
+<year>2015</year>
+<booktitle>HoloMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22867-9_4</ee>
+<crossref>conf/holomas/2015</crossref>
+<url>db/conf/holomas/holomas2015.html#SilvaFM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/PischingJFM15" mdate="2021-04-09">
+<author orcid="0000-0002-0320-7889" pid="161/2684">Marcos A. Pisching</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Service Composition in the Cloud-Based Manufacturing Focused on the Industry 4.0.</title>
+<pages>65-72</pages>
+<year>2015</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-16766-4_7</ee>
+<ee>https://www.wikidata.org/entity/Q59288049</ee>
+<crossref>conf/ifip5-5/2015doceis</crossref>
+<url>db/conf/ifip5-5/doceis2015.html#PischingJFM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/SilvaWBJFM15" mdate="2021-04-09">
+<author orcid="0000-0003-0895-2594" pid="05/9667">Robson Marinho da Silva</author>
+<author pid="08/6952">Edson H. Watanabe</author>
+<author pid="91/9139">Mauricio F. Blos</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Modeling of Mechanisms for Reconfigurable and Distributed Manufacturing Control System.</title>
+<pages>93-100</pages>
+<year>2015</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-16766-4_10</ee>
+<ee>https://www.wikidata.org/entity/Q59288048</ee>
+<crossref>conf/ifip5-5/2015doceis</crossref>
+<url>db/conf/ifip5-5/doceis2015.html#SilvaWBJFM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/BlosM15" mdate="2017-06-04">
+<author pid="91/9139">Mauricio F. Blos</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Modeling the supply chain disruptions focusing on the supply chain interdependencies.</title>
+<pages>604-609</pages>
+<year>2015</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2015.7281803</ee>
+<crossref>conf/indin/2015</crossref>
+<url>db/conf/indin/indin2015.html#BlosM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itqm/BlosHM15" mdate="2021-10-14">
+<author pid="91/9139">Mauricio F. Blos</author>
+<author orcid="0000-0002-5388-8598" pid="167/7423">S&#233;rgio L. Hoeflich</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>A General Supply Chain Continuity Management Framework.</title>
+<pages>1160-1164</pages>
+<year>2015</year>
+<booktitle>ITQM</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2015.07.087</ee>
+<crossref>conf/itqm/2015</crossref>
+<url>db/conf/itqm/itqm2015.html#BlosHM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/arc/PessoaMJFM14" mdate="2020-02-21">
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author pid="145/8389">Richard A. Estombelo Montesco</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Time windows and constraint programming to deal with strong restriction in the due date of productive systems.</title>
+<pages>134-146</pages>
+<year>2014</year>
+<volume>38</volume>
+<journal>Annu. Rev. Control.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.arcontrol.2014.03.013</ee>
+<ee>https://www.wikidata.org/entity/Q59288052</ee>
+<url>db/journals/arc/arc38.html#PessoaMJFM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip5-5/SilvaBJFM14" mdate="2021-04-09">
+<author orcid="0000-0003-0895-2594" pid="05/9667">Robson Marinho da Silva</author>
+<author pid="91/9139">Mauricio F. Blos</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>A Service-Oriented and Holonic Control Architecture to the Reconfiguration of Dispersed Manufacturing Systems.</title>
+<pages>111-118</pages>
+<year>2014</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54734-8_13</ee>
+<crossref>conf/ifip5-5/2014doceis</crossref>
+<url>db/conf/ifip5-5/doceis2014.html#SilvaBJFM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/SouzaFSJM14" mdate="2021-04-09">
+<author pid="130/2345">Jeferson A. L. de Souza</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author pid="130/2213">Reinaldo Squillante Jr.</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Mitigation Control of Critical Faults in Production Systems.</title>
+<pages>119-128</pages>
+<year>2014</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-54734-8_14</ee>
+<crossref>conf/ifip5-5/2014doceis</crossref>
+<url>db/conf/ifip5-5/doceis2014.html#SouzaFSJM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/SilvaJFM14" mdate="2021-04-09">
+<author orcid="0000-0003-0895-2594" pid="05/9667">Robson Marinho da Silva</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>A method to design a manufacturing control system considering flexible reconfiguration.</title>
+<pages>82-87</pages>
+<year>2014</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2014.6945488</ee>
+<ee>https://www.wikidata.org/entity/Q59288051</ee>
+<crossref>conf/indin/2014</crossref>
+<url>db/conf/indin/indin2014.html#SilvaJFM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/SouitFJFM13" mdate="2019-06-02">
+<author pid="142/4288">Samira Souit</author>
+<author pid="142/4317">Caio C. Fattori</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Orchestrating dispersed productive systems.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2013.6648132</ee>
+<ee>https://www.wikidata.org/entity/Q59288056</ee>
+<crossref>conf/etfa/2013</crossref>
+<url>db/conf/etfa/etfa2013.html#SouitFJFM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/SquillanteFSJM13" mdate="2021-04-09">
+<author pid="130/2213">Reinaldo Squillante Jr.</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author pid="130/2345">Jeferson A. L. de Souza</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Safety in Supervisory Control for Critical Systems.</title>
+<pages>261-270</pages>
+<year>2013</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-37291-9_28</ee>
+<crossref>conf/ifip5-5/2013doceis</crossref>
+<url>db/conf/ifip5-5/doceis2013.html#SquillanteFSJM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/SarmentoFM12" mdate="2020-03-27">
+<author pid="255/4654">Cleber A. Sarmento</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Extending the verification coverage for PLC control programs: A functional safety approach.</title>
+<pages>2833-2838</pages>
+<year>2012</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2012.6389446</ee>
+<crossref>conf/iecon/2012</crossref>
+<url>db/conf/iecon/iecon2012.html#SarmentoFM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/PessoaJFMMM12" mdate="2020-06-15">
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author pid="81/9184">Newton Maruyama</author>
+<author pid="239/7042">Lucas A. Moscato</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Virtual Enterprise Planning System using time windows and capacity constraint concepts.</title>
+<pages>2851-2856</pages>
+<year>2012</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2012.6389443</ee>
+<ee>https://www.wikidata.org/entity/Q59288064</ee>
+<crossref>conf/iecon/2012</crossref>
+<url>db/conf/iecon/iecon2012.html#PessoaJFMMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/AssisTMM12" mdate="2025-07-04">
+<author pid="255/4275">Fabio Henrique de Assis</author>
+<author orcid="0009-0006-4187-796X" pid="33/11088">Fabio Kawaoka Takase</author>
+<author pid="81/9184">Newton Maruyama</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>Developing an ROV software control architecture: A formal specification approach.</title>
+<pages>3107-3112</pages>
+<year>2012</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2012.6389402</ee>
+<crossref>conf/iecon/2012</crossref>
+<url>db/conf/iecon/iecon2012.html#AssisTMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/AsatoDJFM12" mdate="2023-09-07">
+<author pid="51/10946">Osvaldo Luis Asato</author>
+<author pid="218/4049">Guilherme Martinho Dobrianskyj</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Process Control System Considering the Machines Functional Flexibilities.</title>
+<pages>133-142</pages>
+<year>2012</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28255-3_15</ee>
+<ee>https://www.wikidata.org/entity/Q59288062</ee>
+<crossref>conf/ifip5-5/2012doceis</crossref>
+<url>db/conf/ifip5-5/doceis2012.html#AsatoDJFM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/AsatoJFMA11" mdate="2019-06-02">
+<author pid="51/10946">Osvaldo Luis Asato</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<author pid="129/4707">Lindolpho O. Araujo</author>
+<title>Control of productive systems with functional flexibility level.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2011.6059206</ee>
+<ee>https://www.wikidata.org/entity/Q59288067</ee>
+<crossref>conf/etfa/2011</crossref>
+<url>db/conf/etfa/etfa2011.html#AsatoJFMA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/PessoaJMF11" mdate="2021-04-09">
+<author orcid="0000-0002-8499-2515" pid="07/9666">Marcosiris A. O. Pessoa</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<title>Planning and Scheduling for Dispersed and Collaborative Productive System.</title>
+<pages>57-64</pages>
+<year>2011</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19170-1_6</ee>
+<ee>https://www.wikidata.org/entity/Q59288077</ee>
+<crossref>conf/ifip5-5/2011doceis</crossref>
+<url>db/conf/ifip5-5/doceis2011.html#PessoaJMF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/SilvaMF11" mdate="2018-06-26">
+<author orcid="0000-0003-0895-2594" pid="05/9667">Robson Marinho da Silva</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<title>Design of Active Holonic Fault-Tolerant Control Systems.</title>
+<pages>367-374</pages>
+<year>2011</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19170-1_40</ee>
+<crossref>conf/ifip5-5/2011doceis</crossref>
+<url>db/conf/ifip5-5/doceis2011.html#SilvaMF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/CavalheiroFACBFM11" mdate="2025-03-03">
+<author orcid="0000-0003-4978-7257" pid="45/9667">Andr&#233; Cavalheiro</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Santos Fo.</author>
+<author orcid="0000-0002-4859-5897" pid="97/9666">Aron Andrade</author>
+<author pid="95/9666">Jos&#233; Roberto Cardoso</author>
+<author orcid="0000-0003-3962-9052" pid="55/9667">Eduardo Bock</author>
+<author orcid="0000-0003-1572-7299" pid="15/9666">Jeison Fonseca</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>Design of Supervisory Control System for Ventricular Assist Device.</title>
+<pages>375-382</pages>
+<year>2011</year>
+<booktitle>DoCEIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-19170-1_41</ee>
+<crossref>conf/ifip5-5/2011doceis</crossref>
+<url>db/conf/ifip5-5/doceis2011.html#CavalheiroFACBFM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/peccs/IgeiCJMG11" mdate="2012-09-05">
+<author pid="22/10237">Percy Igei</author>
+<author pid="12/7317">Carlos E. Cugnasca</author>
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="72/6007">Paulo E. Miyagi</author>
+<author pid="27/2615">Jose Isidro Garcia</author>
+<title>Modeling of Collaborative Production Systems using Coloured Petri Nets.</title>
+<pages>257-260</pages>
+<year>2011</year>
+<booktitle>PECCS</booktitle>
+<crossref>conf/peccs/2011</crossref>
+<url>db/conf/peccs/peccs2011.html#IgeiCJMG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/case/GarciaJMM08" mdate="2025-03-03">
+<author orcid="0000-0003-1672-7768" pid="27/2615">Jose Isidro Garcia</author>
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="60/4972">Roy A. Gomez Morales</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>A procedure for modeling and analysis of service-oriented and distributed productive systems.</title>
+<pages>941-946</pages>
+<year>2008</year>
+<booktitle>CASE</booktitle>
+<ee>https://doi.org/10.1109/COASE.2008.4626561</ee>
+<ee>https://www.wikidata.org/entity/Q59288084</ee>
+<crossref>conf/case/2008</crossref>
+<url>db/conf/case/case2008.html#GarciaJMM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/GarciaMM08" mdate="2025-03-03">
+<author orcid="0000-0003-1672-7768" pid="27/2615">Jose Isidro Garcia</author>
+<author pid="60/4972">Roy A. Gomez Morales</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>Supervisory system for hybrid productive systems based on Bayesian networks and OO-DPT Nets.</title>
+<pages>1108-1111</pages>
+<year>2008</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2008.4638536</ee>
+<crossref>conf/etfa/2008</crossref>
+<url>db/conf/etfa/etfa2008.html#GarciaMM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/case/MoralesGM07" mdate="2017-06-01">
+<author pid="60/4972">Roy A. Gomez Morales</author>
+<author pid="27/2615">Jose Isidro Garcia</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>Diagnosis and Treatment of Faults in Productive Systems based on Bayesian Networks and Petri Net.</title>
+<pages>357-362</pages>
+<year>2007</year>
+<booktitle>CASE</booktitle>
+<ee>https://doi.org/10.1109/COASE.2007.4341823</ee>
+<crossref>conf/case/2007</crossref>
+<url>db/conf/case/case2007.html#MoralesGM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adhs/VillaniM06" mdate="2020-03-27">
+<author pid="118/2012">Em&#237;lia Villani</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>A Hybrid Approach for Safety Analysis of Aircraft Systems.</title>
+<pages>389-394</pages>
+<year>2006</year>
+<booktitle>ADHS</booktitle>
+<ee>https://doi.org/10.3182/20060607-3-IT-3902.00071</ee>
+<crossref>conf/adhs/2006</crossref>
+<url>db/conf/adhs/adhs2006.html#VillaniM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-3/VillaniCMM06" mdate="2018-06-26">
+<author pid="118/2012">Em&#237;lia Villani</author>
+<author pid="148/0719">R. A. Castro</author>
+<author pid="148/0699">F. M. Marques</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>Remote Monitoring and Control of Manufacturing System.</title>
+<pages>369-376</pages>
+<year>2006</year>
+<booktitle>BASYS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-36594-7_39</ee>
+<crossref>conf/ifip5-3/2006</crossref>
+<url>db/conf/ifip5-3/basys2006.html#VillaniCMM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-3/ArataM06" mdate="2018-06-26">
+<author pid="03/6499">Wilson M. Arata</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Computational Representation, Heterogeneity and Integration of Production System Models.</title>
+<pages>405-414</pages>
+<year>2006</year>
+<booktitle>BASYS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-36594-7_43</ee>
+<crossref>conf/ifip5-3/2006</crossref>
+<url>db/conf/ifip5-3/basys2006.html#ArataM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-3/ArakakiM06" mdate="2018-06-26">
+<author pid="148/0646">Julio Arakaki</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>Degeneration Methods in Intelligent Building Control System Design.</title>
+<pages>469-478</pages>
+<year>2006</year>
+<booktitle>BASYS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-36594-7_50</ee>
+<crossref>conf/ifip5-3/2006</crossref>
+<url>db/conf/ifip5-3/basys2006.html#ArakakiM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-3/JunqueiraM06" mdate="2019-06-02">
+<author orcid="0000-0002-4963-2688" pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>A New Method for the Hierarchical Modelling of Productive Systems.</title>
+<pages>479-488</pages>
+<year>2006</year>
+<booktitle>BASYS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-36594-7_51</ee>
+<ee>https://www.wikidata.org/entity/Q59288087</ee>
+<crossref>conf/ifip5-3/2006</crossref>
+<url>db/conf/ifip5-3/basys2006.html#JunqueiraM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/JunqueiraVM05" mdate="2020-03-27">
+<author pid="59/9666">Fabr&#237;cio Junqueira</author>
+<author pid="118/2012">Em&#237;lia Villani</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>A platform for distributed modeling and simulation of productive systems based on Petri nets and object-oriented paradigm.</title>
+<year>2005</year>
+<crossref>conf/etfa/2005</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2005.1612621</ee>
+<url>db/conf/etfa/etfa2005.html#JunqueiraVM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adhs/VillaniPMV03" mdate="2020-03-27">
+<author pid="118/2012">Em&#237;lia Villani</author>
+<author pid="28/426">Jean-Claude Pascal</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author pid="05/808">Robert Valette</author>
+<title>Differential Predicate Transition Petri Nets and Objects, an Aid for Proving Properties in Hybrid Systems.</title>
+<pages>87-92</pages>
+<year>2003</year>
+<booktitle>ADHS</booktitle>
+<ee>https://doi.org/10.1016/S1474-6670(17)36412-1</ee>
+<crossref>conf/adhs/2003</crossref>
+<url>db/conf/adhs/adhs2003.html#VillaniPMV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/ArataM03" mdate="2017-06-02">
+<author pid="03/6499">Wilson M. Arata</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<title>Uniform computational treatment of heterogeneous discrete-event dynamic system models.</title>
+<pages>47-53</pages>
+<year>2003</year>
+<booktitle>ETFA (1)</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2003.1247686</ee>
+<crossref>conf/etfa/2003-1</crossref>
+<url>db/conf/etfa/etfa2003-1.html#ArataM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/AlvesCAMF03" mdate="2021-04-09">
+<author orcid="0000-0002-1244-8502" pid="85/8230">Gustavo Ribeiro Alves</author>
+<author pid="123/4846">Jo&#227;o Dias da Costa</author>
+<author orcid="0000-0002-4671-7897" pid="123/4927">Fabiano Armellini</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino Jos&#233; dos Santos Filho</author>
+<title>Petri Net's execution algorithm for applications in manufacturing systems control.</title>
+<pages>218-223</pages>
+<year>2003</year>
+<booktitle>ETFA (1)</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2003.1247709</ee>
+<crossref>conf/etfa/2003-1</crossref>
+<url>db/conf/etfa/etfa2003-1.html#AlvesCAMF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/MiyagiVM01" mdate="2020-03-27">
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<author pid="118/2012">Em&#237;lia Villani</author>
+<author pid="81/9184">Newton Maruyama</author>
+<title>Modeling of hybrid supervisory systems using UML and Petri nets.</title>
+<pages>149-158</pages>
+<year>2001</year>
+<booktitle>ETFA (2)</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2001.997681</ee>
+<crossref>conf/etfa/2001-2</crossref>
+<url>db/conf/etfa/etfa2001-2.html#MiyagiVM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/RiascosM01" mdate="2020-03-27">
+<author orcid="0000-0002-8453-9913" pid="218/2326">Luis Alberto Mart&#237;nez Riascos</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo Eigi Miyagi</author>
+<title>Supervisor system for detection and treatment of failures in balanced automation systems using Petri nets.</title>
+<pages>2528-2533</pages>
+<year>2001</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2001.972938</ee>
+<crossref>conf/smc/2001</crossref>
+<url>db/conf/smc/smc2001.html#RiascosM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-3/MiyagiFA00" mdate="2013-01-02">
+<author pid="72/6007">Paulo E. Miyagi</author>
+<author pid="98/4230">Diolino J. Santos Filho</author>
+<author pid="03/6499">Wilson M. Arata</author>
+<title>Design of deadlock avoidance compensators for anthropocentric production systems.</title>
+<pages>287-294</pages>
+<year>2000</year>
+<crossref>conf/ifip5-3/2000ane</crossref>
+<booktitle>Advanced Network Enterprises</booktitle>
+<url>db/conf/ifip5-3/ane2000.html#MiyagiFA00</url>
+</inproceedings>
+</r>
+<r><article key="journals/jirs/HasegawaMFTMS99" mdate="2021-04-09">
+<author pid="83/7932">Kensuke Hasegawa</author>
+<author orcid="0000-0001-6409-7591" pid="72/6007">Paulo E. Miyagi</author>
+<author orcid="0000-0002-3578-8905" pid="98/4230">Diolino J. Santos Filho</author>
+<author pid="174/9478">Kouji Takahashi</author>
+<author pid="233/9049">Li-qu Ma</author>
+<author pid="233/8941">Makiko Sugisawa</author>
+<title>On Resource Arc for Petri Net Modelling of Complex Resource Sharing System.</title>
+<pages>423-437</pages>
+<year>1999</year>
+<volume>26</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1023/A:1008122101686</ee>
+<url>db/journals/jirs/jirs26.html#HasegawaMFTMS99</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip5-3/HasegawaMT98" mdate="2020-01-09">
+<author pid="83/7932">Kensuke Hasegawa</author>
+<author pid="72/6007">Paulo E. Miyagi</author>
+<author pid="174/9478">Kouji Takahashi</author>
+<author pid="233/9049">Li-qu Ma</author>
+<author pid="233/8941">Makiko Sugisawa</author>
+<title>Enhanced production flow schema for modeling the complex resource sharing system.</title>
+<pages>335-344</pages>
+<year>1998</year>
+<crossref>conf/ifip5-3/1998basys</crossref>
+<booktitle>BASYS</booktitle>
+<url>db/conf/ifip5-3/basys1998.html#HasegawaMT98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-7/KagoharaTSM94" mdate="2003-01-20">
+<author pid="27/6856">Myrna Y. Kagohara</author>
+<author pid="42/7033">Cust&#243;dio F. M. Toledo</author>
+<author pid="21/2615">Jos&#233; Reinaldo Silva</author>
+<author pid="72/6007">Paulo E. Miyagi</author>
+<title>Automatic Generation of Control Programs for Manufacturing Cells.</title>
+<pages>335-343</pages>
+<year>1994</year>
+<crossref>conf/ifip5-7/1994</crossref>
+<booktitle>Production Management Methods</booktitle>
+<url>db/conf/ifip5-7/ifip5-7-1994.html#KagoharaTSM94</url>
+</inproceedings>
+</r>
+<coauthors n="72" nc="2">
+<co c="0"><na f="a/Alves:Gustavo_Ribeiro" pid="85/8230">Gustavo Ribeiro Alves</na></co>
+<co c="0"><na f="a/Andrade:Aron" pid="97/9666">Aron Andrade</na></co>
+<co c="-1"><na f="a/Arakaki:Julio" pid="148/0646">Julio Arakaki</na></co>
+<co c="0"><na f="a/Arata:Wilson_M=" pid="03/6499">Wilson M. Arata</na></co>
+<co c="0"><na f="a/Araujo:Lindolpho_O=" pid="129/4707">Lindolpho O. Araujo</na></co>
+<co c="0"><na f="a/Armellini:Fabiano" pid="123/4927">Fabiano Armellini</na></co>
+<co c="0"><na f="a/Asato:Osvaldo_Luis" pid="51/10946">Osvaldo Luis Asato</na></co>
+<co c="0"><na f="a/Assis:Fabio_Henrique_de" pid="255/4275">Fabio Henrique de Assis</na></co>
+<co c="1"><na f="b/Barari:Ahmad" pid="154/5089">Ahmad Barari</na></co>
+<co c="0"><na f="b/Barbosa:Marcelo" pid="23/2584">Marcelo Barbosa</na></co>
+<co c="0"><na f="b/Barboza:Marcelo" pid="217/9882">Marcelo Barboza</na></co>
+<co c="0"><na f="b/Benatallah:Boualem" pid="b/BoualemBenatallah">Boualem Benatallah</na></co>
+<co c="0"><na f="b/Blos:Mauricio_F=" pid="91/9139">Mauricio F. Blos</na></co>
+<co c="0"><na f="b/Bock:Eduardo" pid="55/9667">Eduardo Bock</na></co>
+<co c="0"><na f="c/Cardoso:Jos=eacute=_Roberto" pid="95/9666">Jos&#233; Roberto Cardoso</na></co>
+<co c="0"><na f="c/Castro:R=_A=" pid="148/0719">R. A. Castro</na></co>
+<co c="0"><na f="c/Cavalheiro:Andr=eacute=" pid="45/9667">Andr&#233; Cavalheiro</na></co>
+<co c="0"><na f="c/Coda:Felipe_A=" pid="239/7051">Felipe A. Coda</na></co>
+<co c="0"><na f="c/Costa:Jo=atilde=o_Dias_da" pid="123/4846">Jo&#227;o Dias da Costa</na></co>
+<co c="0" n="2"><na f="c/Cugnasca:Carlos_Eduardo" pid="12/7317">Carlos Eduardo Cugnasca</na><na>Carlos E. Cugnasca</na></co>
+<co c="0"><na f="d/Dias:Jeferson_C=" pid="217/9861">Jeferson C. Dias</na></co>
+<co c="0"><na f="d/Dias:J=ocirc=natas_C=" pid="217/9847">J&#244;natas C. Dias</na></co>
+<co c="0"><na f="d/Dobrianskyj:Guilherme_Martinho" pid="218/4049">Guilherme Martinho Dobrianskyj</na></co>
+<co c="0"><na f="d/Drigo:Evandro" pid="217/9771">Evandro Drigo</na></co>
+<co c="0"><na f="f/Fattori:Caio_C=" pid="142/4317">Caio C. Fattori</na></co>
+<co c="0" n="3"><na f="f/Filho:Diolino_Jos=eacute=_dos_Santos" pid="98/4230">Diolino Jos&#233; dos Santos Filho</na><na>Diolino J. Santos Filho</na><na>Diolino Santos Fo.</na></co>
+<co c="0"><na f="f/Fonseca:Jeison" pid="15/9666">Jeison Fonseca</na></co>
+<co c="0"><na f="g/Garcia:Jose_Isidro" pid="27/2615">Jose Isidro Garcia</na></co>
+<co c="0"><na f="h/Hasegawa:Kensuke" pid="83/7932">Kensuke Hasegawa</na></co>
+<co c="0"><na f="h/Hoeflich:S=eacute=rgio_L=" pid="167/7423">S&#233;rgio L. Hoeflich</na></co>
+<co c="0"><na f="i/Igei:Percy" pid="22/10237">Percy Igei</na></co>
+<co c="0"><na f="j/Jorge:Andr=eacute=_A=" pid="248/5064">Andr&#233; A. Jorge</na></co>
+<co c="0"><na f="j/Junqueira:Fabr=iacute=cio" pid="59/9666">Fabr&#237;cio Junqueira</na></co>
+<co c="0"><na f="k/Kagohara:Myrna_Y=" pid="27/6856">Myrna Y. Kagohara</na></co>
+<co c="0" n="2"><na f="l/Legaspe:Edinei_P=" pid="198/6756">Edinei P. Legaspe</na><na>Edinei Peres Legaspe</na></co>
+<co c="0"><na f="m/Ma:Li=qu" pid="233/9049">Li-qu Ma</na></co>
+<co c="0"><na f="m/Marques:F=_M=" pid="148/0699">F. M. Marques</na></co>
+<co c="0"><na f="m/Maruyama:Newton" pid="81/9184">Newton Maruyama</na></co>
+<co c="0"><na f="m/Meira:Gian_M=" pid="198/6749">Gian M. Meira</na></co>
+<co c="0"><na f="m/Miranda:Bruno_S=" pid="198/6774">Bruno S. Miranda</na></co>
+<co c="0"><na f="m/Montebeller:Sidney_Jos=eacute=" pid="198/6750">Sidney Jos&#233; Montebeller</na></co>
+<co c="0"><na f="m/Montesco:Richard_A=_Estombelo" pid="145/8389">Richard A. Estombelo Montesco</na></co>
+<co c="0"><na f="m/Morales:Roy_A=_Gomez" pid="60/4972">Roy A. Gomez Morales</na></co>
+<co c="0" n="2"><na f="m/Moscato:Lucas_Ant=ocirc=nio" pid="239/7042">Lucas Ant&#244;nio Moscato</na><na>Lucas A. Moscato</na></co>
+<co c="0"><na f="o/Okamoto_Jr=:Jun" pid="28/5229">Jun Okamoto Jr.</na></co>
+<co c="0"><na f="p/Pascal:Jean=Claude" pid="28/426">Jean-Claude Pascal</na></co>
+<co c="0"><na f="p/Pessoa:Marcosiris_A=_O=" pid="07/9666">Marcosiris A. O. Pessoa</na></co>
+<co c="1"><na f="p/Pessoa:Marcosiris_Amorim_de_Oliveira" pid="333/9229">Marcosiris Amorim de Oliveira Pessoa</na></co>
+<co c="0"><na f="p/Pinto:Joel_R=" pid="198/6751">Joel R. Pinto</na></co>
+<co c="0"><na f="p/Pisching:Marcos_A=" pid="161/2684">Marcos A. Pisching</na></co>
+<co c="0" n="2"><na f="r/Riascos:Luis_A=_M=" pid="218/2326">Luis A. M. Riascos</na><na>Luis Alberto Mart&#237;nez Riascos</na></co>
+<co c="0"><na f="s/Salles:Rafael_M=" pid="239/7032">Rafael M. Salles</na></co>
+<co c="0"><na f="s/Sarmento:Cleber_A=" pid="255/4654">Cleber A. Sarmento</na></co>
+<co c="1"><na f="s/Silva:Gerson_Fabio_da" pid="334/0121">Gerson Fabio da Silva</na></co>
+<co c="0"><na f="s/Silva:Jos=eacute=_Reinaldo" pid="21/2615">Jos&#233; Reinaldo Silva</na></co>
+<co c="0"><na f="s/Silva:Robson_Marinho_da" pid="05/9667">Robson Marinho da Silva</na></co>
+<co c="0"><na f="s/Sobrinho:Jos=eacute=_R=_Sousa" pid="217/9799">Jos&#233; R. Sousa Sobrinho</na></co>
+<co c="0"><na f="s/Souit:Samira" pid="142/4288">Samira Souit</na></co>
+<co c="0"><na f="s/Souza:Jeferson_A=_L=_de" pid="130/2345">Jeferson A. L. de Souza</na></co>
+<co c="0"><na f="s/Squillante_Jr=:Reinaldo" pid="130/2213">Reinaldo Squillante Jr.</na></co>
+<co c="0"><na f="s/Stoeterau:Rodrigo_Lima" pid="239/7034">Rodrigo Lima Stoeterau</na></co>
+<co c="0"><na f="s/Sugisawa:Makiko" pid="233/8941">Makiko Sugisawa</na></co>
+<co c="0"><na f="t/Takahashi:Kouji" pid="174/9478">Kouji Takahashi</na></co>
+<co c="0"><na f="t/Takase:Fabio_Kawaoka" pid="33/11088">Fabio Kawaoka Takase</na></co>
+<co c="0"><na f="t/Toledo:Cust=oacute=dio_F=_M=" pid="42/7033">Cust&#243;dio F. M. Toledo</na></co>
+<co c="1"><na f="t/Tsuzuki:Marcos_de_Sales_Guerra" pid="38/6014">Marcos de Sales Guerra Tsuzuki</na></co>
+<co c="0"><na f="v/Valette:Robert" pid="05/808">Robert Valette</na></co>
+<co c="0"><na f="v/Veiga:Jackson_T=" pid="298/0205">Jackson T. Veiga</na></co>
+<co c="0"><na f="v/Villani:Em=iacute=lia" pid="118/2012">Em&#237;lia Villani</na></co>
+<co c="0"><na f="v/Vitoi:Henrique_A=" pid="239/7037">Henrique A. Vitoi</na></co>
+<co c="0"><na f="w/Watanabe:Edson_H=" pid="08/6952">Edson H. Watanabe</na></co>
+<co c="0"><na f="y/Yao_0001:Lina" pid="56/6651-1">Lina Yao 0001</na></co>
+</coauthors>
+</dblpperson>
+

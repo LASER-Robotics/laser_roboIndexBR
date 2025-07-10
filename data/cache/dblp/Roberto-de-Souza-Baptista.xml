@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<dblpperson name="Roberto de Souza Baptista" pid="208/1866" n="8">
+<person key="homepages/208/1866" mdate="2022-10-13">
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<note type="affiliation">Universidade de Brasilia, Brazil</note>
+<note label="former" type="affiliation">TU Kaiserslautern, Germany</note>
+<url>https://ieeexplore.ieee.org/author/37085386277</url>
+</person>
+<r><article key="journals/arcras/JagerBBCKNPSTVRS23" mdate="2024-01-24">
+<author pid="204/4051">Lukas J&#228;ger</author>
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<author pid="330/0853">Chiara Basla</author>
+<author orcid="0000-0001-6498-9231" pid="270/3125">Patricia Capsi-Morales</author>
+<author orcid="0000-0002-8975-5762" pid="364/1701">Yong Kuk Kim</author>
+<author pid="28/7747">Shuro Nakajima</author>
+<author orcid="0000-0002-0358-8677" pid="136/9528">Cristina Piazza</author>
+<author pid="285/3323">Michael Sommerhalder</author>
+<author orcid="0000-0002-9751-7190" pid="85/7756">Luca Tonin</author>
+<author pid="194/0047">Giacomo Valle</author>
+<author pid="37/2801">Robert Riener</author>
+<author pid="90/8683">Roland Sigrist</author>
+<title>How the CYBATHLON Competition Has Advanced Assistive Technologies.</title>
+<pages>447-476</pages>
+<year>2023</year>
+<month>May</month>
+<volume>6</volume>
+<journal>Annu. Rev. Control. Robotics Auton. Syst.</journal>
+<ee>https://doi.org/10.1146/annurev-control-071822-095355</ee>
+<url>db/journals/arcras/arcras6.html#JagerBBCKNPSTVRS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/MacielSPSB23" mdate="2024-01-04">
+<author pid="364/1143">Beatriz de Siqueira Maciel</author>
+<author pid="337/9312">Lukas Araujo da Silva</author>
+<author pid="364/2570">Jamile Sardinha Passos</author>
+<author pid="364/2345">Jwlyah de Sousa Silva</author>
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<title>Edubot Project: From the Classroom to the Job Market.</title>
+<pages>637-642</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332972</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#MacielSPSB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/FrotaABSASDB22" mdate="2023-01-18">
+<author pid="337/9245">Lu&#237;sa Gabriela Ferro da Frota</author>
+<author pid="337/9360">Sheila de Lima Ara&#250;jo</author>
+<author pid="337/8953">Gleyson Jos&#233; Xavier de Brito</author>
+<author pid="337/9312">Lukas Araujo da Silva</author>
+<author pid="337/9062">Walker Dimitry Araujo Andrade</author>
+<author pid="337/9376">Luiz Felipe Rodrigues e Silva</author>
+<author pid="337/8967">Claudia Patricia Ochoa Diaz</author>
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<title>Edubot Project: Post-pandemic remodeling of in-person robotics classes.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995734</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#FrotaABSASDB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/BottinoASMB21" mdate="2023-09-13">
+<author pid="356/4978">Giovanna Borges Bottino</author>
+<author pid="337/9360">Sheila de Lima Ara&#250;jo</author>
+<author pid="356/5340">Caio de Lima Saigg</author>
+<author pid="356/4505">Mariana Costa Bernardes Matias</author>
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<title>Edubot Project: Analyzing the Adaptation of Robotics Classes to the Remote Environment.</title>
+<pages>366-370</pages>
+<year>2021</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE54079.2021.9605467</ee>
+<crossref>conf/larc/2021</crossref>
+<url>db/conf/larc/lars2021.html#BottinoASMB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/MoreiraBOB19" mdate="2024-10-01">
+<author pid="249/7447-2">Marina Moreira 0002</author>
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<author pid="350/6846">Caio Oliveira</author>
+<author orcid="0000-0002-4975-305X" pid="62/10334">Mariana C. Bernardes</author>
+<title>Robotics Teaching and Tools to Promote Better Didactic in Public High-Schools.</title>
+<pages>492-497</pages>
+<year>2019</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR-WRE48964.2019.00093</ee>
+<crossref>conf/larc/2019</crossref>
+<url>db/conf/larc/lars2019.html#MoreiraBOB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/BaptistaMLB18" mdate="2024-10-01">
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<author orcid="0000-0002-7020-0249" pid="249/7447-2">Marina Moreira 0002</author>
+<author pid="45/10010">Rafael Lima</author>
+<author orcid="0000-0002-4975-305X" pid="62/10334">Mariana C. Bernardes</author>
+<title>Project Edubot: Teaching Robotics to High School Students.</title>
+<pages>598-603</pages>
+<year>2018</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE.2018.00108</ee>
+<crossref>conf/larc/2018</crossref>
+<url>db/conf/larc/lars2018.html#BaptistaMLB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ner/BaptistaBH15" mdate="2020-03-27">
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<author orcid="0000-0001-8229-0512" pid="04/3218">Ant&#244;nio Padilha Lanari B&#243;</author>
+<author orcid="0000-0001-6179-5706" pid="28/1626">Mitsuhiro Hayashibe</author>
+<title>Methodology for automatic movement cycle extraction using Switching Linear Dynamic System.</title>
+<pages>743-746</pages>
+<year>2015</year>
+<booktitle>NER</booktitle>
+<ee>https://doi.org/10.1109/NER.2015.7146730</ee>
+<crossref>conf/ner/2015</crossref>
+<url>db/conf/ner/ner2015.html#BaptistaBH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icorr/ZhaoBBB13" mdate="2020-02-25">
+<author pid="23/3168-1">Jie Zhao 0001</author>
+<author pid="b/KBerns">Karsten Berns</author>
+<author pid="208/1866">Roberto de Souza Baptista</author>
+<author orcid="0000-0001-8229-0512" pid="04/3218">Ant&#244;nio Padilha Lanari B&#243;</author>
+<title>Design of variable-damping control for prosthetic knee based on a simulated biped.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ICORR</booktitle>
+<ee>https://doi.org/10.1109/ICORR.2013.6650364</ee>
+<ee>https://www.wikidata.org/entity/Q43947402</ee>
+<crossref>conf/icorr/2013</crossref>
+<url>db/conf/icorr/icorr2013.html#ZhaoBBB13</url>
+</inproceedings>
+</r>
+<coauthors n="32" nc="3">
+<co c="0"><na f="a/Andrade:Walker_Dimitry_Araujo" pid="337/9062">Walker Dimitry Araujo Andrade</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Sheila_de_Lima" pid="337/9360">Sheila de Lima Ara&#250;jo</na></co>
+<co c="1"><na f="b/Basla:Chiara" pid="330/0853">Chiara Basla</na></co>
+<co c="2"><na f="b/Bernardes:Mariana_C=" pid="62/10334">Mariana C. Bernardes</na></co>
+<co c="2"><na f="b/Berns:Karsten" pid="b/KBerns">Karsten Berns</na></co>
+<co c="2"><na f="b/B=oacute=:Ant=ocirc=nio_Padilha_Lanari" pid="04/3218">Ant&#244;nio Padilha Lanari B&#243;</na></co>
+<co c="0"><na f="b/Bottino:Giovanna_Borges" pid="356/4978">Giovanna Borges Bottino</na></co>
+<co c="0"><na f="b/Brito:Gleyson_Jos=eacute=_Xavier_de" pid="337/8953">Gleyson Jos&#233; Xavier de Brito</na></co>
+<co c="1"><na f="c/Capsi=Morales:Patricia" pid="270/3125">Patricia Capsi-Morales</na></co>
+<co c="0"><na f="d/Diaz:Claudia_Patricia_Ochoa" pid="337/8967">Claudia Patricia Ochoa Diaz</na></co>
+<co c="0"><na f="f/Frota:Lu=iacute=sa_Gabriela_Ferro_da" pid="337/9245">Lu&#237;sa Gabriela Ferro da Frota</na></co>
+<co c="2"><na f="h/Hayashibe:Mitsuhiro" pid="28/1626">Mitsuhiro Hayashibe</na></co>
+<co c="1"><na f="j/J=auml=ger:Lukas" pid="204/4051">Lukas J&#228;ger</na></co>
+<co c="1"><na f="k/Kim:Yong_Kuk" pid="364/1701">Yong Kuk Kim</na></co>
+<co c="2"><na f="l/Lima:Rafael" pid="45/10010">Rafael Lima</na></co>
+<co c="0"><na f="m/Maciel:Beatriz_de_Siqueira" pid="364/1143">Beatriz de Siqueira Maciel</na></co>
+<co c="0"><na f="m/Matias:Mariana_Costa_Bernardes" pid="356/4505">Mariana Costa Bernardes Matias</na></co>
+<co c="2"><na f="m/Moreira_0002:Marina" pid="249/7447-2">Marina Moreira 0002</na></co>
+<co c="1"><na f="n/Nakajima:Shuro" pid="28/7747">Shuro Nakajima</na></co>
+<co c="2"><na f="o/Oliveira:Caio" pid="350/6846">Caio Oliveira</na></co>
+<co c="0"><na f="p/Passos:Jamile_Sardinha" pid="364/2570">Jamile Sardinha Passos</na></co>
+<co c="1"><na f="p/Piazza:Cristina" pid="136/9528">Cristina Piazza</na></co>
+<co c="1"><na f="r/Riener:Robert" pid="37/2801">Robert Riener</na></co>
+<co c="0"><na f="s/Saigg:Caio_de_Lima" pid="356/5340">Caio de Lima Saigg</na></co>
+<co c="1"><na f="s/Sigrist:Roland" pid="90/8683">Roland Sigrist</na></co>
+<co c="0"><na f="s/Silva:Jwlyah_de_Sousa" pid="364/2345">Jwlyah de Sousa Silva</na></co>
+<co c="0"><na f="s/Silva:Luiz_Felipe_Rodrigues_e" pid="337/9376">Luiz Felipe Rodrigues e Silva</na></co>
+<co c="0"><na f="s/Silva:Lukas_Araujo_da" pid="337/9312">Lukas Araujo da Silva</na></co>
+<co c="1"><na f="s/Sommerhalder:Michael" pid="285/3323">Michael Sommerhalder</na></co>
+<co c="1"><na f="t/Tonin:Luca" pid="85/7756">Luca Tonin</na></co>
+<co c="1"><na f="v/Valle:Giacomo" pid="194/0047">Giacomo Valle</na></co>
+<co c="2"><na f="z/Zhao_0001:Jie" pid="23/3168-1">Jie Zhao 0001</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<dblpperson name="Leonardo A. Mozelli" pid="40/3969" n="34">
+<person key="homepages/40/3969" mdate="2019-01-22">
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="40/3969">Leonardo Amaral Mozelli</author>
+<url>https://orcid.org/0000-0001-9986-3700</url>
+</person>
+<r><article key="journals/cee/SilvaMNS25" mdate="2025-03-07">
+<author orcid="0000-0003-4657-8986" pid="365/8900">Emerson A. da Silva</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando O. Souza</author>
+<title>Disturbance and uncertainty compensation control for heterogeneous platoons under network delays.</title>
+<pages>110066</pages>
+<year>2025</year>
+<volume>123</volume>
+<journal>Comput. Electr. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compeleceng.2025.110066</ee>
+<url>db/journals/cee/cee123.html#SilvaMNS25</url>
+<stream>streams/journals/cee</stream>
+</article>
+</r>
+<r><article key="journals/ejcon/FeniliMS24" mdate="2024-08-22">
+<author orcid="0000-0001-8393-8691" pid="382/0084">Elder Pereira Fenili</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando de Oliveira Souza</author>
+<title>LMI-based robust PID controller with measurement filter for nth-order systems.</title>
+<pages>100980</pages>
+<year>2024</year>
+<volume>77</volume>
+<journal>Eur. J. Control</journal>
+<ee>https://doi.org/10.1016/j.ejcon.2024.100980</ee>
+<url>db/journals/ejcon/ejcon77.html#FeniliMS24</url>
+<stream>streams/journals/ejcon</stream>
+</article>
+</r>
+<r><article key="journals/ijsysc/OliveiraCM24" mdate="2024-07-08">
+<author pid="379/9608">Ariany Carolina de Oliveira</author>
+<author pid="95/171">V&#237;ctor C. S. Campos</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<title>Model reference output feedback tracking for nonlinear systems via LMIs.</title>
+<pages>1772-1789</pages>
+<year>2024</year>
+<month>July</month>
+<volume>55</volume>
+<journal>Int. J. Syst. Sci.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1080/00207721.2024.2317357</ee>
+<url>db/journals/ijsysc/ijsysc55.html#OliveiraCM24</url>
+</article>
+</r>
+<r><article key="journals/tie/MirandaNFM24" mdate="2024-02-29">
+<author orcid="0000-0001-9653-6050" pid="258/1804">Victor R. F. Miranda</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-5343-7028" pid="160/1964">Gustavo Medeiros Freitas</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<title>Generalization in Deep Reinforcement Learning for Robotic Navigation by Reward Shaping.</title>
+<pages>6013-6020</pages>
+<year>2024</year>
+<month>June</month>
+<volume>71</volume>
+<journal>IEEE Trans. Ind. Electron.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TIE.2023.3290244</ee>
+<url>db/journals/tie/tie71.html#MirandaNFM24</url>
+</article>
+</r>
+<r><article key="journals/tits/NetoM24" mdate="2024-10-22">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<title>Robust Longitudinal Control for Vehicular Platoons Using Deep Reinforcement Learning.</title>
+<pages>14401-14410</pages>
+<year>2024</year>
+<month>October</month>
+<volume>25</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TITS.2024.3388390</ee>
+<url>db/journals/tits/tits25.html#NetoM24</url>
+<stream>streams/journals/tits</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-08467" mdate="2024-09-23">
+<author pid="40/3969">Leonardo Amaral Mozelli</author>
+<author pid="95/171">V&#237;ctor Costa da Silva Campos</author>
+<title>A New Control Law for TS Fuzzy Models: Less Conservative LMI Conditions by Using Membership Functions Derivative.</title>
+<year>2024</year>
+<volume>abs/2408.08467</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.08467</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-08467</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/amc/VieiraSM23" mdate="2023-05-22">
+<author pid="347/6479">Igor P. Vieira</author>
+<author pid="12/7143">Fernando O. Souza</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<title>Geometric approach to robust stability analysis of Linear Parameter-Varying systems: Computational trade-offs between the exact and the simplex convex hulls.</title>
+<pages>128017</pages>
+<year>2023</year>
+<month>August</month>
+<volume>451</volume>
+<journal>Appl. Math. Comput.</journal>
+<ee>https://doi.org/10.1016/j.amc.2023.128017</ee>
+<url>db/journals/amc/amc451.html#VieiraSM23</url>
+</article>
+</r>
+<r><article key="journals/tits/GodinhoNMS23" mdate="2023-06-15">
+<author orcid="0000-0001-7952-2167" pid="348/5299">Daniel Almeida Godinho</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando de Oliveira Souza</author>
+<title>A Strategy for Traffic Safety of Vehicular Platoons Under Connection Loss and Time-Delay.</title>
+<pages>6627-6638</pages>
+<year>2023</year>
+<month>June</month>
+<volume>24</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TITS.2023.3258633</ee>
+<url>db/journals/tits/tits24.html#GodinhoNMS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/syscon/SilvaMLCP23" mdate="2024-01-18">
+<author pid="365/8900">Emerson A. da Silva</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="197/9568">Michel C. R. Leles</author>
+<author pid="95/171">V&#237;ctor C. S. Campos</author>
+<author pid="348/8148">Guilherme Palazzo</author>
+<title>A study on Non-parametric Filtering in Linear and Nonlinear Control Loops using the Singular Spectrum Analysis.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon53073.2023.10131113</ee>
+<crossref>conf/syscon/2023</crossref>
+<url>db/conf/syscon/syscon2023.html#SilvaMLCP23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-14897" mdate="2024-01-18">
+<author pid="365/8900">Emerson A. da Silva</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="22/7610">Armando Alves Neto</author>
+<author pid="12/7143">Fernando O. Souza</author>
+<title>Improving the Design of Linear Controllers for Homogeneous Platooning under Disturbances.</title>
+<year>2023</year>
+<volume>abs/2312.14897</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.14897</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-14897</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-01175" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="40/3969">Leonardo Amaral Mozelli</author>
+<title>Robust Longitudinal Control for Vehicular Autonomous Platoons Using Deep Reinforcement Learning.</title>
+<year>2022</year>
+<volume>abs/2206.01175</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.01175</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-01175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-14271" mdate="2023-09-30">
+<author pid="258/1804">Victor R. F. Miranda</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<title>On the Generalization of Deep Reinforcement Learning Methods in the Problem of Local Navigation.</title>
+<year>2022</year>
+<volume>abs/2209.14271</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.14271</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-14271</url>
+</article>
+</r>
+<r><article key="journals/ras/NetoMM20" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="23/7609">Douglas G. Macharet</author>
+<title>On the consensus of nonlinear agents in unknown cluttered environments using random planning.</title>
+<pages>103607</pages>
+<year>2020</year>
+<volume>132</volume>
+<journal>Robotics Auton. Syst.</journal>
+<ee>https://doi.org/10.1016/j.robot.2020.103607</ee>
+<url>db/journals/ras/ras132.html#NetoMM20</url>
+</article>
+</r>
+<r><article key="journals/sj/LelesMSJG20" mdate="2025-01-19">
+<author orcid="0000-0001-7399-7444" pid="197/9568">Michel Carlo Rodrigues Leles</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0003-0457-0310" pid="220/8910">Elton Felipe Sbruzzi</author>
+<author pid="54/3258">Cairo L&#250;cio Nascimento J&#250;nior</author>
+<author pid="197/9542">Homero N. Guimar&#227;es</author>
+<title>A Multicriteria Trading System Based on Singular Spectrum Analysis Trading Rules.</title>
+<pages>1468-1478</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>IEEE Syst. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSYST.2019.2924390</ee>
+<ee>https://www.wikidata.org/entity/Q127539883</ee>
+<url>db/journals/sj/sj14.html#LelesMSJG20</url>
+</article>
+</r>
+<r><article key="journals/tits/SouzaTMN20" mdate="2021-09-20">
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando de Oliveira Souza</author>
+<author orcid="0000-0003-3039-6547" pid="16/6491">Leonardo Ant&#244;nio Borges Torres</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<title>Stability and Formation Error of Homogeneous Vehicular Platoons With Communication Time Delays.</title>
+<pages>4338-4349</pages>
+<year>2020</year>
+<volume>21</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TITS.2019.2939777</ee>
+<url>db/journals/tits/tits21.html#SouzaTMN20</url>
+</article>
+</r>
+<r><article key="journals/cee/NetoMS19" mdate="2025-01-19">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando O. Souza</author>
+<title>Control of air-ground convoy subject to communication time delay.</title>
+<pages>213-224</pages>
+<year>2019</year>
+<volume>76</volume>
+<journal>Comput. Electr. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compeleceng.2019.03.016</ee>
+<ee>https://www.wikidata.org/entity/Q128094171</ee>
+<url>db/journals/cee/cee76.html#NetoMS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icar/MirandaMNF19" mdate="2023-09-30">
+<author pid="258/1804">Victor R. F. Miranda</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-5343-7028" pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>On the Robust Longitudinal Trajectory Tracking for Load Transportation Vehicles on Uneven Terrains.</title>
+<pages>320-325</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981641</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#MirandaMNF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icar/SantanaMN19" mdate="2023-09-30">
+<author pid="258/1572">Robson O. de Santana</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<title>Vision-based Autonomous Landing for Micro Aerial Vehicles on Targets Moving in 3D Space.</title>
+<pages>541-546</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981643</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#SantanaMN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/LelesVMSNMG19" mdate="2022-10-02">
+<author pid="197/9568">Michel C. R. Leles</author>
+<author pid="197/9526">Adriano S. Vale-Cardoso</author>
+<author pid="197/9554">Mariana G. Moreira</author>
+<author orcid="0000-0003-0457-0310" pid="220/8910">Elton Felipe Sbruzzi</author>
+<author orcid="0000-0002-2418-0320" pid="54/3258">Cairo L. Nascimento Jr.</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="197/9542">Homero N. Guimar&#227;es</author>
+<title>Recursive Singular Spectrum Analysis Applied to the Design of a Trading System.</title>
+<pages>1-7</pages>
+<year>2019</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SYSCON.2019.8836955</ee>
+<crossref>conf/syscon/2019</crossref>
+<url>db/conf/syscon/syscon2019.html#LelesVMSNMG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/dsp/LelesSMG18" mdate="2020-02-20">
+<author pid="197/9568">Michel C. R. Leles</author>
+<author pid="147/7838">Jo&#227;o Pedro H. Sans&#227;o</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="197/9542">Homero N. Guimaraes</author>
+<title>Improving reconstruction of time-series based in Singular Spectrum Analysis: A segmentation approach.</title>
+<pages>63-76</pages>
+<year>2018</year>
+<volume>77</volume>
+<journal>Digit. Signal Process.</journal>
+<ee>https://doi.org/10.1016/j.dsp.2017.10.025</ee>
+<url>db/journals/dsp/dsp77.html#LelesSMG18</url>
+</article>
+</r>
+<r><article publtype="software" key="journals/softx/LelesSMG18" mdate="2021-01-21">
+<author pid="197/9568">Michel C. R. Leles</author>
+<author pid="147/7838">Jo&#227;o Pedro H. Sans&#227;o</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="197/9542">Homero N. Guimar&#227;es</author>
+<title>A new algorithm in singular spectrum analysis framework: The Overlap-SSA (ov-SSA).</title>
+<pages>26-32</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>SoftwareX</journal>
+<ee type="oa">https://doi.org/10.1016/j.softx.2017.11.001</ee>
+<url>db/journals/softx/softx8.html#LelesSMG18</url>
+</article>
+</r>
+<r><article key="journals/ijcon/SouzaMOP16" mdate="2018-11-02">
+<author pid="12/7143">Fernando de Oliveira Souza</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-1482-2123" pid="24/6257">Maur&#237;cio C. de Oliveira</author>
+<author orcid="0000-0003-2470-4240" pid="70/3801">Reinaldo Martinez Palhares</author>
+<title>LMI designmethod for networked-based PID control.</title>
+<pages>1962-1971</pages>
+<year>2016</year>
+<volume>89</volume>
+<journal>Int. J. Control</journal>
+<number>10</number>
+<ee>https://doi.org/10.1080/00207179.2016.1146413</ee>
+<url>db/journals/ijcon/ijcon89.html#SouzaMOP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/VieiraNM16" mdate="2023-09-30">
+<author pid="347/6479">Igor Pereira Vieira</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<title>Fiducial Markers Applied for Pose Tracking of a Robotic Manipulator: Application in Visual Servoing Control.</title>
+<pages>287-292</pages>
+<year>2016</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR.2016.55</ee>
+<crossref>conf/larc/2016</crossref>
+<url>db/conf/larc/lars2016.html#VieiraNM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/NetoMJC15" mdate="2023-09-30">
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews Junior</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Attitude control for an Hybrid Unmanned Aerial Underwater Vehicle: A robust switched strategy with global stability.</title>
+<pages>395-400</pages>
+<year>2015</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2015.7139029</ee>
+<crossref>conf/icra/2015</crossref>
+<url>db/conf/icra/icra2015.html#NetoMJC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/MozelliNC15" mdate="2023-09-30">
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo Amaral Mozelli</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author pid="70/4227">Mario Fernando Montenegro Campos</author>
+<title>Attitude of quadrotor-like vehicles: Fuzzy modeling and control with prescribed rate of convergence.</title>
+<pages>1710-1715</pages>
+<year>2015</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2015.7139418</ee>
+<crossref>conf/icra/2015</crossref>
+<url>db/conf/icra/icra2015.html#MozelliNC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cica/MozelliSM14" mdate="2018-11-02">
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="12/7143">Fernando O. Souza</author>
+<author pid="42/5645">Eduardo M. A. M. Mendes</author>
+<title>SOFC for TS fuzzy systems: Less conservative and local stabilization conditions.</title>
+<pages>61-67</pages>
+<year>2014</year>
+<booktitle>CICA</booktitle>
+<ee>https://doi.org/10.1109/CICA.2014.7013233</ee>
+<crossref>conf/cica/2014</crossref>
+<url>db/conf/cica/cica2014.html#MozelliSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eucc/SavinoCSPMM13" mdate="2021-08-09">
+<author pid="155/0824">Heitor Judiss Savino</author>
+<author pid="235/3942">A. P. L. Cota</author>
+<author pid="12/7143">Fernando O. Souza</author>
+<author pid="75/1982">Luciano C. A. Pimenta</author>
+<author pid="42/5645">Eduardo M. A. M. Mendes</author>
+<author pid="40/3969">Leonardo A. Mozelli</author>
+<title>Consensus of multi-agent systems with nonuniform non-differentiable time-varying delays.</title>
+<pages>1884-1889</pages>
+<year>2013</year>
+<booktitle>ECC</booktitle>
+<ee>https://doi.org/10.23919/ECC.2013.6669687</ee>
+<crossref>conf/eucc/2013</crossref>
+<url>db/conf/eucc/eucc2013.html#SavinoCSPMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tds/MozelliS13" mdate="2018-11-02">
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author pid="12/7143">Fernando de Oliveira Souza</author>
+<title>PID Tuning under Uncertain Conditions: Robust LMI Design for Second-Order Plus Time-Delay Transfer Functions.</title>
+<pages>120-125</pages>
+<year>2013</year>
+<booktitle>TDS</booktitle>
+<ee>https://doi.org/10.3182/20130204-3-FR-4031.00127</ee>
+<crossref>conf/tds/2013</crossref>
+<url>db/conf/tds/tds2013.html#MozelliS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tds/SouzaRMP13" mdate="2018-11-02">
+<author pid="12/7143">Fernando de Oliveira Souza</author>
+<author pid="155/1216">Jansenn Silveira Rocha</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0003-2470-4240" pid="70/3801">Reinaldo Martinez Palhares</author>
+<title>Fault Detection in Linear Systems Subject to Uncertain Parameters and Time-Delay.</title>
+<pages>570-575</pages>
+<year>2013</year>
+<booktitle>TDS</booktitle>
+<ee>https://doi.org/10.3182/20130204-3-FR-4031.00139</ee>
+<crossref>conf/tds/2013</crossref>
+<url>db/conf/tds/tds2013.html#SouzaRMP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/scl/MozelliP11" mdate="2020-02-24">
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0003-2470-4240" pid="70/3801">Reinaldo Martinez Palhares</author>
+<title>Stability analysis of linear time-varying systems: Improving conditions by adding more information about parameter variation.</title>
+<pages>338-343</pages>
+<year>2011</year>
+<volume>60</volume>
+<journal>Syst. Control. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.sysconle.2011.02.010</ee>
+<url>db/journals/scl/scl60.html#MozelliP11</url>
+</article>
+</r>
+<r><article key="journals/automatica/MozelliPSM09" mdate="2020-02-20">
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0003-2470-4240" pid="70/3801">Reinaldo M. Palhares</author>
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando de Oliveira Souza</author>
+<author pid="42/5645">Eduardo M. A. M. Mendes</author>
+<title>Reducing conservativeness in recent stability conditions of TS fuzzy systems.</title>
+<pages>1580-1583</pages>
+<year>2009</year>
+<volume>45</volume>
+<journal>Autom.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.automatica.2009.02.023</ee>
+<url>db/journals/automatica/automatica45.html#MozelliPSM09</url>
+</article>
+</r>
+<r><article key="journals/isci/MozelliPA09" mdate="2018-11-30">
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0003-2470-4240" pid="70/3801">Reinaldo M. Palhares</author>
+<author orcid="0000-0001-9902-726X" pid="44/7266">Gustavo S. C. Avellar</author>
+<title>A systematic approach to improve multiple Lyapunov function stability and stabilization conditions for fuzzy systems.</title>
+<pages>1149-1162</pages>
+<year>2009</year>
+<volume>179</volume>
+<journal>Inf. Sci.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.ins.2008.12.002</ee>
+<url>db/journals/isci/isci179.html#MozelliPA09</url>
+</article>
+</r>
+<r><article key="journals/tfs/SouzaMP09" mdate="2020-05-12">
+<author orcid="0000-0002-8634-4810" pid="12/7143">Fernando de Oliveira Souza</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<author orcid="0000-0003-2470-4240" pid="70/3801">Reinaldo M. Palhares</author>
+<title>On Stability and Stabilization of T-S Fuzzy Time-Delayed Systems.</title>
+<pages>1450-1455</pages>
+<year>2009</year>
+<volume>17</volume>
+<journal>IEEE Trans. Fuzzy Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TFUZZ.2009.2032336</ee>
+<url>db/journals/tfs/tfs17.html#SouzaMP09</url>
+</article>
+</r>
+<r><article key="journals/ijbc/CamposPMTM07" mdate="2022-09-16">
+<author orcid="0000-0003-3478-0220" pid="66/2006">Cl&#225;udio Dias Campos</author>
+<author pid="70/3801">Reinaldo M. Palhares</author>
+<author pid="42/5645">Eduardo M. A. M. Mendes</author>
+<author orcid="0000-0003-3039-6547" pid="16/6491">Leonardo A. B. Torres</author>
+<author orcid="0000-0001-9986-3700" pid="40/3969">Leonardo A. Mozelli</author>
+<title>Experimental Results on Chua's Circuit Robust Synchronization via LMIS.</title>
+<pages>3199-3209</pages>
+<year>2007</year>
+<volume>17</volume>
+<journal>Int. J. Bifurc. Chaos</journal>
+<number>9</number>
+<ee>https://doi.org/10.1142/S0218127407018956</ee>
+<url>db/journals/ijbc/ijbc17.html#CamposPMTM07</url>
+</article>
+</r>
+<coauthors n="32" nc="1">
+<co c="0"><na f="a/Avellar:Gustavo_S=_C=" pid="44/7266">Gustavo S. C. Avellar</na></co>
+<co c="0"><na f="c/Campos:Cl=aacute=udio_Dias" pid="66/2006">Cl&#225;udio Dias Campos</na></co>
+<co c="0"><na f="c/Campos:Mario_Fernando_Montenegro" pid="70/4227">Mario Fernando Montenegro Campos</na></co>
+<co c="0" n="2"><na f="c/Campos:V=iacute=ctor_C=_S=" pid="95/171">V&#237;ctor C. S. Campos</na><na>V&#237;ctor Costa da Silva Campos</na></co>
+<co c="0" n="2"><na f="c/Cardoso:Adriano_S=_V=" pid="197/9526">Adriano S. V. Cardoso</na><na>Adriano S. Vale-Cardoso</na></co>
+<co c="0"><na f="c/Cota:A=_P=_L=" pid="235/3942">A. P. L. Cota</na></co>
+<co c="0" n="2"><na f="d/Drews=Jr:Paulo_L=_J=" pid="76/7747">Paulo L. J. Drews-Jr</na><na>Paulo Lilles Jorge Drews Junior</na></co>
+<co c="0"><na f="f/Fenili:Elder_Pereira" pid="382/0084">Elder Pereira Fenili</na></co>
+<co c="0"><na f="f/Freitas:Gustavo_Medeiros" pid="160/1964">Gustavo Medeiros Freitas</na></co>
+<co c="0"><na f="g/Godinho:Daniel_Almeida" pid="348/5299">Daniel Almeida Godinho</na></co>
+<co c="0" n="2"><na f="g/Guimar=atilde=es:Homero_N=" pid="197/9542">Homero N. Guimar&#227;es</na><na>Homero N. Guimaraes</na></co>
+<co c="0" n="2"><na f="l/Leles:Michel_C=_R=" pid="197/9568">Michel C. R. Leles</na><na>Michel Carlo Rodrigues Leles</na></co>
+<co c="0"><na f="m/Macharet:Douglas_G=" pid="23/7609">Douglas G. Macharet</na></co>
+<co c="0" n="2"><na f="m/Mendes:Eduardo_Mazoni_Andrade_Mar=ccedil=al" pid="42/5645">Eduardo Mazoni Andrade Mar&#231;al Mendes</na><na>Eduardo M. A. M. Mendes</na></co>
+<co c="0"><na f="m/Miranda:Victor_R=_F=" pid="258/1804">Victor R. F. Miranda</na></co>
+<co c="0"><na f="m/Moreira:Mariana_G=" pid="197/9554">Mariana G. Moreira</na></co>
+<co c="0" n="2"><na f="n/Nascimento_Jr=:Cairo_L=" pid="54/3258">Cairo L. Nascimento Jr.</na><na>Cairo L&#250;cio Nascimento J&#250;nior</na></co>
+<co c="0"><na f="n/Neto:Armando_Alves" pid="22/7610">Armando Alves Neto</na></co>
+<co c="0"><na f="o/Oliveira:Ariany_Carolina_de" pid="379/9608">Ariany Carolina de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Maur=iacute=cio_C=_de" pid="24/6257">Maur&#237;cio C. de Oliveira</na></co>
+<co c="0"><na f="p/Palazzo:Guilherme" pid="348/8148">Guilherme Palazzo</na></co>
+<co c="0" n="2"><na f="p/Palhares:Reinaldo_M=" pid="70/3801">Reinaldo M. Palhares</na><na>Reinaldo Martinez Palhares</na></co>
+<co c="0"><na f="p/Pimenta:Luciano_C=_A=" pid="75/1982">Luciano C. A. Pimenta</na></co>
+<co c="0"><na f="r/Rocha:Jansenn_Silveira" pid="155/1216">Jansenn Silveira Rocha</na></co>
+<co c="0"><na f="s/Sans=atilde=o:Jo=atilde=o_Pedro_H=" pid="147/7838">Jo&#227;o Pedro H. Sans&#227;o</na></co>
+<co c="0"><na f="s/Santana:Robson_O=_de" pid="258/1572">Robson O. de Santana</na></co>
+<co c="0"><na f="s/Savino:Heitor_Judiss" pid="155/0824">Heitor Judiss Savino</na></co>
+<co c="0"><na f="s/Sbruzzi:Elton_Felipe" pid="220/8910">Elton Felipe Sbruzzi</na></co>
+<co c="0"><na f="s/Silva:Emerson_A=_da" pid="365/8900">Emerson A. da Silva</na></co>
+<co c="0" n="2"><na f="s/Souza:Fernando_de_Oliveira" pid="12/7143">Fernando de Oliveira Souza</na><na>Fernando O. Souza</na></co>
+<co c="0" n="2"><na f="t/Torres:Leonardo_A=_B=" pid="16/6491">Leonardo A. B. Torres</na><na>Leonardo Ant&#244;nio Borges Torres</na></co>
+<co c="0" n="2"><na f="v/Vieira:Igor_P=" pid="347/6479">Igor P. Vieira</na><na>Igor Pereira Vieira</na></co>
+</coauthors>
+</dblpperson>
+

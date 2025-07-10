@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<dblpperson name="Eduardo Aoun Tannuri" pid="44/6157" n="15">
+<person key="homepages/44/6157" mdate="2009-06-10">
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+</person>
+<r><inproceedings key="conf/aaai/BarrosPMMCSNLMT24" mdate="2025-02-25">
+<author pid="323/4360">Marcel R. de Barros</author>
+<author pid="371/5642">Andressa Pinto</author>
+<author pid="371/5903">Andres Monroy</author>
+<author pid="323/5379">Felipe M. Moreno</author>
+<author pid="323/4780">Jefferson F. Coelho</author>
+<author pid="371/5875">Aldomar Pietro Silva</author>
+<author pid="323/4812">Caio Fabricio Deberaldini Netto</author>
+<author pid="237/3468">Jos&#233; Roberto Leite</author>
+<author pid="323/5782">Marlon S. Mathias</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<author pid="191/2742">Artur Jord&#227;o</author>
+<author pid="117/5619">Edson S. Gomi</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</author>
+<author pid="323/4276">Marcelo Dottori</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Early Detection of Extreme Storm Tide Events Using Multimodal Data Processing.</title>
+<pages>21923-21931</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i20.30194</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#BarrosPMMCSNLMT24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/BarrosRCTGBC23" mdate="2023-10-16">
+<author pid="323/4360">Marcel Rodrigues de Barros</author>
+<author pid="358/3068">Thiago Lizier Rissi</author>
+<author pid="358/2994">Eduardo Faria Cabrera</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<author pid="117/5619">Edson Satoshi Gomi</author>
+<author pid="286/4466">Rodrigo A. Barreira</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Embracing Data Irregularities in Multivariate Time Series with Recurrent and Graph Neural Networks.</title>
+<pages>3-17</pages>
+<year>2023</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45368-7_1</ee>
+<crossref>conf/bracis/2023-1</crossref>
+<url>db/conf/bracis/bracis2023-1.html#BarrosRCTGBC23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-07824" mdate="2023-09-30">
+<author orcid="0000-0002-2415-5723" pid="323/5782">Marlon Sproesser Mathias</author>
+<author pid="333/8975">Wesley Pereira de Almeida</author>
+<author pid="323/4360">Marcel Rodrigues de Barros</author>
+<author pid="323/4780">Jefferson Fialho Coelho</author>
+<author pid="323/4336">Lucas Palmiro de Freitas</author>
+<author pid="323/5379">Felipe Marino Moreno</author>
+<author pid="323/4812">Caio Fabricio Deberaldini Netto</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<author orcid="0000-0003-1267-9519" pid="117/5619">Edson Satoshi Gomi</author>
+<author orcid="0000-0003-2382-4136" pid="323/4276">Marcelo Dottori</author>
+<title>Augmenting a Physics-Informed Neural Network for the 2D Burgers Equation by Addition of Solution Data Points.</title>
+<year>2023</year>
+<volume>abs/2301.07824</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.07824</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-07824</url>
+</article>
+</r>
+<r><article key="journals/access/CotrimBSGCT22" mdate="2023-08-28">
+<author orcid="0000-0001-5288-1813" pid="307/9015">Lucas P. Cotrim</author>
+<author orcid="0000-0001-8917-8224" pid="286/4466">Rodrigo A. Barreira</author>
+<author orcid="0000-0002-6769-3089" pid="32/2540">Ismael H. F. dos Santos</author>
+<author orcid="0000-0003-1267-9519" pid="117/5619">Edson S. Gomi</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author orcid="0000-0001-7040-413X" pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Neural Network Meta-Models for FPSO Motion Prediction From Environmental Data With Different Platform Loads.</title>
+<pages>86558-86577</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2022.3199009</ee>
+<ee>https://www.wikidata.org/entity/Q114629432</ee>
+<url>db/journals/access/access10.html#CotrimBSGCT22</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/MathiasACFMNCCT22" mdate="2025-02-25">
+<author orcid="0000-0002-2415-5723" pid="323/5782">Marlon S. Mathias</author>
+<author orcid="0000-0002-3253-0191" pid="333/8975">Wesley P. de Almeida</author>
+<author orcid="0000-0002-5421-0789" pid="323/4780">Jefferson F. Coelho</author>
+<author orcid="0000-0002-3440-1633" pid="323/4336">Lucas P. de Freitas</author>
+<author orcid="0000-0001-9611-1116" pid="323/5379">Felipe M. Moreno</author>
+<author orcid="0000-0002-6627-4931" pid="323/4812">Caio F. D. Netto</author>
+<author orcid="0000-0003-4077-4935" pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author orcid="0000-0001-7040-413X" pid="44/6157">Eduardo Aoun Tannuri</author>
+<author orcid="0000-0003-1267-9519" pid="117/5619">Edson S. Gomi</author>
+<author orcid="0000-0003-2382-4136" pid="323/4276">Marcelo Dottori</author>
+<title>Augmenting a Physics-Informed Neural Network for the 2D Burgers Equation by Addition of Solution Data Points.</title>
+<pages>388-401</pages>
+<year>2022</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21689-3_28</ee>
+<crossref>conf/bracis/2022-2</crossref>
+<url>db/conf/bracis/bracis2022-2.html#MathiasACFMNCCT22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-12746" mdate="2025-02-25">
+<author pid="323/4812">Caio F. D. Netto</author>
+<author pid="323/4360">Marcel R. de Barros</author>
+<author pid="323/4780">Jefferson F. Coelho</author>
+<author pid="323/4336">Lucas P. de Freitas</author>
+<author pid="323/5379">Felipe M. Moreno</author>
+<author orcid="0000-0002-2415-5723" pid="323/5782">Marlon S. Mathias</author>
+<author orcid="0000-0003-2382-4136" pid="323/4276">Marcelo Dottori</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
+<author orcid="0000-0003-1267-9519" pid="117/5619">Edson S. Gomi</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Modeling Oceanic Variables with Dynamic Graph Neural Networks.</title>
+<year>2022</year>
+<volume>abs/2206.12746</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.12746</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-12746</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-05966" mdate="2025-02-25">
+<author pid="323/5379">Felipe M. Moreno</author>
+<author pid="323/4812">Caio F. D. Netto</author>
+<author pid="323/4360">Marcel R. de Barros</author>
+<author pid="323/4780">Jefferson F. Coelho</author>
+<author pid="323/4336">Lucas P. de Freitas</author>
+<author orcid="0000-0002-2415-5723" pid="323/5782">Marlon S. Mathias</author>
+<author orcid="0000-0002-0076-9616" pid="326/6246">Luiz A. Schiaveto Neto</author>
+<author orcid="0000-0003-2382-4136" pid="323/4276">Marcelo Dottori</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
+<author orcid="0000-0003-1267-9519" pid="117/5619">Edson S. Gomi</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Enhancing Oceanic Variables Forecast in the Santos Channel by Estimating Model Error with Random Forests.</title>
+<year>2022</year>
+<volume>abs/2208.05966</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.05966</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-05966</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-10681" mdate="2025-02-25">
+<author orcid="0000-0002-2415-5723" pid="323/5782">Marlon S. Mathias</author>
+<author pid="323/4360">Marcel R. de Barros</author>
+<author pid="323/4780">Jefferson F. Coelho</author>
+<author pid="323/4336">Lucas P. de Freitas</author>
+<author pid="323/5379">Felipe M. Moreno</author>
+<author pid="323/4812">Caio F. D. Netto</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<author orcid="0000-0003-1267-9519" pid="117/5619">Edson S. Gomi</author>
+<author orcid="0000-0003-2382-4136" pid="323/4276">Marcelo Dottori</author>
+<title>A Physics-Informed Neural Network to Model Port Channels.</title>
+<year>2022</year>
+<volume>abs/2212.10681</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.10681</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-10681</url>
+</article>
+</r>
+<r><article key="journals/access/SaadSBSTGC21" mdate="2021-10-14">
+<author orcid="0000-0002-3264-1975" pid="286/4318">Amir Muhammed Saad</author>
+<author pid="286/4361">Florian Schopp</author>
+<author pid="286/4466">Rodrigo A. Barreira</author>
+<author orcid="0000-0002-6769-3089" pid="32/2540">Ismael H. F. dos Santos</author>
+<author orcid="0000-0001-7040-413X" pid="44/6157">Eduardo Aoun Tannuri</author>
+<author orcid="0000-0003-1267-9519" pid="117/5619">Edson S. Gomi</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
+<title>Using Neural Network Approaches to Detect Mooring Line Failure.</title>
+<pages>27678-27695</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3058592</ee>
+<url>db/journals/access/access9.html#SaadSBSTGC21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/BisinottoCCT21" mdate="2021-12-15">
+<author orcid="0000-0002-5495-5932" pid="307/9113">Gustavo A. Bisinotto</author>
+<author orcid="0000-0001-5288-1813" pid="307/9015">Lucas P. Cotrim</author>
+<author orcid="0000-0003-4077-4935" pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<author orcid="0000-0001-7040-413X" pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Sea State Estimation with Neural Networks Based on the Motion of a Moored FPSO Subjected to Campos Basin Metocean Conditions.</title>
+<pages>294-308</pages>
+<year>2021</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91699-2_21</ee>
+<crossref>conf/bracis/2021-2</crossref>
+<url>db/conf/bracis/bracis2021-2.html#BisinottoCCT21</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/IanaguiMT20" mdate="2020-06-16">
+<author orcid="0000-0002-2412-2390" pid="266/7596">Andr&#233; S. S. Ianagui</author>
+<author orcid="0000-0003-2621-9644" pid="266/7949">Pedro C. De Mello</author>
+<author orcid="0000-0001-7040-413X" pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Robust Output-Feedback Control in a Dynamic Positioning System via High Order Sliding Modes: Theoretical Framework and Experimental Evaluation.</title>
+<pages>91701-91724</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.2994515</ee>
+<url>db/journals/access/access8.html#IanaguiMT20</url>
+</article>
+</r>
+<r><article key="journals/access/AmendolaMCCT20" mdate="2020-10-26">
+<author orcid="0000-0002-9374-4724" pid="273/1503">Jos&#233; Amendola</author>
+<author pid="273/1367">Lucas S. Miura</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author orcid="0000-0003-4077-4935" pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<author orcid="0000-0001-7040-413X" pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Navigation in Restricted Channels Under Environmental Conditions: Fast-Time Simulation by Asynchronous Deep Reinforcement Learning.</title>
+<pages>149199-149213</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3015661</ee>
+<url>db/journals/access/access8.html#AmendolaMCCT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icca/MonteiroZST19" mdate="2019-11-22">
+<author pid="168/1332">Thiago Gabriel Monteiro</author>
+<author pid="85/5849">Houxiang Zhang</author>
+<author pid="19/2440">Charlotte Skourup</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Detecting Mental Fatigue in Vessel Pilots Using Deep Learning and Physiological Sensors.</title>
+<pages>1511-1516</pages>
+<year>2019</year>
+<booktitle>ICCA</booktitle>
+<ee>https://doi.org/10.1109/ICCA.2019.8899626</ee>
+<crossref>conf/icca/2019</crossref>
+<url>db/conf/icca/icca2019.html#MonteiroZST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/med/SilvaTT14" mdate="2019-05-29">
+<author pid="237/2132">Dayvis Dias da Silva</author>
+<author pid="237/1925">Wallace Turcio</author>
+<author orcid="0000-0001-7040-413X" pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>Temperature control of an aeronautical pneumatic system using feedback linearization and PID.</title>
+<pages>942-947</pages>
+<year>2014</year>
+<booktitle>MED</booktitle>
+<ee>https://doi.org/10.1109/MED.2014.6961495</ee>
+<crossref>conf/med/2014</crossref>
+<url>db/conf/med/med2014.html#SilvaTT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/RomanoT08" mdate="2008-04-10">
+<author pid="00/2936">Roberto Romano</author>
+<author pid="44/6157">Eduardo Aoun Tannuri</author>
+<title>New Development on Shape Memory Alloys Actuators.</title>
+<pages>55-61</pages>
+<year>2008</year>
+<booktitle>BIODEVICES (2)</booktitle>
+<crossref>conf/biostec/2008bd2</crossref>
+<url>db/conf/biostec/biodevices2008-2.html#RomanoT08</url>
+</inproceedings>
+</r>
+<coauthors n="35" nc="4">
+<co c="0" n="2"><na f="a/Almeida:Wesley_P=_de" pid="333/8975">Wesley P. de Almeida</na><na>Wesley Pereira de Almeida</na></co>
+<co c="0"><na f="a/Amendola:Jos=eacute=" pid="273/1503">Jos&#233; Amendola</na></co>
+<co c="0"><na f="b/Barreira:Rodrigo_A=" pid="286/4466">Rodrigo A. Barreira</na></co>
+<co c="0" n="2"><na f="b/Barros:Marcel_R=_de" pid="323/4360">Marcel R. de Barros</na><na>Marcel Rodrigues de Barros</na></co>
+<co c="0"><na f="b/Bisinotto:Gustavo_A=" pid="307/9113">Gustavo A. Bisinotto</na></co>
+<co c="0"><na f="c/Cabrera:Eduardo_Faria" pid="358/2994">Eduardo Faria Cabrera</na></co>
+<co c="0" n="2"><na f="c/Coelho:Jefferson_F=" pid="323/4780">Jefferson F. Coelho</na><na>Jefferson Fialho Coelho</na></co>
+<co c="0" n="2"><na f="c/Costa:Anna_Helena_Reali" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</na><na>Anna H. R. Costa</na></co>
+<co c="0"><na f="c/Cotrim:Lucas_P=" pid="307/9015">Lucas P. Cotrim</na></co>
+<co c="0" n="2"><na f="c/Cozman:F=aacute=bio_G=" pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</na><na>F&#225;bio Gagliardi Cozman</na></co>
+<co c="0"><na f="d/Dottori:Marcelo" pid="323/4276">Marcelo Dottori</na></co>
+<co c="0" n="2"><na f="f/Freitas:Lucas_P=_de" pid="323/4336">Lucas P. de Freitas</na><na>Lucas Palmiro de Freitas</na></co>
+<co c="0" n="2"><na f="g/Gomi:Edson_S=" pid="117/5619">Edson S. Gomi</na><na>Edson Satoshi Gomi</na></co>
+<co c="3"><na f="i/Ianagui:Andr=eacute=_S=_S=" pid="266/7596">Andr&#233; S. S. Ianagui</na></co>
+<co c="0"><na f="j/Jord=atilde=o:Artur" pid="191/2742">Artur Jord&#227;o</na></co>
+<co c="0"><na f="l/Leite:Jos=eacute=_Roberto" pid="237/3468">Jos&#233; Roberto Leite</na></co>
+<co c="0" n="2"><na f="m/Mathias:Marlon_S=" pid="323/5782">Marlon S. Mathias</na><na>Marlon Sproesser Mathias</na></co>
+<co c="3"><na f="m/Mello:Pedro_C=_De" pid="266/7949">Pedro C. De Mello</na></co>
+<co c="0"><na f="m/Miura:Lucas_S=" pid="273/1367">Lucas S. Miura</na></co>
+<co c="0"><na f="m/Monroy:Andres" pid="371/5903">Andres Monroy</na></co>
+<co c="1"><na f="m/Monteiro:Thiago_Gabriel" pid="168/1332">Thiago Gabriel Monteiro</na></co>
+<co c="0" n="2"><na f="m/Moreno:Felipe_M=" pid="323/5379">Felipe M. Moreno</na><na>Felipe Marino Moreno</na></co>
+<co c="0"><na f="n/Neto:Luiz_A=_Schiaveto" pid="326/6246">Luiz A. Schiaveto Neto</na></co>
+<co c="0" n="2"><na f="n/Netto:Caio_F=_D=" pid="323/4812">Caio F. D. Netto</na><na>Caio Fabricio Deberaldini Netto</na></co>
+<co c="0"><na f="p/Pinto:Andressa" pid="371/5642">Andressa Pinto</na></co>
+<co c="0"><na f="r/Rissi:Thiago_Lizier" pid="358/3068">Thiago Lizier Rissi</na></co>
+<co c="-1"><na f="r/Romano:Roberto" pid="00/2936">Roberto Romano</na></co>
+<co c="0"><na f="s/Saad:Amir_Muhammed" pid="286/4318">Amir Muhammed Saad</na></co>
+<co c="0"><na f="s/Santos:Ismael_H=_F=_dos" pid="32/2540">Ismael H. F. dos Santos</na></co>
+<co c="0"><na f="s/Schopp:Florian" pid="286/4361">Florian Schopp</na></co>
+<co c="0"><na f="s/Silva:Aldomar_Pietro" pid="371/5875">Aldomar Pietro Silva</na></co>
+<co c="2"><na f="s/Silva:Dayvis_Dias_da" pid="237/2132">Dayvis Dias da Silva</na></co>
+<co c="1"><na f="s/Skourup:Charlotte" pid="19/2440">Charlotte Skourup</na></co>
+<co c="2"><na f="t/Turcio:Wallace" pid="237/1925">Wallace Turcio</na></co>
+<co c="1"><na f="z/Zhang:Houxiang" pid="85/5849">Houxiang Zhang</na></co>
+</coauthors>
+</dblpperson>
+

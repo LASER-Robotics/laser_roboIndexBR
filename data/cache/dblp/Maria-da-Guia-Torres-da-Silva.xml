@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<dblpperson name="Maria Da Guia Torres da Silva" pid="337/9018" n="3">
+<person key="homepages/337/9018" mdate="2023-01-18">
+<author pid="337/9018">Maria Da Guia Torres da Silva</author>
+</person>
+<r><inproceedings key="conf/larc/SilvaCG23" mdate="2025-03-03">
+<author pid="337/9018">Maria Da Guia Torres da Silva</author>
+<author pid="283/9478">Carla da Costa Fernandes Curvelo</author>
+<author orcid="0000-0002-7735-5630" pid="90/6529">Luiz M. G. Gon&#231;alves</author>
+<title>On the Application of Educational Robotics to Children with Learning Disability.</title>
+<pages>660-665</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333003</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#SilvaCG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/DantasASJG23" mdate="2025-03-03">
+<author pid="364/1822">Igor M. L. Dantas</author>
+<author pid="364/0859">Karina M. S. Alves</author>
+<author pid="337/9018">Maria Da Guia Torres da Silva</author>
+<author pid="283/9853">Orivaldo V. S. J&#250;nior</author>
+<author orcid="0000-0002-7735-5630" pid="90/6529">Luiz M. G. Gon&#231;alves</author>
+<title>Implementation of an extension project in educational robotics in a public school: A case study in the city of Natal/RN.</title>
+<pages>689-694</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333022</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#DantasASJG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SilvaAG22" mdate="2023-01-31">
+<author pid="337/9018">Maria Da Guia Torres da Silva</author>
+<author pid="226/3275">Erika Akemi Yanaguibashi Albuquerque</author>
+<author orcid="0000-0002-7735-5630" pid="90/6529">Luiz M. G. Gon&#231;alves</author>
+<title>A Systematic Review on the Application of Educational Robotics to Children with Learning Disability.</title>
+<pages>448-453</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995956</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#SilvaAG22</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="a/Albuquerque:Erika_Akemi_Yanaguibashi" pid="226/3275">Erika Akemi Yanaguibashi Albuquerque</na></co>
+<co c="0"><na f="a/Alves:Karina_M=_S=" pid="364/0859">Karina M. S. Alves</na></co>
+<co c="0"><na f="c/Curvelo:Carla_da_Costa_Fernandes" pid="283/9478">Carla da Costa Fernandes Curvelo</na></co>
+<co c="0"><na f="d/Dantas:Igor_M=_L=" pid="364/1822">Igor M. L. Dantas</na></co>
+<co c="0" n="2"><na f="g/Gon=ccedil=alves:Luiz_Marcos_Garcia" pid="90/6529">Luiz Marcos Garcia Gon&#231;alves</na><na>Luiz M. G. Gon&#231;alves</na></co>
+<co c="0"><na f="j/J=uacute=nior:Orivaldo_V=_S=" pid="283/9853">Orivaldo V. S. J&#250;nior</na></co>
+</coauthors>
+</dblpperson>
+

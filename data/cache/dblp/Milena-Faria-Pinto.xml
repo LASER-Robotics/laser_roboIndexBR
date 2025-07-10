@@ -1,0 +1,1214 @@
+<?xml version="1.0"?>
+<dblpperson name="Milena F. Pinto" pid="218/9057" n="64">
+<person key="homepages/218/9057" mdate="2021-10-27">
+<author pid="218/9057">Milena F. Pinto</author>
+<author pid="218/9057">Milena Faria Pinto</author>
+<url>https://orcid.org/0000-0001-6916-700X</url>
+<url>https://www.wikidata.org/entity/Q97688007</url>
+</person>
+<r><article key="journals/access/ZachiGCPPHA25" mdate="2025-06-11">
+<author orcid="0000-0002-5671-5588" pid="54/1698">Alessandro R. L. Zachi</author>
+<author orcid="0000-0002-0224-9323" pid="158/6728">Josiel A. Gouvea</author>
+<author pid="253/2480">Carlos A. M. Correia</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="43/6168">Mariane R. Petraglia</author>
+<author orcid="0000-0002-7634-5481" pid="40/4357">Diego B. Haddad</author>
+<author orcid="0000-0001-5599-8080" pid="228/1838">Fabio Augusto de Alcantara Andrade</author>
+<title>Analysis and Control of Ball Displacement in Air Levitation Experiment by Using a Disturbance Rejection-Based Technique.</title>
+<pages>71530-71550</pages>
+<year>2025</year>
+<volume>13</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2025.3560323</ee>
+<url>db/journals/access/access13.html#ZachiGCPPHA25</url>
+<stream>streams/journals/access</stream>
+</article>
+</r>
+<r><article key="journals/jirs/AmorimNCZGAP25" mdate="2025-07-04">
+<author pid="337/9189">Johann S. J. C. C. Amorim</author>
+<author pid="408/0738">Accacio F. S. Neto</author>
+<author pid="168/2871">Rafael S. Chaves</author>
+<author pid="54/1698">Alessandro R. L. Zachi</author>
+<author pid="158/6728">Josiel A. Gouvea</author>
+<author orcid="0000-0001-5599-8080" pid="228/1838">Fabio Augusto de Alcantara Andrade</author>
+<author pid="218/9057">Milena F. Pinto</author>
+<title>Collaborative Inspection of Solar Panel Farms Using YOLOv5-Based Computer Vision and UGV-UAV Integration.</title>
+<pages>66</pages>
+<year>2025</year>
+<month>June</month>
+<volume>111</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-025-02265-w</ee>
+<url>db/journals/jirs/jirs111.html#AmorimNCZGAP25</url>
+<stream>streams/journals/jirs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aina/JenevainPDB25" mdate="2025-05-31">
+<author orcid="0009-0002-1073-0587" pid="372/9659">Matheus B. Jenevain</author>
+<author pid="218/9057">Milena F. Pinto</author>
+<author pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author pid="404/4287">La&#237;s R. Berno</author>
+<title>Using UAVs and Retrieval Augmented Generation for Situational Awareness in Rescue Operations.</title>
+<pages>143-153</pages>
+<year>2025</year>
+<booktitle>AINA (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-87781-0_15</ee>
+<crossref>conf/aina/2025-7</crossref>
+<url>db/conf/aina/aina2025-7.html#JenevainPDB25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarsc/CastroCMLP25" mdate="2025-05-12">
+<author pid="380/6981">Gabriel G. R. Castro</author>
+<author pid="404/6295">Lucas L. M. Carvalho</author>
+<author pid="404/6584">Diogo G. Marques</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<author pid="218/9057">Milena F. Pinto</author>
+<title>Hybrid Wavefront and Bidirectional A* Coverage Path Planning for AGVs in Photovoltaic Farm Inspection.</title>
+<pages>64-69</pages>
+<year>2025</year>
+<booktitle>ICARSC</booktitle>
+<ee>https://doi.org/10.1109/ICARSC65809.2025.10970161</ee>
+<crossref>conf/icarsc/2025</crossref>
+<url>db/conf/icarsc/icarsc2025.html#CastroCMLP25</url>
+<stream>streams/conf/icarsc</stream>
+</inproceedings>
+</r>
+<r><article key="journals/access/CoelhoPBCAM24" mdate="2024-08-04">
+<author pid="264/9095">Fabr&#237;cio O. Coelho</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<author orcid="0000-0002-8903-5271" pid="254/0311">Iago Z. Biundini</author>
+<author pid="380/6981">Gabriel G. R. Castro</author>
+<author orcid="0000-0001-5599-8080" pid="228/1838">Fabio Augusto de Alcantara Andrade</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; Lu&#237;s Marques Marcato</author>
+<title>Autonomous UAV Exploration and Mapping in Uncharted Terrain Through Boundary-Driven Strategy.</title>
+<pages>92464-92483</pages>
+<year>2024</year>
+<volume>12</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2024.3422834</ee>
+<url>db/journals/access/access12.html#CoelhoPBCAM24</url>
+</article>
+</r>
+<r><article key="journals/access/RamosHHAP24" mdate="2024-10-06">
+<author orcid="0000-0002-6482-2025" pid="364/1533">Gabryel Silva Ramos</author>
+<author orcid="0000-0002-7221-7466" pid="183/5501">Felipe da Rocha Henriques</author>
+<author orcid="0000-0002-7634-5481" pid="40/4357">Diego B. Haddad</author>
+<author orcid="0000-0001-5599-8080" pid="228/1838">Fabio Augusto de Alcantara Andrade</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<title>ARCog-NET: An Aerial Robot Cognitive Network Architecture for Swarm Applications Development.</title>
+<pages>129040-129063</pages>
+<year>2024</year>
+<volume>12</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2024.3456914</ee>
+<url>db/journals/access/access12.html#RamosHHAP24</url>
+<stream>streams/journals/access</stream>
+</article>
+</r>
+<r><article key="journals/cssp/SilvaBPOH24" mdate="2025-05-01">
+<author orcid="0000-0003-0262-8144" pid="390/4049">Lucas Paiva R. da Silva</author>
+<author pid="285/4761">Ana L. Ferreira de Barros</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<author pid="121/4390">Fernanda D. V. R. Oliveira</author>
+<author pid="40/4357">Diego B. Haddad</author>
+<title>Tracking Analysis of the &#8467; <sub>0</sub>-LMS Algorithm.</title>
+<pages>7867-7893</pages>
+<year>2024</year>
+<month>December</month>
+<volume>43</volume>
+<journal>Circuits Syst. Signal Process.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1007/s00034-024-02822-y</ee>
+<url>db/journals/cssp/cssp43.html#SilvaBPOH24</url>
+<stream>streams/journals/cssp</stream>
+</article>
+</r>
+<r><article key="journals/sensors/BiundiniPHCTDV24" mdate="2025-01-19">
+<author pid="254/0311">Iago Z. Biundini</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de M. Hon&#243;rio</author>
+<author orcid="0000-0002-1380-971X" pid="c/MiriamAMCapretz">Miriam A. M. Capretz</author>
+<author orcid="0000-0002-6530-7957" pid="279/7302">Amanda O. Timotheo</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author pid="369/3054">Priscilla C. Villela</author>
+<title>LoRaCELL-Driven IoT Smart Lighting Systems: Sustainability in Urban Infrastructure.</title>
+<pages>574</pages>
+<year>2024</year>
+<month>January</month>
+<volume>24</volume>
+<journal>Sensors</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/s24020574</ee>
+<ee>https://www.wikidata.org/entity/Q129832376</ee>
+<url>db/journals/sensors/sensors24.html#BiundiniPHCTDV24</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/JenevainPDVDM24" mdate="2024-05-07">
+<author orcid="0009-0002-1073-0587" pid="372/9659">Matheus B. Jenevain</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author orcid="0000-0002-4888-0778" pid="32/9021">Regina Maria Maciel Braga Villela</author>
+<author orcid="0000-0002-3378-015X" pid="63/4089">Jos&#233; Maria N. David</author>
+<author orcid="0000-0001-6296-8605" pid="88/6600">Victor Str&#246;ele A. Menezes</author>
+<title>Enabling Intelligent Data Exchange in the Brazilian Energy Sector: A Context-Aware Ontological Approach.</title>
+<pages>372-381</pages>
+<year>2024</year>
+<booktitle>AINA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-57840-3_34</ee>
+<crossref>conf/aina/2024-1</crossref>
+<url>db/conf/aina/aina2024-1.html#JenevainPDVDM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/KanedaBPPFRL24" mdate="2025-05-01">
+<author pid="395/0751">Emerson Kazuyoshi Kaneda</author>
+<author pid="321/9267">Guido S. Berger</author>
+<author pid="226/3272">V&#237;tor Hugo Pinto</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="395/0673">Murilo Ferreira</author>
+<author orcid="0000-0002-6159-4469" pid="225/5833">Fl&#225;vio Luiz Rossini</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>Development of a Platform with 2 DoF to Assist the Cooperation Between Grounded Mobile Robots and UAVs in Landing Operations.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>ROBOT</booktitle>
+<ee>https://doi.org/10.1109/ROBOT61475.2024.10797380</ee>
+<crossref>conf/robot/2024</crossref>
+<url>db/conf/robot/robot2024.html#KanedaBPPFRL24</url>
+<stream>streams/conf/robot</stream>
+</inproceedings>
+</r>
+<r><article key="journals/access/OliveiraALMP23" mdate="2023-06-02">
+<author orcid="0000-0001-8226-3178" pid="286/6881">Renata Garcia Oliveira</author>
+<author orcid="0000-0001-7149-8350" pid="11/911">Luciana Faletti Almeida</author>
+<author orcid="0000-0001-7782-118X" pid="85/2797">Juan G. Lazo Lazo</author>
+<author orcid="0000-0003-2802-412X" pid="314/0733">Aline Gesualdi Manh&#227;es</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<title>Smart Oil Field Management System Using Evolutionary Intelligence.</title>
+<pages>45798-45814</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3272335</ee>
+<url>db/journals/access/access11.html#OliveiraALMP23</url>
+</article>
+</r>
+<r><article key="journals/ejcon/GouveaFPZ23" mdate="2025-03-03">
+<author orcid="0000-0002-0224-9323" pid="158/6728">Josiel A. Gouvea</author>
+<author pid="350/0572">L&#250;cio M. Fernandes</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-5671-5588" pid="54/1698">Alessandro R. L. Zachi</author>
+<title>Variant ADRC design paradigm for controlling uncertain dynamical systems.</title>
+<pages>100822</pages>
+<year>2023</year>
+<month>July</month>
+<volume>72</volume>
+<journal>Eur. J. Control</journal>
+<ee>https://doi.org/10.1016/j.ejcon.2023.100822</ee>
+<url>db/journals/ejcon/ejcon72.html#GouveaFPZ23</url>
+</article>
+</r>
+<r><article key="journals/jim/MartinsLPHPSTMGH23" mdate="2023-10-13">
+<author orcid="0000-0001-7136-1119" pid="342/1943">Dion&#237;sio H. C. S. S. Martins</author>
+<author orcid="0000-0001-5397-6531" pid="03/4675">Amaro A. de Lima</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-2243-3184" pid="343/2448">Douglas de O. Hemerly</author>
+<author orcid="0000-0003-1404-4349" pid="23/10650">Thiago de M. Prego</author>
+<author orcid="0000-0002-8220-8344" pid="290/2968">Fabr&#237;cio Lopes e Silva</author>
+<author orcid="0000-0001-9359-5143" pid="22/1009">Lu&#237;s Tarrataca</author>
+<author orcid="0000-0001-8530-5775" pid="299/1581">Ulisses A. Monteiro</author>
+<author orcid="0000-0003-4768-3243" pid="299/1926">Ricardo H. R. Guti&#233;rrez</author>
+<author orcid="0000-0002-7634-5481" pid="40/4357">Diego B. Haddad</author>
+<title>Hybrid data augmentation method for combined failure recognition in rotating machines.</title>
+<pages>1795-1813</pages>
+<year>2023</year>
+<month>April</month>
+<volume>34</volume>
+<journal>J. Intell. Manuf.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10845-021-01873-1</ee>
+<url>db/journals/jim/jim34.html#MartinsLPHPSTMGH23</url>
+</article>
+</r>
+<r><article key="journals/robotics/PussenteAMP23" mdate="2023-06-02">
+<author orcid="0000-0002-3672-0507" pid="347/3727">Guilherme A. N. Pussente</author>
+<author orcid="0000-0001-7458-8976" pid="181/3146">Eduardo P. de Aguiar</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<title>UAV Power Line Tracking Control Based on a Type-2 Fuzzy-PID Approach.</title>
+<pages>60</pages>
+<year>2023</year>
+<month>April</month>
+<volume>12</volume>
+<journal>Robotics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/robotics12020060</ee>
+<url>db/journals/robotics/robotics12.html#PussenteAMP23</url>
+</article>
+</r>
+<r><article key="journals/sensors/GouveaRPDDSBZ23" mdate="2023-08-31">
+<author orcid="0000-0002-0224-9323" pid="158/6728">Josiel A. Gouvea</author>
+<author orcid="0000-0002-1774-3447" pid="50/2420">Luciano Santos Constantin Raptopoulos</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<author orcid="0000-0002-4529-3017" pid="353/8142">Elkin Yesid Veslin D&#237;az</author>
+<author orcid="0000-0003-3628-4749" pid="35/447">Max Suell Dutra</author>
+<author orcid="0000-0002-8093-4633" pid="353/8863">Lucas Costa de Sousa</author>
+<author orcid="0009-0007-4000-8583" pid="353/8111">Victor Manuel Oliveira Batista</author>
+<author orcid="0000-0002-5671-5588" pid="54/1698">Alessandro R. L. Zachi</author>
+<title>Attitude Control of Ornithopter Wing by Using a MIMO Active Disturbance Rejection Strategy.</title>
+<pages>6602</pages>
+<year>2023</year>
+<month>July</month>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>14</number>
+<ee type="oa">https://doi.org/10.3390/s23146602</ee>
+<url>db/journals/sensors/sensors23.html#GouveaRPDDSBZ23</url>
+</article>
+</r>
+<r><article key="journals/sivp/RochaPBMM23" mdate="2023-05-17">
+<author orcid="0000-0003-3023-6236" pid="346/0441">Nayara M. S. Rocha</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="254/0311">Iago Z. Biundini</author>
+<author pid="219/0995">Aurelio G. Melo</author>
+<author pid="129/4864">Andr&#233; L. M. Marcato</author>
+<title>Analysis of tennis games using TrackNet-based neural network and applying morphological operations to the match videos.</title>
+<pages>1133-1141</pages>
+<year>2023</year>
+<month>June</month>
+<volume>17</volume>
+<journal>Signal Image Video Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11760-022-02320-1</ee>
+<url>db/journals/sivp/sivp17.html#RochaPBMM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/clawar/ChellalBJPK0C023" mdate="2025-03-03">
+<author pid="297/4882">Arezki Abderrahim Chellal</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="218/9057">Milena Faria Pinto</author>
+<author pid="337/9404">Rebeca B. Kalbermatter</author>
+<author orcid="0000-0002-5499-1730" pid="02/2494">Jos&#233; Gon&#231;alves 0001</author>
+<author pid="54/4477">Paulo Gomes Costa</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>Energy Efficiency Analysis of Differential and Omnidirectional Robotic Platforms: A Comparative Study.</title>
+<pages>103-113</pages>
+<year>2023</year>
+<booktitle>CLAWAR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47269-5_12</ee>
+<crossref>conf/clawar/2023-1</crossref>
+<url>db/conf/clawar/clawar2023-1.html#ChellalBJPK0C023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clawar/BraunBJBPKKGPC023" mdate="2025-07-04">
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author pid="333/8610">Ka&#239;s Baidi</author>
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author orcid="0000-0002-4100-1494" pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-5219-4084" pid="337/9404">Rebeca B. Kalbermatter</author>
+<author orcid="0000-0001-6306-574X" pid="345/2879">Luan C. Klein</author>
+<author orcid="0009-0004-4099-2566" pid="367/6173">Vinicius Grilo</author>
+<author orcid="0000-0003-3803-2043" pid="46/9765">Ana I. Pereira</author>
+<author pid="54/4477">Paulo Gomes Costa</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>Design and Development of an Omnidirectional Mecanum Platform for the RobotAtFactory 4.0 Competition.</title>
+<pages>114-125</pages>
+<year>2023</year>
+<booktitle>CLAWAR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47269-5_13</ee>
+<crossref>conf/clawar/2023-1</crossref>
+<url>db/conf/clawar/clawar2023-1.html#BraunBJBPKKGPC023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icarsc/LimaPRPPPC23" mdate="2025-05-01">
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<author pid="297/6142">Andr&#233; F. Pinto</author>
+<author pid="321/9711">Francisco M. Ribeiro</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="46/9765">Ana I. Pereira</author>
+<author orcid="0000-0002-7840-0333" pid="226/3272">V&#237;tor H. Pinto</author>
+<author orcid="0000-0002-4846-271X" pid="54/4477">Paulo Costa 0001</author>
+<title>Data Fusion Using Ultra Wideband Time-of-Flight Positioning for Mobile Robot Applications.</title>
+<pages>251-256</pages>
+<year>2023</year>
+<booktitle>ICARSC</booktitle>
+<ee>https://doi.org/10.1109/ICARSC58346.2023.10129560</ee>
+<crossref>conf/icarsc/2023</crossref>
+<url>db/conf/icarsc/icarsc2023.html#LimaPRPPPC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/RamosLALP23" mdate="2025-05-01">
+<author pid="364/1533">Gabryel Silva Ramos</author>
+<author pid="03/4675">Amaro Azevedo de Lima</author>
+<author pid="11/911">Luciana Faletti Almeida</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<title>Simulation and Evaluation of Deep Learning Autoencoders for Image Compression in Multi-UAV Network Systems.</title>
+<pages>41-46</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332986</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#RamosLALP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SantosFCPZGMAS23" mdate="2025-05-01">
+<author pid="364/1514">Tatiana M. B. Santos</author>
+<author pid="364/2714">Daniel G. S. B. Favoreto</author>
+<author pid="337/9091">Mirella M. de O. Carneiro</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="54/1698">Alessandro R. L. Zachi</author>
+<author pid="158/6728">Josiel A. Gouvea</author>
+<author pid="314/0733">Aline Gesualdi Manh&#227;es</author>
+<author pid="11/911">Luciana Faletti Almeida</author>
+<author pid="364/2573">Gabryel R. Silva</author>
+<title>Introducing Robotic Operating System as a Project-Based Learning in an Undergraduate Research Project.</title>
+<pages>585-590</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332969</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#SantosFCPZGMAS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/AmorimFCSLP23" mdate="2025-05-01">
+<author pid="337/9189">Johann S. J. C. C. Amorim</author>
+<author pid="337/9351">Jefferson H. O. Fernandes</author>
+<author pid="337/9196">Andr&#233; L. C. Canella</author>
+<author pid="364/1514">Tatiana M. B. Santos</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<title>Control Tunning Approach and Digital Filter Application for Competitive Line Follower Robot.</title>
+<pages>597-602</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332987</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#AmorimFCSLP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SantosACCMLP23" mdate="2025-05-01">
+<author pid="364/1514">Tatiana M. B. Santos</author>
+<author pid="337/9189">Johann S. J. C. C. Amorim</author>
+<author pid="337/9091">Mirella M. de O. Carneiro</author>
+<author pid="364/0892">Victor F. Campos</author>
+<author pid="314/0733">Aline Gesualdi Manh&#227;es</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<title>The Impact of Educational Robots as Learning Tools in Specific Technical Classes in Undergraduate Education.</title>
+<pages>631-636</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332959</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#SantosACCMLP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/LimaPMHC23" mdate="2025-05-01">
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="193/8588">Felipe N. Martins</author>
+<author pid="h/MartinHeringBertram">Martin Hering-Bertram</author>
+<author pid="54/4477">Paulo Costa 0001</author>
+<title>Enhancing Motivation and Learning in Engineering Courses: A Challenge-Based Approach to Teaching Embedded Systems.</title>
+<pages>701-706</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333046</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#LimaPMHC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ol2a/BergerMCJSSPPCV23" mdate="2025-05-01">
+<author pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0003-0979-8314" pid="25/5780">Jo&#227;o Mendes</author>
+<author pid="297/4882">Arezki Abderrahim Chellal</author>
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="367/5934">Yago M. R. da Silva</author>
+<author pid="295/4948">Matheus Zorawski Silva</author>
+<author pid="46/9765">Ana I. Pereira</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="330/0464">Jo&#227;o Paulo Castro</author>
+<author orcid="0000-0002-5798-1298" pid="92/9958">Ant&#243;nio Valente</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>A YOLO-Based Insect Detection: Potential Use of Small Multirotor Unmanned Aerial Vehicles (UAVs) Monitoring.</title>
+<pages>3-17</pages>
+<year>2023</year>
+<booktitle>OL2A (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-53025-8_1</ee>
+<crossref>conf/ol2a/2023-1</crossref>
+<url>db/conf/ol2a/ol2a2023-1.html#BergerMCJSSPPCV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ol2a/JuniorBJBWP023" mdate="2025-07-04">
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="321/9267">Guido S. Berger</author>
+<author pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>A Comparison of Fiducial Markers Pose Estimation for UAVs Indoor Precision Landing.</title>
+<pages>18-33</pages>
+<year>2023</year>
+<booktitle>OL2A (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-53025-8_2</ee>
+<crossref>conf/ol2a/2023-1</crossref>
+<url>db/conf/ol2a/ol2a2023-1.html#JuniorBJBWP023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/JuniorBBPSJNCW023" mdate="2025-05-01">
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="283/2953">Murillo Ferreira dos Santos</author>
+<author pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author orcid="0000-0003-3864-076X" pid="328/9042">Marek Nowakowski</author>
+<author pid="54/4477">Paulo Gomes Costa</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>A Comparison of PID Controller Architectures Applied in Autonomous UAV Follow up of UGV.</title>
+<pages>26-37</pages>
+<year>2023</year>
+<booktitle>ROBOT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-59167-9_3</ee>
+<crossref>conf/robot/2023-2</crossref>
+<url>db/conf/robot/robot2023-2.html#JuniorBBPSJNCW023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/BergerJPJMSPV023" mdate="2025-05-01">
+<author pid="321/9267">Guido S. Berger</author>
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author pid="25/5780">Jo&#227;o Mendes</author>
+<author pid="367/5934">Yago M. R. da Silva</author>
+<author pid="46/9765">Ana I. Pereira</author>
+<author pid="92/9958">Ant&#243;nio Valente</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>UAV-Assisted Navigation for Insect Traps in Olive Groves.</title>
+<pages>86-97</pages>
+<year>2023</year>
+<booktitle>ROBOT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-59167-9_8</ee>
+<crossref>conf/robot/2023-2</crossref>
+<url>db/conf/robot/robot2023-2.html#BergerJPJMSPV023</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/VidalHPDAC22" mdate="2022-10-02">
+<author orcid="0000-0002-2576-2760" pid="270/9263">Vinicius F. Vidal</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author orcid="0000-0001-8645-0464" pid="284/5775">Maria J&#250;lia Aguiar</author>
+<author pid="c/MiriamAMCapretz">Miriam A. M. Capretz</author>
+<title>An edge-fog architecture for distributed 3D reconstruction.</title>
+<pages>146-158</pages>
+<year>2022</year>
+<volume>135</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2022.04.015</ee>
+<url>db/journals/fgcs/fgcs135.html#VidalHPDAC22</url>
+</article>
+</r>
+<r><article key="journals/jirs/BiundiniMCHMP22" mdate="2023-03-21">
+<author orcid="0000-0002-8903-5271" pid="254/0311">Iago Z. Biundini</author>
+<author pid="219/0995">Aurelio G. Melo</author>
+<author pid="264/9095">Fabr&#237;cio O. Coelho</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<title>Experimentation and Simulation with Autonomous Coverage Path Planning for UAVs.</title>
+<pages>46</pages>
+<year>2022</year>
+<volume>105</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-022-01654-9</ee>
+<url>db/journals/jirs/jirs105.html#BiundiniMCHMP22</url>
+</article>
+</r>
+<r><article key="journals/jirs/DinizPMH22" mdate="2023-09-30">
+<author orcid="0009-0007-3698-0927" pid="331/6556">Lucas F. Diniz</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de M. Hon&#243;rio</author>
+<title>Visual-based Assistive Method for UAV Power Line Inspection and Landing.</title>
+<pages>41</pages>
+<year>2022</year>
+<volume>106</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-022-01725-x</ee>
+<url>db/journals/jirs/jirs106.html#DinizPMH22</url>
+</article>
+</r>
+<r><article key="journals/robotica/MacielPJCMC22" mdate="2023-09-30">
+<author pid="279/2490">Guilherme M. Maciel</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="129/4849">Ivo Chaves da Silva Junior</author>
+<author pid="264/9095">Fabr&#237;cio O. Coelho</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author orcid="0000-0001-6898-2790" pid="313/5370">Marcelo M. Cruzeiro</author>
+<title>Shared control methodology based on head positioning and vector fields for people with quadriplegia.</title>
+<pages>348-364</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>Robotica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S0263574721000606</ee>
+<url>db/journals/robotica/robotica40.html#MacielPJCMC22</url>
+</article>
+</r>
+<r><article key="journals/robotica/RamosPCHH22" mdate="2024-01-04">
+<author orcid="0000-0002-6482-2025" pid="364/1533">Gabryel Silva Ramos</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="264/9095">Fabr&#237;cio O. Coelho</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0002-7634-5481" pid="40/4357">Diego B. Haddad</author>
+<title>Hybrid methodology based on computational vision and sensor fusion for assisting autonomous UAV on offshore messenger cable transfer operation.</title>
+<pages>2786-2814</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>Robotica</journal>
+<number>8</number>
+<ee>https://doi.org/10.1017/S026357472100196X</ee>
+<url>db/journals/robotica/robotica40.html#RamosPCHH22</url>
+</article>
+</r>
+<r><article key="journals/sensors/CorreiaASGPMH22" mdate="2023-11-12">
+<author pid="253/2480">Carlos A. M. Correia</author>
+<author orcid="0000-0001-5599-8080" pid="228/1838">Fabio Augusto de Alcantara Andrade</author>
+<author pid="287/8161">Agnar Sivertsen</author>
+<author pid="314/0115">Ihannah Pinto Guedes</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<author pid="314/0733">Aline Gesualdi Manh&#227;es</author>
+<author orcid="0000-0002-7634-5481" pid="40/4357">Diego Barreto Haddad</author>
+<title>Comprehensive Direct Georeferencing of Aerial Images for Unmanned Aerial Systems Applications.</title>
+<pages>604</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/s22020604</ee>
+<url>db/journals/sensors/sensors22.html#CorreiaASGPMH22</url>
+</article>
+</r>
+<r><article key="journals/sensors/MeloAGCZP22" mdate="2022-06-23">
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0001-5599-8080" pid="228/1838">Fabio Augusto de Alcantara Andrade</author>
+<author pid="314/0115">Ihannah Pinto Guedes</author>
+<author pid="318/9928">Guilherme F. Carvalho</author>
+<author orcid="0000-0002-5671-5588" pid="54/1698">Alessandro R. L. Zachi</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<title>Fuzzy Gain-Scheduling PID for UAV Position and Altitude Controllers.</title>
+<pages>2173</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/s22062173</ee>
+<url>db/journals/sensors/sensors22.html#MeloAGCZP22</url>
+</article>
+</r>
+<r><article key="journals/sensors/VidalHPDAC22" mdate="2022-10-02">
+<author orcid="0000-0002-2576-2760" pid="270/9263">Vinicius F. Vidal</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author orcid="0000-0001-8645-0464" pid="284/5775">Maria J. R. Aguiar</author>
+<author orcid="0000-0002-1380-971X" pid="c/MiriamAMCapretz">Miriam A. M. Capretz</author>
+<title>An Edge-Fog Architecture for Distributed 3D Reconstruction and Remote Monitoring of a Power Plant Site in the Context of 5G.</title>
+<pages>4494</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s22124494</ee>
+<url>db/journals/sensors/sensors22.html#VidalHPDAC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/AmorimFMCP22" mdate="2023-03-21">
+<author pid="337/9189">Johann S. J. C. C. Amorim</author>
+<author pid="337/9351">Jefferson H. O. Fernandes</author>
+<author pid="337/9354">Matheus S. Machado</author>
+<author pid="337/9196">Andr&#233; L. C. Canella</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<title>Design of a Control Approach to Assist the Performance of a Competitive Line Follower Robot.</title>
+<pages>354-359</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9996051</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#AmorimFMCP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/CarneiroPMPB22" mdate="2023-09-30">
+<author orcid="0000-0001-9182-5232" pid="337/9091">Mirella M. de O. Carneiro</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="337/9363">Ana Heloisa de Medeiros</author>
+<author pid="337/9096">Pedro P. Pedrosa</author>
+<author pid="285/4761">Ana L&#250;cia F. de Barros</author>
+<title>Study of an Assistive Robotics 5-DoF System Prototype to be Taught in Undergraduate Engineering Classes.</title>
+<pages>442-447</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995850</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#CarneiroPMPB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ol2a/BergerBJ0PPVSRC22" mdate="2025-05-01">
+<author orcid="0000-0002-4100-1494" pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author orcid="0000-0002-7009-3965" pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-3803-2043" pid="46/9765">Ana I. Pereira</author>
+<author orcid="0000-0002-5798-1298" pid="92/9958">Ant&#243;nio Valente</author>
+<author orcid="0000-0001-5862-5706" pid="03/1494">Salviano F. S. P. Soares</author>
+<author pid="333/9542">Lucas Coradin Rech</author>
+<author pid="211/8353">Alvaro Rog&#233;rio Cantieri</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<title>Sensor Architecture Model for Unmanned Aerial Vehicles Dedicated to Electrical Tower Inspections.</title>
+<pages>35-50</pages>
+<year>2022</year>
+<booktitle>OL2A</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-23236-7_3</ee>
+<crossref>conf/ol2a/2022</crossref>
+<url>db/conf/ol2a/ol2a2022.html#BergerBJ0PPVSRC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ol2a/ManhaesACPCLBH22" mdate="2025-01-16">
+<author orcid="0000-0002-0906-3679" pid="340/1506">Anderson Manh&#227;es</author>
+<author orcid="0000-0002-0033-3265" pid="54/8845">Gabriel Matos Araujo</author>
+<author orcid="0000-0002-1932-334X" pid="72/10829">Douglas de O. Cardoso</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="340/1307">Jeferson Colares</author>
+<author orcid="0000-0002-2151-7944" pid="99/4598">Paulo Leit&#227;o</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author orcid="0000-0002-7634-5481" pid="40/4357">Diego B. Haddad</author>
+<title>Long-Term Person Reidentification: Challenges and Outlook.</title>
+<pages>357-372</pages>
+<year>2022</year>
+<booktitle>OL2A</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-23236-7_25</ee>
+<crossref>conf/ol2a/2022</crossref>
+<url>db/conf/ol2a/ol2a2022.html#ManhaesACPCLBH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/BergerJB0PVPCW22" mdate="2025-03-03">
+<author orcid="0000-0002-4100-1494" pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0002-7009-3965" pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-5798-1298" pid="92/9958">Ant&#243;nio Valente</author>
+<author orcid="0000-0003-3803-2043" pid="46/9765">Ana I. Pereira</author>
+<author pid="211/8353">&#193;lvaro Rog&#233;rio Cantieri</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<title>Sensorial Testbed for High-Voltage Tower Inspection with UAVs.</title>
+<pages>353-364</pages>
+<year>2022</year>
+<booktitle>ROBOT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21062-4_29</ee>
+<crossref>conf/robot/2022-2</crossref>
+<url>db/conf/robot/robot2022-2.html#BergerJB0PVPCW22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/larc/2022" mdate="2023-01-18">
+<editor pid="182/1219">Thiago Pedro Donadon Homem</editor>
+<editor pid="40/169">Reinaldo Augusto da Costa Bianchi</editor>
+<editor pid="39/10150">Bruno Marques Ferreira da Silva</editor>
+<editor pid="283/9478">Carla da Costa Fernandes Curvelo</editor>
+<editor pid="218/9057">Milena Faria Pinto</editor>
+<title>Latin American Robotics Symposium, Brazilian Symposium on Robotics and Workshop on Robotics in Education LARS/SBR/WRE 2022, S&#227;o Bernardo do Campo, Brazil, October 18-21, 2022</title>
+<booktitle>LARS/SBR/WRE</booktitle>
+<publisher>IEEE</publisher>
+<year>2022</year>
+<isbn>978-1-6654-6280-8</isbn>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022</ee>
+<url>db/conf/larc/lars2022.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jirs/SampaioSCAPHF21" mdate="2023-11-12">
+<author orcid="0000-0003-4988-1809" pid="290/2933">Rafaela Aparecida Garcia Sampaio</author>
+<author orcid="0000-0002-8220-8344" pid="290/2968">Fabr&#237;cio Lopes e Silva</author>
+<author orcid="0000-0001-8773-3917" pid="181/2447">Cristiano de Souza de Carvalho</author>
+<author orcid="0000-0002-0033-3265" pid="54/8845">Gabriel Matos Araujo</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<author orcid="0000-0002-7634-5481" pid="40/4357">Diego Barreto Haddad</author>
+<author orcid="0000-0002-8980-6208" pid="f/FelipeMaiaGalvaoFranca">Felipe Maia Galv&#227;o Fran&#231;a</author>
+<title>A Rhythmic Activation Mechanism for Soft Multi-legged Robots.</title>
+<pages>74</pages>
+<year>2021</year>
+<volume>101</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10846-021-01345-x</ee>
+<url>db/journals/jirs/jirs101.html#SampaioSCAPHF21</url>
+</article>
+</r>
+<r><article key="journals/robotica/PintoHMDMCU21" mdate="2021-10-14">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author pid="c/MiriamAMCapretz">Miriam A. M. Capretz</author>
+<author pid="65/5317">Cristina Urdiales</author>
+<title>ARCog: An Aerial Robotics Cognitive Architecture.</title>
+<pages>483-502</pages>
+<year>2021</year>
+<volume>39</volume>
+<journal>Robotica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1017/S0263574720000521</ee>
+<url>db/journals/robotica/robotica39.html#PintoHMDMCU21</url>
+</article>
+</r>
+<r><article key="journals/sensors/BiundiniPMMHA21" mdate="2021-04-09">
+<author orcid="0000-0002-8903-5271" pid="254/0311">Iago Z. Biundini</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-8645-0464" pid="284/5775">Maria J. R. Aguiar</author>
+<title>A Framework for Coverage Path Planning Optimization Based on Point Cloud for Structural Inspection.</title>
+<pages>570</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/s21020570</ee>
+<url>db/journals/sensors/sensors21.html#BiundiniPMMHA21</url>
+</article>
+</r>
+<r><article key="journals/sensors/MeloPMHC21" mdate="2021-04-09">
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-6974-5738" pid="264/9095">Fabr&#237;cio O. Coelho</author>
+<title>Dynamic Optimization and Heuristics Based Online Coverage Path Planning in 3D Environment for UAVs.</title>
+<pages>1108</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.3390/s21041108</ee>
+<url>db/journals/sensors/sensors21.html#MeloPMHC21</url>
+</article>
+</r>
+<r><article key="journals/sensors/HonorioPHASS21" mdate="2021-10-14">
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="296/8961">Maicon J. Hillesheim</author>
+<author orcid="0000-0003-1894-3800" pid="296/9679">Francisco C. de Ara&#250;jo</author>
+<author orcid="0000-0003-2742-7664" pid="160/9657">Alexandre Bessa dos Santos</author>
+<author orcid="0000-0002-5756-9359" pid="128/5025">Delfim Soares Jr.</author>
+<title>Photogrammetric Process to Monitor Stress Fields Inside Structural Systems.</title>
+<pages>4023</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s21124023</ee>
+<url>db/journals/sensors/sensors21.html#HonorioPHASS21</url>
+</article>
+</r>
+<r><data key="data/10/RamosP21" mdate="2024-06-18">
+<author orcid="0000-0002-6482-2025" pid="364/1533">Gabryel Silva Ramos</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena Faria Pinto</author>
+<title>Shuttle Tanker, FPSO and FSO image dataset for ship recognition.</title>
+<year>2021</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/9xzy-fd09</ee>
+<publisher>IEEE DataPort</publisher>
+<stream>streams/repo/ieeedataport</stream>
+</data>
+</r>
+<r><article key="journals/access/MeloPHDM20" mdate="2022-01-03">
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-7778-4606" pid="290/3552">Felipe Meneguitti Dias</author>
+<author orcid="0000-0002-8319-5418" pid="202/7735">Juliano Emir Nunes Masson</author>
+<title>3D Correspondence and Point Projection Method for Structures Deformation Analysis.</title>
+<pages>177823-177836</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3027205</ee>
+<url>db/journals/access/access8.html#MeloPHDM20</url>
+</article>
+</r>
+<r><article key="journals/robotica/CoelhoPSM20" mdate="2025-01-19">
+<author pid="264/9095">Fabr&#237;cio O. Coelho</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-1518-4984" pid="273/3820">Jo&#227;o Pedro Carvalho de Souza</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; L. M. Marcato</author>
+<title>Hybrid Methodology for Path Planning and Computational Vision Applied to Autonomous Mission: A New Approach.</title>
+<pages>1000-1018</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>Robotica</journal>
+<number>6</number>
+<ee>https://doi.org/10.1017/S0263574719001206</ee>
+<ee>https://www.wikidata.org/entity/Q127436109</ee>
+<url>db/journals/robotica/robotica38.html#CoelhoPSM20</url>
+</article>
+</r>
+<r><article key="journals/sensors/VidalHDPCM20" mdate="2021-05-07">
+<author orcid="0000-0002-2576-2760" pid="270/9263">Vinicius F. Vidal</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-7778-4606" pid="290/3552">Felipe Meneguitti Dias</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="270/8878">Alexandre L. Carvalho</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; Lu&#237;s Marques Marcato</author>
+<title>Sensors Fusion and Multidimensional Point Cloud Analysis for Electrical Power System Inspection.</title>
+<pages>4042</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>14</number>
+<ee type="oa">https://doi.org/10.3390/s20144042</ee>
+<ee>https://www.wikidata.org/entity/Q97688009</ee>
+<url>db/journals/sensors/sensors20.html#VidalHDPCM20</url>
+</article>
+</r>
+<r><article key="journals/sensors/PintoHMM20" mdate="2021-01-27">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; Lu&#237;s Marques Marcato</author>
+<title>A Robotic Cognitive Architecture for Slope and Dam Inspections.</title>
+<pages>4579</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>16</number>
+<ee type="oa">https://doi.org/10.3390/s20164579</ee>
+<ee>https://www.wikidata.org/entity/Q98617828</ee>
+<url>db/journals/sensors/sensors20.html#PintoHMM20</url>
+</article>
+</r>
+<r><article key="journals/sensors/SilvaVHDPC20" mdate="2021-09-16">
+<author pid="275/1069">Luiz A. Z. da Silva</author>
+<author orcid="0000-0002-2576-2760" pid="270/9263">Vinicius F. Vidal</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-1380-971X" pid="c/MiriamAMCapretz">Miriam A. M. Capretz</author>
+<title>A Heterogeneous Edge-Fog Environment Supporting Digital Twins for Remote Inspections.</title>
+<pages>5296</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>18</number>
+<ee type="oa">https://doi.org/10.3390/s20185296</ee>
+<ee>https://www.wikidata.org/entity/Q99570761</ee>
+<url>db/journals/sensors/sensors20.html#SilvaVHDPC20</url>
+</article>
+</r>
+<r><article key="journals/sensors/PintoMHMCT20" mdate="2021-09-16">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author orcid="0000-0001-8124-6253" pid="57/1714">Andr&#233; Gustavo Scolari Concei&#231;&#227;o</author>
+<author orcid="0000-0002-6530-7957" pid="279/7302">Amanda O. Timotheo</author>
+<title>Deep Learning Applied to Vegetation Identification and Removal Using Multidimensional Aerial Data.</title>
+<pages>6187</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3390/s20216187</ee>
+<ee>https://www.wikidata.org/entity/Q101214937</ee>
+<url>db/journals/sensors/sensors20.html#PintoMHMCT20</url>
+</article>
+</r>
+<r><article key="journals/wicomm/PintoMMHU19" mdate="2021-01-27">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0001-9171-3089" pid="129/4864">Andr&#233; Lu&#237;s Marques Marcato</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author pid="65/5317">Cristina Urdiales</author>
+<title>A Framework for Analyzing Fog-Cloud Computing Cooperation Applied to Information Processing of UAVs.</title>
+<pages>7497924:1-7497924:14</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>Wirel. Commun. Mob. Comput.</journal>
+<ee type="oa">https://doi.org/10.1155/2019/7497924</ee>
+<url>db/journals/wicomm/wicomm2019.html#PintoMMHU19</url>
+</article>
+</r>
+<r><inproceedings key="conf/robot/BiundiniMPMMH19" mdate="2022-01-03">
+<author pid="254/0311">Iago Z. Biundini</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="254/0389">Guilherme M. Marins</author>
+<author pid="129/4864">Andr&#233; Lu&#237;s Marques Marcato</author>
+<author orcid="0000-0003-2735-4792" pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<title>Coverage Path Planning Optimization for Slopes and Dams Inspection.</title>
+<pages>513-523</pages>
+<year>2019</year>
+<booktitle>ROBOT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-36150-1_42</ee>
+<crossref>conf/robot/2019-2</crossref>
+<url>db/conf/robot/robot2019-2.html#BiundiniMPMMH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-03385" mdate="2021-01-27">
+<author pid="218/9057">Milena F. Pinto</author>
+<author pid="129/4864">Andr&#233; L. M. Marcato</author>
+<author pid="219/0995">Aur&#233;lio G. Melo</author>
+<author pid="98/7032">Leonardo de Mello Hon&#243;rio</author>
+<author pid="65/5317">Cristina Urdiales</author>
+<title>A Framework for Analyzing Fog-Cloud Computing Cooperation Applied to Information Processing of UAVs.</title>
+<year>2019</year>
+<volume>abs/1901.03385</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.03385</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-03385</url>
+</article>
+</r>
+<r><inproceedings key="conf/isie/PintoMMU17" mdate="2019-12-27">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0001-8227-6462" pid="219/0995">Aurelio G. Melo</author>
+<author pid="129/4864">Andr&#233; Lu&#237;s Marques Marcato</author>
+<author pid="65/5317">Cristina Urdiales</author>
+<title>Case-based reasoning approach applied to surveillance system using an autonomous unmanned aerial vehicle.</title>
+<pages>1324-1329</pages>
+<year>2017</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2017.8001437</ee>
+<crossref>conf/isie/2017</crossref>
+<url>db/conf/isie/isie2017.html#PintoMMU17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/PintoMDB16" mdate="2022-01-25">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="218/9106">Thiago R. F. Mendonca</author>
+<author orcid="0000-0003-2631-6989" pid="84/1860">Carlos Augusto Duque</author>
+<author pid="156/8853">Henrique A. C. Braga</author>
+<title>Street lighting system for power quality monitoring and energy-efficient illumination control.</title>
+<pages>34-39</pages>
+<year>2016</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2016.7744861</ee>
+<crossref>conf/isie/2016</crossref>
+<url>db/conf/isie/isie2016.html#PintoMDB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/MendoncaPM15" mdate="2021-02-19">
+<author pid="218/9106">Thiago R. F. Mendonca</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="129/4864">Andr&#233; L. M. Marcato</author>
+<title>Electric field intensity for nonlinear classifier: A novel approach.</title>
+<pages>78-82</pages>
+<year>2015</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2015.7281447</ee>
+<crossref>conf/isie/2015</crossref>
+<url>db/conf/isie/isie2015.html#MendoncaPM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/PintoMCB15" mdate="2021-02-19">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="218/9106">Thiago R. F. Mendonca</author>
+<author pid="264/9095">Fabr&#237;cio O. Coelho</author>
+<author orcid="0000-0002-7190-8142" pid="156/8853">Henrique A. C. Braga</author>
+<title>Economic analysis of a controllable device with smart grid features applied to LED street lighting system.</title>
+<pages>1184-1189</pages>
+<year>2015</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2015.7281640</ee>
+<crossref>conf/isie/2015</crossref>
+<url>db/conf/isie/isie2015.html#PintoMCB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/PintoMDB15" mdate="2022-01-25">
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="218/9106">Thiago R. F. Mendonca</author>
+<author orcid="0000-0003-2631-6989" pid="84/1860">Carlos Augusto Duque</author>
+<author orcid="0000-0002-7190-8142" pid="156/8853">Henrique A. C. Braga</author>
+<title>Power quality measurements embedded in smart lighting systems.</title>
+<pages>1202-1207</pages>
+<year>2015</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2015.7281643</ee>
+<crossref>conf/isie/2015</crossref>
+<url>db/conf/isie/isie2015.html#PintoMDB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/MendoncaPD15" mdate="2022-01-25">
+<author pid="218/9106">Thiago R. F. Mendonca</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-2631-6989" pid="84/1860">Carlos Augusto Duque</author>
+<title>Adjustable window for amplitude estimation considering the time-varying frequency of power systems signals.</title>
+<pages>1327-1332</pages>
+<year>2015</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2015.7281665</ee>
+<crossref>conf/isie/2015</crossref>
+<url>db/conf/isie/isie2015.html#MendoncaPD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/AlmeidaAMPB14" mdate="2021-10-14">
+<author pid="219/3474">Camila C. Almeida</author>
+<author orcid="0000-0002-1919-0671" pid="156/8910">Pedro S. Almeida</author>
+<author pid="219/3352">Nicolas R. C. Monteiro</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-7190-8142" pid="156/8853">Henrique A. C. Braga</author>
+<title>LED-based electronic system to support plant physiology experiments.</title>
+<pages>531-536</pages>
+<year>2014</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2014.6864669</ee>
+<crossref>conf/isie/2014</crossref>
+<url>db/conf/isie/isie2014.html#AlmeidaAMPB14</url>
+</inproceedings>
+</r>
+<coauthors n="134" nc="2">
+<co c="0"><na f="a/Aguiar:Eduardo_P=_de" pid="181/3146">Eduardo P. de Aguiar</na></co>
+<co c="0" n="2"><na f="a/Aguiar:Maria_J=_R=" pid="284/5775">Maria J. R. Aguiar</na><na>Maria J&#250;lia Aguiar</na></co>
+<co c="0"><na f="a/Almeida:Camila_C=" pid="219/3474">Camila C. Almeida</na></co>
+<co c="0"><na f="a/Almeida:Luciana_Faletti" pid="11/911">Luciana Faletti Almeida</na></co>
+<co c="0"><na f="a/Almeida:Pedro_S=" pid="156/8910">Pedro S. Almeida</na></co>
+<co c="0"><na f="a/Amorim:Johann_S=_J=_C=_C=" pid="337/9189">Johann S. J. C. C. Amorim</na></co>
+<co c="0"><na f="a/Andrade:Fabio_Augusto_de_Alcantara" pid="228/1838">Fabio Augusto de Alcantara Andrade</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Francisco_C=_de" pid="296/9679">Francisco C. de Ara&#250;jo</na></co>
+<co c="0" n="2"><na f="a/Araujo:Gabriel_M=" pid="54/8845">Gabriel M. Araujo</na><na>Gabriel Matos Araujo</na></co>
+<co c="0"><na f="b/Baidi:Ka=iuml=s" pid="333/8610">Ka&#239;s Baidi</na></co>
+<co c="0" n="3"><na f="b/Barros:Ana_L=_F=_de" pid="285/4761">Ana L. F. de Barros</na><na>Ana L. Ferreira de Barros</na><na>Ana L&#250;cia F. de Barros</na></co>
+<co c="0"><na f="b/Batista:Victor_Manuel_Oliveira" pid="353/8111">Victor Manuel Oliveira Batista</na></co>
+<co c="0"><na f="b/Berger:Guido_S=" pid="321/9267">Guido S. Berger</na></co>
+<co c="0"><na f="b/Berno:La=iacute=s_R=" pid="404/4287">La&#237;s R. Berno</na></co>
+<co c="1"><na f="b/Bianchi:Reinaldo_Augusto_da_Costa" pid="40/169">Reinaldo Augusto da Costa Bianchi</na></co>
+<co c="0"><na f="b/Biundini:Iago_Z=" pid="254/0311">Iago Z. Biundini</na></co>
+<co c="0"><na f="b/Braga:Henrique_A=_C=" pid="156/8853">Henrique A. C. Braga</na></co>
+<co c="0" n="2"><na f="b/Braga_0001:Regina" pid="32/9021">Regina Braga 0001</na><na>Regina Maria Maciel Braga Villela</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Diego_N=" pid="88/8768">Diego N. Brand&#227;o</na></co>
+<co c="0"><na f="b/Braun:Jo=atilde=o" pid="249/0200">Jo&#227;o Braun</na></co>
+<co c="0"><na f="c/Campos:Victor_F=" pid="364/0892">Victor F. Campos</na></co>
+<co c="0"><na f="c/Canella:Andr=eacute=_L=_C=" pid="337/9196">Andr&#233; L. C. Canella</na></co>
+<co c="0" n="2"><na f="c/Cantieri:Alvaro_Rog=eacute=rio" pid="211/8353">Alvaro Rog&#233;rio Cantieri</na><na>&#193;lvaro Rog&#233;rio Cantieri</na></co>
+<co c="0"><na f="c/Capretz:Miriam_A=_M=" pid="c/MiriamAMCapretz">Miriam A. M. Capretz</na></co>
+<co c="0"><na f="c/Cardoso:Douglas_de_O=" pid="72/10829">Douglas de O. Cardoso</na></co>
+<co c="0"><na f="c/Carneiro:Mirella_M=_de_O=" pid="337/9091">Mirella M. de O. Carneiro</na></co>
+<co c="0"><na f="c/Carvalho:Alexandre_L=" pid="270/8878">Alexandre L. Carvalho</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Cristiano_S=" pid="181/2447">Cristiano S. Carvalho</na><na>Cristiano de Souza de Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Guilherme_F=" pid="318/9928">Guilherme F. Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Lucas_L=_M=" pid="404/6295">Lucas L. M. Carvalho</na></co>
+<co c="0"><na f="c/Castro:Gabriel_G=_R=" pid="380/6981">Gabriel G. R. Castro</na></co>
+<co c="0"><na f="c/Castro:Jo=atilde=o_Paulo" pid="330/0464">Jo&#227;o Paulo Castro</na></co>
+<co c="0"><na f="c/Chaves:Rafael_S=" pid="168/2871">Rafael S. Chaves</na></co>
+<co c="0"><na f="c/Chellal:Arezki_Abderrahim" pid="297/4882">Arezki Abderrahim Chellal</na></co>
+<co c="0"><na f="c/Coelho:Fabr=iacute=cio_O=" pid="264/9095">Fabr&#237;cio O. Coelho</na></co>
+<co c="0"><na f="c/Colares:Jeferson" pid="340/1307">Jeferson Colares</na></co>
+<co c="0" n="2"><na f="c/Concei=ccedil==atilde=o:Andr=eacute=_Scolari" pid="57/1714">Andr&#233; Scolari Concei&#231;&#227;o</na><na>Andr&#233; Gustavo Scolari Concei&#231;&#227;o</na></co>
+<co c="0"><na f="c/Correia:Carlos_A=_M=" pid="253/2480">Carlos A. M. Correia</na></co>
+<co c="0" n="2"><na f="c/Costa:Paulo_Gomes" pid="54/4477">Paulo Gomes Costa</na><na>Paulo Costa 0001</na></co>
+<co c="0"><na f="c/Cruzeiro:Marcelo_M=" pid="313/5370">Marcelo M. Cruzeiro</na></co>
+<co c="1"><na f="c/Curvelo:Carla_da_Costa_Fernandes" pid="283/9478">Carla da Costa Fernandes Curvelo</na></co>
+<co c="0"><na f="d/Dantas:Mario_A=_R=" pid="d/MarioARDantas">Mario A. R. Dantas</na></co>
+<co c="0"><na f="d/David:Jos=eacute=_Maria_N=" pid="63/4089">Jos&#233; Maria N. David</na></co>
+<co c="0"><na f="d/Dias:Felipe_Meneguitti" pid="290/3552">Felipe Meneguitti Dias</na></co>
+<co c="0"><na f="d/D=iacute=az:Elkin_Yesid_Veslin" pid="353/8142">Elkin Yesid Veslin D&#237;az</na></co>
+<co c="0"><na f="d/Diniz:Lucas_F=" pid="331/6556">Lucas F. Diniz</na></co>
+<co c="0"><na f="d/Duque:Carlos_Augusto" pid="84/1860">Carlos Augusto Duque</na></co>
+<co c="0"><na f="d/Dutra:Max_Suell" pid="35/447">Max Suell Dutra</na></co>
+<co c="0"><na f="f/Favoreto:Daniel_G=_S=_B=" pid="364/2714">Daniel G. S. B. Favoreto</na></co>
+<co c="0"><na f="f/Fernandes:Jefferson_H=_O=" pid="337/9351">Jefferson H. O. Fernandes</na></co>
+<co c="0"><na f="f/Fernandes:L=uacute=cio_M=" pid="350/0572">L&#250;cio M. Fernandes</na></co>
+<co c="0"><na f="f/Ferreira:Murilo" pid="395/0673">Murilo Ferreira</na></co>
+<co c="0" n="2"><na f="f/Fran=ccedil=a:Felipe_M=_G=" pid="f/FelipeMaiaGalvaoFranca">Felipe M. G. Fran&#231;a</na><na>Felipe Maia Galv&#227;o Fran&#231;a</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves_0001:Jos=eacute=" pid="02/2494">Jos&#233; Gon&#231;alves 0001</na></co>
+<co c="0"><na f="g/Gouvea:Josiel_A=" pid="158/6728">Josiel A. Gouvea</na></co>
+<co c="0"><na f="g/Grilo:Vinicius" pid="367/6173">Vinicius Grilo</na></co>
+<co c="0"><na f="g/Guedes:Ihannah_Pinto" pid="314/0115">Ihannah Pinto Guedes</na></co>
+<co c="0"><na f="g/Guti=eacute=rrez:Ricardo_H=_R=" pid="299/1926">Ricardo H. R. Guti&#233;rrez</na></co>
+<co c="0" n="2"><na f="h/Haddad:Diego_B=" pid="40/4357">Diego B. Haddad</na><na>Diego Barreto Haddad</na></co>
+<co c="0"><na f="h/Hemerly:Douglas_de_O=" pid="343/2448">Douglas de O. Hemerly</na></co>
+<co c="0"><na f="h/Henriques:Felipe_da_Rocha" pid="183/5501">Felipe da Rocha Henriques</na></co>
+<co c="0"><na f="h/Hering=Bertram:Martin" pid="h/MartinHeringBertram">Martin Hering-Bertram</na></co>
+<co c="0"><na f="h/Hillesheim:Maicon_J=" pid="296/8961">Maicon J. Hillesheim</na></co>
+<co c="1"><na f="h/Homem:Thiago_Pedro_Donadon" pid="182/1219">Thiago Pedro Donadon Homem</na></co>
+<co c="0" n="2"><na f="h/Hon=oacute=rio:Leonardo_de_M=" pid="98/7032">Leonardo de M. Hon&#243;rio</na><na>Leonardo de Mello Hon&#243;rio</na></co>
+<co c="0"><na f="j/Jenevain:Matheus_B=" pid="372/9659">Matheus B. Jenevain</na></co>
+<co c="0"><na f="j/J=uacute=nior:Alexandre_Oliveira" pid="321/9253">Alexandre Oliveira J&#250;nior</na></co>
+<co c="0"><na f="j/Junior:Ivo_Chaves_da_Silva" pid="129/4849">Ivo Chaves da Silva Junior</na></co>
+<co c="0"><na f="j/Junior:Luciano_Bonzatto" pid="334/0059">Luciano Bonzatto Junior</na></co>
+<co c="0"><na f="k/Kalbermatter:Rebeca_B=" pid="337/9404">Rebeca B. Kalbermatter</na></co>
+<co c="0"><na f="k/Kaneda:Emerson_Kazuyoshi" pid="395/0751">Emerson Kazuyoshi Kaneda</na></co>
+<co c="0"><na f="k/Klein:Luan_C=" pid="345/2879">Luan C. Klein</na></co>
+<co c="0"><na f="l/Lazo:Juan_G=_Lazo" pid="85/2797">Juan G. Lazo Lazo</na></co>
+<co c="0"><na f="l/Leit=atilde=o:Paulo" pid="99/4598">Paulo Leit&#227;o</na></co>
+<co c="0" n="2"><na f="l/Lima:Amaro_A=_de" pid="03/4675">Amaro A. de Lima</na><na>Amaro Azevedo de Lima</na></co>
+<co c="0"><na f="l/Lima_0001:Jos=eacute=" pid="254/0340">Jos&#233; Lima 0001</na></co>
+<co c="0"><na f="m/Machado:Matheus_S=" pid="337/9354">Matheus S. Machado</na></co>
+<co c="0"><na f="m/Maciel:Guilherme_M=" pid="279/2490">Guilherme M. Maciel</na></co>
+<co c="0"><na f="m/Manh=atilde=es:Aline_Gesualdi" pid="314/0733">Aline Gesualdi Manh&#227;es</na></co>
+<co c="0"><na f="m/Manh=atilde=es:Anderson" pid="340/1506">Anderson Manh&#227;es</na></co>
+<co c="0" n="2"><na f="m/Marcato:Andr=eacute=_Lu=iacute=s_Marques" pid="129/4864">Andr&#233; Lu&#237;s Marques Marcato</na><na>Andr&#233; L. M. Marcato</na></co>
+<co c="0"><na f="m/Marins:Guilherme_M=" pid="254/0389">Guilherme M. Marins</na></co>
+<co c="0"><na f="m/Marques:Diogo_G=" pid="404/6584">Diogo G. Marques</na></co>
+<co c="0"><na f="m/Martins:Dion=iacute=sio_H=_C=_S=_S=" pid="342/1943">Dion&#237;sio H. C. S. S. Martins</na></co>
+<co c="0"><na f="m/Martins:Felipe_N=" pid="193/8588">Felipe N. Martins</na></co>
+<co c="0"><na f="m/Masson:Juliano_Emir_Nunes" pid="202/7735">Juliano Emir Nunes Masson</na></co>
+<co c="0"><na f="m/Medeiros:Ana_Heloisa_de" pid="337/9363">Ana Heloisa de Medeiros</na></co>
+<co c="0" n="2"><na f="m/Melo:Aurelio_G=" pid="219/0995">Aurelio G. Melo</na><na>Aur&#233;lio G. Melo</na></co>
+<co c="0"><na f="m/Mendes:Jo=atilde=o" pid="25/5780">Jo&#227;o Mendes</na></co>
+<co c="0"><na f="m/Mendonca:Thiago_R=_F=" pid="218/9106">Thiago R. F. Mendonca</na></co>
+<co c="0"><na f="m/Menezes:Victor_Str=ouml=ele_A=" pid="88/6600">Victor Str&#246;ele A. Menezes</na></co>
+<co c="0"><na f="m/Monteiro:Nicolas_R=_C=" pid="219/3352">Nicolas R. C. Monteiro</na></co>
+<co c="0"><na f="m/Monteiro:Ulisses_A=" pid="299/1581">Ulisses A. Monteiro</na></co>
+<co c="0"><na f="n/Neto:Accacio_F=_S=" pid="408/0738">Accacio F. S. Neto</na></co>
+<co c="0"><na f="n/Nowakowski:Marek" pid="328/9042">Marek Nowakowski</na></co>
+<co c="0"><na f="o/Oliveira:Fernanda_D=_V=_R=" pid="121/4390">Fernanda D. V. R. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Renata_Garcia" pid="286/6881">Renata Garcia Oliveira</na></co>
+<co c="0"><na f="p/Pedrosa:Pedro_P=" pid="337/9096">Pedro P. Pedrosa</na></co>
+<co c="0"><na f="p/Pereira:Ana_I=" pid="46/9765">Ana I. Pereira</na></co>
+<co c="0"><na f="p/Petraglia:Mariane_R=" pid="43/6168">Mariane R. Petraglia</na></co>
+<co c="0"><na f="p/Pinto:Andr=eacute=_F=" pid="297/6142">Andr&#233; F. Pinto</na></co>
+<co c="0" n="2"><na f="p/Pinto:V=iacute=tor_H=" pid="226/3272">V&#237;tor H. Pinto</na><na>V&#237;tor Hugo Pinto</na></co>
+<co c="0"><na f="p/Prego:Thiago_de_M=" pid="23/10650">Thiago de M. Prego</na></co>
+<co c="0"><na f="p/Pussente:Guilherme_A=_N=" pid="347/3727">Guilherme A. N. Pussente</na></co>
+<co c="0"><na f="r/Ramos:Gabryel_Silva" pid="364/1533">Gabryel Silva Ramos</na></co>
+<co c="0" n="2"><na f="r/Raptopoulos:Luciano_S=_C=" pid="50/2420">Luciano S. C. Raptopoulos</na><na>Luciano Santos Constantin Raptopoulos</na></co>
+<co c="0"><na f="r/Rech:Lucas_Coradin" pid="333/9542">Lucas Coradin Rech</na></co>
+<co c="0"><na f="r/Ribeiro:Francisco_M=" pid="321/9711">Francisco M. Ribeiro</na></co>
+<co c="0"><na f="r/Rocha:Nayara_M=_S=" pid="346/0441">Nayara M. S. Rocha</na></co>
+<co c="0"><na f="r/Rossini:Fl=aacute=vio_Luiz" pid="225/5833">Fl&#225;vio Luiz Rossini</na></co>
+<co c="0"><na f="s/Sampaio:Rafaela_Aparecida_Garcia" pid="290/2933">Rafaela Aparecida Garcia Sampaio</na></co>
+<co c="0"><na f="s/Santos:Alexandre_Bessa_dos" pid="160/9657">Alexandre Bessa dos Santos</na></co>
+<co c="0"><na f="s/Santos:Murillo_Ferreira_dos" pid="283/2953">Murillo Ferreira dos Santos</na></co>
+<co c="0"><na f="s/Santos:Tatiana_M=_B=" pid="364/1514">Tatiana M. B. Santos</na></co>
+<co c="1"><na f="s/Silva:Bruno_Marques_Ferreira_da" pid="39/10150">Bruno Marques Ferreira da Silva</na></co>
+<co c="0"><na f="s/Silva:Fabr=iacute=cio_Lopes_e" pid="290/2968">Fabr&#237;cio Lopes e Silva</na></co>
+<co c="0"><na f="s/Silva:Gabryel_R=" pid="364/2573">Gabryel R. Silva</na></co>
+<co c="0"><na f="s/Silva:Lucas_Paiva_R=_da" pid="390/4049">Lucas Paiva R. da Silva</na></co>
+<co c="0"><na f="s/Silva:Luiz_A=_Z=_da" pid="275/1069">Luiz A. Z. da Silva</na></co>
+<co c="0"><na f="s/Silva:Matheus_Zorawski" pid="295/4948">Matheus Zorawski Silva</na></co>
+<co c="0"><na f="s/Silva:Yago_M=_R=_da" pid="367/5934">Yago M. R. da Silva</na></co>
+<co c="0"><na f="s/Sivertsen:Agnar" pid="287/8161">Agnar Sivertsen</na></co>
+<co c="0"><na f="s/Soares:Salviano_F=_S=_P=" pid="03/1494">Salviano F. S. P. Soares</na></co>
+<co c="0"><na f="s/Soares_Jr=:Delfim" pid="128/5025">Delfim Soares Jr.</na></co>
+<co c="0"><na f="s/Sousa:Lucas_Costa_de" pid="353/8863">Lucas Costa de Sousa</na></co>
+<co c="0"><na f="s/Souza:Jo=atilde=o_Pedro_Carvalho_de" pid="273/3820">Jo&#227;o Pedro Carvalho de Souza</na></co>
+<co c="0"><na f="t/Tarrataca:Lu=iacute=s" pid="22/1009">Lu&#237;s Tarrataca</na></co>
+<co c="0"><na f="t/Timotheo:Amanda_O=" pid="279/7302">Amanda O. Timotheo</na></co>
+<co c="0"><na f="u/Urdiales:Cristina" pid="65/5317">Cristina Urdiales</na></co>
+<co c="0"><na f="v/Valente:Ant=oacute=nio" pid="92/9958">Ant&#243;nio Valente</na></co>
+<co c="0"><na f="v/Vidal:Vinicius_F=" pid="270/9263">Vinicius F. Vidal</na></co>
+<co c="0"><na f="v/Villela:Priscilla_C=" pid="369/3054">Priscilla C. Villela</na></co>
+<co c="0"><na f="w/Wehrmeister:Marco_A=" pid="60/2173">Marco A. Wehrmeister</na></co>
+<co c="0"><na f="z/Zachi:Alessandro_R=_L=" pid="54/1698">Alessandro R. L. Zachi</na></co>
+</coauthors>
+</dblpperson>
+

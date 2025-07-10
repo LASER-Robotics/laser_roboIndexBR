@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<dblpperson name="Marcelo Borges Nogueira" pid="237/1924" n="15">
+<person key="homepages/237/1924" mdate="2025-06-02">
+<author pid="237/1924">Marcelo Borges Nogueira</author>
+<author pid="237/1924">Marcelo B. Nogueira</author>
+<note type="affiliation">Universidade Federal do Rio Grande do Norte, Natal, Brazil</note>
+<note label="former" type="affiliation">University of Porto, Underwater Systems and Technologies Laboratory, Portugal</note>
+<url>https://dl.acm.org/profile/99661047448</url>
+<url>https://orcid.org/0000-0003-4747-0811</url>
+<url>https://www.wikidata.org/entity/Q130822350</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2412-14877" mdate="2025-01-23">
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="237/1924">Marcelo Borges Nogueira</author>
+<author pid="359/6684">Gustavo Quezado Gurgel Magalh&#227;es</author>
+<title>Investigating the Energy Consumption of C++ and Java Solutions Mined from a Programming Contest Site.</title>
+<year>2024</year>
+<volume>abs/2412.14877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.14877</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-14877</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/metroi/LopesFCSNR23" mdate="2024-05-07">
+<author pid="352/3590">Ewerton V. Lopes</author>
+<author pid="352/3468">Neuman F. de O. Fernandes</author>
+<author pid="352/3213">Jos&#233; Carlos</author>
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<title>Design and implementation of an IoT based wheelchair for the treatment of spinal cord injuries.</title>
+<pages>259-263</pages>
+<year>2023</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/MetroInd4.0IoT57462.2023.10180020</ee>
+<crossref>conf/metroi/2023</crossref>
+<url>db/conf/metroi/metroi2023.html#LopesFCSNR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/MedeirosNM23" mdate="2025-01-19">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo Borges Nogueira</author>
+<author orcid="0009-0009-6545-7515" pid="359/6684">Gustavo Quezado Gurgel Magalh&#227;es</author>
+<title>Analyzing the Time x Energy Relation in C++ Solutions Mined from a Programming Contest Site.</title>
+<pages>64-72</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624312</ee>
+<ee>https://www.wikidata.org/entity/Q130822353</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#MedeirosNM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metroi/SouzaABOSNR20" mdate="2024-05-07">
+<author pid="270/5851">Wesley W. V. Souza</author>
+<author pid="246/8108">Mohamad S. A. Ali</author>
+<author pid="270/5347">Allyson F. M. Borges</author>
+<author pid="224/8623">Josiel P. P. Oliveira</author>
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<title>Development of an Energy Meter based on IoT.</title>
+<pages>241-244</pages>
+<year>2020</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/MetroInd4.0IoT48571.2020.9138257</ee>
+<crossref>conf/metroi/2020</crossref>
+<url>db/conf/metroi/metroi2020.html#SouzaABOSNR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metroi/AlvesLSNRCCSF20" mdate="2024-05-07">
+<author pid="270/5519">Hudson B. M. Alves</author>
+<author pid="270/5391">Vinicius S. S. Lima</author>
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<author pid="270/5571">Rafael N. Cunha</author>
+<author orcid="0000-0001-7665-7031" pid="222/8404">Dhiego Fernandes Carvalho</author>
+<author pid="39/5365">Emiliano Sisinni</author>
+<author pid="99/5997">Paolo Ferrari</author>
+<title>Introducing a survey methodology for assessing LoRaWAN coverage in Smart Campus scenarios.</title>
+<pages>708-712</pages>
+<year>2020</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/MetroInd4.0IoT48571.2020.9138300</ee>
+<crossref>conf/metroi/2020</crossref>
+<url>db/conf/metroi/metroi2020.html#AlvesLSNRCCSF20</url>
+</inproceedings>
+</r>
+<r><article key="journals/imm/SilvaNRCSO19" mdate="2024-05-07">
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<author pid="239/7154">Judson S. Costa</author>
+<author pid="239/7172">Daniel V. A. Silveira</author>
+<author pid="224/8237">Guilherme M. B. Oliveira</author>
+<title>A concrete architecture for smart solutions based on IoT technologies.</title>
+<pages>52-59</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>IEEE Instrum. Meas. Mag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MIM.2019.8674635</ee>
+<url>db/journals/imm/imm22.html#SilvaNRCSO19</url>
+</article>
+</r>
+<r><article key="journals/sensors/SilvaSALMPNMJNA19" mdate="2024-05-07">
+<author orcid="0000-0002-7453-4051" pid="211/8648">Mauricio R. Silva</author>
+<author orcid="0000-0001-7654-6374" pid="211/8832">Elitelma S. Souza</author>
+<author orcid="0000-0002-2882-5237" pid="79/6178">Pablo Javier Alsina</author>
+<author pid="253/2666">Deyvid L. Leite</author>
+<author pid="253/3091">Mateus R. Morais</author>
+<author orcid="0000-0001-6658-1854" pid="220/8452">Diego S. Pereira</author>
+<author orcid="0000-0002-1699-4535" pid="253/3161">Lu&#237;s B. P. Nascimento</author>
+<author orcid="0000-0001-8520-1888" pid="07/4890">Adelardo A. D. Medeiros</author>
+<author pid="211/8239">Francisco H. Cunha Junior</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="197/9577">Glauberto L. A. Albuquerque</author>
+<author pid="211/8203">Jo&#227;o B. D. Dantas</author>
+<title>Performance Evaluation of Multi-UAV Network Applied to Scanning Rocket Impact Area.</title>
+<pages>4895</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Sensors</journal>
+<number>22</number>
+<ee type="oa">https://doi.org/10.3390/s19224895</ee>
+<ee>https://www.wikidata.org/entity/Q91253031</ee>
+<url>db/journals/sensors/sensors19.html#SilvaSALMPNMJNA19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ladc/SilvaNRSFS19" mdate="2024-05-07">
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<author orcid="0000-0002-0116-6489" pid="193/9971">Ivanovitch Silva</author>
+<author pid="99/5997">Paolo Ferrari</author>
+<author pid="39/5365">Emiliano Sisinni</author>
+<title>Implementation of a Dependable Smart Device in IoT Era.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC48089.2019.8995733</ee>
+<crossref>conf/ladc/2019</crossref>
+<url>db/conf/ladc/ladc2019.html#SilvaNRSFS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metroi/CavalcantiCAOSN19" mdate="2024-05-07">
+<author pid="224/8098">Ricardo J. B. de V. M. Cavalcanti</author>
+<author pid="224/8437">Danielly C. M. Costa</author>
+<author pid="246/8108">Mohamad S. A. Ali</author>
+<author pid="224/8623">Josiel P. P. Oliveira</author>
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<title>A Framework for Uniformization of Security, Network and Management in IoT Applications.</title>
+<pages>196-201</pages>
+<year>2019</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/METROI4.2019.8792865</ee>
+<crossref>conf/metroi/2019</crossref>
+<url>db/conf/metroi/metroi2019.html#CavalcantiCAOSN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metroi/TavaresCSNR18" mdate="2024-05-07">
+<author pid="224/8600">Sayonara A. C. Tavares</author>
+<author pid="224/8098">Ricardo J. B. V. M. Cavalcanti</author>
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<title>Telemetry for Domestic Water Consumption Based on IOT and Open Standards.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/METROI4.2018.8428333</ee>
+<crossref>conf/metroi/2018</crossref>
+<url>db/conf/metroi/metroi2018.html#TavaresCSNR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metroi/NetoLDBSNR18" mdate="2024-05-07">
+<author pid="224/8099">Iran Macedo B. Neto</author>
+<author pid="224/8407">Amanda I. Lopes</author>
+<author pid="224/8214">M. Sousa Maria Alice De</author>
+<author pid="224/7969">Mateus M. De Assis Brito</author>
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<title>THDI Measurement System of Home Energy Signal Based on IoT.</title>
+<pages>180-185</pages>
+<year>2018</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/METROI4.2018.8428311</ee>
+<crossref>conf/metroi/2018</crossref>
+<url>db/conf/metroi/metroi2018.html#NetoLDBSNR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metroi/OliveiraCCOSNR18" mdate="2024-05-07">
+<author pid="224/8237">Guilherme M. B. Oliveira</author>
+<author pid="224/8437">Danielly C. M. Costa</author>
+<author pid="224/8098">Ricardo J. B. V. M. Cavalcanti</author>
+<author pid="224/8623">Josiel P. P. Oliveira</author>
+<author pid="36/10442">Diego R. C. Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="224/7988">Marconi C. Rodrigues</author>
+<title>Comparison Between MQTT and WebSocket Protocols for IoT Applications Using ESP8266.</title>
+<pages>236-241</pages>
+<year>2018</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/METROI4.2018.8428348</ee>
+<crossref>conf/metroi/2018</crossref>
+<url>db/conf/metroi/metroi2018.html#OliveiraCCOSNR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SilvaNAADMS17" mdate="2024-05-07">
+<author pid="211/8350">B. R. F. da Silva</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author orcid="0000-0002-2882-5237" pid="79/6178">Pablo Javier Alsina</author>
+<author pid="197/9577">Glauberto L. A. Albuquerque</author>
+<author pid="211/8203">Jo&#227;o B. D. Dantas</author>
+<author orcid="0000-0001-8520-1888" pid="07/4890">Adelardo A. D. de Medeiros</author>
+<author pid="211/8682">G. Santos Santiago</author>
+<title>Study on detection of boats using satellite imagery for use on unmanned aerial vehicles.</title>
+<pages>1-5</pages>
+<year>2017</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/SBR-LARS-R.2017.8215300</ee>
+<crossref>conf/larc/2017</crossref>
+<url>db/conf/larc/lars-sbr2017.html#SilvaNAADMS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SilvaSAFMNAD17" mdate="2024-05-07">
+<author pid="211/8648">Mauricio R. Silva</author>
+<author orcid="0000-0001-7654-6374" pid="211/8832">Elitelma S. Souza</author>
+<author orcid="0000-0002-2882-5237" pid="79/6178">Pablo Javier Alsina</author>
+<author pid="211/8239">Francisco H. Cunha Junior</author>
+<author orcid="0000-0001-8520-1888" pid="07/4890">Adelardo A. D. Medeiros</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo B. Nogueira</author>
+<author pid="211/8946">G. Glauberto L. A. de Alburquerque</author>
+<author pid="211/8203">Jo&#227;o B. D. Dantas</author>
+<title>Communication network architecture specification for multi-UAV system applied to scanning rocket impact area first results.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/SBR-LARS-R.2017.8215296</ee>
+<crossref>conf/larc/2017</crossref>
+<url>db/conf/larc/lars-sbr2017.html#SilvaSAFMNAD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/med/NogueiraSP13" mdate="2024-05-07">
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo Borges Nogueira</author>
+<author orcid="0000-0002-2528-4666" pid="75/2017">Jo&#227;o Sousa 0001</author>
+<author orcid="0000-0002-9602-2452" pid="95/3955">Fernando M. Lobo Pereira</author>
+<title>Underwater plume tracing with an AUV cooperative navigation scheme based on the simplex algorithm.</title>
+<pages>251-256</pages>
+<year>2013</year>
+<booktitle>MED</booktitle>
+<ee>https://doi.org/10.1109/MED.2013.6608730</ee>
+<crossref>conf/med/2013</crossref>
+<url>db/conf/med/med2013.html#NogueiraSP13</url>
+</inproceedings>
+</r>
+<coauthors n="44" nc="4">
+<co c="1" n="2"><na f="a/Albuquerque:Glauberto" pid="197/9577">Glauberto Albuquerque</na><na>Glauberto L. A. Albuquerque</na></co>
+<co c="1"><na f="a/Alburquerque:G=_Glauberto_L=_A=_de" pid="211/8946">G. Glauberto L. A. de Alburquerque</na></co>
+<co c="0"><na f="a/Ali:Mohamad_S=_A=" pid="246/8108">Mohamad S. A. Ali</na></co>
+<co c="1"><na f="a/Alsina:Pablo_Javier" pid="79/6178">Pablo Javier Alsina</na></co>
+<co c="0"><na f="a/Alves:Hudson_B=_M=" pid="270/5519">Hudson B. M. Alves</na></co>
+<co c="0"><na f="b/Borges:Allyson_F=_M=" pid="270/5347">Allyson F. M. Borges</na></co>
+<co c="0"><na f="b/Brito:Mateus_M=_De_Assis" pid="224/7969">Mateus M. De Assis Brito</na></co>
+<co c="0"><na f="c/Carlos:Jos=eacute=" pid="352/3213">Jos&#233; Carlos</na></co>
+<co c="0"><na f="c/Carvalho:Dhiego_Fernandes" pid="222/8404">Dhiego Fernandes Carvalho</na></co>
+<co c="0" n="2"><na f="c/Cavalcanti:Ricardo_J=_B=_V=_M=" pid="224/8098">Ricardo J. B. V. M. Cavalcanti</na><na>Ricardo J. B. de V. M. Cavalcanti</na></co>
+<co c="0"><na f="c/Costa:Danielly_C=_M=" pid="224/8437">Danielly C. M. Costa</na></co>
+<co c="0"><na f="c/Costa:Judson_S=" pid="239/7154">Judson S. Costa</na></co>
+<co c="0"><na f="c/Cunha:Rafael_N=" pid="270/5571">Rafael N. Cunha</na></co>
+<co c="1"><na f="d/Dantas:Jo=atilde=o_B=_D=" pid="211/8203">Jo&#227;o B. D. Dantas</na></co>
+<co c="0"><na f="d/De:M=_Sousa_Maria_Alice" pid="224/8214">M. Sousa Maria Alice De</na></co>
+<co c="0"><na f="f/Fernandes:Neuman_F=_de_O=" pid="352/3468">Neuman F. de O. Fernandes</na></co>
+<co c="0"><na f="f/Ferrari:Paolo" pid="99/5997">Paolo Ferrari</na></co>
+<co c="1"><na f="j/Junior:Francisco_H=_Cunha" pid="211/8239">Francisco H. Cunha Junior</na></co>
+<co c="1"><na f="l/Leite:Deyvid_L=" pid="253/2666">Deyvid L. Leite</na></co>
+<co c="0"><na f="l/Lima:Vinicius_S=_S=" pid="270/5391">Vinicius S. S. Lima</na></co>
+<co c="0"><na f="l/Lopes:Amanda_I=" pid="224/8407">Amanda I. Lopes</na></co>
+<co c="0"><na f="l/Lopes:Ewerton_V=" pid="352/3590">Ewerton V. Lopes</na></co>
+<co c="3"><na f="m/Magalh=atilde=es:Gustavo_Quezado_Gurgel" pid="359/6684">Gustavo Quezado Gurgel Magalh&#227;es</na></co>
+<co c="1" n="2"><na f="m/Medeiros:Adelardo_A=_D=_de" pid="07/4890">Adelardo A. D. de Medeiros</na><na>Adelardo A. D. Medeiros</na></co>
+<co c="3" n="2"><na f="m/Medeiros_0001:S=eacute=rgio" pid="64/4850">S&#233;rgio Medeiros 0001</na><na>S&#233;rgio Queiroz de Medeiros</na></co>
+<co c="1"><na f="m/Morais:Mateus_R=" pid="253/3091">Mateus R. Morais</na></co>
+<co c="1"><na f="n/Nascimento:Lu=iacute=s_B=_P=" pid="253/3161">Lu&#237;s B. P. Nascimento</na></co>
+<co c="0"><na f="n/Neto:Iran_Macedo_B=" pid="224/8099">Iran Macedo B. Neto</na></co>
+<co c="0"><na f="o/Oliveira:Guilherme_M=_B=" pid="224/8237">Guilherme M. B. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Josiel_P=_P=" pid="224/8623">Josiel P. P. Oliveira</na></co>
+<co c="1"><na f="p/Pereira:Diego_S=" pid="220/8452">Diego S. Pereira</na></co>
+<co c="2"><na f="p/Pereira:Fernando_M=_Lobo" pid="95/3955">Fernando M. Lobo Pereira</na></co>
+<co c="0"><na f="r/Rodrigues:Marconi_C=" pid="224/7988">Marconi C. Rodrigues</na></co>
+<co c="1"><na f="s/Santiago:G=_Santos" pid="211/8682">G. Santos Santiago</na></co>
+<co c="1"><na f="s/Silva:B=_R=_F=_da" pid="211/8350">B. R. F. da Silva</na></co>
+<co c="0"><na f="s/Silva:Diego_R=_C=" pid="36/10442">Diego R. C. Silva</na></co>
+<co c="0"><na f="s/Silva:Ivanovitch" pid="193/9971">Ivanovitch Silva</na></co>
+<co c="1"><na f="s/Silva:Mauricio_R=" pid="211/8648">Mauricio R. Silva</na></co>
+<co c="0"><na f="s/Silveira:Daniel_V=_A=" pid="239/7172">Daniel V. A. Silveira</na></co>
+<co c="0"><na f="s/Sisinni:Emiliano" pid="39/5365">Emiliano Sisinni</na></co>
+<co c="2" n="2"><na f="s/Sousa:Jo=atilde=o_Borges_de" pid="75/2017">Jo&#227;o Borges de Sousa</na><na>Jo&#227;o Sousa 0001</na></co>
+<co c="1"><na f="s/Souza:Elitelma_S=" pid="211/8832">Elitelma S. Souza</na></co>
+<co c="0"><na f="s/Souza:Wesley_W=_V=" pid="270/5851">Wesley W. V. Souza</na></co>
+<co c="0"><na f="t/Tavares:Sayonara_A=_C=" pid="224/8600">Sayonara A. C. Tavares</na></co>
+</coauthors>
+</dblpperson>
+

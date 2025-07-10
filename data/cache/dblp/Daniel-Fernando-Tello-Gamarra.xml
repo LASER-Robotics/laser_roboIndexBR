@@ -1,0 +1,696 @@
+<?xml version="1.0"?>
+<dblpperson name="Daniel Fernando Tello Gamarra" pid="222/7316" n="41">
+<person key="homepages/222/7316" mdate="2021-11-11">
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<url>https://orcid.org/0000-0002-4714-7849</url>
+</person>
+<r><article key="journals/jifs/LimaKSG24" mdate="2024-03-18">
+<author pid="370/7246">Matheus dos Santos Lima</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Delta robot control by learning systems: Harnessing the power of deep reinforcement learning algorithms.</title>
+<pages>4881-4894</pages>
+<year>2024</year>
+<month>February</month>
+<volume>46</volume>
+<journal>J. Intell. Fuzzy Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/jifs-232795</ee>
+<url>db/journals/jifs/jifs46.html#LimaKSG24</url>
+</article>
+</r>
+<r><inproceedings key="conf/case/GrandoSKKFJGGGD24" mdate="2025-07-04">
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="379/3859">Pablo M. Furik</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author pid="211/8153">Bruna de Vargas Guterres</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<author pid="64/140">Rodrigo da Silva Guerra</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo L. J. Drews-Jr</author>
+<title>Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning.</title>
+<pages>1028-1033</pages>
+<year>2024</year>
+<booktitle>CASE</booktitle>
+<ee>https://doi.org/10.1109/CASE59546.2024.10711561</ee>
+<crossref>conf/case/2024</crossref>
+<url>db/conf/case/case2024.html#GrandoSKKFJGGGD24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-01952" mdate="2025-05-31">
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="379/3859">Pablo M. Furik</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author pid="211/8153">Bruna de Vargas Guterres</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<author pid="64/140">Rodrigo da Silva Guerra</author>
+<author pid="76/7747">Paulo L. J. Drews-Jr</author>
+<title>Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning.</title>
+<year>2024</year>
+<volume>abs/2406.01952</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.01952</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-01952</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-05744" mdate="2025-05-31">
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author orcid="0000-0003-4796-9989" pid="319/2481">Gabriel Vin&#237;cius Heisler</author>
+<author pid="331/5744">Hiago Jacobs Sodre Pereira</author>
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="283/9569">Andr&#233; L. S. da Kelbouscas</author>
+<author pid="45/6798">Akihisa Ohya</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Drews Jr.</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots.</title>
+<year>2024</year>
+<volume>abs/2408.05744</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.05744</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-05744</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/jirs/BottegaKJSKGGG23" mdate="2025-05-31">
+<author orcid="0000-0002-4866-5779" pid="258/1618">Jair Augusto Bottega</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="64/140">Rodrigo da Silva Guerra</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Jubileo: An Immersive Simulation Framework for Social Robot Design.</title>
+<pages>91</pages>
+<year>2023</year>
+<month>December</month>
+<volume>109</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10846-023-01991-3</ee>
+<url>db/journals/jirs/jirs109.html#BottegaKJSKGGG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/KollingKJSGDG23" mdate="2025-07-04">
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author pid="337/9153">Andressa Cavalcante da Silva</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Parallel Distributional Prioritized Deep Reinforcement Learning for Unmanned Aerial Vehicles.</title>
+<pages>95-100</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333051</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#KollingKJSGDG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/MoraesKKBGCG23" mdate="2025-05-31">
+<author pid="338/9260">Linda Dotto de Moraes</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Enhanced Low-Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots Using Double Deep Reinforcement Learning Techniques.</title>
+<pages>337-342</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333028</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#MoraesKKBGCG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/GaiBCG23" mdate="2024-01-04">
+<author pid="364/1907">Angello De Mello Gai</author>
+<author pid="364/1653">Solon Bevilacqua</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Evaluation on IMU and odometry sensor fusion for a Turtlebot robot using AMCL on ROS framework.</title>
+<pages>637-642</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332977</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#GaiBCG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/JesusPEG23" mdate="2024-04-22">
+<author pid="356/4598">Kesse Jonatas de Jesus</author>
+<author pid="373/4936">Mateus Osvaldo Klan Pereira</author>
+<author pid="91/29">Leonardo Ramos Emmendorfer</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>A Comparison of Visual SLAM Algorithms ORB-SLAM3 and DynaSLAM on KITTI and TUM Monocular Datasets.</title>
+<pages>109-114</pages>
+<year>2023</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI59091.2023.10347183</ee>
+<crossref>conf/sibgrapi/2023</crossref>
+<url>db/conf/sibgrapi/sibgrapi2023.html#JesusPEG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-11173" mdate="2025-05-31">
+<author pid="338/9260">Linda Dotto de Moraes</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author pid="338/9326">Emerson Cassiano da Silva</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="283/9609">Anselmo Rafael Cuckla</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots.</title>
+<year>2023</year>
+<volume>abs/2301.11173</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.11173</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-11173</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-00176" mdate="2025-05-31">
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author pid="337/9153">Andressa Cavalcante da Silva</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author orcid="0000-0002-7519-0502" pid="76/7747">Paulo Lilles Jorge Drews Junior</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Parallel Distributional Prioritized Deep Reinforcement Learning for Unmanned Aerial Vehicles.</title>
+<year>2023</year>
+<volume>abs/2309.00176</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.00176</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-00176</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-13809" mdate="2025-05-31">
+<author pid="338/9260">Linda Dotto de Moraes</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Enhanced Low-Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots Using Double Deep Reinforcement Learning Techniques.</title>
+<year>2023</year>
+<volume>abs/2310.13809</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.13809</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-13809</url>
+</article>
+</r>
+<r><inproceedings key="conf/humanoids/BottegaKKDCGG22" mdate="2025-05-31">
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="330/2868">Jardel D. S. Dyonisio</author>
+<author pid="330/3676">Pedro L. Cor&#231;aque</author>
+<author pid="64/140">Rodrigo da Silva Guerra</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Jubileo: An Open-Source Robot and Framework for Research in Human-Robot Social Interaction.</title>
+<pages>149-154</pages>
+<year>2022</year>
+<booktitle>Humanoids</booktitle>
+<ee>https://doi.org/10.1109/Humanoids53995.2022.10000224</ee>
+<crossref>conf/humanoids/2022</crossref>
+<url>db/conf/humanoids/humanoids2022.html#BottegaKKDCGG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/MoraesKKBSSGCG22" mdate="2025-05-31">
+<author pid="338/9260">Linda Dotto de Moraes</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author pid="338/9326">Emerson Cassiano da Silva</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author pid="283/9609">Anselmo Rafael Cuckla</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots.</title>
+<pages>156-165</pages>
+<year>2022</year>
+<booktitle>ISDA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-35507-3_16</ee>
+<crossref>conf/isda/2022-2</crossref>
+<url>db/conf/isda/isda2022-2.html#MoraesKKBSSGCG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/BottegaSKKJGG22" mdate="2025-05-31">
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-8819-1168" pid="283/9978">Junior Costa de Jesus</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9996025</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#BottegaSKKJGG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/KleinG22" mdate="2023-09-30">
+<author orcid="0009-0001-1731-1871" pid="337/9042">Davi Klein</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Dynamic Modeling Using the Principle of Virtual Work and Decentralized PD Control of a Stewart-Gough Platform.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995737</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#KleinG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SchirmerGGIC22" mdate="2023-01-18">
+<author pid="337/9327">Ricardo Dias Schirmer</author>
+<author pid="294/3793">Thiago Rodrigues Garcia</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<author pid="337/9152">Rafael Crespo Izquierdo</author>
+<author pid="283/9609">Anselmo Rafael Cuckla</author>
+<title>Project of a Sentinel Robot Controlled with a Tracking Algorithm.</title>
+<pages>241-246</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995943</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#SchirmerGGIC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/RiosCQG22" mdate="2023-01-18">
+<author pid="337/9261">Adriana Carrillo Rios</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author pid="337/9115">Marco Antonio De Souza Leite Quadros</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Comparison of the YOLOv3 and SSD Models Using a Balanced Dataset with Data Augmentation, for Object Recognition in Images.</title>
+<pages>288-293</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9996047</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#RiosCQG22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-06711" mdate="2025-05-31">
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="326/4984">Raul Steinmetz</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author pid="283/9978">Junior Costa de Jesus</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo B. Grando</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction.</title>
+<year>2022</year>
+<volume>abs/2208.06711</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.06711</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-06711</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-13509" mdate="2025-05-31">
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author pid="330/2868">Jardel D. S. Dyonisio</author>
+<author pid="330/3676">Pedro L. Cor&#231;aque</author>
+<author pid="64/140">Rodrigo da Silva Guerra</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Jubileo: An Open-Source Robot and Framework for Research in Human-Robot Social Interaction.</title>
+<year>2022</year>
+<volume>abs/2209.13509</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.13509</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-13509</url>
+</article>
+</r>
+<r><article key="journals/jifs/JesusBCG21" mdate="2023-09-30">
+<author orcid="0000-0002-8819-1168" pid="283/9978">Junior Costa de Jesus</author>
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Deep Deterministic Policy Gradient for Navigation of Mobile Robots.</title>
+<pages>349-361</pages>
+<year>2021</year>
+<volume>40</volume>
+<journal>J. Intell. Fuzzy Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/JIFS-191711</ee>
+<url>db/journals/jifs/jifs40.html#JesusBCG21</url>
+</article>
+</r>
+<r><article key="journals/jirs/JesusKKGCG21" mdate="2025-05-31">
+<author orcid="0000-0002-8819-1168" pid="283/9978">Junior Costa de Jesus</author>
+<author pid="289/0078">Victor Augusto Kich</author>
+<author orcid="0000-0002-3416-069X" pid="289/0082">Alisson Henrique Kolling</author>
+<author orcid="0000-0002-2939-5304" pid="260/3823">Ricardo Bedin Grando</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Soft Actor-Critic for Navigation of Mobile Robots.</title>
+<pages>31</pages>
+<year>2021</year>
+<volume>102</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-021-01367-5</ee>
+<url>db/journals/jirs/jirs102.html#JesusKKGCG21</url>
+</article>
+</r>
+<r><inproceedings key="conf/isda/PeixotoCWG21" mdate="2022-10-02">
+<author orcid="0000-0001-5150-9745" pid="294/4338">J&#250;lia Schubert Peixoto</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Comparison of Different Processing Methods of Joint Coordinates Features for Gesture Recognition with a RNN in the MSRC-12.</title>
+<pages>498-507</pages>
+<year>2021</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-96308-8_46</ee>
+<crossref>conf/isda/2021</crossref>
+<url>db/conf/isda/isda2021.html#PeixotoCWG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/JesusKCCG21" mdate="2023-09-14">
+<author pid="356/4598">Kesse Jonatas de Jesus</author>
+<author pid="356/4264">Henry Julio Kobs</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Comparison of Visual SLAM Algorithms ORB-SLAM2, RTAB-Map and SPTAM in Internal and External Environments with ROS.</title>
+<pages>216-221</pages>
+<year>2021</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE54079.2021.9605432</ee>
+<crossref>conf/larc/2021</crossref>
+<url>db/conf/larc/lars2021.html#JesusKCCG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/BrasilPCCG20" mdate="2021-06-09">
+<author pid="283/9856">Pedro Medeiros de Assis Brasil</author>
+<author pid="284/0080">Fabio Ugalde Pereira</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Dijkstra and A* Algorithms for Global Trajectory Planning in the TurtleBot 3 Mobile Robot.</title>
+<pages>346-356</pages>
+<year>2020</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-71187-0_32</ee>
+<crossref>conf/isda/2020</crossref>
+<url>db/conf/isda/isda2020.html#BrasilPCCG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/PeixotoPCWG20" mdate="2022-10-02">
+<author orcid="0000-0001-5150-9745" pid="294/4338">J&#250;lia Schubert Peixoto</author>
+<author pid="239/3615">Miguel Pfitscher</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Comparison of Different Processing Methods of Joint Coordinates Features for Gesture Recognition with a CNN in the MSRC-12 Database.</title>
+<pages>590-599</pages>
+<year>2020</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-71187-0_54</ee>
+<crossref>conf/isda/2020</crossref>
+<url>db/conf/isda/isda2020.html#PeixotoPCWG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/BrasilPCCG20" mdate="2021-10-14">
+<author pid="283/9856">Pedro Medeiros de Assis Brasil</author>
+<author pid="284/0080">Fabio Ugalde Pereira</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author pid="283/9609">Anselmo Rafael Cukla</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>A Study on Global Path Planners Algorithms for the Simulated TurtleBot 3 Robot in ROS.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE51543.2020.9307003</ee>
+<crossref>conf/larc/2020</crossref>
+<url>db/conf/larc/lars2020.html#BrasilPCCG20</url>
+</inproceedings>
+</r>
+<r><article key="journals/aai/ReisWCG19" mdate="2025-01-19">
+<author pid="260/2239">Douglas Henke Dos Reis</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Mobile Robot Navigation Using an Object Recognition Software with RGBD Images and the YOLO Algorithm.</title>
+<pages>1290-1305</pages>
+<year>2019</year>
+<volume>33</volume>
+<journal>Appl. Artif. Intell.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1080/08839514.2019.1684778</ee>
+<ee>https://www.wikidata.org/entity/Q126860085</ee>
+<url>db/journals/aai/aai33.html#ReisWCG19</url>
+</article>
+</r>
+<r><article key="journals/aepia/PfitscherWNCG19" mdate="2025-01-19">
+<author pid="239/3615">Miguel Pfitscher</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="239/3573">Evaristo Jos&#233; Do Nascimento</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Article Users Activity Gesture Recognition on Kinect Sensor Using Convolutional Neural Networks and FastDTW for Controlling Movements of a Mobile Robot.</title>
+<pages>121-134</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>Inteligencia Artif.</journal>
+<number>63</number>
+<ee type="oa">https://doi.org/10.4114/intartif.vol22iss63pp121-134</ee>
+<ee>https://www.wikidata.org/entity/Q128093880</ee>
+<url>db/journals/aepia/aepia22.html#PfitscherWNCG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icar/JesusBCG19" mdate="2023-09-30">
+<author orcid="0000-0002-8819-1168" pid="283/9978">Junior Costa de Jesus</author>
+<author pid="258/1618">Jair Augusto Bottega</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Deep Deterministic Policy Gradient for Navigation of Mobile Robots in Simulated Environments.</title>
+<pages>362-367</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981638</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#JesusBCG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/ReisWCG19" mdate="2021-10-14">
+<author pid="260/2239">Douglas Henke Dos Reis</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Object Recognition Software Using RGBD Kinect Images and the YOLO Algorithm for Mobile Robot Navigation.</title>
+<pages>255-263</pages>
+<year>2019</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49342-4_25</ee>
+<crossref>conf/isda/2019</crossref>
+<url>db/conf/isda/isda2019.html#ReisWCG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/StringhiniWGD19" mdate="2021-10-14">
+<author pid="252/2926">R&#244;mulo Marconato Stringhini</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<author pid="212/1747">Gustavo Nogara Dotto</author>
+<title>Noise Reduction with Detail Preservation in Low-Dose Dental CT Images by Morphological Operators and BM3D.</title>
+<pages>309-317</pages>
+<year>2019</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49342-4_30</ee>
+<crossref>conf/isda/2019</crossref>
+<url>db/conf/isda/isda2019.html#StringhiniWGD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/SilvaGCG19" mdate="2021-10-14">
+<author pid="241/3467">Rodrigo Mattos da Silva</author>
+<author pid="294/3793">Thiago Rodrigues Garcia</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Comparison of a Trajectory Controller Based on Fuzzy Logic and Backstepping Using Image Processing for a Mobile Robot.</title>
+<pages>355-364</pages>
+<year>2019</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49342-4_34</ee>
+<crossref>conf/isda/2019</crossref>
+<url>db/conf/isda/isda2019.html#SilvaGCG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/GamarraLCS19" mdate="2023-09-14">
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<author pid="208/7571">Andrei Piccinini Legg</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author pid="356/5016">Emanueli Santos da Silva</author>
+<title>Sensory Integration of a Mobile Robot Using the Embedded System Odroid-XU4 and ROS.</title>
+<pages>198-203</pages>
+<year>2019</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS-SBR-WRE48964.2019.00042</ee>
+<crossref>conf/larc/2019</crossref>
+<url>db/conf/larc/lars2019.html#GamarraLCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medinfo/StringhiniWdG19" mdate="2021-10-14">
+<author pid="252/2926">R&#244;mulo Marconato Stringhini</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="43/4036">Marcos Cordeiro d'Ornellas</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>A Mathematical Morphology-Based Filter for Noise Reduction and Detail Preservation in Low-Dose Dental CT Images.</title>
+<pages>253-257</pages>
+<year>2019</year>
+<booktitle>MedInfo</booktitle>
+<ee type="oa">https://doi.org/10.3233/SHTI190222</ee>
+<ee>https://www.wikidata.org/entity/Q92778552</ee>
+<crossref>conf/medinfo/2019</crossref>
+<url>db/conf/medinfo/medinfo2019.html#StringhiniWdG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/StringhiniWdG19" mdate="2021-10-14">
+<author pid="252/2926">R&#244;mulo Marconato Stringhini</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="43/4036">Marcos Cordeiro d'Ornellas</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Low-Dose CT Dental Image Denoising by Morphological Operators and 3D Filtering.</title>
+<pages>54-59</pages>
+<year>2019</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2019.00016</ee>
+<crossref>conf/sibgrapi/2019</crossref>
+<url>db/conf/sibgrapi/sibgrapi2019.html#StringhiniWdG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/SilvaCG18" mdate="2022-10-02">
+<author pid="241/3467">Rodrigo Mattos da Silva</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Comparison of a Backstepping and a Fuzzy Controller for Tracking a Trajectory with a Mobile Robot.</title>
+<pages>212-221</pages>
+<year>2018</year>
+<booktitle>ISDA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16660-1_21</ee>
+<crossref>conf/isda/2018-2</crossref>
+<url>db/conf/isda/isda2018-2.html#SilvaCG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/PfitscherWCG18" mdate="2022-10-02">
+<author pid="239/3615">Miguel Pfitscher</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Activity Gesture Recognition on Kinect Sensor Using Convolutional Neural Networks and FastDTW for the MSRC-12 Dataset.</title>
+<pages>230-239</pages>
+<year>2018</year>
+<booktitle>ISDA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16657-1_21</ee>
+<crossref>conf/isda/2018-1</crossref>
+<url>db/conf/isda/isda2018-1.html#PfitscherWCG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nafips/MafaldaWCG18" mdate="2022-10-02">
+<author pid="222/7601">Marcelo Mafalda</author>
+<author pid="65/8009">Daniel Welfer</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<author orcid="0000-0002-4714-7849" pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Image Processing Algorithm to Detect Defects in Optical Fibers.</title>
+<pages>243-252</pages>
+<year>2018</year>
+<booktitle>NAFIPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-95312-0_21</ee>
+<crossref>conf/nafips/2018</crossref>
+<url>db/conf/nafips/nafips2018.html#MafaldaWCG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/aepia/Gamarra16" mdate="2020-03-02">
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<title>Utilizing Gaze Behavior for Inferring Task Transitions Using Abstract Hidden Markov Models.</title>
+<pages>1-16</pages>
+<year>2016</year>
+<volume>19</volume>
+<journal>Inteligencia Artif.</journal>
+<number>58</number>
+<ee type="oa">https://doi.org/10.4114/intartif.vol19iss58pp1-16</ee>
+<url>db/journals/aepia/aepia19.html#Gamarra16</url>
+</article>
+</r>
+<r><article key="journals/aepia/GamarraC15" mdate="2020-03-02">
+<author pid="222/7316">Daniel Fernando Tello Gamarra</author>
+<author pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</author>
+<title>Forward Models for Following a Moving Target with the Puma 560 Robot Manipulator.</title>
+<pages>31-42</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>Inteligencia Artif.</journal>
+<number>56</number>
+<ee type="oa">https://doi.org/10.4114/intartif.vol18iss56pp31-42</ee>
+<url>db/journals/aepia/aepia18.html#GamarraC15</url>
+</article>
+</r>
+<coauthors n="48" nc="1">
+<co c="0"><na f="b/Bevilacqua:Solon" pid="364/1653">Solon Bevilacqua</na></co>
+<co c="0"><na f="b/Bottega:Jair_Augusto" pid="258/1618">Jair Augusto Bottega</na></co>
+<co c="0"><na f="b/Brasil:Pedro_Medeiros_de_Assis" pid="283/9856">Pedro Medeiros de Assis Brasil</na></co>
+<co c="0"><na f="c/Cor=ccedil=aque:Pedro_L=" pid="330/3676">Pedro L. Cor&#231;aque</na></co>
+<co c="0"><na f="c/Cuadros:Marco_Ant=ocirc=nio_De_Souza_Leite" pid="222/7644">Marco Ant&#244;nio De Souza Leite Cuadros</na></co>
+<co c="0" n="2"><na f="c/Cukla:Anselmo_Rafael" pid="283/9609">Anselmo Rafael Cukla</na><na>Anselmo Rafael Cuckla</na></co>
+<co c="0"><na f="d/d=Ornellas:Marcos_Cordeiro" pid="43/4036">Marcos Cordeiro d'Ornellas</na></co>
+<co c="0"><na f="d/Dotto:Gustavo_Nogara" pid="212/1747">Gustavo Nogara Dotto</na></co>
+<co c="0" n="4"><na f="d/Drews=Jr:Paulo_L=_J=" pid="76/7747">Paulo L. J. Drews-Jr</na><na>Paulo Lilles Drews Jr.</na><na>Paulo Lilles Jorge Drews Junior</na><na>Paulo Lilles Jorge Drews</na></co>
+<co c="0"><na f="d/Dyonisio:Jardel_D=_S=" pid="330/2868">Jardel D. S. Dyonisio</na></co>
+<co c="0" n="2"><na f="e/Emmendorfer:Leonardo_R=" pid="91/29">Leonardo R. Emmendorfer</na><na>Leonardo Ramos Emmendorfer</na></co>
+<co c="0"><na f="f/Furik:Pablo_M=" pid="379/3859">Pablo M. Furik</na></co>
+<co c="0"><na f="g/Gai:Angello_De_Mello" pid="364/1907">Angello De Mello Gai</na></co>
+<co c="0"><na f="g/Garcia:Thiago_Rodrigues" pid="294/3793">Thiago Rodrigues Garcia</na></co>
+<co c="0" n="2"><na f="g/Grando:Ricardo_B=" pid="260/3823">Ricardo B. Grando</na><na>Ricardo Bedin Grando</na></co>
+<co c="0"><na f="g/Guerra:Rodrigo_da_Silva" pid="64/140">Rodrigo da Silva Guerra</na></co>
+<co c="0" n="2"><na f="g/Guterres:Bruna" pid="211/8153">Bruna Guterres</na><na>Bruna de Vargas Guterres</na></co>
+<co c="0"><na f="h/Heisler:Gabriel_Vin=iacute=cius" pid="319/2481">Gabriel Vin&#237;cius Heisler</na></co>
+<co c="0"><na f="i/Izquierdo:Rafael_Crespo" pid="337/9152">Rafael Crespo Izquierdo</na></co>
+<co c="0"><na f="j/Jesus:Junior_Costa_de" pid="283/9978">Junior Costa de Jesus</na></co>
+<co c="0"><na f="j/Jesus:Kesse_Jonatas_de" pid="356/4598">Kesse Jonatas de Jesus</na></co>
+<co c="0"><na f="k/Kelbouscas:Andr=eacute=_L=_S=_da" pid="283/9569">Andr&#233; L. S. da Kelbouscas</na></co>
+<co c="0"><na f="k/Kich:Victor_Augusto" pid="289/0078">Victor Augusto Kich</na></co>
+<co c="-1"><na f="k/Klein:Davi" pid="337/9042">Davi Klein</na></co>
+<co c="0"><na f="k/Kobs:Henry_Julio" pid="356/4264">Henry Julio Kobs</na></co>
+<co c="0"><na f="k/Kolling:Alisson_Henrique" pid="289/0082">Alisson Henrique Kolling</na></co>
+<co c="0"><na f="l/Legg:Andrei_Piccinini" pid="208/7571">Andrei Piccinini Legg</na></co>
+<co c="0"><na f="l/Lima:Matheus_dos_Santos" pid="370/7246">Matheus dos Santos Lima</na></co>
+<co c="0"><na f="m/Mafalda:Marcelo" pid="222/7601">Marcelo Mafalda</na></co>
+<co c="0"><na f="m/Moraes:Linda_Dotto_de" pid="338/9260">Linda Dotto de Moraes</na></co>
+<co c="0"><na f="n/Nascimento:Evaristo_Jos=eacute=_Do" pid="239/3573">Evaristo Jos&#233; Do Nascimento</na></co>
+<co c="0"><na f="o/Ohya:Akihisa" pid="45/6798">Akihisa Ohya</na></co>
+<co c="0"><na f="p/Peixoto:J=uacute=lia_Schubert" pid="294/4338">J&#250;lia Schubert Peixoto</na></co>
+<co c="0"><na f="p/Pereira:Fabio_Ugalde" pid="284/0080">Fabio Ugalde Pereira</na></co>
+<co c="0"><na f="p/Pereira:Hiago_Jacobs_Sodre" pid="331/5744">Hiago Jacobs Sodre Pereira</na></co>
+<co c="0"><na f="p/Pereira:Mateus_Osvaldo_Klan" pid="373/4936">Mateus Osvaldo Klan Pereira</na></co>
+<co c="0"><na f="p/Pfitscher:Miguel" pid="239/3615">Miguel Pfitscher</na></co>
+<co c="0"><na f="q/Quadros:Marco_Antonio_De_Souza_Leite" pid="337/9115">Marco Antonio De Souza Leite Quadros</na></co>
+<co c="0"><na f="r/Reis:Douglas_Henke_Dos" pid="260/2239">Douglas Henke Dos Reis</na></co>
+<co c="0"><na f="r/Rios:Adriana_Carrillo" pid="337/9261">Adriana Carrillo Rios</na></co>
+<co c="0"><na f="s/Schirmer:Ricardo_Dias" pid="337/9327">Ricardo Dias Schirmer</na></co>
+<co c="0"><na f="s/Silva:Andressa_Cavalcante_da" pid="337/9153">Andressa Cavalcante da Silva</na></co>
+<co c="0"><na f="s/Silva:Emanueli_Santos_da" pid="356/5016">Emanueli Santos da Silva</na></co>
+<co c="0"><na f="s/Silva:Emerson_Cassiano_da" pid="338/9326">Emerson Cassiano da Silva</na></co>
+<co c="0"><na f="s/Silva:Rodrigo_Mattos_da" pid="241/3467">Rodrigo Mattos da Silva</na></co>
+<co c="0"><na f="s/Steinmetz:Raul" pid="326/4984">Raul Steinmetz</na></co>
+<co c="0"><na f="s/Stringhini:R=ocirc=mulo_Marconato" pid="252/2926">R&#244;mulo Marconato Stringhini</na></co>
+<co c="0"><na f="w/Welfer:Daniel" pid="65/8009">Daniel Welfer</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<dblpperson name="Elias Jos&#233; De Rezende Freitas" pid="278/8618" n="8">
+<person key="homepages/278/8618" mdate="2025-07-01">
+<author pid="278/8618">Elias Jos&#233; De Rezende Freitas</author>
+<author pid="278/8618">Elias J. R. Freitas</author>
+<url>http://lattes.cnpq.br/4716860363006932</url>
+<url>https://orcid.org/0000-0002-6986-0602</url>
+</person>
+<r><article key="journals/jirs/VangasseFRP24" mdate="2025-01-08">
+<author orcid="0009-0009-1758-5635" pid="364/1645">Arthur Da Costa Vangasse</author>
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias J. R. Freitas</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme V. Raffo</author>
+<author orcid="0000-0001-6385-1249" pid="75/1982">Luciano C. A. Pimenta</author>
+<title>Safe Navigation on Path-Following Tasks: A Study of MPC-based Collision Avoidance Schemes in Distributed Robot Systems.</title>
+<pages>166</pages>
+<year>2024</year>
+<month>December</month>
+<volume>110</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10846-024-02202-3</ee>
+<url>db/journals/jirs/jirs110.html#VangasseFRP24</url>
+<stream>streams/journals/jirs</stream>
+</article>
+</r>
+<r><article key="journals/kbs/FreitasWNGP24" mdate="2024-10-06">
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias Jos&#233; De Rezende Freitas</author>
+<author pid="41/5759">Miri Weiss-Cohen</author>
+<author orcid="0000-0002-4940-0377" pid="22/7610">Armando Alves Neto</author>
+<author orcid="0000-0001-9238-8839" pid="04/4216">Frederico Gadelha Guimar&#227;es</author>
+<author pid="75/1982">Luciano C. A. Pimenta</author>
+<title>DE3D-NURBS: A differential evolution-based 3D path-planner integrating kinematic constraints and obstacle avoidance.</title>
+<pages>112084</pages>
+<year>2024</year>
+<volume>300</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2024.112084</ee>
+<url>db/journals/kbs/kbs300.html#FreitasWNGP24</url>
+</article>
+</r>
+<r><article key="journals/npl/UshikoshiFMJTB24" mdate="2024-12-10">
+<author pid="392/3903">Thiago A. Ushikoshi</author>
+<author pid="278/8618">Elias J. R. Freitas</author>
+<author pid="251/9460">Murilo V. F. Menezes</author>
+<author pid="392/3493">Wagner J. A. Junior</author>
+<author pid="118/8283">Luiz C. B. Torres</author>
+<author pid="62/5420">Ant&#244;nio de P&#225;dua Braga</author>
+<title>Hebbian Learning with Kernel-Based Embedding of Input Data.</title>
+<pages>250</pages>
+<year>2024</year>
+<month>December</month>
+<volume>56</volume>
+<journal>Neural Process. Lett.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11063-024-11707-9</ee>
+<url>db/journals/npl/npl56.html#UshikoshiFMJTB24</url>
+<stream>streams/journals/npl</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-18777" mdate="2025-03-03">
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias Jos&#233; De Rezende Freitas</author>
+<author pid="41/5759">Miri Weiss-Cohen</author>
+<author pid="04/4216">Frederico G. Guimar&#227;es</author>
+<author pid="75/1982">Luciano C. A. Pimenta</author>
+<title>Online path planning for kinematic-constrained UAVs in a dynamic environment based on a Differential Evolution algorithm.</title>
+<year>2024</year>
+<volume>abs/2410.18777</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.18777</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-18777</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/lacci/FreitasWG23" mdate="2024-10-06">
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias Jos&#233; De Rezende Freitas</author>
+<author pid="41/5759">Miri Weiss-Cohen</author>
+<author pid="04/4216">Frederico Gadelha Guimar&#227;es</author>
+<title>An Autonomous Mobile Robot Path Planner using Spline Curves and Differential Evolution.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>LA-CCI</booktitle>
+<ee>https://doi.org/10.1109/LA-CCI58595.2023.10409335</ee>
+<crossref>conf/lacci/2023</crossref>
+<url>db/conf/lacci/lacci2023.html#FreitasWG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/FreitasVRP23" mdate="2025-07-04">
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias J. R. Freitas</author>
+<author pid="364/1645">Arthur Da C. Vangasse</author>
+<author orcid="0000-0002-1835-8380" pid="32/8083">Guilherme V. Raffo</author>
+<author pid="75/1982">Luciano C. A. Pimenta</author>
+<title>Decentralized Multi-robot Collision-free Path Following Based on Time-varying Artificial Vector Fields and MPC-ORCA.</title>
+<pages>212-217</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333004</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#FreitasVRP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/FreitasGRJ23" mdate="2024-10-06">
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias Jos&#233; De Rezende Freitas</author>
+<author pid="364/0954">Marcos Prado Guimar&#227;es</author>
+<author pid="364/2423">Jo&#227;o Vitor Ramos</author>
+<author pid="364/1160">Carlos Dias Da Silva J&#250;nior</author>
+<title>A Robotics Club in High School: an experience report.</title>
+<pages>683-688</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332926</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#FreitasGRJ23</url>
+</inproceedings>
+</r>
+<r><article key="journals/robotica/PereiraF20" mdate="2025-07-04">
+<author orcid="0000-0003-0739-9934" pid="05/3966">Guilherme A. S. Pereira</author>
+<author orcid="0000-0002-6986-0602" pid="278/8618">Elias J. R. Freitas</author>
+<title>Navigation of Semi-autonomous Service Robots Using Local Information and Anytime Motion Planners.</title>
+<pages>2080-2098</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>Robotica</journal>
+<number>11</number>
+<ee>https://doi.org/10.1017/S0263574719001838</ee>
+<ee>https://www.wikidata.org/entity/Q126355880</ee>
+<url>db/journals/robotica/robotica38.html#PereiraF20</url>
+</article>
+</r>
+<coauthors n="15" nc="2">
+<co c="0"><na f="b/Braga:Ant=ocirc=nio_de_P=aacute=dua" pid="62/5420">Ant&#244;nio de P&#225;dua Braga</na></co>
+<co c="0" n="2"><na f="g/Guimar=atilde=es:Frederico_G=" pid="04/4216">Frederico G. Guimar&#227;es</na><na>Frederico Gadelha Guimar&#227;es</na></co>
+<co c="1"><na f="g/Guimar=atilde=es:Marcos_Prado" pid="364/0954">Marcos Prado Guimar&#227;es</na></co>
+<co c="1"><na f="j/J=uacute=nior:Carlos_Dias_Da_Silva" pid="364/1160">Carlos Dias Da Silva J&#250;nior</na></co>
+<co c="0"><na f="j/Junior:Wagner_J=_A=" pid="392/3493">Wagner J. A. Junior</na></co>
+<co c="0"><na f="m/Menezes:Murilo_V=_F=" pid="251/9460">Murilo V. F. Menezes</na></co>
+<co c="0"><na f="n/Neto:Armando_Alves" pid="22/7610">Armando Alves Neto</na></co>
+<co c="0"><na f="p/Pereira:Guilherme_A=_S=" pid="05/3966">Guilherme A. S. Pereira</na></co>
+<co c="0"><na f="p/Pimenta:Luciano_C=_A=" pid="75/1982">Luciano C. A. Pimenta</na></co>
+<co c="0"><na f="r/Raffo:Guilherme_V=" pid="32/8083">Guilherme V. Raffo</na></co>
+<co c="1"><na f="r/Ramos:Jo=atilde=o_Vitor" pid="364/2423">Jo&#227;o Vitor Ramos</na></co>
+<co c="0"><na f="t/Torres:Luiz_C=_B=" pid="118/8283">Luiz C. B. Torres</na></co>
+<co c="0"><na f="u/Ushikoshi:Thiago_A=" pid="392/3903">Thiago A. Ushikoshi</na></co>
+<co c="0" n="2"><na f="v/Vangasse:Arthur_Da_Costa" pid="364/1645">Arthur Da Costa Vangasse</na><na>Arthur Da C. Vangasse</na></co>
+<co c="0"><na f="w/Weiss=Cohen:Miri" pid="41/5759">Miri Weiss-Cohen</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<dblpperson name="Raquel Frizera Vassallo" pid="93/6360" n="22">
+<person key="homepages/93/6360" mdate="2021-11-11">
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<url>https://orcid.org/0000-0002-4762-3219</url>
+</person>
+<r><inproceedings key="conf/larc/FilhoOLFV24" mdate="2025-03-03">
+<author orcid="0009-0008-3737-2381" pid="395/0516">Luiz Carlos Cosmi Filho</author>
+<author pid="395/0498">Matheus Dutra de Oliveira</author>
+<author pid="395/0783">Miquelly Nicolini Lucas</author>
+<author pid="395/0618">Lucas Fehlberg Follador</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<title>An Approach Based on a Programmable Intelligent Space for Human-robot Interaction.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LARS</booktitle>
+<ee>https://doi.org/10.1109/LARS64411.2024.10786431</ee>
+<crossref>conf/larc/2024</crossref>
+<url>db/conf/larc/lars2024.html#FilhoOLFV24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/MartinezGMCVVRM23" mdate="2023-03-16">
+<author pid="230/1865">Victor M. Garcia Martinez</author>
+<author pid="229/2312">Rafael S. Guimar&#227;es</author>
+<author pid="215/8872">Ricardo C. de Mello</author>
+<author pid="212/2319">Alexandre Pereira do Carmo</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
+<author pid="20/1896">Mois&#233;s R. N. Ribeiro</author>
+<author pid="15/1775">Magnos Martinello</author>
+<title>Make Before Degrade: A Context-Aware Software-Defined WiFi Handover.</title>
+<pages>562-572</pages>
+<year>2023</year>
+<booktitle>AINA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-28451-9_49</ee>
+<crossref>conf/aina/2023-2</crossref>
+<url>db/conf/aina/aina2023-2.html#MartinezGMCVVRM23</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/SantosMSVS21" mdate="2022-01-03">
+<author orcid="0000-0002-7314-1934" pid="239/5618">Clebeson Canuto dos Santos</author>
+<author orcid="0000-0002-0496-2050" pid="15/2466">Plinio Moreno</author>
+<author orcid="0000-0001-7679-4132" pid="239/5956">Jorge Leonid Aching Samatelo</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author orcid="0000-0002-9036-1728" pid="11/1265">Jos&#233; Santos-Victor</author>
+<title>Action anticipation for collaborative environments: The impact of contextual information and uncertainty-based prediction.</title>
+<pages>301-318</pages>
+<year>2021</year>
+<volume>444</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2020.07.135</ee>
+<url>db/journals/ijon/ijon444.html#SantosMSVS21</url>
+</article>
+</r>
+<r><article key="journals/ijon/SantosSV20" mdate="2021-10-14">
+<author orcid="0000-0002-7314-1934" pid="239/5618">Clebeson Canuto dos Santos</author>
+<author orcid="0000-0001-7679-4132" pid="239/5956">Jorge Leonid Aching Samatelo</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<title>Dynamic gesture recognition by using CNNs and star RGB: A temporal information condensation.</title>
+<pages>238-254</pages>
+<year>2020</year>
+<volume>400</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2020.03.038</ee>
+<url>db/journals/ijon/ijon400.html#SantosSV20</url>
+</article>
+</r>
+<r><article key="journals/ett/CarmoVQPRGMDGGR19" mdate="2025-06-06">
+<author orcid="0000-0002-7219-9229" pid="212/2319">Alexandre Pereira do Carmo</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="187/7854">Felippe Mendon&#231;a de Queiroz</author>
+<author pid="228/9011">Rodolfo Picoreti</author>
+<author pid="187/7903">Mariana Rampinelli</author>
+<author pid="78/1819">Roberta L. Gomes</author>
+<author pid="15/1775">Magnos Martinello</author>
+<author pid="117/6192">Cristina K. Dominicini</author>
+<author pid="229/2312">Rafael S. Guimar&#227;es</author>
+<author pid="06/10125">Anilton S. Garcia</author>
+<author orcid="0000-0002-9149-2391" pid="20/1896">Mois&#233;s R. N. Ribeiro</author>
+<author pid="23/5432">Dimitra Simeonidou</author>
+<title>Programmable intelligent spaces for Industry 4.0: Indoor visual localization driving attocell networks.</title>
+<year>2019</year>
+<volume>30</volume>
+<journal>Trans. Emerg. Telecommun. Technol.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/ett.3610</ee>
+<ee>https://www.wikidata.org/entity/Q128092877</ee>
+<url>db/journals/ett/ett30.html#CarmoVQPRGMDGGR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcnc/SilvaBVNS19" mdate="2021-10-14">
+<author pid="189/4028">Aloizio P. Silva</author>
+<author pid="253/7577">Monchai Bunyakitanon</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="45/6451">Reza Nejabati</author>
+<author pid="23/5432">Dimitra Simeonidou</author>
+<title>An Open 5G NFV Platform for Smart City Applications Using Network Softwarization.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>WCNC Workshops</booktitle>
+<ee>https://doi.org/10.1109/WCNCW.2019.8902853</ee>
+<crossref>conf/wcnc/2019w</crossref>
+<url>db/conf/wcnc/wcncw2019.html#SilvaBVNS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-08505" mdate="2019-04-26">
+<author pid="239/5618">Clebeson Canuto dos Santos</author>
+<author pid="239/5956">Jorge Leonid Aching Samatelo</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<title>Dynamic Gesture Recognition by Using CNNs and Star RGB: a Temporal Information Condensation.</title>
+<year>2019</year>
+<volume>abs/1904.08505</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.08505</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-08505</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00714" mdate="2019-10-04">
+<author pid="239/5618">Clebeson Canuto dos Santos</author>
+<author pid="15/2466">Plinio Moreno</author>
+<author pid="239/5956">Jorge Leonid Aching Samatelo</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="11/1265">Jos&#233; Santos-Victor</author>
+<title>Action Anticipation for Collaborative Environments: The Impact of Contextual Information and Uncertainty-Based Prediction.</title>
+<year>2019</year>
+<volume>abs/1910.00714</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00714</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00714</url>
+</article>
+</r>
+<r><article key="journals/ijdsn/AlmonfreyCQPVS18" mdate="2021-10-14">
+<author orcid="0000-0002-0547-3494" pid="237/4471">Douglas Almonfrey</author>
+<author orcid="0000-0002-7219-9229" pid="212/2319">Alexandre Pereira do Carmo</author>
+<author pid="187/7854">Felippe Mendon&#231;a de Queiroz</author>
+<author pid="228/9011">Rodolfo Picoreti</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author orcid="0000-0002-8287-3045" pid="43/3961">Evandro Ottoni Teatini Salles</author>
+<title>A flexible human detection service suitable for Intelligent Spaces based on a multi-camera network.</title>
+<year>2018</year>
+<volume>14</volume>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1177/1550147718763550</ee>
+<url>db/journals/ijdsn/ijdsn14.html#AlmonfreyCQPVS18</url>
+</article>
+</r>
+<r><article key="journals/tits/VivacquaBCMV18" mdate="2024-08-11">
+<author orcid="0000-0002-2342-6835" pid="286/4198">Rafael P. Vivacqua</author>
+<author pid="89/1570">Massimo Bertozzi</author>
+<author pid="86/3027">Pietro Cerri</author>
+<author orcid="0000-0003-1032-6162" pid="193/8588">Felipe Nascimento Martins</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<title>Self-Localization Based on Visual Lane Marking Maps: An Accurate Low-Cost Approach for Autonomous Driving.</title>
+<pages>582-597</pages>
+<year>2018</year>
+<volume>19</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TITS.2017.2752461</ee>
+<url>db/journals/tits/tits19.html#VivacquaBCMV18</url>
+</article>
+</r>
+<r><inproceedings key="conf/camad/0002CFSSBPAAGBV18" mdate="2025-07-04">
+<author pid="24/2923-2">Paulo Marques 0002</author>
+<author orcid="0000-0002-7219-9229" pid="212/2319">Alexandre Pereira do Carmo</author>
+<author orcid="0000-0002-4256-2955" pid="33/4569">Valerio Frascolla</author>
+<author orcid="0000-0003-2428-4880" pid="157/8542">Carlos F. M. Silva</author>
+<author pid="229/2372">Emanuel D. R. Sena</author>
+<author pid="229/2276">Raphael Braga</author>
+<author pid="209/8701">Joao F. N. Pinheiro</author>
+<author orcid="0000-0002-2407-0981" pid="23/9892">Carlos A. Astudillo</author>
+<author pid="122/5384">Tiago P. C. de Andrade</author>
+<author orcid="0000-0002-2932-3765" pid="229/2338">Eduardo S. Gama</author>
+<author pid="76/6740">Luiz F. Bittencourt</author>
+<author pid="64/7382">Leandro A. Villas</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<author pid="07/2040">Cristiano Both</author>
+<author pid="229/2380">Gabriel Lando</author>
+<author pid="172/9430">Matias Artur Klafke Schimuneck</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Ara&#250;jo Wickboldt</author>
+<author pid="229/2318">Ana P. V. Trevisan</author>
+<author orcid="0000-0001-8554-1786" pid="180/2949">Rafael de Jesus Martins</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="187/7854">Felippe Mendon&#231;a de Queiroz</author>
+<author pid="228/9011">Rodolfo Picoreti</author>
+<author pid="78/1819">Roberta L. Gomes</author>
+<author pid="117/6192">Cristina K. Dominicini</author>
+<author pid="230/1865">Victor M. Garcia Martinez</author>
+<author pid="229/2312">Rafael S. Guimar&#227;es</author>
+<author pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
+<author pid="15/1775">Magnos Martinello</author>
+<author orcid="0000-0002-9149-2391" pid="20/1896">Mois&#233;s R. N. Ribeiro</author>
+<author orcid="0000-0001-6668-4175" pid="74/2460">Daniel F. Macedo</author>
+<author pid="159/6212">Vinicius F. e Silva</author>
+<author pid="229/2355">Julio C. T. Guimaraes</author>
+<author orcid="0000-0002-7454-7493" pid="38/9872">Carlos Colman Meixner</author>
+<author pid="45/6451">Reza Nejabati</author>
+<author pid="23/5432">Dimitra Simeonidou</author>
+<author pid="64/6544">Yi Zhang</author>
+<author pid="181/7655">Frank Slyne</author>
+<author pid="15/6945">Pedro Alvarez</author>
+<author pid="196/1730">Diarmuid Collins</author>
+<author pid="71/6543">Marco Ruffini</author>
+<author pid="87/1848">Luiz A. DaSilva</author>
+<author orcid="0000-0001-5660-3597" pid="70/9473">Johann M. M&#225;rquez-Barja</author>
+<title>Optical and wireless network convergence in 5G systems - an experimental approach.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>CAMAD</booktitle>
+<ee>https://doi.org/10.1109/CAMAD.2018.8514972</ee>
+<crossref>conf/camad/2018</crossref>
+<url>db/conf/camad/camad2018.html#0002CFSSBPAAGBV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasc/PicoretiCQGVS18" mdate="2023-03-23">
+<author pid="228/9011">Rodolfo Picoreti</author>
+<author orcid="0000-0002-7219-9229" pid="212/2319">Alexandre Pereira do Carmo</author>
+<author pid="187/7854">Felippe Mendon&#231;a de Queiroz</author>
+<author pid="06/10125">Anilton Salles Garcia</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="23/5432">Dimitra Simeonidou</author>
+<title>Multilevel Observability in Cloud Orchestration.</title>
+<pages>776-784</pages>
+<year>2018</year>
+<booktitle>DASC/PiCom/DataCom/CyberSciTech</booktitle>
+<ee>https://doi.org/10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00134</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00134</ee>
+<crossref>conf/dasc/2018</crossref>
+<url>db/conf/dasc/dasc2018.html#PicoretiCQGVS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/VivacquaVM17" mdate="2024-08-11">
+<author orcid="0000-0002-2342-6835" pid="286/4198">Rafael P. Vivacqua</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author orcid="0000-0003-1032-6162" pid="193/8588">Felipe N. Martins</author>
+<title>A Low Cost Sensors Approach for Accurate Vehicle Localization and Autonomous Driving Application.</title>
+<pages>2359</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Sensors</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.3390/s17102359</ee>
+<ee>https://www.wikidata.org/entity/Q45344565</ee>
+<url>db/journals/sensors/sensors17.html#VivacquaVM17</url>
+</article>
+</r>
+<r><article key="journals/sensors/RampinelliCQVFM14" mdate="2024-09-30">
+<author pid="187/7903">Mariana Rampinelli</author>
+<author pid="187/8084">Vitor Buback Covre</author>
+<author pid="187/7854">Felippe Mendon&#231;a de Queiroz</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author orcid="0000-0002-1185-2773" pid="10/4897">Teodiano Freire Bastos-Filho</author>
+<author pid="m/ManuelMazo">Manuel Mazo 0001</author>
+<title>An Intelligent Space for Mobile Robot Localization Using a Multi-Camera System.</title>
+<pages>15039-15064</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Sensors</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.3390/s140815039</ee>
+<ee>https://www.wikidata.org/entity/Q34262985</ee>
+<url>db/journals/sensors/sensors14.html#RampinelliCQVFM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/PereiraSV11" mdate="2017-05-22">
+<author pid="80/8923">Fl&#225;vio Garcia Pereira</author>
+<author pid="71/10336">Milton Cesar Paes Santos</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<title>A nonlinear controller for people guidance based on omnidirectional vision.</title>
+<pages>3620-3625</pages>
+<year>2011</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2011.6094431</ee>
+<crossref>conf/iros/2011</crossref>
+<url>db/conf/iros/iros2011.html#PereiraSV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinco/PereiraVS10" mdate="2011-01-04">
+<author pid="80/8923">Fl&#225;vio Garcia Pereira</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="43/3961">Evandro Ottoni Teatini Salles</author>
+<title>Legs Detection using a Laser Range Finder for Human Robot Interaction.</title>
+<pages>129-134</pages>
+<year>2010</year>
+<booktitle>ICINCO (2)</booktitle>
+<crossref>conf/icinco/2010-2</crossref>
+<url>db/conf/icinco/icinco2010-2.html#PereiraVS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icinco/PereiraCV10" mdate="2011-01-04">
+<author pid="80/8923">Fl&#225;vio Garcia Pereira</author>
+<author pid="95/8923">Marino Frank Cypriano</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<title>Formation Control between a Human and a Mobile Robot based on Stereo Vision.</title>
+<pages>135-140</pages>
+<year>2010</year>
+<booktitle>ICINCO (2)</booktitle>
+<crossref>conf/icinco/2010-2</crossref>
+<url>db/conf/icinco/icinco2010-2.html#PereiraCV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isr/FohstABGV10" mdate="2021-08-11">
+<author pid="15/9807">Tobias F&#246;hst</author>
+<author pid="24/9807">Michael Arndt</author>
+<author pid="b/KBerns">Karsten Berns</author>
+<author pid="77/4874">Christiano Couto Gava</author>
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<title>Off-road Place Recognition using Fused Image Features.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>ISR/ROBOTIK</booktitle>
+<ee>https://ieeexplore.ieee.org/document/5756790/</ee>
+<crossref>conf/isr/2010</crossref>
+<url>db/conf/isr/isr2010.html#FohstABGV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/GavaVRCF07" mdate="2024-09-30">
+<author pid="77/4874">Christiano Couto Gava</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author orcid="0000-0002-5047-0217" pid="25/569">Flavio Roberti</author>
+<author orcid="0000-0003-0688-7020" pid="06/6996">Ricardo O. Carelli</author>
+<author orcid="0000-0002-1185-2773" pid="10/4897">Teodiano Freire Bastos-Filho</author>
+<title>Nonlinear Control Techniques and Omnidirectional Vision for Team Formation on Cooperative Robotics.</title>
+<pages>2409-2414</pages>
+<year>2007</year>
+<crossref>conf/icra/2007</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2007.363680</ee>
+<url>db/conf/icra/icra2007.html#GavaVRCF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/VassalloSS02" mdate="2017-05-22">
+<author pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="11/1265">Jos&#233; Santos-Victor</author>
+<author pid="84/2582">Hans J. Schneebeli</author>
+<title>Using motor representations for topological mapping and navigation.</title>
+<pages>478-483</pages>
+<year>2002</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IRDS.2002.1041436</ee>
+<crossref>conf/iros/2002</crossref>
+<url>db/conf/iros/iros2002.html#VassalloSS02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ras/VassalloSS00" mdate="2021-10-14">
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="84/2582">Hans J. Schneebeli</author>
+<author orcid="0000-0002-9036-1728" pid="11/1265">Jos&#233; Santos-Victor</author>
+<title>Visual servoing and appearance for navigation.</title>
+<pages>87-97</pages>
+<year>2000</year>
+<volume>31</volume>
+<journal>Robotics Auton. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1016/S0921-8890(99)00083-4</ee>
+<url>db/journals/ras/ras31.html#VassalloSS00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icvs/Santos-VictorVS99" mdate="2021-10-14">
+<author orcid="0000-0002-9036-1728" pid="11/1265">Jos&#233; Santos-Victor</author>
+<author orcid="0000-0002-4762-3219" pid="93/6360">Raquel Frizera Vassallo</author>
+<author pid="84/2582">Hans J. Schneebeli</author>
+<title>Topological Maps for Visual Navigation.</title>
+<pages>21-36</pages>
+<ee>https://doi.org/10.1007/3-540-49256-9_2</ee>
+<year>1999</year>
+<crossref>conf/icvs/1999</crossref>
+<booktitle>ICVS</booktitle>
+<url>db/conf/icvs/icvs1999.html#Santos-VictorVS99</url>
+</inproceedings>
+</r>
+<coauthors n="74" nc="2">
+<co c="0"><na f="a/Almonfrey:Douglas" pid="237/4471">Douglas Almonfrey</na></co>
+<co c="0" n="2"><na f="=/=Aacute=lvarez:Pedro" pid="15/6945">Pedro &#193;lvarez</na><na>Pedro Alvarez</na></co>
+<co c="0"><na f="a/Andrade:Tiago_P=_C=_de" pid="122/5384">Tiago P. C. de Andrade</na></co>
+<co c="0"><na f="a/Arndt:Michael" pid="24/9807">Michael Arndt</na></co>
+<co c="0"><na f="a/Astudillo:Carlos_A=" pid="23/9892">Carlos A. Astudillo</na></co>
+<co c="0"><na f="b/Bastos=Filho:Teodiano_Freire" pid="10/4897">Teodiano Freire Bastos-Filho</na></co>
+<co c="0"><na f="b/Berns:Karsten" pid="b/KBerns">Karsten Berns</na></co>
+<co c="0"><na f="b/Bertozzi:Massimo" pid="89/1570">Massimo Bertozzi</na></co>
+<co c="0" n="2"><na f="b/Bittencourt:Luiz_Fernando" pid="76/6740">Luiz Fernando Bittencourt</na><na>Luiz F. Bittencourt</na></co>
+<co c="0" n="2"><na f="b/Both:Cristiano_Bonato" pid="07/2040">Cristiano Bonato Both</na><na>Cristiano Both</na></co>
+<co c="0"><na f="b/Braga:Raphael" pid="229/2276">Raphael Braga</na></co>
+<co c="0"><na f="b/Bunyakitanon:Monchai" pid="253/7577">Monchai Bunyakitanon</na></co>
+<co c="0"><na f="c/Carelli:Ricardo_O=" pid="06/6996">Ricardo O. Carelli</na></co>
+<co c="0"><na f="c/Carmo:Alexandre_Pereira_do" pid="212/2319">Alexandre Pereira do Carmo</na></co>
+<co c="0"><na f="c/Cerri:Pietro" pid="86/3027">Pietro Cerri</na></co>
+<co c="0"><na f="c/Collins:Diarmuid" pid="196/1730">Diarmuid Collins</na></co>
+<co c="0"><na f="c/Covre:Vitor_Buback" pid="187/8084">Vitor Buback Covre</na></co>
+<co c="0"><na f="c/Cypriano:Marino_Frank" pid="95/8923">Marino Frank Cypriano</na></co>
+<co c="0"><na f="d/DaSilva:Luiz_A=" pid="87/1848">Luiz A. DaSilva</na></co>
+<co c="0"><na f="d/Dominicini:Cristina_K=" pid="117/6192">Cristina K. Dominicini</na></co>
+<co c="1"><na f="f/Filho:Luiz_Carlos_Cosmi" pid="395/0516">Luiz Carlos Cosmi Filho</na></co>
+<co c="0"><na f="f/F=ouml=hst:Tobias" pid="15/9807">Tobias F&#246;hst</na></co>
+<co c="1"><na f="f/Follador:Lucas_Fehlberg" pid="395/0618">Lucas Fehlberg Follador</na></co>
+<co c="0"><na f="f/Fonseca:Nelson_L=_S=_da" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</na></co>
+<co c="0"><na f="f/Frascolla:Valerio" pid="33/4569">Valerio Frascolla</na></co>
+<co c="0"><na f="g/Gama:Eduardo_S=" pid="229/2338">Eduardo S. Gama</na></co>
+<co c="0" n="2"><na f="g/Garcia:Anilton_Salles" pid="06/10125">Anilton Salles Garcia</na><na>Anilton S. Garcia</na></co>
+<co c="0"><na f="g/Gava:Christiano_Couto" pid="77/4874">Christiano Couto Gava</na></co>
+<co c="0"><na f="g/Guimaraes:Julio_C=_T=" pid="229/2355">Julio C. T. Guimaraes</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Rafael_S=" pid="229/2312">Rafael S. Guimar&#227;es</na></co>
+<co c="0"><na f="l/Lando:Gabriel" pid="229/2380">Gabriel Lando</na></co>
+<co c="0" n="2"><na f="l/Lima=Gomes:Roberta" pid="78/1819">Roberta Lima-Gomes</na><na>Roberta L. Gomes</na></co>
+<co c="1"><na f="l/Lucas:Miquelly_Nicolini" pid="395/0783">Miquelly Nicolini Lucas</na></co>
+<co c="0"><na f="m/Macedo:Daniel_F=" pid="74/2460">Daniel F. Macedo</na></co>
+<co c="0" n="2"><na f="m/Madeira:Edmundo_Roberto_Mauro" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</na><na>Edmundo R. M. Madeira</na></co>
+<co c="0"><na f="m/Marques_0002:Paulo" pid="24/2923-2">Paulo Marques 0002</na></co>
+<co c="0" n="2"><na f="m/M=aacute=rquez=Barja:Johann" pid="70/9473">Johann M&#225;rquez-Barja</na><na>Johann M. M&#225;rquez-Barja</na></co>
+<co c="0"><na f="m/Martinello:Magnos" pid="15/1775">Magnos Martinello</na></co>
+<co c="0"><na f="m/Martinez:Victor_M=_Garcia" pid="230/1865">Victor M. Garcia Martinez</na></co>
+<co c="0" n="2"><na f="m/Martins:Felipe_N=" pid="193/8588">Felipe N. Martins</na><na>Felipe Nascimento Martins</na></co>
+<co c="0"><na f="m/Martins:Rafael_de_Jesus" pid="180/2949">Rafael de Jesus Martins</na></co>
+<co c="0"><na f="m/Mazo_0001:Manuel" pid="m/ManuelMazo">Manuel Mazo 0001</na></co>
+<co c="0"><na f="m/Meixner:Carlos_Colman" pid="38/9872">Carlos Colman Meixner</na></co>
+<co c="0"><na f="m/Mello:Ricardo_C=_de" pid="215/8872">Ricardo C. de Mello</na></co>
+<co c="0"><na f="m/Moreno:Plinio" pid="15/2466">Plinio Moreno</na></co>
+<co c="0"><na f="n/Nejabati:Reza" pid="45/6451">Reza Nejabati</na></co>
+<co c="1"><na f="o/Oliveira:Matheus_Dutra_de" pid="395/0498">Matheus Dutra de Oliveira</na></co>
+<co c="0"><na f="p/Pereira:Fl=aacute=vio_Garcia" pid="80/8923">Fl&#225;vio Garcia Pereira</na></co>
+<co c="0"><na f="p/Picoreti:Rodolfo" pid="228/9011">Rodolfo Picoreti</na></co>
+<co c="0"><na f="p/Pinheiro:Joao_F=_N=" pid="209/8701">Joao F. N. Pinheiro</na></co>
+<co c="0"><na f="q/Queiroz:Felippe_Mendon=ccedil=a_de" pid="187/7854">Felippe Mendon&#231;a de Queiroz</na></co>
+<co c="0"><na f="r/Rampinelli:Mariana" pid="187/7903">Mariana Rampinelli</na></co>
+<co c="0"><na f="r/Ribeiro:Mois=eacute=s_R=_N=" pid="20/1896">Mois&#233;s R. N. Ribeiro</na></co>
+<co c="0"><na f="r/Roberti:Flavio" pid="25/569">Flavio Roberti</na></co>
+<co c="0"><na f="r/Ruffini:Marco" pid="71/6543">Marco Ruffini</na></co>
+<co c="0" n="2"><na f="s/Salles:Evandro_O=_T=" pid="43/3961">Evandro O. T. Salles</na><na>Evandro Ottoni Teatini Salles</na></co>
+<co c="0"><na f="s/Samatelo:Jorge_Leonid_Aching" pid="239/5956">Jorge Leonid Aching Samatelo</na></co>
+<co c="0"><na f="s/Santos:Clebeson_Canuto_dos" pid="239/5618">Clebeson Canuto dos Santos</na></co>
+<co c="0"><na f="s/Santos:Milton_Cesar_Paes" pid="71/10336">Milton Cesar Paes Santos</na></co>
+<co c="0"><na f="s/Santos=Victor:Jos=eacute=" pid="11/1265">Jos&#233; Santos-Victor</na></co>
+<co c="0" n="2"><na f="s/Schimuneck:Matias_A=_K=" pid="172/9430">Matias A. K. Schimuneck</na><na>Matias Artur Klafke Schimuneck</na></co>
+<co c="0"><na f="s/Schneebeli:Hans_J=" pid="84/2582">Hans J. Schneebeli</na></co>
+<co c="0"><na f="s/Sena:Emanuel_D=_R=" pid="229/2372">Emanuel D. R. Sena</na></co>
+<co c="0"><na f="s/Silva:Aloizio_P=" pid="189/4028">Aloizio P. Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Carlos_F=_M=_e" pid="157/8542">Carlos F. M. e Silva</na><na>Carlos F. M. Silva</na></co>
+<co c="0"><na f="s/Silva:Vinicius_F=_e" pid="159/6212">Vinicius F. e Silva</na></co>
+<co c="0"><na f="s/Simeonidou:Dimitra" pid="23/5432">Dimitra Simeonidou</na></co>
+<co c="0"><na f="s/Slyne:Frank" pid="181/7655">Frank Slyne</na></co>
+<co c="0"><na f="t/Trevisan:Ana_P=_V=" pid="229/2318">Ana P. V. Trevisan</na></co>
+<co c="0"><na f="v/Villa=ccedil=a:Rodolfo_da_Silva" pid="31/1899">Rodolfo da Silva Villa&#231;a</na></co>
+<co c="0"><na f="v/Villas:Leandro_A=" pid="64/7382">Leandro A. Villas</na></co>
+<co c="0"><na f="v/Vivacqua:Rafael_P=" pid="286/4198">Rafael P. Vivacqua</na></co>
+<co c="0"><na f="w/Wickboldt:Juliano_Ara=uacute=jo" pid="71/7494">Juliano Ara&#250;jo Wickboldt</na></co>
+<co c="0"><na f="z/Zhang:Yi" pid="64/6544">Yi Zhang</na></co>
+</coauthors>
+</dblpperson>
+

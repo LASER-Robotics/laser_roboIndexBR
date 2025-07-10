@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<dblpperson name="Diego Nunes Bertolani" pid="305/5997" n="1">
+<person key="homepages/305/5997" mdate="2021-11-09">
+<author pid="305/5997">Diego Nunes Bertolani</author>
+</person>
+<r><article key="journals/jirs/BertolaniBF21" mdate="2021-12-25">
+<author orcid="0000-0002-1860-4975" pid="305/5997">Diego Nunes Bertolani</author>
+<author orcid="0000-0003-0311-732X" pid="304/9099">Vin&#237;cius Pacheco Bacheti</author>
+<author orcid="0000-0002-7696-8996" pid="97/4537">M&#225;rio Sarcinelli Filho</author>
+<title>Controlling a Unicycle Mobile Platform Pushing 1 and 2 Passive Trailers.</title>
+<pages>43</pages>
+<year>2021</year>
+<volume>103</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10846-021-01478-z</ee>
+<url>db/journals/jirs/jirs103.html#BertolaniBF21</url>
+</article>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="b/Bacheti:Vin=iacute=cius_Pacheco" pid="304/9099">Vin&#237;cius Pacheco Bacheti</na></co>
+<co c="0"><na f="f/Filho:M=aacute=rio_Sarcinelli" pid="97/4537">M&#225;rio Sarcinelli Filho</na></co>
+</coauthors>
+</dblpperson>
+
