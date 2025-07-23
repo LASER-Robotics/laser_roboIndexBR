@@ -1,6 +1,6 @@
 Alan Valejo,UFSCar,CS
 Alberto Schaeffer Filho,UFRGS,CS
-Aldo von Wangenhein,UFSC,ROBOTICS
+Aldo von Wangenhein,UFSC,CS
 Aldri dos Santos,UFMG,CS
 Aleteia de Araujo,UnB,CS
 Alex Vieira,UFJF,ROBOTICS
@@ -13,11 +13,12 @@ Ana Carolina Lorena,UNIFESP,CS
 Ana Cristina Vendramin,UTFPR,CS
 Anderson Maciel,UFRGS,CS
 Andre Drummond,UnB,CS
-Andre Schneider de Oliveira,UTFPR,ROBOTICS
+Andre Schneider de Oliveira,UTFPR,CS
 Anelise Munaretto,UTFPR,CS
 Angelo Brayner,UFC,CS
 Antonio Alfredo Ferreira Loureiro,UFMG,CS
 Antonio Tadeu Gomes,LNCC,CS
+Armando Alves Neto,UFMG,CS
 Artur Ziviani,LNCC,CS
 Bernardo Pereira Nunes,PUC-Rio,CS
 Bianchi Meiguins,UFPA,CS
@@ -30,113 +31,23 @@ Claudio Geyer,UFRGS,CS
 Claudio Jung,UFRGS,CS
 Cristiano Costa,Unisinos,CS
 Dalvan Griebler,PUC-RS,CS
+Daniel Fernando Tello Gamarra,UFSM,CS
+Danilo Hernani Perico,FEI,CS
 Dante Augusto Couto Barone,UFRGS,CS
+David Oliveira Santos,UFCG,CS
 Debora Muchaluat Saade,UFF,CS
-Denis Fernando Wolf,ICMC/USP,ROBOTICS
+Denis Fernando Wolf,ICMC/USP,CS
 Diego Amancio,ICMC/USP,CS
-Djamel Sadok,UFPE,CS
+Diego Nunes Bertolani,IFES,CS
+Djamel Sadok,UFPE,ROBOTICS
 Douglas Guimaraes Macharet,UFMG,ROBOTICS
-Edison Pignaton de Freitas,UFRGS,ROBOTICS
+Edison Pignaton de Freitas,UFRN,ROBOTICS
 Edmundo Madeira,UNICAMP,CS
 Edson Emilio Scalabrin,PUCPR,CS
 Edson Matsubara,UFMS,CS
-Edson Prestes e Silva,UFRGS,ROBOTICS
+Edson Prestes e Silva,UFRGS,CS
 Eduardo Feitosa,UFAM,CS
 Eduardo Todt,UFPR,CS
-Eduardo Viegas,PUCPR,ROBOTICS
+Eduardo Viegas,PUCPR,CS
 Eliane Martins,UNICAMP,CS
 Elias Duarte,UFPR,CS
-Elisa Yumi Nakagawa,ICMC/USP,CS
-Emerson Paraiso,PUCPR,CS
-Erickson Rangel do Nascimento,UFMG,ROBOTICS
-Esther Luna Colombini,UNICAMP,CS
-Fabiane Barreto Vavassori Beniti,UFSC,CS
-Fabio Cappabianco,UNIFESP,CS
-Fabio Kon,IME/USP,CS
-Fabricio Benevenuto,UFMG,CS
-Fatima Nunes,EACH/USP,CS
-Felipe Franca,COPPE/UFRJ,CS
-Felipe Gomes de Oliveira,UFAM,CS
-Flavia Delicato,DCC/UFRJ,CS
-Frank Siqueira,UFSC,CS
-Gabriel de Oliveira Ramos,Unisinos,ROBOTICS
-Genaina Rodrigues,UnB,ROBOTICS
-Geraldo Pereira Rocha Filho,UnB,CS
-Guilherme Sousa Bastos,UNIFEI,ROBOTICS
-Gustavo Batista,ICMC/USP,ROBOTICS
-Gustavo Pessin,ITV,ROBOTICS
-Haniel Barbosa,UFMG,CS
-Hansenclever Bassani,UFPE,ROBOTICS
-Hector Azpurua,UFMG,ROBOTICS
-Helio Pedrini,UNICAMP,CS
-Jayme Szwarcfiter,COPPE/UFRJ,CS
-Jean Paul Barddal,PUCPR,CS
-Jo Ueyama,ICMC/USP,CS
-Joao Fabro,UTFPR,ROBOTICS
-Joao Paulo Papa,UNESP,CS
-Joaquim Celestino,UECE,CS
-Joel Luis Carbonera,UFRGS,CS
-Jomi Hubner,UFSC,ROBOTICS
-Jorge Luis Victoria Barbosa,Unisinos,ROBOTICS
-Jose Maria Monteiro,UFC,CS
-Judith Kelner,UFPE,CS
-Juliano Wickboldt,UFRGS,CS
-Kalinka Castelo Branco,ICMC/USP,CS
-Kelen Vivaldini,UFSCar,ROBOTICS
-Kleinner Farias,Unisinos,CS
-Leandro Dias da Silva,UFAL,CS
-Leonardo da Rocha,UFSJ,CS
-Lina Garces,UNIFEI,CS
-Luciana Porcher Nedel,UFRGS,CS
-Lucineia Heloisa Thom,UFRGS,CS
-Luiz Chaimowicz,UFMG,ROBOTICS
-Luiz Fernando Bittencourt,UNICAMP,CS
-Luiz Filipe Vieira,UFMG,CS
-Luiz Gustavo Leao Fernandes,PUC-RS,CS
-Luiz Marcos Goncalves,UFRN,ROBOTICS
-Marcelo Fantinato,EACH/USP,CS
-Marcio Delamaro,ICMC/USP,CS
-Marco Antonio Moreira de Carvalho,UFOP,CS
-Marco Antonio Simoes Teixeira,PUCPR,ROBOTICS
-Marco Aurelio Wehrmeister,UTFPR,CS
-Marcos Andre Goncalves,UFMG,CS
-Marcos Vieira,UFMG,ROBOTICS
-Maria Cristina Ferreira Oliveira,ICMC/USP,CS
-Maria Lucia Bento Villela,UFV,CS
-Mariana Kolberg,UFRGS,ROBOTICS
-Mario Antonio Ribeiro Dantas,UFJF,ROBOTICS
-Mario Fernando Montenegro Campos,UFMG,ROBOTICS
-Maristela Holanda,UnB,CS
-Moises Ribeiro,UFES,ROBOTICS
-Paulo Lilles Jorge Drews Junior,FURG,ROBOTICS
-Paulo Meirelles,IME/USP,CS
-Paulo Roberto Ferreira Junior,UFPEL,CS
-Rafael Kunst,Unisinos,ROBOTICS
-Raimundo Macedo,UFBA,CS
-Reinaldo Bianchi,FEI,CS
-Renan Maffei,UFRGS,ROBOTICS
-Renato Assuncao,UFMG,ROBOTICS
-Renato Ishii,UFMS,CS
-Ricardo Prudencio,UFPE,CS
-Rita Suzana Pitangueira Maciel,UFBA,CS
-Roberto Cesar Junior,IME/USP,ROBOTICS
-Roberto Inoue,UFSCar,CS
-Rodolfo Stoffel Antunes,Unisinos,CS
-Rodrigo Barros,PUC-RS,CS
-Rodrigo Mello,ICMC/USP,CS
-Rodrigo Pereira dos Santos,UNIRIO,CS
-Rodrigo Righi,Unisinos,CS
-Rodrigo de Souza Couto,COPPE/UFRJ,CS
-Roseli Francelin Romero,ICMC/USP,ROBOTICS
-Silvia Costa Botelho,FURG,ROBOTICS
-Silvio Guimaraes,PUC Minas,CS
-Solange Rezende,ICMC/USP,CS
-Teresa Ludermir,UFPE,CS
-Thales Vieira,UFAL,CS
-Thiago da Silveira,UFRGS,CS
-Tiago Ferreto,PUC-RS,CS
-Tiago Pereira do Nascimento,UFPB,ROBOTICS
-Vinicius Costa de Souza,Unisinos,CS
-Vinicius Menezes de Oliveira,FURG,ROBOTICS
-Yoshiharu Kohayakawa,IME/USP,CS
-Zanoni Dias,UNICAMP,CS

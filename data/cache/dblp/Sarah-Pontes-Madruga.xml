@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<dblpperson name="Sarah Pontes Madruga" pid="211/8863" n="6">
+<person key="homepages/211/8863" mdate="2018-01-04">
+<author pid="211/8863">Sarah Pontes Madruga</author>
+</person>
+<r><article key="journals/ral/MadrugaNHL23" mdate="2023-03-11">
+<author pid="211/8863">Sarah Pontes Madruga</author>
+<author orcid="0000-0002-9319-2114" pid="02/11271">Tiago P. Nascimento</author>
+<author orcid="0000-0003-4733-9186" pid="80/8180">Florian Holzapfel</author>
+<author orcid="0000-0002-4568-9126" pid="81/3252">Antonio M. N. Lima</author>
+<title>Estimating the Loss of Effectiveness of UAV Actuators in the Presence of Aerodynamic Effects.</title>
+<pages>1335-1342</pages>
+<year>2023</year>
+<month>March</month>
+<volume>8</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LRA.2023.3238184</ee>
+<url>db/journals/ral/ral8.html#MadrugaNHL23</url>
+</article>
+</r>
+<r><article key="journals/ieeejas/MadrugaTLNL22" mdate="2024-05-07">
+<author pid="211/8863">Sarah Pontes Madruga</author>
+<author orcid="0000-0002-7824-0237" pid="211/8645">Augusto de Holanda B. M. Tavares</author>
+<author orcid="0000-0002-2354-0048" pid="94/5190">Saulo Oliveira Dornellas Luiz</author>
+<author orcid="0000-0002-9319-2114" pid="02/11271">Tiago Pereira do Nascimento</author>
+<author orcid="0000-0002-4568-9126" pid="81/3252">Antonio Marcus N. Lima</author>
+<title>Aerodynamic Effects Compensation on Multi-Rotor UAVs Based on a Neural Network Control Allocation Approach.</title>
+<pages>295-312</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>IEEE CAA J. Autom. Sinica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JAS.2021.1004266</ee>
+<url>db/journals/ieeejas/ieeejas9.html#MadrugaTLNL22</url>
+</article>
+</r>
+<r><article key="journals/jirs/TavaresMBN20" mdate="2025-01-19">
+<author orcid="0000-0002-7824-0237" pid="211/8645">Augusto de Holanda B. M. Tavares</author>
+<author orcid="0000-0002-8228-5382" pid="211/8863">Sarah Pontes Madruga</author>
+<author orcid="0000-0001-5215-443X" pid="35/5746">Alisson V. Brito</author>
+<author orcid="0000-0002-9319-2114" pid="02/11271">Tiago P. Nascimento</author>
+<title>Dynamic Leader Allocation in Multi-robot Systems Based on Nonlinear Model Predictive Control.</title>
+<pages>359-376</pages>
+<year>2020</year>
+<volume>98</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-019-01064-4</ee>
+<ee>https://www.wikidata.org/entity/Q127433907</ee>
+<url>db/journals/jirs/jirs98.html#TavaresMBN20</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/TavaresMBN18" mdate="2024-02-29">
+<author orcid="0000-0002-7824-0237" pid="211/8645">Augusto de Holanda Barreto Martins Tavares</author>
+<author orcid="0000-0002-8228-5382" pid="211/8863">Sarah Pontes Madruga</author>
+<author orcid="0000-0001-5215-443X" pid="35/5746">Alisson Vasconcelos de Brito</author>
+<author orcid="0000-0002-9319-2114" pid="02/11271">Tiago Pereira do Nascimento</author>
+<title>An Analysis of the Numeric Solver Choice for an NMPC Controlled Non-holonomic Robot Formation.</title>
+<pages>58-64</pages>
+<year>2018</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE.2018.00020</ee>
+<crossref>conf/larc/2018</crossref>
+<url>db/conf/larc/lars2018.html#TavaresMBN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/MadrugaTBN18" mdate="2023-09-30">
+<author orcid="0000-0002-8228-5382" pid="211/8863">Sarah Pontes Madruga</author>
+<author orcid="0000-0002-7824-0237" pid="211/8645">Augusto de Holanda B. M. Tavares</author>
+<author orcid="0000-0001-5215-443X" pid="35/5746">Alisson V. Brito</author>
+<author orcid="0000-0002-9319-2114" pid="02/11271">Tiago P. Nascimento</author>
+<title>A Project of an Embedded Control System for Autonomous Quadrotor UAVs.</title>
+<pages>483-489</pages>
+<year>2018</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE.2018.00091</ee>
+<crossref>conf/larc/2018</crossref>
+<url>db/conf/larc/lars2018.html#MadrugaTBN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/TavaresMBN17" mdate="2021-10-14">
+<author orcid="0000-0002-7824-0237" pid="211/8645">Augusto de Holanda B. M. Tavares</author>
+<author orcid="0000-0002-8228-5382" pid="211/8863">Sarah Pontes Madruga</author>
+<author pid="35/5746">Alisson V. Brito</author>
+<author orcid="0000-0002-9319-2114" pid="02/11271">Tiago Pereira do Nascimento</author>
+<title>Non-linear model predictive formation control applied to non-holonomic autonomous mobile robots.</title>
+<pages>1-</pages>
+<year>2017</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/SBR-LARS-R.2017.8215304</ee>
+<crossref>conf/larc/2017</crossref>
+<url>db/conf/larc/lars-sbr2017.html#TavaresMBN17</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0" n="2"><na f="b/Brito:Alisson_Vasconcelos_de" pid="35/5746">Alisson Vasconcelos de Brito</na><na>Alisson V. Brito</na></co>
+<co c="0"><na f="h/Holzapfel:Florian" pid="80/8180">Florian Holzapfel</na></co>
+<co c="0" n="3"><na f="l/Lima:Antonio_Marcus_Nogueira_de" pid="81/3252">Antonio Marcus Nogueira de Lima</na><na>Antonio Marcus N. Lima</na><na>Antonio M. N. Lima</na></co>
+<co c="0"><na f="l/Luiz:Saulo_Oliveira_Dornellas" pid="94/5190">Saulo Oliveira Dornellas Luiz</na></co>
+<co c="0" n="2"><na f="n/Nascimento:Tiago_Pereira_do" pid="02/11271">Tiago Pereira do Nascimento</na><na>Tiago P. Nascimento</na></co>
+<co c="0" n="2"><na f="t/Tavares:Augusto_de_Holanda_B=_M=" pid="211/8645">Augusto de Holanda B. M. Tavares</na><na>Augusto de Holanda Barreto Martins Tavares</na></co>
+</coauthors>
+</dblpperson>
+

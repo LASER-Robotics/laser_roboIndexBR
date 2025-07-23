@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<dblpperson name="Leonardo Mejia Rincon" pid="356/5645" n="6">
+<person key="homepages/356/5645" mdate="2023-09-14">
+<author pid="356/5645">Leonardo Mejia Rincon</author>
+</person>
+<r><proceedings key="conf/clawar/2023-1" mdate="2024-02-13">
+<editor pid="155/1203">Ebrahim Samer El'Youssef</editor>
+<editor pid="53/5739">Mohammad Osman Tokhi</editor>
+<editor pid="54/4564">Manuel F. Silva 0001</editor>
+<editor pid="356/5645">Leonardo Mejia Rincon</editor>
+<title>Synergetic Cooperation Between Robots and Humans - Proceedings of the CLAWAR 2023 Conference - Volume 1, Florian&#243;polis, Brazil, 2-4 October 2023</title>
+<booktitle>CLAWAR (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/lnns/index.html">Lecture Notes in Networks and Systems</series>
+<volume>810</volume>
+<isbn>978-3-031-47268-8</isbn>
+<isbn>978-3-031-47269-5</isbn>
+<ee>https://doi.org/10.1007/978-3-031-47269-5</ee>
+<url>db/conf/clawar/clawar2023-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/clawar/2023-2" mdate="2024-02-13">
+<editor pid="155/1203">Ebrahim Samer El'Youssef</editor>
+<editor pid="53/5739">Mohammad Osman Tokhi</editor>
+<editor pid="54/4564">Manuel F. Silva 0001</editor>
+<editor pid="356/5645">Leonardo Mejia Rincon</editor>
+<title>Synergetic Cooperation Between Robots and Humans - Proceedings of the CLAWAR 2023 Conference - Volume 2, Florian&#243;polis, Brazil, 2-4 October 2023.</title>
+<booktitle>CLAWAR (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/lnns/index.html">Lecture Notes in Networks and Systems</series>
+<volume>811</volume>
+<isbn>978-3-031-47271-8</isbn>
+<isbn>978-3-031-47272-5</isbn>
+<ee>https://doi.org/10.1007/978-3-031-47272-5</ee>
+<url>db/conf/clawar/clawar2023-2.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/clawar/SilvaMAIRM23" mdate="2024-02-13">
+<author pid="368/1625">Esdras S. da Silva</author>
+<author pid="335/9752">Fernando Vinicius Morlin</author>
+<author pid="368/0372">Leonardo Grandini Adami</author>
+<author pid="368/2152">Lucas Jun Imanisi</author>
+<author pid="356/5645">Leonardo Mejia Rincon</author>
+<author pid="03/2702">Daniel Martins</author>
+<title>Walking Robot Applied to the Tube Inspection Activity.</title>
+<pages>69-81</pages>
+<year>2023</year>
+<booktitle>CLAWAR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47269-5_9</ee>
+<crossref>conf/clawar/2023-1</crossref>
+<url>db/conf/clawar/clawar2023-1.html#SilvaMAIRM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clawar/FernandesSRM23" mdate="2024-02-13">
+<author pid="368/2133">Gustavo Queiroz Fernandes</author>
+<author pid="368/0478">Marina Baldissera de Souza</author>
+<author pid="356/5645">Leonardo Mejia Rincon</author>
+<author pid="03/2702">Daniel Martins</author>
+<title>Wrench Capability Analysis of a Serial-Parallel Hybrid Leg of a Disney's Bipedal Robot.</title>
+<pages>75-86</pages>
+<year>2023</year>
+<booktitle>CLAWAR (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47272-5_7</ee>
+<crossref>conf/clawar/2023-2</crossref>
+<url>db/conf/clawar/clawar2023-2.html#FernandesSRM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ahfe/AguiarRCMBF20" mdate="2024-08-02">
+<author pid="300/3169">Grazyella C. O. Aguiar</author>
+<author pid="356/5645">Leonardo Mejia Rincon</author>
+<author orcid="0000-0001-8010-6478" pid="246/9128">Miguel A. F. Carvalho</author>
+<author orcid="0000-0002-0118-8952" pid="300/2385">Christian Mailer</author>
+<author pid="300/2639">Fabieli D. Breier</author>
+<author pid="246/8992">Fernando B. N. Ferreira</author>
+<title>Fashion and Inclusive Design: Assistive Technologies Applied to Clothing.</title>
+<pages>32-37</pages>
+<year>2020</year>
+<booktitle>AHFE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-51194-4_5</ee>
+<crossref>conf/ahfe/2020-2</crossref>
+<url>db/conf/ahfe/ahfe2020-2.html#AguiarRCMBF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/RinconSSM18" mdate="2023-09-30">
+<author pid="356/5645">Leonardo Mejia Rincon</author>
+<author pid="356/6286">Daniel Alejandro Ponce Saldias</author>
+<author orcid="0000-0002-1858-541X" pid="90/10946">Henrique Simas</author>
+<author orcid="0000-0003-1053-9686" pid="03/2702">Daniel Martins</author>
+<title>A Grasp Synthesis Method for a Three Finger Gripper.</title>
+<pages>320-325</pages>
+<year>2018</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE.2018.00065</ee>
+<crossref>conf/larc/2018</crossref>
+<url>db/conf/larc/lars2018.html#RinconSSM18</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="3">
+<co c="0"><na f="a/Adami:Leonardo_Grandini" pid="368/0372">Leonardo Grandini Adami</na></co>
+<co c="1"><na f="a/Aguiar:Grazyella_C=_O=" pid="300/3169">Grazyella C. O. Aguiar</na></co>
+<co c="1"><na f="b/Breier:Fabieli_D=" pid="300/2639">Fabieli D. Breier</na></co>
+<co c="1"><na f="c/Carvalho:Miguel_A=_F=" pid="246/9128">Miguel A. F. Carvalho</na></co>
+<co c="2" n="2"><na f="e/Elyoussef:Ebrahim_Samer" pid="155/1203">Ebrahim Samer Elyoussef</na><na>Ebrahim Samer El'Youssef</na></co>
+<co c="0"><na f="f/Fernandes:Gustavo_Queiroz" pid="368/2133">Gustavo Queiroz Fernandes</na></co>
+<co c="1"><na f="f/Ferreira:Fernando_B=_N=" pid="246/8992">Fernando B. N. Ferreira</na></co>
+<co c="0"><na f="i/Imanisi:Lucas_Jun" pid="368/2152">Lucas Jun Imanisi</na></co>
+<co c="1"><na f="m/Mailer:Christian" pid="300/2385">Christian Mailer</na></co>
+<co c="0"><na f="m/Martins:Daniel" pid="03/2702">Daniel Martins</na></co>
+<co c="0"><na f="m/Morlin:Fernando_Vinicius" pid="335/9752">Fernando Vinicius Morlin</na></co>
+<co c="0"><na f="s/Saldias:Daniel_Alejandro_Ponce" pid="356/6286">Daniel Alejandro Ponce Saldias</na></co>
+<co c="0"><na f="s/Silva:Esdras_S=_da" pid="368/1625">Esdras S. da Silva</na></co>
+<co c="2"><na f="s/Silva_0001:Manuel_F=" pid="54/4564">Manuel F. Silva 0001</na></co>
+<co c="0"><na f="s/Simas:Henrique" pid="90/10946">Henrique Simas</na></co>
+<co c="0"><na f="s/Souza:Marina_Baldissera_de" pid="368/0478">Marina Baldissera de Souza</na></co>
+<co c="2" n="2"><na f="t/Tokhi:M=_Osman" pid="53/5739">M. Osman Tokhi</na><na>Mohammad Osman Tokhi</na></co>
+</coauthors>
+</dblpperson>
+

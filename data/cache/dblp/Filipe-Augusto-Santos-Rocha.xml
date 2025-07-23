@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<dblpperson name="Filipe A. S. Rocha" pid="201/8781" n="10">
+<person key="homepages/201/8781" mdate="2021-07-24">
+<author pid="201/8781">Filipe A. S. Rocha</author>
+<author pid="201/8781">Filipe Augusto Santos Rocha</author>
+<note type="affiliation">Vale Institute of Technology (ITV), Robotics Lab, Ouro Preto, Brazil</note>
+<url>http://www.itv.org/en/researcher/filipe-augusto-santos-rocha/</url>
+<url>https://www.linkedin.com/in/filipeaugustorocha</url>
+<url>https://github.com/filRocha</url>
+<url>https://orcid.org/0000-0003-2167-1973</url>
+<url>https://www.wikidata.org/entity/Q100542259</url>
+</person>
+<r><article key="journals/jirs/RochaGPFSABACAS21" mdate="2024-08-04">
+<author orcid="0000-0003-2167-1973" pid="201/8781">Filipe A. S. Rocha</author>
+<author pid="99/8240">Gabriel Garcia</author>
+<author pid="303/4865">Raphael F. S. Pereira</author>
+<author pid="234/6167">Henrique D. Faria</author>
+<author pid="303/4322">Thales H. Silva</author>
+<author pid="263/6264">Ricardo Halfeld R. Andrade</author>
+<author pid="234/6117">Evelyn S. Barbosa</author>
+<author pid="00/7175">Andr&#233; Almeida</author>
+<author pid="303/4838">Emanuel Cruz</author>
+<author pid="303/5068">Wagner Andrade</author>
+<author orcid="0000-0003-4524-9806" pid="258/1787">Wenderson Gustavo Serrantola</author>
+<author pid="303/4961">Luiz Moura</author>
+<author pid="156/6854">H&#233;ctor Azp&#250;rua</author>
+<author orcid="0000-0001-7203-7943" pid="296/7318">Andr&#233; Stanzani Franca</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<author orcid="0000-0002-6136-9683" pid="45/1672">Ramon R. Costa</author>
+<author orcid="0000-0003-0884-5940" pid="71/759">Fernando C. Lizarralde</author>
+<title>ROSI: A Robotic System for Harsh Outdoor Industrial Inspection - System Design and Applications.</title>
+<pages>30</pages>
+<year>2021</year>
+<volume>103</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-021-01459-2</ee>
+<url>db/journals/jirs/jirs103.html#RochaGPFSABACAS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icar/RochaFC21" mdate="2024-08-04">
+<author pid="201/8781">Filipe Augusto Santos Rocha</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<author orcid="0000-0002-6136-9683" pid="45/1672">Ramon R. Costa</author>
+<title>Body attitude regulator applied to ground robots with active flippers.</title>
+<pages>701-706</pages>
+<year>2021</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR53236.2021.9659321</ee>
+<crossref>conf/icar/2021</crossref>
+<url>db/conf/icar/icar2021.html#RochaFC21</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/SantosRRG20" mdate="2020-12-25">
+<author pid="277/4705">Andr&#233; A. Santos</author>
+<author orcid="0000-0003-2167-1973" pid="201/8781">Filipe A. S. Rocha</author>
+<author pid="04/11215">Agnaldo J. da R. Reis</author>
+<author orcid="0000-0001-9238-8839" pid="04/4216">Frederico G. Guimar&#227;es</author>
+<title>Automatic System for Visual Detection of Dirt Buildup on Conveyor Belts Using Convolutional Neural Networks.</title>
+<pages>5762</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>20</number>
+<ee type="oa">https://doi.org/10.3390/s20205762</ee>
+<ee>https://www.wikidata.org/entity/Q100542262</ee>
+<url>db/journals/sensors/sensors20.html#SantosRRG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/EriceiraRBP20" mdate="2025-03-03">
+<author pid="132/2423">Daniel Rodrigues Ericeira</author>
+<author pid="201/8781">Filipe A. S. Rocha</author>
+<author orcid="0000-0001-7949-1188" pid="56/8906">Andrea G. C. Bianchi</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<title>Early Failure Detection of Belt Conveyor Idlers by Means of Ultrasonic Sensing.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207646</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#EriceiraRBP20</url>
+</inproceedings>
+</r>
+<r><data key="data/10/SantosRRG20" mdate="2024-06-18">
+<author orcid="0000-0001-7455-1428" pid="277/4705">Andr&#233; A. Santos</author>
+<author pid="201/8781">Filipe Augusto Santos Rocha</author>
+<author pid="04/11215">Agnaldo J. da R. Reis</author>
+<author orcid="0000-0001-9238-8839" pid="04/4216">Frederico Gadelha Guimar&#227;es</author>
+<title>Dirt Buildup on Belt Conveyor Structures.</title>
+<year>2020</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/96qv-dk69</ee>
+<publisher>IEEE DataPort</publisher>
+<stream>streams/repo/ieeedataport</stream>
+</data>
+</r>
+<r><inproceedings key="conf/icar/AzpuruaRGSCBTPF19" mdate="2022-10-02">
+<author pid="156/6854">H&#233;ctor Azp&#250;rua</author>
+<author pid="201/8781">Filipe A. S. Rocha</author>
+<author pid="201/8786">Gabriel Carvalho Garcia</author>
+<author pid="258/1919">Alexandre Souza Santos</author>
+<author pid="169/2796">Eduardo Cota</author>
+<author orcid="0000-0003-3842-2906" pid="283/9440">Luiz Guilherme Barros</author>
+<author pid="258/1441">Alexandre S. Thiago</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>EspeleoRob&#244; - a robotic device to inspect confined environments.</title>
+<pages>17-23</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981627</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#AzpuruaRGSCBTPF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icar/GarciaRTSLFPF19" mdate="2024-08-04">
+<author pid="99/8240">Gabriel Garcia</author>
+<author pid="201/8781">Filipe A. S. Rocha</author>
+<author pid="356/5778">Marcos Paulo Torre</author>
+<author orcid="0000-0003-4524-9806" pid="258/1787">Wenderson Gustavo Serrantola</author>
+<author orcid="0000-0003-0884-5940" pid="71/759">Fernando C. Lizarralde</author>
+<author pid="296/7318">Andr&#233; Stanzani Franca</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>ROSI: A Novel Robotic Method for Belt Conveyor Structures Inspection.</title>
+<pages>326-331</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981561</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#GarciaRTSLFPF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/TorresOGRAP19" mdate="2023-09-15">
+<author pid="322/5109">Renato Hidaka Torres</author>
+<author pid="15/8361">Orlando Ohashi</author>
+<author pid="201/8786">Gabriel Carvalho Garcia</author>
+<author pid="201/8781">Filipe A. S. Rocha</author>
+<author pid="156/6854">H&#233;ctor Azp&#250;rua</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<title>Exploiting Machine Learning Models to Avoid Texting While Driving.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2019.8852202</ee>
+<crossref>conf/ijcnn/2019</crossref>
+<url>db/conf/ijcnn/ijcnn2019.html#TorresOGRAP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/LimaRTAF18" mdate="2023-09-15">
+<author pid="356/6144">Amanda Tonel Lima</author>
+<author pid="201/8781">Filipe Augusto Santos Rocha</author>
+<author pid="356/5778">Marcos Paulo Torre</author>
+<author pid="156/6854">H&#233;ctor Azp&#250;rua</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>Teleoperation of an ABB IRB 120 Robotic Manipulator and BarrettHand BH8-282 Using a Geomagic Touch X Haptic Device and ROS.</title>
+<pages>188-193</pages>
+<year>2018</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE.2018.00042</ee>
+<crossref>conf/larc/2018</crossref>
+<url>db/conf/larc/lars2018.html#LimaRTAF18</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/CocotaGCLRF17" mdate="2022-10-02">
+<author orcid="0000-0003-0059-725X" pid="142/4724">Jos&#233; Alberto Naves Cocota</author>
+<author pid="201/8786">Gabriel Carvalho Garcia</author>
+<author orcid="0000-0002-3123-0701" pid="201/8462">Adilson Rodrigues da Costa</author>
+<author orcid="0000-0001-5540-8802" pid="201/8897">Milton S&#233;rgio Fernandes de Lima</author>
+<author pid="201/8781">Filipe Augusto Santos Rocha</author>
+<author pid="160/1964">Gustavo Medeiros Freitas</author>
+<title>Discontinuity Detection in the Shield Metal Arc Welding Process.</title>
+<pages>1082</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Sensors</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/s17051082</ee>
+<ee>https://www.wikidata.org/entity/Q30354053</ee>
+<url>db/journals/sensors/sensors17.html#CocotaGCLRF17</url>
+</article>
+</r>
+<coauthors n="34" nc="1">
+<co c="0"><na f="a/Almeida:Andr=eacute=" pid="00/7175">Andr&#233; Almeida</na></co>
+<co c="0"><na f="a/Andrade:Ricardo_Halfeld_R=" pid="263/6264">Ricardo Halfeld R. Andrade</na></co>
+<co c="0"><na f="a/Andrade:Wagner" pid="303/5068">Wagner Andrade</na></co>
+<co c="0"><na f="a/Azp=uacute=rua:H=eacute=ctor" pid="156/6854">H&#233;ctor Azp&#250;rua</na></co>
+<co c="0"><na f="b/Barbosa:Evelyn_S=" pid="234/6117">Evelyn S. Barbosa</na></co>
+<co c="0"><na f="b/Barros:Luiz_Guilherme" pid="283/9440">Luiz Guilherme Barros</na></co>
+<co c="0"><na f="b/Bianchi:Andrea_G=_C=" pid="56/8906">Andrea G. C. Bianchi</na></co>
+<co c="0"><na f="c/Cocota:Jos=eacute=_Alberto_Naves" pid="142/4724">Jos&#233; Alberto Naves Cocota</na></co>
+<co c="0"><na f="c/Costa:Adilson_Rodrigues_da" pid="201/8462">Adilson Rodrigues da Costa</na></co>
+<co c="0"><na f="c/Costa:Ramon_R=" pid="45/1672">Ramon R. Costa</na></co>
+<co c="0"><na f="c/Cota:Eduardo" pid="169/2796">Eduardo Cota</na></co>
+<co c="0"><na f="c/Cruz:Emanuel" pid="303/4838">Emanuel Cruz</na></co>
+<co c="0"><na f="e/Ericeira:Daniel_Rodrigues" pid="132/2423">Daniel Rodrigues Ericeira</na></co>
+<co c="0"><na f="f/Faria:Henrique_D=" pid="234/6167">Henrique D. Faria</na></co>
+<co c="0"><na f="f/Franca:Andr=eacute=_Stanzani" pid="296/7318">Andr&#233; Stanzani Franca</na></co>
+<co c="0"><na f="f/Freitas:Gustavo_Medeiros" pid="160/1964">Gustavo Medeiros Freitas</na></co>
+<co c="0"><na f="g/Garcia:Gabriel" pid="99/8240">Gabriel Garcia</na></co>
+<co c="0"><na f="g/Garcia:Gabriel_Carvalho" pid="201/8786">Gabriel Carvalho Garcia</na></co>
+<co c="0" n="2"><na f="g/Guimar=atilde=es:Frederico_G=" pid="04/4216">Frederico G. Guimar&#227;es</na><na>Frederico Gadelha Guimar&#227;es</na></co>
+<co c="0"><na f="l/Lima:Amanda_Tonel" pid="356/6144">Amanda Tonel Lima</na></co>
+<co c="0"><na f="l/Lima:Milton_S=eacute=rgio_Fernandes_de" pid="201/8897">Milton S&#233;rgio Fernandes de Lima</na></co>
+<co c="0"><na f="l/Lizarralde:Fernando_C=" pid="71/759">Fernando C. Lizarralde</na></co>
+<co c="0"><na f="m/Moura:Luiz" pid="303/4961">Luiz Moura</na></co>
+<co c="0"><na f="o/Ohashi:Orlando" pid="15/8361">Orlando Ohashi</na></co>
+<co c="0"><na f="p/Pereira:Raphael_F=_S=" pid="303/4865">Raphael F. S. Pereira</na></co>
+<co c="0"><na f="p/Pessin:Gustavo" pid="59/7537">Gustavo Pessin</na></co>
+<co c="0" n="2"><na f="r/Reis:Agnaldo_J=_Rocha" pid="04/11215">Agnaldo J. Rocha Reis</na><na>Agnaldo J. da R. Reis</na></co>
+<co c="0"><na f="s/Santos:Alexandre_Souza" pid="258/1919">Alexandre Souza Santos</na></co>
+<co c="0"><na f="s/Santos:Andr=eacute=_A=" pid="277/4705">Andr&#233; A. Santos</na></co>
+<co c="0"><na f="s/Serrantola:Wenderson_Gustavo" pid="258/1787">Wenderson Gustavo Serrantola</na></co>
+<co c="0"><na f="s/Silva:Thales_H=" pid="303/4322">Thales H. Silva</na></co>
+<co c="0"><na f="t/Thiago:Alexandre_S=" pid="258/1441">Alexandre S. Thiago</na></co>
+<co c="0"><na f="t/Torre:Marcos_Paulo" pid="356/5778">Marcos Paulo Torre</na></co>
+<co c="0"><na f="t/Torres:Renato_Hidaka" pid="322/5109">Renato Hidaka Torres</na></co>
+</coauthors>
+</dblpperson>
+

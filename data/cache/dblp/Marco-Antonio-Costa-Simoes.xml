@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<dblpperson name="Marco A. C. Sim&#245;es" pid="99/9358" n="9">
+<person key="homepages/99/9358" mdate="2023-09-14">
+<author pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="99/9358">Marco Antonio Costa Sim&#245;es</author>
+</person>
+<r><article key="journals/jirs/SalesMSS24" mdate="2025-01-19">
+<author orcid="0000-0002-1717-3069" pid="368/1209">Raoni Sales</author>
+<author pid="231/4378">Ana Patr&#237;cia Fontes Magalh&#227;es Mascarenhas</author>
+<author pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="00/9360">Josemar Rodrigues de Souza</author>
+<title>Towards Automatic Code Generation for Robotic Soccer Behavior Simulation.</title>
+<pages>18</pages>
+<year>2024</year>
+<month>March</month>
+<volume>110</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10846-023-02036-5</ee>
+<ee>https://www.wikidata.org/entity/Q129496868</ee>
+<url>db/journals/jirs/jirs110.html#SalesMSS24</url>
+</article>
+</r>
+<r><proceedings key="conf/robocup/2023" mdate="2025-01-16">
+<editor pid="54/2925">C&#233;dric Buche</editor>
+<editor orcid="0000-0003-1362-8799" pid="151/6143-1">Alessandra Rossi 0001</editor>
+<editor orcid="0000-0002-7806-2282" pid="99/9358">Marco A. C. Sim&#245;es</editor>
+<editor pid="95/6685">Ubbo Visser</editor>
+<title>RoboCup 2023: Robot World Cup XXVI [Bordeaux, France, 4-10 July, 2023].</title>
+<booktitle>RoboCup</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>14140</volume>
+<isbn>978-3-031-55014-0</isbn>
+<isbn>978-3-031-55015-7</isbn>
+<ee>https://doi.org/10.1007/978-3-031-55015-7</ee>
+<url>db/conf/robocup/robocup2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="software" key="journals/simpa/SimoesMFSMN22" mdate="2023-08-28">
+<author orcid="0000-0002-7806-2282" pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="338/9518">Gabriel Mascarenhas</author>
+<author pid="338/9170">Rafael Fonseca</author>
+<author pid="338/8776">Vitor M. P. dos Santos</author>
+<author pid="338/9329">Felipe Mascarenhas</author>
+<author pid="52/8920">Tatiane Nogueira 0001</author>
+<title>BahiaRT Setplays Collecting Toolkit and BahiaRT Gym.</title>
+<pages>100401</pages>
+<year>2022</year>
+<month>December</month>
+<volume>14</volume>
+<journal>Softw. Impacts</journal>
+<ee type="oa">https://doi.org/10.1016/j.simpa.2022.100401</ee>
+<ee>https://www.wikidata.org/entity/Q113864380</ee>
+<url>db/journals/simpa/simpa14.html#SimoesMFSMN22</url>
+</article>
+</r>
+<r><article key="journals/jirs/SimoesSN20" mdate="2025-01-19">
+<author orcid="0000-0002-7806-2282" pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="05/9667">Robson Marinho da Silva</author>
+<author pid="52/8920">Tatiane Nogueira 0001</author>
+<title>A Dataset Schema for Cooperative Learning from Demonstration in Multi-robot Systems.</title>
+<pages>589-608</pages>
+<year>2020</year>
+<volume>99</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10846-019-01123-w</ee>
+<ee>https://www.wikidata.org/entity/Q126532226</ee>
+<url>db/journals/jirs/jirs99.html#SimoesSN20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icarsc/SimoesNSSSCSN20" mdate="2023-09-14">
+<author orcid="0000-0002-7806-2282" pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="266/0198">Jadson Nobre</author>
+<author pid="266/0150">Gabriel Sousa</author>
+<author pid="266/0374">Caroline Souza</author>
+<author pid="05/9667">Robson Marinho da Silva</author>
+<author pid="356/5992">Jorge Alberto Prado de Campos</author>
+<author pid="00/9360">Josemar Rodrigues de Souza</author>
+<author pid="52/8920">Tatiane Nogueira 0001</author>
+<title>Strategy Planner: Enhancements to support better defense and pass strategies within an LfD approach.</title>
+<pages>46-52</pages>
+<year>2020</year>
+<booktitle>ICARSC</booktitle>
+<ee>https://doi.org/10.1109/ICARSC49921.2020.9096188</ee>
+<crossref>conf/icarsc/2020</crossref>
+<url>db/conf/icarsc/icarsc2020.html#SimoesNSSSCSN20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-01741" mdate="2021-03-29">
+<author pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="05/9667">Robson Marinho da Silva</author>
+<author pid="52/8920">Tatiane Nogueira 0001</author>
+<title>A Dataset Schema for Cooperative Learning from Demonstration in Multi-robots Systems.</title>
+<year>2019</year>
+<volume>abs/1912.01741</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.01741</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-01741</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/SilvaSSC18" mdate="2023-09-30">
+<author pid="05/9667">Robson Marinho da Silva</author>
+<author pid="00/9360">Josemar Rodrigues de Souza</author>
+<author orcid="0000-0002-7806-2282" pid="99/9358">Marco Antonio Costa Sim&#245;es</author>
+<author pid="356/5992">Jorge Alberto Prado de Campos</author>
+<title>Framework for Modeling Autonomous Multi-robots Systems.</title>
+<pages>13-18</pages>
+<year>2018</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE.2018.00013</ee>
+<crossref>conf/larc/2018</crossref>
+<url>db/conf/larc/lars2018.html#SilvaSSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SimoesN18" mdate="2023-09-30">
+<author orcid="0000-0002-7806-2282" pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="52/8920">Tatiane M. Nogueira</author>
+<title>Towards Setplays Learning in a Multiagent Robotic Soccer Team.</title>
+<pages>277-282</pages>
+<year>2018</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE.2018.00058</ee>
+<crossref>conf/larc/2018</crossref>
+<url>db/conf/larc/lars2018.html#SimoesN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/SimoesSPF10" mdate="2019-10-19">
+<author orcid="0000-0002-7806-2282" pid="99/9358">Marco A. C. Sim&#245;es</author>
+<author pid="00/9360">Josemar Rodrigues de Souza</author>
+<author pid="87/9359">Fagner de Assis Moura Pimentel</author>
+<author orcid="0000-0002-0846-7196" pid="55/9359">Diego Frias</author>
+<title>MR-Simulator: A Simulator for the Mixed Reality Competition of RoboCup.</title>
+<pages>82-96</pages>
+<year>2010</year>
+<booktitle>RoboCup</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-20217-9_8</ee>
+<crossref>conf/robocup/2010</crossref>
+<url>db/conf/robocup/robocup2010.html#SimoesSPF10</url>
+</inproceedings>
+</r>
+<coauthors n="18" nc="2">
+<co c="1"><na f="b/Buche:C=eacute=dric" pid="54/2925">C&#233;dric Buche</na></co>
+<co c="0"><na f="c/Campos:Jorge_Alberto_Prado_de" pid="356/5992">Jorge Alberto Prado de Campos</na></co>
+<co c="0"><na f="f/Fonseca:Rafael" pid="338/9170">Rafael Fonseca</na></co>
+<co c="0"><na f="f/Frias:Diego" pid="55/9359">Diego Frias</na></co>
+<co c="0"><na f="m/Mascarenhas:Ana_Patr=iacute=cia_Fontes_Magalh=atilde=es" pid="231/4378">Ana Patr&#237;cia Fontes Magalh&#227;es Mascarenhas</na></co>
+<co c="0"><na f="m/Mascarenhas:Felipe" pid="338/9329">Felipe Mascarenhas</na></co>
+<co c="0"><na f="m/Mascarenhas:Gabriel" pid="338/9518">Gabriel Mascarenhas</na></co>
+<co c="0"><na f="n/Nobre:Jadson" pid="266/0198">Jadson Nobre</na></co>
+<co c="0"><na f="p/Pimentel:Fagner_de_Assis_Moura" pid="87/9359">Fagner de Assis Moura Pimentel</na></co>
+<co c="0" n="3"><na f="r/Rios:Tatiane_Nogueira" pid="52/8920">Tatiane Nogueira Rios</na><na>Tatiane M. Nogueira</na><na>Tatiane Nogueira 0001</na></co>
+<co c="1"><na f="r/Rossi_0001:Alessandra" pid="151/6143-1">Alessandra Rossi 0001</na></co>
+<co c="0"><na f="s/Sales:Raoni" pid="368/1209">Raoni Sales</na></co>
+<co c="0"><na f="s/Santos:Vitor_M=_P=_dos" pid="338/8776">Vitor M. P. dos Santos</na></co>
+<co c="0"><na f="s/Silva:Robson_Marinho_da" pid="05/9667">Robson Marinho da Silva</na></co>
+<co c="0"><na f="s/Sousa:Gabriel" pid="266/0150">Gabriel Sousa</na></co>
+<co c="0"><na f="s/Souza:Caroline" pid="266/0374">Caroline Souza</na></co>
+<co c="0"><na f="s/Souza:Josemar_Rodrigues_de" pid="00/9360">Josemar Rodrigues de Souza</na></co>
+<co c="1"><na f="v/Visser:Ubbo" pid="95/6685">Ubbo Visser</na></co>
+</coauthors>
+</dblpperson>
+

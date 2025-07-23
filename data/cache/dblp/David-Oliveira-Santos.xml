@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<dblpperson name="David Oliveira Santos" pid="364/2482" n="3">
+<person key="homepages/364/2482" mdate="2024-01-04">
+<author pid="364/2482">David Oliveira Santos</author>
+</person>
+<r><article key="journals/ral/SantosMFCF24" mdate="2024-02-10">
+<author orcid="0009-0009-3926-1148" pid="364/2482">David Oliveira Santos</author>
+<author orcid="0000-0002-0417-402X" pid="49/8683">Lucas Molina</author>
+<author pid="168/3162">Jos&#233; Gilmar Nunes de Carvalho Filho</author>
+<author orcid="0000-0001-7903-426X" pid="193/1590">Elyson Adan Nunes Carvalho</author>
+<author orcid="0000-0002-0357-8655" pid="76/4865">Eduardo O. Freire</author>
+<title>Modifications of Fully Resampled PSO in the Inverse Kinematics of Robot Manipulators.</title>
+<pages>1923-1928</pages>
+<year>2024</year>
+<month>February</month>
+<volume>9</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LRA.2024.3349927</ee>
+<url>db/journals/ral/ral9.html#SantosMFCF24</url>
+</article>
+</r>
+<r><article key="journals/sensors/SantosMALFF24" mdate="2024-08-22">
+<author orcid="0009-0009-3926-1148" pid="364/2482">David Oliveira Santos</author>
+<author orcid="0000-0002-6659-6439" pid="49/3146">Jugurta Montalv&#227;o</author>
+<author pid="383/0155">Charles A. C. Araujo</author>
+<author pid="383/1430">Ulisses D. E. S. Lebre</author>
+<author orcid="0000-0002-3852-8586" pid="348/2148">Tarso V. Ferreira</author>
+<author orcid="0000-0002-0357-8655" pid="76/4865">Eduardo O. Freire</author>
+<title>Performance Assessment of Object Detection Models Trained with Synthetic Data: A Case Study on Electrical Equipment Detection.</title>
+<pages>4219</pages>
+<year>2024</year>
+<month>July</month>
+<volume>24</volume>
+<journal>Sensors</journal>
+<number>13</number>
+<ee type="oa">https://doi.org/10.3390/s24134219</ee>
+<url>db/journals/sensors/sensors24.html#SantosMALFF24</url>
+<stream>streams/journals/sensors</stream>
+</article>
+</r>
+<r><inproceedings key="conf/larc/SousaFFSMM23" mdate="2025-03-03">
+<author orcid="0009-0004-1076-1089" pid="364/2176">Rodrigo Passos Sousa</author>
+<author pid="364/2118">Daniel Augusto Santos Franco</author>
+<author pid="220/8919">Weslley Alves Farias</author>
+<author orcid="0009-0009-3926-1148" pid="364/2482">David Oliveira Santos</author>
+<author orcid="0009-0004-3907-3976" pid="364/2081">L&#225;zaro Alberto de Ara&#250;jo Menezes</author>
+<author pid="49/8683">Lucas Molina</author>
+<title>Design of Cost-Aware Open-Loop Controller For Non-Linearity Compensation Without Embedded Sensors Using Computer Vision.</title>
+<pages>200-205</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333053</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#SousaFFSMM23</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="1">
+<co c="0"><na f="a/Araujo:Charles_A=_C=" pid="383/0155">Charles A. C. Araujo</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Elyson" pid="193/1590">Elyson Carvalho</na><na>Elyson Adan Nunes Carvalho</na></co>
+<co c="0"><na f="f/Farias:Weslley_Alves" pid="220/8919">Weslley Alves Farias</na></co>
+<co c="0"><na f="f/Ferreira:Tarso_V=" pid="348/2148">Tarso V. Ferreira</na></co>
+<co c="0"><na f="f/Filho:Jos=eacute=_Gilmar_Nunes_de_Carvalho" pid="168/3162">Jos&#233; Gilmar Nunes de Carvalho Filho</na></co>
+<co c="0" n="2"><na f="f/Filho:Jugurta_R=_Montalv=atilde=o" pid="49/3146">Jugurta R. Montalv&#227;o Filho</na><na>Jugurta Montalv&#227;o</na></co>
+<co c="0"><na f="f/Franco:Daniel_Augusto_Santos" pid="364/2118">Daniel Augusto Santos Franco</na></co>
+<co c="0"><na f="f/Freire:Eduardo_O=" pid="76/4865">Eduardo O. Freire</na></co>
+<co c="0"><na f="l/Lebre:Ulisses_D=_E=_S=" pid="383/1430">Ulisses D. E. S. Lebre</na></co>
+<co c="0"><na f="m/Menezes:L=aacute=zaro_Alberto_de_Ara=uacute=jo" pid="364/2081">L&#225;zaro Alberto de Ara&#250;jo Menezes</na></co>
+<co c="0"><na f="m/Molina:Lucas" pid="49/8683">Lucas Molina</na></co>
+<co c="0"><na f="s/Sousa:Rodrigo_Passos" pid="364/2176">Rodrigo Passos Sousa</na></co>
+</coauthors>
+</dblpperson>
+
